@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777477831,
-  "generated_at_iso": "2026-04-29T15:50:31Z",
+  "generated_at": 1777478428,
+  "generated_at_iso": "2026-04-29T16:00:28Z",
   "count": 175,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000146",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-04-29T12:51:57",
+      "idade_dias": 0,
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
+    },
     {
       "ticket": "2026042926000164",
       "cliente": "rodrigo.cuani@groundwork.com.br",
@@ -131,18 +143,6 @@
       "modificado": "2026-04-29T11:22:43",
       "idade_dias": 0,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
-      "ticket": "2026042926000146",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-04-29T11:18:14",
-      "idade_dias": 0,
-      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026042226000613",
@@ -1713,7 +1713,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T12:58:25",
       "modificado": "2026-04-24T10:54:16",
-      "idade_dias": 131,
+      "idade_dias": 132,
       "assunto": "Inclusão de pedidos - Alteração no conceito de exibição do campo \"Desconto Faseamento\""
     },
     {
