@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777496425,
-  "generated_at_iso": "2026-04-29T21:00:25Z",
+  "generated_at": 1777497021,
+  "generated_at_iso": "2026-04-29T21:10:21Z",
   "count": 184,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-04-29T18:00:31",
+      "idade_dias": 1,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
+    },
     {
       "ticket": "2026042926000217",
       "cliente": "GroundWork",
@@ -35,18 +47,6 @@
       "modificado": "2026-04-29T17:58:01",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26042917532521"
-    },
-    {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-04-29T17:57:22",
-      "idade_dias": 1,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026042926000306",
@@ -213,7 +213,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-27T18:05:17",
       "modificado": "2026-04-29T16:30:17",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
@@ -597,7 +597,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-28T18:05:24",
       "modificado": "2026-04-29T09:04:13",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Acessos GWMS - DKT"
     },
     {
