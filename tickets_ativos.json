@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777485636,
-  "generated_at_iso": "2026-04-29T18:00:36Z",
+  "generated_at": 1777486231,
+  "generated_at_iso": "2026-04-29T18:10:31Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042326000041",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:27:00",
+      "modificado": "2026-04-29T15:08:37",
+      "idade_dias": 6,
+      "assunto": "ROBÔ DACTE DE COMPRA"
+    },
+    {
+      "ticket": "2026042926000191",
+      "cliente": "ayko.maycon@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-29T12:55:08",
+      "modificado": "2026-04-29T15:05:00",
+      "idade_dias": 0,
+      "assunto": "Criação de Usuário "
+    },
     {
       "ticket": "2026042926000244",
       "cliente": "SAYERLACK",
@@ -95,18 +119,6 @@
       "modificado": "2026-04-29T13:35:14",
       "idade_dias": 6,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
-    },
-    {
-      "ticket": "2026042926000191",
-      "cliente": "ayko.maycon@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-29T12:55:08",
-      "modificado": "2026-04-29T13:33:42",
-      "idade_dias": 0,
-      "assunto": "Criação de Usuário "
     },
     {
       "ticket": "2026042926000208",
@@ -309,7 +321,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-04-01T15:07:29",
       "modificado": "2026-04-29T10:24:33",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "V2- workflow de aprovação para lançamento contábil manual."
     },
     {
@@ -479,18 +491,6 @@
       "modificado": "2026-04-29T08:42:19",
       "idade_dias": 4,
       "assunto": "SCP NS - ERRO EFD REINF"
-    },
-    {
-      "ticket": "2026042326000041",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:27:00",
-      "modificado": "2026-04-29T08:40:18",
-      "idade_dias": 6,
-      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026042826000424",
@@ -897,7 +897,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-12-11T15:00:57",
       "modificado": "2026-04-28T19:01:43",
-      "idade_dias": 138,
+      "idade_dias": 139,
       "assunto": "PRE DANFE"
     },
     {
@@ -1101,7 +1101,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-24T15:05:00",
       "modificado": "2026-04-28T16:33:04",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "NF nao aparece no xml"
     },
     {
@@ -1557,7 +1557,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T15:05:15",
       "modificado": "2026-04-27T15:45:51",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Your message could not be delivered"
     },
     {
@@ -2061,7 +2061,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-04-14T15:10:20",
       "modificado": "2026-04-14T15:12:29",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Erro ao gerar DANFE no SIGAFAT"
     },
     {
