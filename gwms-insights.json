@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777468230,
-  "generated_at_iso": "2026-04-29T13:10:30Z",
+  "generated_at": 1777468836,
+  "generated_at_iso": "2026-04-29T13:20:36Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -27,25 +27,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Marcio_Guimaraes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 5 tickets",
-      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcio Guimaraes",
-          "carga_real": 5,
-          "em_atendimento": 3,
-          "abertos": 2,
-          "aguardando_terceiros": 4,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
@@ -58,6 +39,25 @@
           "em_atendimento": 6,
           "abertos": 0,
           "aguardando_terceiros": 3,
+          "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Marcio_Guimaraes",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Marcio Guimaraes com carga real de 5 tickets",
+      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Marcio Guimaraes",
+          "carga_real": 5,
+          "em_atendimento": 3,
+          "abertos": 2,
+          "aguardando_terceiros": 4,
           "ativos_total": 9
         }
       ],
@@ -126,16 +126,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "5 de 8 tickets silenciosos na fila SSG (62%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "6 de 9 tickets silenciosos na fila SSG (66%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
-          "n_top": 5,
-          "n_total": 8,
-          "pct_top": 0.62,
+          "n_top": 6,
+          "n_total": 9,
+          "pct_top": 0.67,
           "distribuicao": {
-            "AUTOZONE": 5,
+            "AUTOZONE": 6,
             "FINPEC": 1,
             "nicole.g@grupometalnox.com.br": 1,
             "postmaster@autozone.com": 1
