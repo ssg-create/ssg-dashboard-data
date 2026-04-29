@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777474231,
-  "generated_at_iso": "2026-04-29T14:50:31Z",
+  "generated_at": 1777475431,
+  "generated_at_iso": "2026-04-29T15:10:31Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,54 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000435",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-27T17:35:13",
+      "modificado": "2026-04-29T12:00:25",
+      "idade_dias": 1,
+      "assunto": "Revisão dashboards Totvs"
+    },
+    {
+      "ticket": "2026042926000155",
+      "cliente": "matheusvieira@mevieira.com.br",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-04-29T11:50:27",
+      "modificado": "2026-04-29T11:58:17",
+      "idade_dias": 0,
+      "assunto": "Jatoba Comercio - Exclusao Banco de Dados"
+    },
+    {
+      "ticket": "2026042326000111",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-04-23T07:39:58",
+      "modificado": "2026-04-29T11:55:23",
+      "idade_dias": 6,
+      "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
+    },
+    {
+      "ticket": "2026012926000455",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
+      "modificado": "2026-04-29T11:51:08",
+      "idade_dias": 89,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+    },
     {
       "ticket": "2026042326000031",
       "cliente": "GDBR",
@@ -217,30 +265,6 @@
       "assunto": "Movimentações Itaú 03/2026."
     },
     {
-      "ticket": "2026042926000137",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-29T09:55:05",
-      "modificado": "2026-04-29T09:58:44",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042909482373"
-    },
-    {
-      "ticket": "2026042726000435",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-27T17:35:13",
-      "modificado": "2026-04-29T09:51:16",
-      "idade_dias": 1,
-      "assunto": "Revisão dashboards Totvs"
-    },
-    {
       "ticket": "2026042926000048",
       "cliente": "elizeu.brasil@groundwork.com.br",
       "fila": "GWMS",
@@ -251,18 +275,6 @@
       "modificado": "2026-04-29T09:31:35",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
-    },
-    {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
-      "modificado": "2026-04-29T09:26:42",
-      "idade_dias": 89,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026042826000353",
@@ -585,7 +597,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-24T11:59:50",
       "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
@@ -621,20 +633,8 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-01-14T11:54:43",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "SFT frete"
-    },
-    {
-      "ticket": "2026042326000111",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-04-23T07:39:58",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 6,
-      "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
     },
     {
       "ticket": "2026042326000424",
@@ -1233,7 +1233,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-04-17T11:54:04",
       "modificado": "2026-04-28T11:12:23",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "AVISO SEMANAL - WORKFLOW DE APROVACAO EMAIL"
     },
     {
@@ -1461,7 +1461,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2026-04-27T11:55:11",
       "modificado": "2026-04-27T16:35:07",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "RES: Histórico Analise de Crédito - RPA"
     },
     {
@@ -1869,7 +1869,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-06T11:54:20",
       "modificado": "2026-04-20T18:54:18",
-      "idade_dias": 22,
+      "idade_dias": 23,
       "assunto": "CBENEF"
     },
     {
