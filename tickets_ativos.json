@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777468224,
-  "generated_at_iso": "2026-04-29T13:10:24Z",
+  "generated_at": 1777468830,
+  "generated_at_iso": "2026-04-29T13:20:30Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042326000451",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T18:00:06",
+      "modificado": "2026-04-29T10:20:12",
+      "idade_dias": 5,
+      "assunto": "Inserir Servidor Monitoramento"
+    },
+    {
+      "ticket": "2026020226000164",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-02-02T10:00:27",
+      "modificado": "2026-04-29T10:20:12",
+      "idade_dias": 86,
+      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
+    {
+      "ticket": "2026041726000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-04-17T08:45:09",
+      "modificado": "2026-04-29T10:19:15",
+      "idade_dias": 12,
+      "assunto": "Implantação GWMS cliente Digna"
+    },
     {
       "ticket": "2026042326000031",
       "cliente": "GDBR",
@@ -35,18 +71,6 @@
       "modificado": "2026-04-29T10:05:08",
       "idade_dias": 0,
       "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
-      "ticket": "2026020226000164",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-04-29T10:00:07",
-      "idade_dias": 86,
-      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
       "ticket": "2026040126000313",
@@ -621,7 +645,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-24T10:15:23",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
@@ -693,7 +717,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-24T10:20:10",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Adição Monitoria - OCI Docker Conector Sensedia "
     },
     {
@@ -1165,18 +1189,6 @@
       "assunto": "Remoção de monitoramento"
     },
     {
-      "ticket": "2026042326000451",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T18:00:06",
-      "modificado": "2026-04-28T11:31:46",
-      "idade_dias": 5,
-      "assunto": "Inserir Servidor Monitoramento"
-    },
-    {
       "ticket": "2026042726000426",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1293,7 +1305,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-28T10:15:22",
       "modificado": "2026-04-28T10:22:59",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Atualização - Certificado Groundwork"
     },
     {
@@ -1367,18 +1379,6 @@
       "modificado": "2026-04-28T09:33:25",
       "idade_dias": 2,
       "assunto": "Erro de  -L no servidor"
-    },
-    {
-      "ticket": "2026041726000061",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-04-17T08:45:09",
-      "modificado": "2026-04-28T09:19:13",
-      "idade_dias": 12,
-      "assunto": "Implantação GWMS cliente Digna"
     },
     {
       "ticket": "2026042726000462",
