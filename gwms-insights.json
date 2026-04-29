@@ -1,8 +1,8 @@
 {
-  "generated_at": 1777463430,
-  "generated_at_iso": "2026-04-29T11:50:30Z",
+  "generated_at": 1777464032,
+  "generated_at_iso": "2026-04-29T12:00:32Z",
   "counts": {
-    "crit": 2,
+    "crit": 1,
     "warn": 4,
     "ok": 0
   },
@@ -24,25 +24,6 @@
         }
       ],
       "recommendation": "Revisar em bloco: cada atendente confirma se o ticket está ativo ou deve ser fechado/escalado.",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 14 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 14 tickets ativos sob sua responsabilidade: 1 em atendimento + 13 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
-          "carga_real": 14,
-          "em_atendimento": 1,
-          "abertos": 13,
-          "aguardando_terceiros": 0,
-          "ativos_total": 14
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
       "impact_estimate": "médio"
     },
     {
@@ -107,19 +88,18 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "6 de 10 tickets silenciosos na fila SSG (60%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "5 de 8 tickets silenciosos na fila SSG (62%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
-          "n_top": 6,
-          "n_total": 10,
-          "pct_top": 0.6,
+          "n_top": 5,
+          "n_total": 8,
+          "pct_top": 0.62,
           "distribuicao": {
-            "AUTOZONE": 6,
+            "AUTOZONE": 5,
             "FINPEC": 1,
             "nicole.g@grupometalnox.com.br": 1,
-            "GDBR": 1,
             "postmaster@autozone.com": 1
           }
         }
