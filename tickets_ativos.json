@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777462820,
-  "generated_at_iso": "2026-04-29T11:40:20Z",
+  "generated_at": 1777463425,
+  "generated_at_iso": "2026-04-29T11:50:25Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -12,6 +12,54 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042226000631",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-22T22:43:28",
+      "modificado": "2026-04-29T08:50:23",
+      "idade_dias": 6,
+      "assunto": "CASAS DECIMAIS IMPOSTO DE PIS E COFINS - NOTAS FISCAIS SAIDAS."
+    },
+    {
+      "ticket": "2026041326000121",
+      "cliente": "joao.oliveira@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-13T09:10:28",
+      "modificado": "2026-04-29T08:49:38",
+      "idade_dias": 15,
+      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
+    },
+    {
+      "ticket": "2026011926000394",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-01-19T13:59:01",
+      "modificado": "2026-04-29T08:48:12",
+      "idade_dias": 99,
+      "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
+    },
+    {
+      "ticket": "2026042426000342",
+      "cliente": "carolina.schvambach@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T16:50:19",
+      "modificado": "2026-04-29T08:42:19",
+      "idade_dias": 4,
+      "assunto": "SCP NS - ERRO EFD REINF"
+    },
     {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
@@ -657,7 +705,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-22T08:48:42",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Liberação de tabelas"
     },
     {
@@ -1461,7 +1509,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-17T08:45:09",
       "modificado": "2026-04-28T09:19:13",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Implantação GWMS cliente Digna"
     },
     {
@@ -1561,18 +1609,6 @@
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
     },
     {
-      "ticket": "2026042226000631",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-22T22:43:28",
-      "modificado": "2026-04-27T14:55:15",
-      "idade_dias": 6,
-      "assunto": "CASAS DECIMAIS IMPOSTO DE PIS E COFINS - NOTAS FISCAIS SAIDAS."
-    },
-    {
       "ticket": "2026041426000371",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -1621,18 +1657,6 @@
       "assunto": "Apontamentos referente a calls internas."
     },
     {
-      "ticket": "2026041326000121",
-      "cliente": "joao.oliveira@almeidajunior.com.br",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-13T09:10:28",
-      "modificado": "2026-04-27T10:42:38",
-      "idade_dias": 15,
-      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
-    },
-    {
       "ticket": "2026033026000449",
       "cliente": "AUMOVIO",
       "fila": "DBA",
@@ -1643,18 +1667,6 @@
       "modificado": "2026-04-27T10:42:13",
       "idade_dias": 29,
       "assunto": "Derrubar usuários no ToTvs"
-    },
-    {
-      "ticket": "2026011926000394",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-01-19T13:59:01",
-      "modificado": "2026-04-27T10:38:09",
-      "idade_dias": 99,
-      "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
     },
     {
       "ticket": "2026042326000246",
@@ -1703,18 +1715,6 @@
       "modificado": "2026-04-24T18:04:36",
       "idade_dias": 6,
       "assunto": "Desenvolvimento do gw/v2"
-    },
-    {
-      "ticket": "2026042426000342",
-      "cliente": "carolina.schvambach@almeidajunior.com.br",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T16:50:19",
-      "modificado": "2026-04-24T16:55:19",
-      "idade_dias": 4,
-      "assunto": "SCP NS - ERRO EFD REINF"
     },
     {
       "ticket": "2026041626000287",
@@ -1953,7 +1953,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-04-22T08:41:58",
       "modificado": "2026-04-22T08:42:12",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "RES:"
     },
     {
