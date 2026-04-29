@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777448425,
-  "generated_at_iso": "2026-04-29T07:40:25Z",
+  "generated_at": 1777449034,
+  "generated_at_iso": "2026-04-29T07:50:34Z",
   "count": 2328,
   "filas": [
     "DATASUL",
@@ -16,9 +16,9 @@
       "num": "2026042926000021",
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782",
       "criado": "2026-04-29T04:20:22",
-      "modificado": "2026-04-29T04:21:39",
+      "modificado": "2026-04-29T04:41:33",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "1 very low",
       "atendente": "Bruno Montenegro",
       "primeiro_nome": "Bruno",
@@ -26,11 +26,11 @@
       "cli_id": "monitoramento@groundwork.com.br",
       "cli_user": "monitoramento@groundwork.com.br",
       "servico": "Banco de Horas::Banco de Dados",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-04-29T04:41:33",
+      "resp_min_raw": 20,
+      "sol_min_raw": 21,
+      "sol_min_bh": 0,
+      "resp_min_bh": 0
     },
     {
       "num": "2026042926000011",
