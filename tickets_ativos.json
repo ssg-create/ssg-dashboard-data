@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777423830,
-  "generated_at_iso": "2026-04-29T00:50:30Z",
-  "count": 196,
+  "generated_at": 1777424425,
+  "generated_at_iso": "2026-04-29T01:00:25Z",
+  "count": 198,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000728",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-04-28T21:50:12",
+      "modificado": "2026-04-28T21:54:50",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas WARNING - 26042821485074"
+    },
+    {
+      "ticket": "2026042826000719",
+      "cliente": "no-reply@outlook.mail.microsoft",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-04-28T21:20:08",
+      "modificado": "2026-04-28T21:51:40",
+      "idade_dias": 0,
+      "assunto": "Resumo Diário de Reação - terça-feira, 28 de abril de 2026"
+    },
     {
       "ticket": "2026042826000701",
       "cliente": "monitoramento@groundwork.com.br",
@@ -1249,18 +1273,6 @@
       "assunto": "Revisão Sebrae"
     },
     {
-      "ticket": "2026041726000338",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-04-17T16:21:22",
-      "modificado": "2026-04-28T05:00:16",
-      "idade_dias": 11,
-      "assunto": "PROBLEMA AO ACESSAR"
-    },
-    {
       "ticket": "2026041426000254",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -1271,6 +1283,18 @@
       "modificado": "2026-04-28T05:00:16",
       "idade_dias": 14,
       "assunto": "AUTOZONE - GWMS-Server - Disks Queue Length - 26041413581068"
+    },
+    {
+      "ticket": "2026041726000338",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-04-17T16:21:22",
+      "modificado": "2026-04-28T05:00:16",
+      "idade_dias": 11,
+      "assunto": "PROBLEMA AO ACESSAR"
     },
     {
       "ticket": "2026042326000255",
@@ -1309,6 +1333,18 @@
       "assunto": "Monitoramento - novos servidores"
     },
     {
+      "ticket": "2026042226000481",
+      "cliente": "eduardo.candido@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-22T17:00:14",
+      "modificado": "2026-04-28T05:00:16",
+      "idade_dias": 6,
+      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
+    },
+    {
       "ticket": "2026042226000613",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1317,8 +1353,20 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-22T21:58:19",
       "modificado": "2026-04-28T05:00:16",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
+    },
+    {
+      "ticket": "2026042426000208",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-24T13:05:11",
+      "modificado": "2026-04-28T05:00:16",
+      "idade_dias": 4,
+      "assunto": "Unimed - Gerenciamento de dashboards"
     },
     {
       "ticket": "2026041626000214",
@@ -1331,18 +1379,6 @@
       "modificado": "2026-04-28T05:00:16",
       "idade_dias": 12,
       "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
-    },
-    {
-      "ticket": "2026042226000481",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-22T17:00:14",
-      "modificado": "2026-04-28T05:00:16",
-      "idade_dias": 6,
-      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
     },
     {
       "ticket": "2026040726000384",
@@ -1369,18 +1405,6 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026042426000208",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-24T13:05:11",
-      "modificado": "2026-04-28T05:00:16",
-      "idade_dias": 4,
-      "assunto": "Unimed - Gerenciamento de dashboards"
-    },
-    {
       "ticket": "2026040726000419",
       "cliente": "vinicius.eroico@groundwork.com.br",
       "fila": "GWMS",
@@ -1393,16 +1417,16 @@
       "assunto": "Adicionar servidor ao monitoramento - POC GWMS for TOTVS - ELETTROMEC"
     },
     {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
+      "ticket": "2026012126000095",
+      "cliente": "NSX",
       "fila": "SSG-MELHORIAS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
+      "prioridade": "5 very high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-21T11:05:47",
       "modificado": "2026-04-28T05:00:15",
-      "idade_dias": 272,
-      "assunto": "Organizar cód Fontes"
+      "idade_dias": 97,
+      "assunto": "Contabilização offline dos titulos gerados por planilha"
     },
     {
       "ticket": "2026041626000358",
@@ -1417,6 +1441,18 @@
       "assunto": "RE: Agent GWMS"
     },
     {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-28T05:00:15",
+      "idade_dias": 272,
+      "assunto": "Organizar cód Fontes"
+    },
+    {
       "ticket": "2026012926000455",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1427,18 +1463,6 @@
       "modificado": "2026-04-28T05:00:15",
       "idade_dias": 89,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
-    },
-    {
-      "ticket": "2026012126000095",
-      "cliente": "NSX",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-21T11:05:47",
-      "modificado": "2026-04-28T05:00:15",
-      "idade_dias": 97,
-      "assunto": "Contabilização offline dos titulos gerados por planilha"
     },
     {
       "ticket": "2026042326000013",
