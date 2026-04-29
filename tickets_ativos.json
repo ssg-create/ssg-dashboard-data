@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777473033,
-  "generated_at_iso": "2026-04-29T14:30:33Z",
-  "count": 175,
+  "generated_at": 1777473628,
+  "generated_at_iso": "2026-04-29T14:40:28Z",
+  "count": 174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,16 +13,28 @@
   ],
   "rows": [
     {
-      "ticket": "2026042726000211",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T11:51:47",
-      "modificado": "2026-04-29T11:30:18",
-      "idade_dias": 1,
-      "assunto": "Verificação do alerta \"Error getting data\"."
+      "ticket": "2026042826000531",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-28T16:45:15",
+      "modificado": "2026-04-29T11:38:36",
+      "idade_dias": 0,
+      "assunto": "Troca de impressora Zebra - Programa OLRE0011"
+    },
+    {
+      "ticket": "2026042926000075",
+      "cliente": "SERVENG",
+      "fila": "DBA",
+      "estado": "GMUD",
+      "prioridade": "1 very low",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-29T08:00:09",
+      "modificado": "2026-04-29T11:37:29",
+      "idade_dias": 0,
+      "assunto": "ENC: Atualização QIVE - CHANGE PRODUÇÃO"
     },
     {
       "ticket": "2026042826000362",
@@ -71,18 +83,6 @@
       "modificado": "2026-04-29T10:42:46",
       "idade_dias": 13,
       "assunto": "Descoberta de Topologia automática"
-    },
-    {
-      "ticket": "2026042826000531",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-28T16:45:15",
-      "modificado": "2026-04-29T10:36:58",
-      "idade_dias": 0,
-      "assunto": "Troca de impressora Zebra - Programa OLRE0011"
     },
     {
       "ticket": "2026042826000193",
@@ -469,16 +469,16 @@
       "assunto": "Solicitação de exclusão de GPO"
     },
     {
-      "ticket": "2026042926000075",
-      "cliente": "SERVENG",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-29T08:00:09",
-      "modificado": "2026-04-29T08:03:17",
-      "idade_dias": 0,
-      "assunto": "ENC: Atualização QIVE - CHANGE PRODUÇÃO"
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-29T05:00:16",
+      "idade_dias": 6,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
       "ticket": "2026041626000214",
@@ -491,18 +491,6 @@
       "modificado": "2026-04-29T05:00:16",
       "idade_dias": 13,
       "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
-    },
-    {
-      "ticket": "2026042326000255",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-29T05:00:16",
-      "idade_dias": 6,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
       "ticket": "2026042226000481",
@@ -527,18 +515,6 @@
       "modificado": "2026-04-29T05:00:15",
       "idade_dias": 4,
       "assunto": "Ajustes dashboard Service Search – Category"
-    },
-    {
-      "ticket": "2026040726000384",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-07T14:54:52",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 21,
-      "assunto": "Liberar Modo Financeiro"
     },
     {
       "ticket": "2026042726000141",
@@ -577,6 +553,18 @@
       "assunto": "Monitoramento"
     },
     {
+      "ticket": "2026040726000384",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-07T14:54:52",
+      "modificado": "2026-04-29T05:00:15",
+      "idade_dias": 21,
+      "assunto": "Liberar Modo Financeiro"
+    },
+    {
       "ticket": "2026041226000043",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "DBA",
@@ -601,6 +589,42 @@
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
+      "ticket": "2026041726000338",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-04-17T16:21:22",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 11,
+      "assunto": "PROBLEMA AO ACESSAR"
+    },
+    {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 273,
+      "assunto": "Organizar cód Fontes"
+    },
+    {
+      "ticket": "2026011426000241",
+      "cliente": "AUTOZONE",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-01-14T11:54:43",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 104,
+      "assunto": "SFT frete"
+    },
+    {
       "ticket": "2026042326000111",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -611,18 +635,6 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 6,
       "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
-    },
-    {
-      "ticket": "2026041426000085",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-14T08:50:46",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 15,
-      "assunto": "Problema de exclusão de título financeiro"
     },
     {
       "ticket": "2026042326000424",
@@ -649,6 +661,18 @@
       "assunto": "Adição Monitoria - OCI Docker Conector Sensedia "
     },
     {
+      "ticket": "2026041526000181",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-04-15T09:31:44",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 14,
+      "assunto": "Rollback exclusão de NF"
+    },
+    {
       "ticket": "2026041626000447",
       "cliente": "bruno.fagundes@groundwork.com.br",
       "fila": "GWMS",
@@ -659,18 +683,6 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 12,
       "assunto": "Revisão Sebrae"
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 5,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026041426000254",
@@ -697,6 +709,18 @@
       "assunto": "Liberação de tabelas"
     },
     {
+      "ticket": "2026041426000085",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-14T08:50:46",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 15,
+      "assunto": "Problema de exclusão de título financeiro"
+    },
+    {
       "ticket": "2026040726000419",
       "cliente": "vinicius.eroico@groundwork.com.br",
       "fila": "GWMS",
@@ -709,18 +733,6 @@
       "assunto": "Adicionar servidor ao monitoramento - POC GWMS for TOTVS - ELETTROMEC"
     },
     {
-      "ticket": "2026041726000338",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-04-17T16:21:22",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 11,
-      "assunto": "PROBLEMA AO ACESSAR"
-    },
-    {
       "ticket": "2026042326000219",
       "cliente": "joalyson.oliveira@teletex.com",
       "fila": "DBA",
@@ -731,30 +743,6 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 6,
       "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 273,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
-      "ticket": "2026011426000241",
-      "cliente": "AUTOZONE",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-01-14T11:54:43",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 104,
-      "assunto": "SFT frete"
     },
     {
       "ticket": "2026042226000239",
@@ -793,16 +781,16 @@
       "assunto": "RE: Agent GWMS"
     },
     {
-      "ticket": "2026041526000181",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "5 very high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-04-15T09:31:44",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 14,
-      "assunto": "Rollback exclusão de NF"
+      "idade_dias": 5,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026041726000114",
@@ -1261,18 +1249,6 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
-      "ticket": "2026042726000186",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-27T10:24:20",
-      "modificado": "2026-04-28T10:56:33",
-      "idade_dias": 2,
-      "assunto": "Baixa Teste Homologação"
-    },
-    {
       "ticket": "2026042826000175",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1283,6 +1259,18 @@
       "modificado": "2026-04-28T10:56:33",
       "idade_dias": 1,
       "assunto": "SIGACOM :: Auxilio com novo fluxo de compras"
+    },
+    {
+      "ticket": "2026042726000186",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-27T10:24:20",
+      "modificado": "2026-04-28T10:56:33",
+      "idade_dias": 2,
+      "assunto": "Baixa Teste Homologação"
     },
     {
       "ticket": "2026042326000022",
@@ -1869,7 +1857,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-03-13T11:35:16",
       "modificado": "2026-04-21T11:58:34",
-      "idade_dias": 46,
+      "idade_dias": 47,
       "assunto": "Solicitação de Ponto de Entrada - Permissão Automática em Contratos (SIGAGCT)"
     },
     {
@@ -2037,7 +2025,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-03T11:35:09",
       "modificado": "2026-04-13T18:12:57",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "Mapa Links"
     },
     {
@@ -2085,7 +2073,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-04-08T11:40:17",
       "modificado": "2026-04-11T19:47:17",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Ticket de teste"
     },
     {
