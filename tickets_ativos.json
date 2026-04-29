@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777487425,
-  "generated_at_iso": "2026-04-29T18:30:25Z",
+  "generated_at": 1777488022,
+  "generated_at_iso": "2026-04-29T18:40:22Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -12,6 +12,54 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000497",
+      "cliente": "cida@adelco.com.br",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Gilberto Sousa",
+      "criado": "2026-04-28T16:10:09",
+      "modificado": "2026-04-29T15:40:12",
+      "idade_dias": 0,
+      "assunto": "Inclusão de usuário em grupo Iso RX"
+    },
+    {
+      "ticket": "2026042326000451",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T18:00:06",
+      "modificado": "2026-04-29T15:39:30",
+      "idade_dias": 5,
+      "assunto": "Inserir Servidor Monitoramento"
+    },
+    {
+      "ticket": "2026042726000435",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-27T17:35:13",
+      "modificado": "2026-04-29T15:36:09",
+      "idade_dias": 1,
+      "assunto": "Revisão dashboards Totvs"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-04-29T15:33:15",
+      "idade_dias": 0,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2026042926000191",
       "cliente": "ayko.maycon@braveo.com.br",
@@ -169,18 +217,6 @@
       "assunto": "RE: Absolute"
     },
     {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-04-29T13:08:04",
-      "idade_dias": 0,
-      "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
       "ticket": "2026042926000164",
       "cliente": "rodrigo.cuani@groundwork.com.br",
       "fila": "GWMS",
@@ -203,18 +239,6 @@
       "modificado": "2026-04-29T12:22:38",
       "idade_dias": 13,
       "assunto": "Descoberta de Topologia automática"
-    },
-    {
-      "ticket": "2026042726000435",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-27T17:35:13",
-      "modificado": "2026-04-29T12:00:25",
-      "idade_dias": 1,
-      "assunto": "Revisão dashboards Totvs"
     },
     {
       "ticket": "2026042926000155",
@@ -345,7 +369,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-04-08T15:30:31",
       "modificado": "2026-04-29T10:25:37",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Relatorio de Ativo Customizado"
     },
     {
@@ -371,18 +395,6 @@
       "modificado": "2026-04-29T10:20:12",
       "idade_dias": 86,
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
-    },
-    {
-      "ticket": "2026042326000451",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T18:00:06",
-      "modificado": "2026-04-29T10:20:12",
-      "idade_dias": 5,
-      "assunto": "Inserir Servidor Monitoramento"
     },
     {
       "ticket": "2026041726000061",
@@ -537,7 +549,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-28T15:35:04",
       "modificado": "2026-04-29T08:36:19",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Reset de senha: OTRS Jean"
     },
     {
@@ -575,18 +587,6 @@
       "modificado": "2026-04-29T08:16:29",
       "idade_dias": 1,
       "assunto": "Alteração Dashboard Logmein"
-    },
-    {
-      "ticket": "2026042826000497",
-      "cliente": "cida@adelco.com.br",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Gilberto Sousa",
-      "criado": "2026-04-28T16:10:09",
-      "modificado": "2026-04-29T08:04:30",
-      "idade_dias": 0,
-      "assunto": "Inclusão de usuário em grupo Iso RX"
     },
     {
       "ticket": "2026042826000488",
