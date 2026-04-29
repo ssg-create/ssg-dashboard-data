@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777422067,
-  "generated_at_iso": "2026-04-29T00:21:07Z",
+  "generated_at": 1777423186,
+  "generated_at_iso": "2026-04-29T00:39:46Z",
   "counts": {
     "crit": 2,
     "warn": 4,
@@ -46,25 +46,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Weskley_Silva",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Weskley Silva com carga real de 6 tickets",
-      "summary": "Weskley Silva tem 6 tickets ativos sob sua responsabilidade: 6 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Weskley Silva",
-          "carga_real": 6,
-          "em_atendimento": 6,
-          "abertos": 0,
-          "aguardando_terceiros": 3,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "warn",
       "category": "capacidade",
@@ -84,19 +65,19 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Jean_Pierre_Rocha",
-      "severity": "crit",
+      "id": "sobrecarga_Weskley_Silva",
+      "severity": "warn",
       "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 8 tickets",
-      "summary": "Jean Pierre Rocha tem 8 tickets ativos sob sua responsabilidade: 2 em atendimento + 6 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Weskley Silva com carga real de 6 tickets",
+      "summary": "Weskley Silva tem 6 tickets ativos sob sua responsabilidade: 6 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Jean Pierre Rocha",
-          "carga_real": 8,
-          "em_atendimento": 2,
-          "abertos": 6,
-          "aguardando_terceiros": 0,
-          "ativos_total": 8
+          "atendente": "Weskley Silva",
+          "carga_real": 6,
+          "em_atendimento": 6,
+          "abertos": 0,
+          "aguardando_terceiros": 3,
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -115,6 +96,25 @@
           "em_atendimento": 1,
           "abertos": 4,
           "aguardando_terceiros": 3,
+          "ativos_total": 8
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Jean_Pierre_Rocha",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Jean Pierre Rocha com carga real de 8 tickets",
+      "summary": "Jean Pierre Rocha tem 8 tickets ativos sob sua responsabilidade: 2 em atendimento + 6 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Jean Pierre Rocha",
+          "carga_real": 8,
+          "em_atendimento": 2,
+          "abertos": 6,
+          "aguardando_terceiros": 0,
           "ativos_total": 8
         }
       ],
