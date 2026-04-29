@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777488485,
-  "generated_at_iso": "2026-04-29T18:48:05Z",
+  "generated_at": 1777488631,
+  "generated_at_iso": "2026-04-29T18:50:31Z",
   "counts": {
     "crit": 1,
     "warn": 4,
@@ -88,13 +88,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Marcio Guimaraes com carga real de 5 tickets",
-      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcio Guimaraes",
           "carga_real": 5,
-          "em_atendimento": 3,
-          "abertos": 2,
+          "em_atendimento": 4,
+          "abertos": 1,
           "aguardando_terceiros": 4,
           "ativos_total": 9
         }
