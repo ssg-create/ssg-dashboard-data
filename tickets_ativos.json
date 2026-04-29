@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777476031,
-  "generated_at_iso": "2026-04-29T15:20:31Z",
+  "generated_at": 1777476293,
+  "generated_at_iso": "2026-04-29T15:24:53Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026041526000565",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-15T18:11:21",
+      "modificado": "2026-04-29T12:22:38",
+      "idade_dias": 13,
+      "assunto": "Descoberta de Topologia automática"
+    },
     {
       "ticket": "2026042726000435",
       "cliente": "bruno.fagundes@groundwork.com.br",
@@ -131,18 +143,6 @@
       "modificado": "2026-04-29T10:50:13",
       "idade_dias": 6,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
-    },
-    {
-      "ticket": "2026041526000565",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-15T18:11:21",
-      "modificado": "2026-04-29T10:42:46",
-      "idade_dias": 13,
-      "assunto": "Descoberta de Topologia automática"
     },
     {
       "ticket": "2026042826000193",
@@ -2049,7 +2049,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-08T12:24:13",
       "modificado": "2026-04-13T14:16:32",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Verificar agendamentos de atualização dos gráficos"
     },
     {
