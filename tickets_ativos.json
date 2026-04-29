@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777458030,
-  "generated_at_iso": "2026-04-29T10:20:30Z",
+  "generated_at": 1777458629,
+  "generated_at_iso": "2026-04-29T10:30:29Z",
   "count": 195,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026041726000043",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-04-17T08:10:31",
+      "modificado": "2026-04-29T07:30:08",
+      "idade_dias": 11,
+      "assunto": "Falha no cancelamento de NF"
+    },
+    {
+      "ticket": "2026042426000379",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-24T18:08:58",
+      "modificado": "2026-04-29T07:30:00",
+      "idade_dias": 4,
+      "assunto": "Ajuste Monitoramento -  ADP001 ao ADP021"
+    },
+    {
+      "ticket": "2026042326000415",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-23T16:14:58",
+      "modificado": "2026-04-29T07:25:06",
+      "idade_dias": 5,
+      "assunto": "Inclusão de serviços nos hosts ADP"
+    },
     {
       "ticket": "2026042926000048",
       "cliente": "elizeu.brasil@groundwork.com.br",
@@ -59,18 +95,6 @@
       "modificado": "2026-04-29T05:00:16",
       "idade_dias": 5,
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
-    },
-    {
-      "ticket": "2026042426000379",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-24T18:08:58",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 4,
-      "assunto": "Ajuste Monitoramento -  ADP001 ao ADP021"
     },
     {
       "ticket": "2026040726000384",
@@ -1009,18 +1033,6 @@
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042709595386"
     },
     {
-      "ticket": "2026042326000415",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-23T16:14:58",
-      "modificado": "2026-04-28T15:48:52",
-      "idade_dias": 5,
-      "assunto": "Inclusão de serviços nos hosts ADP"
-    },
-    {
       "ticket": "2026042826000424",
       "cliente": "weskley.silva@groundwork.com.br",
       "fila": "GWMS",
@@ -1439,18 +1451,6 @@
       "modificado": "2026-04-28T10:13:46",
       "idade_dias": 0,
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
-    },
-    {
-      "ticket": "2026041726000043",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-04-17T08:10:31",
-      "modificado": "2026-04-28T10:11:58",
-      "idade_dias": 11,
-      "assunto": "Falha no cancelamento de NF"
     },
     {
       "ticket": "2026042826000201",
