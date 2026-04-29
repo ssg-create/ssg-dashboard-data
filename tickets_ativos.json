@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777467596,
-  "generated_at_iso": "2026-04-29T12:59:56Z",
+  "generated_at": 1777467631,
+  "generated_at_iso": "2026-04-29T13:00:31Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026020226000164",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-02-02T10:00:27",
+      "modificado": "2026-04-29T10:00:07",
+      "idade_dias": 86,
+      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
     {
       "ticket": "2026040126000313",
       "cliente": "NSX",
@@ -59,18 +71,6 @@
       "modificado": "2026-04-29T09:51:16",
       "idade_dias": 1,
       "assunto": "Revisão dashboards Totvs"
-    },
-    {
-      "ticket": "2026020226000164",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-04-29T09:40:24",
-      "idade_dias": 85,
-      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
       "ticket": "2026042926000048",
@@ -669,7 +669,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-04-23T10:00:07",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
     },
     {
@@ -1149,7 +1149,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-28T10:00:20",
       "modificado": "2026-04-28T12:09:17",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Liberação de acesso ao CENTREON"
     },
     {
@@ -1329,7 +1329,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-28T10:00:22",
       "modificado": "2026-04-28T10:06:09",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Atualização clientes portal NOC ref. Inventário GWMS"
     },
     {
@@ -1509,7 +1509,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-15T10:00:23",
       "modificado": "2026-04-27T11:17:39",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Apontamentos referente a calls internas."
     },
     {
@@ -1569,7 +1569,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-22T10:00:21",
       "modificado": "2026-04-24T18:04:36",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Desenvolvimento do gw/v2"
     },
     {
