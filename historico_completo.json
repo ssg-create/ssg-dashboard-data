@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777447225,
-  "generated_at_iso": "2026-04-29T07:20:25Z",
-  "count": 2327,
+  "generated_at": 1777447827,
+  "generated_at_iso": "2026-04-29T07:30:27Z",
+  "count": 2328,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000021",
+      "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782",
+      "criado": "2026-04-29T04:20:22",
+      "modificado": "2026-04-29T04:21:39",
+      "fila": "DBA",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Montenegro",
+      "primeiro_nome": "Bruno",
+      "ultimo_nome": "Montenegro",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Banco de Horas::Banco de Dados",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000011",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26042900433731",
