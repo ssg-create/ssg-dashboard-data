@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777467631,
-  "generated_at_iso": "2026-04-29T13:00:31Z",
+  "generated_at": 1777468224,
+  "generated_at_iso": "2026-04-29T13:10:24Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042326000031",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:20:00",
+      "modificado": "2026-04-29T10:05:52",
+      "idade_dias": 6,
+      "assunto": "Auxilio com otimização de fonte API REST DASH_API01"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-04-29T10:05:08",
+      "idade_dias": 0,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2026020226000164",
       "cliente": "AUTOZONE",
@@ -47,18 +71,6 @@
       "modificado": "2026-04-29T09:58:44",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042909482373"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-04-29T09:56:10",
-      "idade_dias": 0,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026042726000435",
@@ -239,18 +251,6 @@
       "modificado": "2026-04-29T08:36:19",
       "idade_dias": 0,
       "assunto": "Reset de senha: OTRS Jean"
-    },
-    {
-      "ticket": "2026042326000031",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:20:00",
-      "modificado": "2026-04-29T08:33:40",
-      "idade_dias": 6,
-      "assunto": "Auxilio com otimização de fonte API REST DASH_API01"
     },
     {
       "ticket": "2026042826000602",
@@ -969,7 +969,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-27T10:05:14",
       "modificado": "2026-04-28T15:51:17",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042709595386"
     },
     {
