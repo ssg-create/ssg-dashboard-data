@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777464632,
-  "generated_at_iso": "2026-04-29T12:10:32Z",
-  "count": 2320,
+  "generated_at": 1777465225,
+  "generated_at_iso": "2026-04-29T12:20:25Z",
+  "count": 2322,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,46 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000101",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26042909064999",
+      "criado": "2026-04-29T09:10:20",
+      "modificado": "2026-04-29T09:14:02",
+      "fila": "DBA",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Banco de Horas::Banco de Dados",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
+    {
+      "num": "2026042926000093",
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26042909054272",
+      "criado": "2026-04-29T09:10:18",
+      "modificado": "2026-04-29T09:13:22",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "primeiro_nome": "Marcio",
+      "ultimo_nome": "Guimaraes",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000075",
       "assunto": "ENC: Atualização QIVE - CHANGE PRODUÇÃO",
