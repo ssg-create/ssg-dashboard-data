@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777471833,
-  "generated_at_iso": "2026-04-29T14:10:33Z",
+  "generated_at": 1777472426,
+  "generated_at_iso": "2026-04-29T14:20:26Z",
   "count": 2317,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000146",
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-04-29T11:18:14",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "5 very high",
+      "atendente": "Marcio Guimaraes",
+      "primeiro_nome": "Marcio",
+      "ultimo_nome": "Guimaraes",
+      "cli_id": "TJBA",
+      "cli_user": "lucas.sales@teletex.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Scripts",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000137",
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042909482373",
@@ -1956,9 +1976,9 @@
       "num": "2026042726000211",
       "assunto": "Verificação do alerta \"Error getting data\".",
       "criado": "2026-04-27T11:51:47",
-      "modificado": "2026-04-29T08:18:19",
+      "modificado": "2026-04-29T11:19:09",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "4 high",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
@@ -46331,26 +46351,6 @@
       "sol_min_raw": 12575,
       "sol_min_bh": 3574,
       "resp_min_bh": 5
-    },
-    {
-      "num": "2025122926000276",
-      "assunto": "AUTOZONE - SVR-MASTER-HML - Disk:F: - 25122911141196",
-      "criado": "2025-12-29T11:15:24",
-      "modificado": "2026-01-02T13:45:16",
-      "fila": "DBA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "primeiro_nome": "Bruno",
-      "ultimo_nome": "Montenegro",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Banco de Horas::Banco de Dados",
-      "fechado": "2026-01-02T13:45:16",
-      "resp_min_raw": 49,
-      "sol_min_raw": 5909,
-      "sol_min_bh": 2249,
-      "resp_min_bh": 44
     }
   ],
   "janela_meses": 4,
