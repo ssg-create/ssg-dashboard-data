@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777458633,
-  "generated_at_iso": "2026-04-29T10:30:33Z",
-  "count": 2330,
+  "generated_at": 1777459232,
+  "generated_at_iso": "2026-04-29T10:40:32Z",
+  "count": 2331,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000066",
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - CheckLog: ces_broker_x_gwms_cstg_gwms-stream-connector.log - 26042906463788",
+      "criado": "2026-04-29T06:50:20",
+      "modificado": "2026-04-29T07:32:35",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000048",
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782",
@@ -3813,26 +3833,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -3851,6 +3851,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
@@ -6016,9 +6036,9 @@
       "num": "2026041726000043",
       "assunto": "Falha no cancelamento de NF",
       "criado": "2026-04-17T08:10:31",
-      "modificado": "2026-04-29T07:30:08",
+      "modificado": "2026-04-29T07:37:46",
       "fila": "DATASUL",
-      "estado": "retorno cliente",
+      "estado": "closed successful",
       "prioridade": "4 high",
       "atendente": "Guilherme Rosa",
       "primeiro_nome": "Guilherme",
@@ -6026,10 +6046,10 @@
       "cli_id": "AUMOVIO",
       "cli_user": "mateus.amaral@aumovio.com",
       "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Faturamento",
-      "fechado": null,
+      "fechado": "2026-04-29T07:37:46",
       "resp_min_raw": 211,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 17247,
+      "sol_min_bh": 4309,
       "resp_min_bh": 211
     },
     {
