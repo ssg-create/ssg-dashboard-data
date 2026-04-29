@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777506027,
-  "generated_at_iso": "2026-04-29T23:40:27Z",
+  "generated_at": 1777506618,
+  "generated_at_iso": "2026-04-29T23:50:18Z",
   "count": 184,
   "filas": [
     "DATASUL",
@@ -20,9 +20,21 @@
       "prioridade": "3 normal",
       "atendente": "Pedro Luiz",
       "criado": "2026-04-22T08:55:10",
-      "modificado": "2026-04-29T19:39:09",
+      "modificado": "2026-04-29T20:46:20",
       "idade_dias": 7,
       "assunto": "Projeto - Topologia automática"
+    },
+    {
+      "ticket": "2026041526000565",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-15T18:11:21",
+      "modificado": "2026-04-29T20:44:10",
+      "idade_dias": 14,
+      "assunto": "Descoberta de Topologia automática"
     },
     {
       "ticket": "2026042926000388",
@@ -467,18 +479,6 @@
       "modificado": "2026-04-29T12:49:36",
       "idade_dias": 0,
       "assunto": "Envio de relatório de projetos próximo ao fim"
-    },
-    {
-      "ticket": "2026041526000565",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-15T18:11:21",
-      "modificado": "2026-04-29T12:22:38",
-      "idade_dias": 14,
-      "assunto": "Descoberta de Topologia automática"
     },
     {
       "ticket": "2026042326000111",
