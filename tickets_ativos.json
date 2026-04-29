@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777488479,
-  "generated_at_iso": "2026-04-29T18:47:59Z",
+  "generated_at": 1777488626,
+  "generated_at_iso": "2026-04-29T18:50:26Z",
   "count": 185,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000048",
+      "cliente": "elizeu.brasil@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-29T05:05:08",
+      "modificado": "2026-04-29T15:50:12",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
+    },
     {
       "ticket": "2026042826000602",
       "cliente": "GroundWork",
@@ -443,18 +455,6 @@
       "modificado": "2026-04-29T10:19:15",
       "idade_dias": 12,
       "assunto": "Implantação GWMS cliente Digna"
-    },
-    {
-      "ticket": "2026042926000048",
-      "cliente": "elizeu.brasil@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T05:05:08",
-      "modificado": "2026-04-29T09:31:35",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
     },
     {
       "ticket": "2026042826000353",
@@ -1089,7 +1089,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T15:49:01",
       "modificado": "2026-04-28T17:03:56",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
