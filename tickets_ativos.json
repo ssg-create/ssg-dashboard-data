@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777480232,
-  "generated_at_iso": "2026-04-29T16:30:32Z",
+  "generated_at": 1777480828,
+  "generated_at_iso": "2026-04-29T16:40:28Z",
   "count": 178,
   "filas": [
     "DATASUL",
@@ -13,14 +13,62 @@
   ],
   "rows": [
     {
+      "ticket": "2026042226000613",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-22T21:58:19",
+      "modificado": "2026-04-29T13:35:14",
+      "idade_dias": 6,
+      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
+    },
+    {
+      "ticket": "2026042926000146",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-04-29T13:33:52",
+      "idade_dias": 0,
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
+    },
+    {
+      "ticket": "2026042926000191",
+      "cliente": "ayko.maycon@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-29T12:55:08",
+      "modificado": "2026-04-29T13:33:42",
+      "idade_dias": 0,
+      "assunto": "Criação de Usuário "
+    },
+    {
       "ticket": "2026042926000217",
       "cliente": "GroundWork",
       "fila": "GWMS",
       "estado": "OPEN",
       "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
+      "atendente": "Bruno Fagundes",
       "criado": "2026-04-29T13:00:13",
-      "modificado": "2026-04-29T13:08:41",
+      "modificado": "2026-04-29T13:33:04",
+      "idade_dias": 0,
+      "assunto": "RE: Absolute"
+    },
+    {
+      "ticket": "2026042926000208",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-29T13:00:11",
+      "modificado": "2026-04-29T13:32:36",
       "idade_dias": 0,
       "assunto": "RE: Absolute"
     },
@@ -35,42 +83,6 @@
       "modificado": "2026-04-29T13:08:04",
       "idade_dias": 0,
       "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
-      "ticket": "2026042926000208",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T13:00:11",
-      "modificado": "2026-04-29T13:07:18",
-      "idade_dias": 0,
-      "assunto": "RE: Absolute"
-    },
-    {
-      "ticket": "2026042926000191",
-      "cliente": "ayko.maycon@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T12:55:08",
-      "modificado": "2026-04-29T13:05:02",
-      "idade_dias": 0,
-      "assunto": "Criação de Usuário "
-    },
-    {
-      "ticket": "2026042926000146",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-04-29T12:51:57",
-      "idade_dias": 0,
-      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026042926000164",
@@ -191,18 +203,6 @@
       "modificado": "2026-04-29T11:22:43",
       "idade_dias": 0,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
-      "ticket": "2026042226000613",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-22T21:58:19",
-      "modificado": "2026-04-29T10:50:13",
-      "idade_dias": 6,
-      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
     },
     {
       "ticket": "2026042826000193",
@@ -1557,7 +1557,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-09T13:40:09",
       "modificado": "2026-04-27T11:27:20",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "RE: Proposta de POC - GWMS"
     },
     {
