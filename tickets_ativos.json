@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777482624,
-  "generated_at_iso": "2026-04-29T17:10:24Z",
-  "count": 179,
+  "generated_at": 1777483220,
+  "generated_at_iso": "2026-04-29T17:20:20Z",
+  "count": 180,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-29T14:19:29",
+      "idade_dias": 0,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026042926000146",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-04-29T14:11:16",
+      "idade_dias": 0,
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
+    },
     {
       "ticket": "2026042926000226",
       "cliente": "monitoramento@groundwork.com.br",
@@ -35,18 +59,6 @@
       "modificado": "2026-04-29T13:35:14",
       "idade_dias": 6,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
-    },
-    {
-      "ticket": "2026042926000146",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-04-29T13:33:52",
-      "idade_dias": 0,
-      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026042926000191",
@@ -213,7 +225,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-28T14:20:16",
       "modificado": "2026-04-29T11:22:43",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
@@ -345,7 +357,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-28T14:19:11",
       "modificado": "2026-04-29T09:21:46",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
@@ -721,18 +733,6 @@
       "assunto": "PROBLEMA AO ACESSAR"
     },
     {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 273,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
       "ticket": "2026011426000241",
       "cliente": "AUTOZONE",
       "fila": "PROTHEUS",
@@ -851,6 +851,18 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 6,
       "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
+    },
+    {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 273,
+      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026041726000114",
