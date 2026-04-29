@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777473628,
-  "generated_at_iso": "2026-04-29T14:40:28Z",
+  "generated_at": 1777474231,
+  "generated_at_iso": "2026-04-29T14:50:31Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042326000031",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:20:00",
+      "modificado": "2026-04-29T11:46:37",
+      "idade_dias": 6,
+      "assunto": "Auxilio com otimização de fonte API REST DASH_API01"
+    },
     {
       "ticket": "2026042826000531",
       "cliente": "AUMOVIO",
@@ -191,18 +203,6 @@
       "modificado": "2026-04-29T10:19:15",
       "idade_dias": 12,
       "assunto": "Implantação GWMS cliente Digna"
-    },
-    {
-      "ticket": "2026042326000031",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:20:00",
-      "modificado": "2026-04-29T10:05:52",
-      "idade_dias": 6,
-      "assunto": "Auxilio com otimização de fonte API REST DASH_API01"
     },
     {
       "ticket": "2026042926000128",
@@ -861,7 +861,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T11:50:17",
       "modificado": "2026-04-28T17:34:55",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Error. \"Instance Failed to Load\""
     },
     {
