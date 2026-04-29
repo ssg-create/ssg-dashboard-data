@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777470630,
-  "generated_at_iso": "2026-04-29T13:50:30Z",
-  "count": 2318,
+  "generated_at": 1777471237,
+  "generated_at_iso": "2026-04-29T14:00:37Z",
+  "count": 2317,
   "filas": [
     "DATASUL",
     "DBA",
@@ -9536,9 +9536,9 @@
       "num": "2026041026000163",
       "assunto": "Apresentar no relatório do banco de horas o valor real da utilização das horas e o valor aplicado o fator hora.",
       "criado": "2026-04-10T11:45:07",
-      "modificado": "2026-04-29T09:44:53",
+      "modificado": "2026-04-29T10:53:01",
       "fila": "GWMS",
-      "estado": "resolvido",
+      "estado": "closed successful",
       "prioridade": "1 very low",
       "atendente": "Adriano Luiz",
       "primeiro_nome": "Adriano",
@@ -9546,10 +9546,10 @@
       "cli_id": "rodrigo.pinheiro@groundwork.com.br",
       "cli_user": "rodrigo.pinheiro@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "fechado": "2026-04-29T09:44:53",
+      "fechado": "2026-04-29T10:53:01",
       "resp_min_raw": 275,
-      "sol_min_raw": 27239,
-      "sol_min_bh": 6898,
+      "sol_min_raw": 27307,
+      "sol_min_bh": 6967,
       "resp_min_bh": 214
     },
     {
@@ -46351,26 +46351,6 @@
       "sol_min_raw": 5909,
       "sol_min_bh": 2249,
       "resp_min_bh": 44
-    },
-    {
-      "num": "2025122926000249",
-      "assunto": "Atualização totvs",
-      "criado": "2025-12-29T10:59:17",
-      "modificado": "2026-01-06T05:00:16",
-      "fila": "DATASUL",
-      "estado": "fechado sem êxito (auto)",
-      "prioridade": "3 normal",
-      "atendente": "Thiago Sebek",
-      "primeiro_nome": "Thiago",
-      "ultimo_nome": "Sebek",
-      "cli_id": "SAYERLACK",
-      "cli_user": "ti@sayerlack.com.br",
-      "servico": "Serviço de Sustentação Groundwork::Banco de Dados",
-      "fechado": "2026-01-06T05:00:16",
-      "resp_min_raw": 93,
-      "sol_min_raw": 11160,
-      "sol_min_bh": 3060,
-      "resp_min_bh": 60
     }
   ],
   "janela_meses": 4,
