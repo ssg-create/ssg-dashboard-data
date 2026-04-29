@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777482628,
-  "generated_at_iso": "2026-04-29T17:10:28Z",
-  "count": 2315,
+  "generated_at": 1777483223,
+  "generated_at_iso": "2026-04-29T17:20:23Z",
+  "count": 2316,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000235",
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-29T14:19:29",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "GDBR",
+      "cli_user": "gustavo.sousa@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000226",
       "assunto": "DKT - GWMS-SERVER - Grafana:Role Permissions - 26042914033372",
@@ -136,7 +156,7 @@
       "num": "2026042926000146",
       "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003",
       "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-04-29T13:33:52",
+      "modificado": "2026-04-29T14:11:16",
       "fila": "GWMS",
       "estado": "open",
       "prioridade": "4 high",
