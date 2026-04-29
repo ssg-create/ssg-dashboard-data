@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777499425,
-  "generated_at_iso": "2026-04-29T21:50:25Z",
-  "count": 2322,
+  "generated_at": 1777500029,
+  "generated_at_iso": "2026-04-29T22:00:29Z",
+  "count": 2323,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026042926000388",
+      "assunto": "Alterar threshold o alerta Agrosul",
+      "criado": "2026-04-29T18:40:13",
+      "modificado": "2026-04-29T18:53:39",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "enzo.fucitalo@groundwork.com.br",
+      "cli_user": "enzo.fucitalo@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026042926000379",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26042917532521",
@@ -2396,9 +2416,9 @@
       "num": "2026042726000186",
       "assunto": "Baixa Teste Homologação",
       "criado": "2026-04-27T10:24:20",
-      "modificado": "2026-04-28T10:56:33",
+      "modificado": "2026-04-29T18:52:52",
       "fila": "SSG",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "3 normal",
       "atendente": "Debora Gomes",
       "primeiro_nome": "Debora",
