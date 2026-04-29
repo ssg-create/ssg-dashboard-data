@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777471233,
-  "generated_at_iso": "2026-04-29T14:00:33Z",
+  "generated_at": 1777471830,
+  "generated_at_iso": "2026-04-29T14:10:30Z",
   "count": 175,
   "filas": [
     "DATASUL",
@@ -457,6 +457,18 @@
       "assunto": "ENC: Atualização QIVE - CHANGE PRODUÇÃO"
     },
     {
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-29T05:00:16",
+      "idade_dias": 6,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+    },
+    {
       "ticket": "2026041626000214",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -481,16 +493,16 @@
       "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
     },
     {
-      "ticket": "2026042326000255",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
+      "ticket": "2026041226000043",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-29T05:00:16",
-      "idade_dias": 5,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+      "prioridade": "1 very low",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-12T09:15:14",
+      "modificado": "2026-04-29T05:00:15",
+      "idade_dias": 17,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
       "ticket": "2026042726000141",
@@ -577,16 +589,28 @@
       "assunto": "Ajustes dashboard Service Search – Category"
     },
     {
-      "ticket": "2026041226000043",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
+      "ticket": "2026042426000146",
+      "cliente": "paulo.filho@arcoeducacao.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-12T09:15:14",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 17,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-24T10:20:10",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 5,
+      "assunto": "Adição Monitoria - OCI Docker Conector Sensedia "
+    },
+    {
+      "ticket": "2026041526000181",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-04-15T09:31:44",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 14,
+      "assunto": "Rollback exclusão de NF"
     },
     {
       "ticket": "2026041626000447",
@@ -709,18 +733,6 @@
       "assunto": "Adicionar servidor ao monitoramento - POC GWMS for TOTVS - ELETTROMEC"
     },
     {
-      "ticket": "2026042326000219",
-      "cliente": "joalyson.oliveira@teletex.com",
-      "fila": "DBA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-04-23T10:00:07",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 6,
-      "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
-    },
-    {
       "ticket": "2026041726000338",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -731,6 +743,18 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 11,
       "assunto": "PROBLEMA AO ACESSAR"
+    },
+    {
+      "ticket": "2026042326000219",
+      "cliente": "joalyson.oliveira@teletex.com",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-04-23T10:00:07",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 6,
+      "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
     },
     {
       "ticket": "2025073026000407",
@@ -767,30 +791,6 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 5,
       "assunto": "Acesso ao GWMS"
-    },
-    {
-      "ticket": "2026042426000146",
-      "cliente": "paulo.filho@arcoeducacao.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-24T10:20:10",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 5,
-      "assunto": "Adição Monitoria - OCI Docker Conector Sensedia "
-    },
-    {
-      "ticket": "2026041526000181",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-04-15T09:31:44",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 14,
-      "assunto": "Rollback exclusão de NF"
     },
     {
       "ticket": "2026041726000114",
@@ -1261,18 +1261,6 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
-      "ticket": "2026042726000186",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-27T10:24:20",
-      "modificado": "2026-04-28T10:56:33",
-      "idade_dias": 2,
-      "assunto": "Baixa Teste Homologação"
-    },
-    {
       "ticket": "2026042826000175",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1283,6 +1271,18 @@
       "modificado": "2026-04-28T10:56:33",
       "idade_dias": 1,
       "assunto": "SIGACOM :: Auxilio com novo fluxo de compras"
+    },
+    {
+      "ticket": "2026042726000186",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-27T10:24:20",
+      "modificado": "2026-04-28T10:56:33",
+      "idade_dias": 2,
+      "assunto": "Baixa Teste Homologação"
     },
     {
       "ticket": "2026042326000022",
