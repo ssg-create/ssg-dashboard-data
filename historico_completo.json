@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777424430,
-  "generated_at_iso": "2026-04-29T01:00:30Z",
-  "count": 2324,
+  "generated_at": 1777425023,
+  "generated_at_iso": "2026-04-29T01:10:23Z",
+  "count": 2323,
   "filas": [
     "DATASUL",
     "DBA",
@@ -3673,26 +3673,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -3711,6 +3691,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
@@ -46471,26 +46471,6 @@
       "sol_min_raw": 6079,
       "sol_min_bh": 2419,
       "resp_min_bh": 171
-    },
-    {
-      "num": "2025122826000161",
-      "assunto": "Tabela SB1 parte 2 - dia 01/01/2026",
-      "criado": "2025-12-28T22:04:42",
-      "modificado": "2026-01-29T17:45:13",
-      "fila": "SSG",
-      "estado": "closed successful",
-      "prioridade": "2 low",
-      "atendente": "Ricardo Pinheiro",
-      "primeiro_nome": "Ricardo",
-      "ultimo_nome": "Pinheiro",
-      "cli_id": "AUTOZONE",
-      "cli_user": "renato.ferreira@autozone.com",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
-      "fechado": "2026-01-29T17:45:13",
-      "resp_min_raw": 598,
-      "sol_min_raw": 45820,
-      "sol_min_bh": 12945,
-      "resp_min_bh": 2
     }
   ],
   "janela_meses": 4,
