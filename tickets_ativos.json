@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777582222,
-  "generated_at_iso": "2026-04-30T20:50:22Z",
-  "count": 179,
+  "generated_at": 1777582828,
+  "generated_at_iso": "2026-04-30T21:00:28Z",
+  "count": 180,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,16 +13,64 @@
   ],
   "rows": [
     {
+      "ticket": "2026043026000171",
+      "cliente": "beatriz.blaska@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-30T11:25:22",
+      "modificado": "2026-04-30T17:55:19",
+      "idade_dias": 0,
+      "assunto": "Notificação de indisponibilidade TI Fluig"
+    },
+    {
+      "ticket": "2026043026000287",
+      "cliente": "carlos.fernandes@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-30T16:20:23",
+      "modificado": "2026-04-30T17:55:19",
+      "idade_dias": 0,
+      "assunto": "Criação de Serviços Protheus"
+    },
+    {
       "ticket": "2026043026000321",
       "cliente": "filipe.meier@totvs.com.br",
       "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
       "criado": "2026-04-30T17:45:15",
-      "modificado": "2026-04-30T17:49:54",
+      "modificado": "2026-04-30T17:53:02",
       "idade_dias": 0,
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
+    },
+    {
+      "ticket": "2026043026000331",
+      "cliente": "joao.santos@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-04-30T17:50:21",
+      "modificado": "2026-04-30T17:51:34",
+      "idade_dias": 0,
+      "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
+    },
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-30T17:50:24",
+      "idade_dias": 1,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026043026000312",
@@ -85,18 +133,6 @@
       "assunto": "Ajuste de tipos de autenticação de usuário"
     },
     {
-      "ticket": "2026043026000171",
-      "cliente": "beatriz.blaska@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-30T11:25:22",
-      "modificado": "2026-04-30T17:30:49",
-      "idade_dias": 0,
-      "assunto": "Notificação de indisponibilidade TI Fluig"
-    },
-    {
       "ticket": "2026043026000303",
       "cliente": null,
       "fila": "SSG",
@@ -107,30 +143,6 @@
       "modificado": "2026-04-30T17:21:49",
       "idade_dias": 0,
       "assunto": "[CHAMADO DE TESTE] ERRO DEPRECIACAO ATIVO BRGAAP"
-    },
-    {
-      "ticket": "2026043026000287",
-      "cliente": "carlos.fernandes@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-30T16:20:23",
-      "modificado": "2026-04-30T16:45:11",
-      "idade_dias": 0,
-      "assunto": "Criação de Serviços Protheus"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-04-30T16:39:30",
-      "idade_dias": 1,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026041726000114",
@@ -405,7 +417,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-04-30T13:18:08",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
@@ -525,7 +537,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-28T18:00:25",
       "modificado": "2026-04-30T10:15:55",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
@@ -685,18 +697,6 @@
       "assunto": "Alterar o threshold ATITUS"
     },
     {
-      "ticket": "2026042326000424",
-      "cliente": "elaine.vicente@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T16:30:15",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 7,
-      "assunto": "Acesso ao GWMS"
-    },
-    {
       "ticket": "2026042726000426",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -709,28 +709,16 @@
       "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
-      "ticket": "2026042826000166",
-      "cliente": "lucio.oliveira@totvs.com.br",
+      "ticket": "2026042326000424",
+      "cliente": "elaine.vicente@teletex.com",
       "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
+      "prioridade": "3 normal",
       "atendente": "Bruno Fagundes",
-      "criado": "2026-04-28T09:30:16",
+      "criado": "2026-04-23T16:30:15",
       "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 2,
-      "assunto": "Remoção de monitoramento"
-    },
-    {
-      "ticket": "2026042726000122",
-      "cliente": "osmair.moraes@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-27T09:30:10",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 3,
-      "assunto": "Criação de usuário."
+      "idade_dias": 7,
+      "assunto": "Acesso ao GWMS"
     },
     {
       "ticket": "2026042826000157",
@@ -757,64 +745,28 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026042126000071",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
+      "ticket": "2026042826000166",
+      "cliente": "lucio.oliveira@totvs.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-21T13:48:10",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 9,
-      "assunto": "Erro e perdendo a conexão."
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-28T09:30:16",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 2,
+      "assunto": "Remoção de monitoramento"
     },
     {
-      "ticket": "2026042226000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
+      "ticket": "2026042726000122",
+      "cliente": "osmair.moraes@totvs.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-22T08:48:42",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 8,
-      "assunto": "Liberação de tabelas"
-    },
-    {
-      "ticket": "2026041426000085",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-14T08:50:46",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 16,
-      "assunto": "Problema de exclusão de título financeiro"
-    },
-    {
-      "ticket": "2026042326000255",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 7,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
-    },
-    {
-      "ticket": "2026042326000282",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 7,
-      "assunto": "Configurar Programa"
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-27T09:30:10",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 3,
+      "assunto": "Criação de usuário."
     },
     {
       "ticket": "2026041626000214",
@@ -853,16 +805,16 @@
       "assunto": "CIAP - loja 150"
     },
     {
-      "ticket": "2026042426000182",
-      "cliente": "TJBA",
-      "fila": "GWMS",
+      "ticket": "2026042226000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-24T11:59:50",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-22T08:48:42",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 6,
-      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
+      "idade_dias": 8,
+      "assunto": "Liberação de tabelas"
     },
     {
       "ticket": "2026040126000251",
@@ -901,6 +853,54 @@
       "assunto": "Organizar cód Fontes"
     },
     {
+      "ticket": "2026042326000282",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-23T11:22:35",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 7,
+      "assunto": "Configurar Programa"
+    },
+    {
+      "ticket": "2026042426000182",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-24T11:59:50",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 6,
+      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
+    },
+    {
+      "ticket": "2026042126000071",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-21T13:48:10",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 9,
+      "assunto": "Erro e perdendo a conexão."
+    },
+    {
+      "ticket": "2026041426000085",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-14T08:50:46",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 16,
+      "assunto": "Problema de exclusão de título financeiro"
+    },
+    {
       "ticket": "2026041626000358",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -913,6 +913,18 @@
       "assunto": "RE: Agent GWMS"
     },
     {
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 7,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+    },
+    {
       "ticket": "2026042726000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -923,6 +935,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 3,
       "assunto": "Erro de  -L no servidor"
+    },
+    {
+      "ticket": "2026011426000241",
+      "cliente": "AUTOZONE",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-01-14T11:54:43",
+      "modificado": "2026-04-30T05:00:12",
+      "idade_dias": 106,
+      "assunto": "SFT frete"
     },
     {
       "ticket": "2025121126000371",
@@ -947,18 +971,6 @@
       "modificado": "2026-04-30T05:00:12",
       "idade_dias": 15,
       "assunto": "Rollback exclusão de NF"
-    },
-    {
-      "ticket": "2026011426000241",
-      "cliente": "AUTOZONE",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-01-14T11:54:43",
-      "modificado": "2026-04-30T05:00:12",
-      "idade_dias": 106,
-      "assunto": "SFT frete"
     },
     {
       "ticket": "2026042726000462",
@@ -1065,7 +1077,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-27T17:59:57",
       "modificado": "2026-04-29T17:27:10",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
@@ -1161,7 +1173,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-28T18:00:24",
       "modificado": "2026-04-29T15:47:04",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
     },
     {
@@ -1173,7 +1185,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-04-29T15:39:30",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
