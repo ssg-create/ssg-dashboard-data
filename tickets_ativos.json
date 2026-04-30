@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777575029,
-  "generated_at_iso": "2026-04-30T18:50:29Z",
-  "count": 175,
+  "generated_at": 1777575629,
+  "generated_at_iso": "2026-04-30T19:00:29Z",
+  "count": 174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026020226000164",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-02-02T10:00:27",
+      "modificado": "2026-04-30T15:55:24",
+      "idade_dias": 87,
+      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
     {
       "ticket": "2026042026000199",
       "cliente": "valdeson.silva.ma@riopiranhas.com.br",
@@ -469,18 +481,6 @@
       "assunto": "TKT-555192-2026 - Seu novo chamado foi aberto. Neogrid0880268819"
     },
     {
-      "ticket": "2026043026000152",
-      "cliente": "customer-service@neogrid.com",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-30T09:45:13",
-      "modificado": "2026-04-30T09:58:53",
-      "idade_dias": 0,
-      "assunto": "TKT-555192-2026 - XML não estão sendo direcionados para pasta de envio Neogrid0585006174"
-    },
-    {
       "ticket": "2026021226000369",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -757,18 +757,6 @@
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 274,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
       "ticket": "2026042226000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -815,6 +803,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 7,
       "assunto": "Configurar Programa"
+    },
+    {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 274,
+      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026042126000071",
@@ -969,7 +969,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-29T16:00:12",
       "modificado": "2026-04-29T17:40:03",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Alertas Braveo - Pulmer"
     },
     {
@@ -1237,18 +1237,6 @@
       "assunto": "Relatorio de Ativo Customizado"
     },
     {
-      "ticket": "2026020226000164",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-04-29T10:20:12",
-      "idade_dias": 87,
-      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
-    },
-    {
       "ticket": "2026042826000353",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -1473,7 +1461,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-17T15:55:10",
       "modificado": "2026-04-28T10:55:09",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "AutoZone - Correção de Tipo 9 - 17.04 - PD09 FY26"
     },
     {
