@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777558832,
-  "generated_at_iso": "2026-04-30T14:20:32Z",
-  "count": 2324,
+  "generated_at": 1777559426,
+  "generated_at_iso": "2026-04-30T14:30:26Z",
+  "count": 2325,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026043026000189",
+      "assunto": "FLUIG - MENU INDISPONÍVEL",
+      "criado": "2026-04-30T11:27:27",
+      "modificado": "2026-04-30T11:27:28",
+      "fila": "DBA",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "SECONCI",
+      "cli_user": "marcos.palma@seconci-sp.org.br",
+      "servico": "Banco de Horas::Fluig",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026043026000152",
       "assunto": "TKT-555192-2026 - XML não estão sendo direcionados para pasta de envio Neogrid0585006174",
@@ -1596,7 +1616,7 @@
       "num": "2026042826000237",
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS",
       "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-04-29T16:14:14",
+      "modificado": "2026-04-30T11:24:03",
       "fila": "SSG",
       "estado": "retorno cliente",
       "prioridade": "4 high",
@@ -4353,26 +4373,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -4391,6 +4391,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
