@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777587630,
-  "generated_at_iso": "2026-04-30T22:20:30Z",
+  "generated_at": 1777588231,
+  "generated_at_iso": "2026-04-30T22:30:31Z",
   "counts": {
     "crit": 1,
-    "warn": 3,
+    "warn": 4,
     "ok": 0
   },
   "insights": [
@@ -24,6 +24,25 @@
         }
       ],
       "recommendation": "Revisar em bloco: cada atendente confirma se o ticket está ativo ou deve ser fechado/escalado.",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Diego_Cardoso",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Diego Cardoso com carga real de 5 tickets",
+      "summary": "Diego Cardoso tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Diego Cardoso",
+          "carga_real": 5,
+          "em_atendimento": 2,
+          "abertos": 3,
+          "aguardando_terceiros": 5,
+          "ativos_total": 10
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
       "impact_estimate": "médio"
     },
     {
