@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777534223,
-  "generated_at_iso": "2026-04-30T07:30:23Z",
+  "generated_at": 1777534824,
+  "generated_at_iso": "2026-04-30T07:40:24Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000462",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-04-30T04:40:01",
+      "idade_dias": 2,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
     {
       "ticket": "2026043026000036",
       "cliente": "cloud-admin@ess.cloud.elastic.co",
@@ -347,18 +359,6 @@
       "modificado": "2026-04-29T16:32:24",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - HOST DOWN - 26042916213686"
-    },
-    {
-      "ticket": "2026042726000462",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-04-29T16:30:17",
-      "idade_dias": 2,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
       "ticket": "2026042826000219",
