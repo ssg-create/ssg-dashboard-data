@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777555828,
-  "generated_at_iso": "2026-04-30T13:30:28Z",
+  "generated_at": 1777556429,
+  "generated_at_iso": "2026-04-30T13:40:29Z",
   "count": 2326,
   "filas": [
     "DATASUL",
@@ -136,9 +136,9 @@
       "num": "2026043026000091",
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente",
       "criado": "2026-04-30T08:30:27",
-      "modificado": "2026-04-30T09:50:57",
+      "modificado": "2026-04-30T10:31:03",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -147,10 +147,10 @@
       "cli_user": "rafael.dealmeida@teletex.com",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 120,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 120
     },
     {
       "num": "2026043026000072",
