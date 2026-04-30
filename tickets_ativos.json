@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777583423,
-  "generated_at_iso": "2026-04-30T21:10:23Z",
+  "generated_at": 1777584024,
+  "generated_at_iso": "2026-04-30T21:20:24Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000113",
+      "cliente": "guilherme.jonck@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T09:25:09",
+      "modificado": "2026-04-30T18:18:05",
+      "idade_dias": 3,
+      "assunto": "Revisão do plugin discovery_protheus_appservers"
+    },
     {
       "ticket": "2026043026000349",
       "cliente": "TJBA",
@@ -167,18 +179,6 @@
       "modificado": "2026-04-30T16:20:55",
       "idade_dias": 13,
       "assunto": "Apontamentos de horas Guima - Abril 2024"
-    },
-    {
-      "ticket": "2026042726000113",
-      "cliente": "guilherme.jonck@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T09:25:09",
-      "modificado": "2026-04-30T16:13:28",
-      "idade_dias": 3,
-      "assunto": "Revisão do plugin discovery_protheus_appservers"
     },
     {
       "ticket": "2026042726000435",
@@ -1041,7 +1041,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-15T18:11:21",
       "modificado": "2026-04-29T20:44:10",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Descoberta de Topologia automática"
     },
     {
@@ -1593,7 +1593,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-17T18:17:04",
       "modificado": "2026-04-28T08:44:10",
-      "idade_dias": 133,
+      "idade_dias": 134,
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
