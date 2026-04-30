@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777513820,
-  "generated_at_iso": "2026-04-30T01:50:20Z",
+  "generated_at": 1777514428,
+  "generated_at_iso": "2026-04-30T02:00:28Z",
   "count": 185,
   "filas": [
     "DATASUL",
@@ -745,6 +745,18 @@
       "assunto": "Alteração Dashboard Logmein"
     },
     {
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-29T05:00:16",
+      "idade_dias": 6,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+    },
+    {
       "ticket": "2026042226000481",
       "cliente": "eduardo.candido@groundwork.com.br",
       "fila": "GWMS",
@@ -769,16 +781,28 @@
       "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
     },
     {
-      "ticket": "2026042326000255",
+      "ticket": "2026042526000331",
+      "cliente": "GRUPO_METALNOX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-25T19:12:26",
+      "modificado": "2026-04-29T05:00:15",
+      "idade_dias": 4,
+      "assunto": "Monitoramento"
+    },
+    {
+      "ticket": "2026040726000384",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-29T05:00:16",
-      "idade_dias": 6,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+      "criado": "2026-04-07T14:54:52",
+      "modificado": "2026-04-29T05:00:15",
+      "idade_dias": 22,
+      "assunto": "Liberar Modo Financeiro"
     },
     {
       "ticket": "2026042426000182",
@@ -803,18 +827,6 @@
       "modificado": "2026-04-29T05:00:15",
       "idade_dias": 5,
       "assunto": "Ajustes dashboard Service Search – Category"
-    },
-    {
-      "ticket": "2026040726000384",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-07T14:54:52",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 22,
-      "assunto": "Liberar Modo Financeiro"
     },
     {
       "ticket": "2026041226000043",
@@ -853,18 +865,6 @@
       "assunto": "Unimed - Gerenciamento de dashboards"
     },
     {
-      "ticket": "2026042526000331",
-      "cliente": "GRUPO_METALNOX",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-25T19:12:26",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 4,
-      "assunto": "Monitoramento"
-    },
-    {
       "ticket": "2026042226000239",
       "cliente": "bruno.fagundes@groundwork.com.br",
       "fila": "GWMS",
@@ -899,6 +899,30 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 13,
       "assunto": "RE: Agent GWMS"
+    },
+    {
+      "ticket": "2026011426000241",
+      "cliente": "AUTOZONE",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-01-14T11:54:43",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 105,
+      "assunto": "SFT frete"
+    },
+    {
+      "ticket": "2026042326000219",
+      "cliente": "joalyson.oliveira@teletex.com",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-04-23T10:00:07",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 6,
+      "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
     },
     {
       "ticket": "2026041726000338",
@@ -937,42 +961,6 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026041426000085",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-14T08:50:46",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 15,
-      "assunto": "Problema de exclusão de título financeiro"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 273,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
-      "ticket": "2026042326000219",
-      "cliente": "joalyson.oliveira@teletex.com",
-      "fila": "DBA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-04-23T10:00:07",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 6,
-      "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
-    },
-    {
       "ticket": "2026042426000146",
       "cliente": "paulo.filho@arcoeducacao.com.br",
       "fila": "GWMS",
@@ -1009,6 +997,18 @@
       "assunto": "AUTOZONE - GWMS-Server - Disks Queue Length - 26041413581068"
     },
     {
+      "ticket": "2026041426000085",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-14T08:50:46",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 15,
+      "assunto": "Problema de exclusão de título financeiro"
+    },
+    {
       "ticket": "2026042226000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -1033,16 +1033,16 @@
       "assunto": "Adicionar servidor ao monitoramento - POC GWMS for TOTVS - ELETTROMEC"
     },
     {
-      "ticket": "2026011426000241",
-      "cliente": "AUTOZONE",
-      "fila": "PROTHEUS",
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-01-14T11:54:43",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 105,
-      "assunto": "SFT frete"
+      "idade_dias": 273,
+      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026041726000114",
