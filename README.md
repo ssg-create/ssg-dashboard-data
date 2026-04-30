@@ -1,52 +1,46 @@
-# Branch `data`
+# ssg-dashboard-data
 
-Branch órfã (sem histórico compartilhado com `main`) que armazena apenas os
-JSONs gerados pelo workflow `gwms-sync.yml`.
+> ⚠️ **NÃO CONECTE ESTE REPO À VERCEL.** ⚠️
+>
+> Conectar reintroduz exatamente o problema que motivou criar este repo separado:
+> a quota Hobby de 100 deploys/dia da Vercel esgota em poucas horas porque o
+> sync gera ~720 commits/dia, e cada commit cria um deployment record (consome
+> slot mesmo com `ignoreCommand` retornando exit 0).
 
-## Por que existe
+## O que é
 
-Vercel free tier limita a **100 deployments/dia**. O workflow GWMS Sync
-commita 8 JSONs a cada 10min (~144 commits/dia). Mesmo com `ignoreCommand`
-cancelando os builds, cada commit em `main` consumia 1 slot da cota.
+Repositório dedicado a **snapshots de dados** do GW Command Center.
+Recebe ~720 commits/dia do workflow GWMS Sync (a cada 10min, 8 arquivos).
 
-Solução: workflow commita aqui em `data`. Vercel ignora pushes nessa branch
-via `vercel.json` em `main`:
+Foi separado de `ssg-create/ssg-dashboard` em 2026-04-30 justamente para
+desacoplar a hemorragia de commits do repo conectado à Vercel.
 
-```json
-{
-  "git": {
-    "deploymentEnabled": {
-      "data": false
-    }
-  }
-}
-```
+## Conteúdo
 
-Resultado: **0 deployments consumidos** pelos commits do GWMS Sync.
+8 JSONs servidos publicamente via raw.githubusercontent.com:
 
-## Como o dashboard usa
+- `historico_completo.json` — fonte de verdade, ~2300 tickets, janela 4 meses
+- `tickets_ativos.json` — tickets em aberto agora
+- `utilizacao.json` — carga por atendente
+- `gwms-insights.json` — IAL (Sinais Ao Vivo)
+- `aios-insights.json` — pipeline XLSX (legado, órfão)
+- `silenciosos.json` / `triagem.json` / `reaberturas.json`
 
-`index.html` em `main` fetcha JSONs direto do raw do GitHub apontando pra esta branch:
+## Quem grava aqui
 
-```js
-fetch('https://raw.githubusercontent.com/ssg-create/ssg-dashboard/data/historico_completo.json?v=' + Date.now())
-```
+Workflow `.github/workflows/gwms-sync.yml` no repo **`ssg-create/ssg-dashboard`**
+(o repo de código, não este). Disparado por cron-job.org a cada 10min via
+`workflow_dispatch`. Usa secret `GH_PAT_CROSS_REPO` para autenticar PUT no
+GitHub Contents API.
 
-CDN do GitHub tem TTL de ~5min, então o dashboard sempre vê dados frescos.
+## Quem lê daqui
 
-## Arquivos
+Dashboard pública **https://gw-command.vercel.app**.
+Rewrites no `vercel.json` (do repo `ssg-dashboard`) apontam para
+`raw.githubusercontent.com/ssg-create/ssg-dashboard-data/main/<arquivo>.json`.
 
-| Arquivo | Origem | Atualização |
-|---|---|---|
-| `historico_completo.json` | `q_historico_completo()` no `gwms_sync.py` | a cada 10 min |
-| `tickets_ativos.json`     | `q_tickets_ativos()`     | a cada 10 min |
-| `utilizacao.json`         | `q_utilizacao()`         | a cada 10 min |
-| `silenciosos.json`        | `q_silenciosos()`        | a cada 10 min |
-| `triagem.json`            | `q_triagem()`            | a cada 10 min |
-| `reaberturas.json`        | `q_reaberturas()`        | a cada 10 min |
-| `gwms-insights.json`      | `generate_insights()`    | a cada 10 min |
-| `aios-insights.json`      | gerado pelo pipeline OTRS legado | obsoleto (manter por compat) |
+## Por que não privado
 
-## Não commitar manualmente aqui
-
-Esta branch é gerenciada pelo workflow. Mexer manualmente quebra o ciclo do sync.
+Vercel rewrites não conseguem injetar `Authorization` header em URLs de
+proxy → repo precisa ser público para `raw.githubusercontent.com` responder
+sem auth. Os dados expostos são tickets internos OTRS — não há credencial.
