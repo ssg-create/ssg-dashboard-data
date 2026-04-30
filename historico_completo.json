@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777554630,
-  "generated_at_iso": "2026-04-30T13:10:30Z",
+  "generated_at": 1777555233,
+  "generated_at_iso": "2026-04-30T13:20:33Z",
   "count": 2326,
   "filas": [
     "DATASUL",
@@ -916,9 +916,9 @@
       "num": "2026042826000611",
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT",
       "criado": "2026-04-28T18:00:25",
-      "modificado": "2026-04-29T08:17:49",
+      "modificado": "2026-04-30T10:15:55",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "3 normal",
       "atendente": "Thiago Trufelli",
       "primeiro_nome": "Thiago",
@@ -927,10 +927,10 @@
       "cli_user": "marcio.guimaraes@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 2413,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 673
     },
     {
       "num": "2026042826000602",
@@ -1596,7 +1596,7 @@
       "num": "2026042826000246",
       "assunto": "INSERT/ SELECT - TIPO 9",
       "criado": "2026-04-28T10:45:20",
-      "modificado": "2026-04-30T05:00:15",
+      "modificado": "2026-04-30T10:19:29",
       "fila": "SSG",
       "estado": "aguardando cliente",
       "prioridade": "5 very high",
