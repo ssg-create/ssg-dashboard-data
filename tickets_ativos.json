@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777576826,
-  "generated_at_iso": "2026-04-30T19:20:26Z",
+  "generated_at": 1777577423,
+  "generated_at_iso": "2026-04-30T19:30:23Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-30T16:27:32",
+      "idade_dias": 1,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026041726000114",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-17T10:35:05",
+      "modificado": "2026-04-30T16:20:55",
+      "idade_dias": 13,
+      "assunto": "Apontamentos de horas Guima - Abril 2024"
+    },
     {
       "ticket": "2026043026000171",
       "cliente": "beatriz.blaska@totvs.com.br",
@@ -229,18 +253,6 @@
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
     },
     {
-      "ticket": "2026041726000114",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-17T10:35:05",
-      "modificado": "2026-04-30T14:22:49",
-      "idade_dias": 13,
-      "assunto": "Apontamentos de horas Guima - Abril 2024"
-    },
-    {
       "ticket": "2026040926000193",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -263,18 +275,6 @@
       "modificado": "2026-04-30T14:19:22",
       "idade_dias": 0,
       "assunto": "Acesso - az-srv-app-01 - OTRS - Agente de IA"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-04-30T14:01:00",
-      "idade_dias": 1,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026041726000187",
@@ -513,7 +513,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:25:10",
       "modificado": "2026-04-30T09:16:37",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Implementação ELK - GWMS - DIGNA"
     },
     {
@@ -633,7 +633,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T16:30:15",
       "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Acesso ao GWMS"
     },
     {
@@ -829,18 +829,6 @@
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
-      "ticket": "2026042326000255",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 7,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
-    },
-    {
       "ticket": "2026042726000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -851,6 +839,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 3,
       "assunto": "Erro de  -L no servidor"
+    },
+    {
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 7,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
       "ticket": "2026041526000181",
@@ -1353,7 +1353,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-27T16:30:05",
       "modificado": "2026-04-29T08:16:29",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Alteração Dashboard Logmein"
     },
     {
@@ -1581,7 +1581,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-03-30T16:24:29",
       "modificado": "2026-04-27T10:42:13",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "Derrubar usuários no ToTvs"
     },
     {
