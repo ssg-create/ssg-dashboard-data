@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777575033,
-  "generated_at_iso": "2026-04-30T18:50:33Z",
+  "generated_at": 1777575632,
+  "generated_at_iso": "2026-04-30T19:00:32Z",
   "count": 2331,
   "filas": [
     "DATASUL",
@@ -216,9 +216,9 @@
       "num": "2026043026000152",
       "assunto": "TKT-555192-2026 - XML não estão sendo direcionados para pasta de envio Neogrid0585006174",
       "criado": "2026-04-30T09:45:13",
-      "modificado": "2026-04-30T09:58:53",
+      "modificado": "2026-04-30T15:55:37",
       "fila": "SSG",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Dyalef Abreu Santos",
       "primeiro_nome": "Dyalef",
@@ -226,11 +226,11 @@
       "cli_id": "customer-service@neogrid.com",
       "cli_user": "customer-service@neogrid.com",
       "servico": "Banco de Horas::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-04-30T15:55:37",
+      "resp_min_raw": 370,
+      "sol_min_raw": 370,
+      "sol_min_bh": 309,
+      "resp_min_bh": 309
     },
     {
       "num": "2026043026000143",
@@ -33716,7 +33716,7 @@
       "num": "2026020226000164",
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada",
       "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-04-29T10:20:12",
+      "modificado": "2026-04-30T15:55:24",
       "fila": "SSG",
       "estado": "retorno cliente",
       "prioridade": "5 very high",
