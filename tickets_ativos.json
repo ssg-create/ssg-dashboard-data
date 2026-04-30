@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777566022,
-  "generated_at_iso": "2026-04-30T16:20:22Z",
+  "generated_at": 1777566621,
+  "generated_at_iso": "2026-04-30T16:30:21Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
+      "modificado": "2026-04-30T13:27:39",
+      "idade_dias": 2,
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+    },
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-30T13:20:55",
+      "idade_dias": 0,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-04-30T13:20:39",
+      "idade_dias": 1,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
+    },
     {
       "ticket": "2026041726000061",
       "cliente": "GroundWork",
@@ -71,18 +107,6 @@
       "modificado": "2026-04-30T13:00:07",
       "idade_dias": 1,
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
-    },
-    {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-04-30T12:53:44",
-      "idade_dias": 2,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
       "ticket": "2026043026000198",
@@ -167,18 +191,6 @@
       "modificado": "2026-04-30T12:05:21",
       "idade_dias": 2,
       "assunto": "Revisão dashboards Totvs"
-    },
-    {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-04-30T12:04:55",
-      "idade_dias": 1,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026043026000189",
@@ -1067,18 +1079,6 @@
       "modificado": "2026-04-29T16:09:09",
       "idade_dias": 19,
       "assunto": "BUG reload/restart centreon"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-04-29T15:51:54",
-      "idade_dias": 0,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026042926000048",
