@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777577423,
-  "generated_at_iso": "2026-04-30T19:30:23Z",
-  "count": 174,
+  "generated_at": 1777578027,
+  "generated_at_iso": "2026-04-30T19:40:27Z",
+  "count": 175,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,13 +16,25 @@
       "ticket": "2026042926000235",
       "cliente": "GDBR",
       "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "5 very high",
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-04-30T16:27:32",
+      "modificado": "2026-04-30T16:39:30",
       "idade_dias": 1,
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026043026000287",
+      "cliente": "carlos.fernandes@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-30T16:20:23",
+      "modificado": "2026-04-30T16:35:22",
+      "idade_dias": 0,
+      "assunto": "Criação de Serviços Protheus"
     },
     {
       "ticket": "2026041726000114",
@@ -565,18 +577,6 @@
       "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
-      "ticket": "2026042826000273",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-28T11:50:17",
-      "modificado": "2026-04-30T05:00:15",
-      "idade_dias": 2,
-      "assunto": "Error. \"Instance Failed to Load\""
-    },
-    {
       "ticket": "2026042826000228",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -613,28 +613,16 @@
       "assunto": "Remover monitoramento da base ATITUS"
     },
     {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 2,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
-    },
-    {
-      "ticket": "2026042326000424",
-      "cliente": "elaine.vicente@teletex.com",
-      "fila": "GWMS",
+      "ticket": "2026042826000273",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T16:30:15",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 7,
-      "assunto": "Acesso ao GWMS"
+      "atendente": "Marcelo David",
+      "criado": "2026-04-28T11:50:17",
+      "modificado": "2026-04-30T05:00:15",
+      "idade_dias": 2,
+      "assunto": "Error. \"Instance Failed to Load\""
     },
     {
       "ticket": "2026042826000157",
@@ -685,52 +673,28 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026041626000214",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-16T09:38:46",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 14,
-      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
-    },
-    {
-      "ticket": "2026040726000384",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-07T14:54:52",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 23,
-      "assunto": "Liberar Modo Financeiro"
-    },
-    {
-      "ticket": "2026031726000287",
+      "ticket": "2026042726000426",
       "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-03-17T12:12:20",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 44,
-      "assunto": "CIAP - loja 150"
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:23:23",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 2,
+      "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
-      "ticket": "2026042226000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
+      "ticket": "2026042326000424",
+      "cliente": "elaine.vicente@teletex.com",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-22T08:48:42",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 8,
-      "assunto": "Liberação de tabelas"
+      "prioridade": "3 normal",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T16:30:15",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 7,
+      "assunto": "Acesso ao GWMS"
     },
     {
       "ticket": "2026040126000251",
@@ -745,18 +709,6 @@
       "assunto": "Implantação de um PE"
     },
     {
-      "ticket": "2026042426000182",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-24T11:59:50",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 6,
-      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
-    },
-    {
       "ticket": "2026042326000282",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
@@ -769,18 +721,6 @@
       "assunto": "Configurar Programa"
     },
     {
-      "ticket": "2026041626000358",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-16T15:00:06",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 14,
-      "assunto": "RE: Agent GWMS"
-    },
-    {
       "ticket": "2026021226000207",
       "cliente": "FADEL",
       "fila": "SSG",
@@ -791,6 +731,30 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 77,
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
+    },
+    {
+      "ticket": "2026042426000182",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-24T11:59:50",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 6,
+      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
+    },
+    {
+      "ticket": "2026041626000358",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-16T15:00:06",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 14,
+      "assunto": "RE: Agent GWMS"
     },
     {
       "ticket": "2025073026000407",
@@ -853,6 +817,66 @@
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
+      "ticket": "2026041626000214",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-16T09:38:46",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 14,
+      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
+    },
+    {
+      "ticket": "2026040726000384",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-07T14:54:52",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 23,
+      "assunto": "Liberar Modo Financeiro"
+    },
+    {
+      "ticket": "2026042226000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-22T08:48:42",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 8,
+      "assunto": "Liberação de tabelas"
+    },
+    {
+      "ticket": "2026031726000287",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-03-17T12:12:20",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 44,
+      "assunto": "CIAP - loja 150"
+    },
+    {
+      "ticket": "2025121126000371",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2025-12-11T15:00:57",
+      "modificado": "2026-04-30T05:00:12",
+      "idade_dias": 140,
+      "assunto": "PRE DANFE"
+    },
+    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -875,18 +899,6 @@
       "modificado": "2026-04-30T05:00:12",
       "idade_dias": 106,
       "assunto": "SFT frete"
-    },
-    {
-      "ticket": "2025121126000371",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2025-12-11T15:00:57",
-      "modificado": "2026-04-30T05:00:12",
-      "idade_dias": 140,
-      "assunto": "PRE DANFE"
     },
     {
       "ticket": "2026042726000462",
@@ -1689,7 +1701,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-04-13T16:30:24",
       "modificado": "2026-04-24T11:23:54",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
@@ -1929,7 +1941,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:31:58",
       "modificado": "2026-04-20T14:54:45",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Atualização de Windows UPdate - Apenas maquinas virtuais"
     },
     {
@@ -1965,7 +1977,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:35:28",
       "modificado": "2026-04-14T17:09:42",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Segurança - Microsoft 365"
     },
     {
