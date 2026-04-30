@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777565425,
-  "generated_at_iso": "2026-04-30T16:10:25Z",
+  "generated_at": 1777566022,
+  "generated_at_iso": "2026-04-30T16:20:22Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -13,14 +13,38 @@
   ],
   "rows": [
     {
+      "ticket": "2026041726000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-04-17T08:45:09",
+      "modificado": "2026-04-30T13:19:06",
+      "idade_dias": 13,
+      "assunto": "Implantação GWMS cliente Digna"
+    },
+    {
+      "ticket": "2026022026000381",
+      "cliente": "NSX",
+      "fila": "SSG",
+      "estado": "AGUARDANDO AGENTES EXTERNOS",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-02-20T17:54:10",
+      "modificado": "2026-04-30T13:18:08",
+      "idade_dias": 68,
+      "assunto": "Atualização Moeda RON não está acontecendo"
+    },
+    {
       "ticket": "2026043026000251",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Vinicius Vedove",
       "criado": "2026-04-30T13:07:08",
-      "modificado": "2026-04-30T13:07:10",
+      "modificado": "2026-04-30T13:12:56",
       "idade_dias": 0,
       "assunto": "Troca de usuário"
     },
@@ -28,11 +52,11 @@
       "ticket": "2026043026000241",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Vinicius Vedove",
       "criado": "2026-04-30T13:06:33",
-      "modificado": "2026-04-30T13:06:36",
+      "modificado": "2026-04-30T13:11:37",
       "idade_dias": 0,
       "assunto": "Troca de usuário"
     },
@@ -937,18 +961,6 @@
       "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
-      "ticket": "2026041726000061",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-04-17T08:45:09",
-      "modificado": "2026-04-29T17:30:18",
-      "idade_dias": 13,
-      "assunto": "Implantação GWMS cliente Digna"
-    },
-    {
       "ticket": "2026042726000453",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1403,18 +1415,6 @@
       "modificado": "2026-04-28T17:21:40",
       "idade_dias": 15,
       "assunto": "Update - GGR3"
-    },
-    {
-      "ticket": "2026022026000381",
-      "cliente": "NSX",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-02-20T17:54:10",
-      "modificado": "2026-04-28T17:19:27",
-      "idade_dias": 68,
-      "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
       "ticket": "2026030626000164",
