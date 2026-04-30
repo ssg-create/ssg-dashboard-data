@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777558231,
-  "generated_at_iso": "2026-04-30T14:10:31Z",
+  "generated_at": 1777558599,
+  "generated_at_iso": "2026-04-30T14:16:39Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026041426000371",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-04-14T16:19:19",
+      "modificado": "2026-04-30T11:15:30",
+      "idade_dias": 15,
+      "assunto": "Relatório de Lucratividade."
+    },
+    {
+      "ticket": "2026042826000344",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:58:03",
+      "modificado": "2026-04-30T11:12:25",
+      "idade_dias": 1,
+      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+    },
     {
       "ticket": "2026042826000121",
       "cliente": "AUMOVIO",
@@ -47,18 +71,6 @@
       "modificado": "2026-04-30T11:03:26",
       "idade_dias": 0,
       "assunto": "Ticket para verificar problema com abertura de tela no GWMS"
-    },
-    {
-      "ticket": "2026041426000371",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-04-14T16:19:19",
-      "modificado": "2026-04-30T10:49:22",
-      "idade_dias": 15,
-      "assunto": "Relatório de Lucratividade."
     },
     {
       "ticket": "2026042726000435",
@@ -275,18 +287,6 @@
       "modificado": "2026-04-30T08:36:59",
       "idade_dias": 1,
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
-    },
-    {
-      "ticket": "2026042826000344",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:58:03",
-      "modificado": "2026-04-30T08:36:10",
-      "idade_dias": 1,
-      "assunto": "Numero de caracteres do Funções Contas a Pagar"
     },
     {
       "ticket": "2026042926000388",
@@ -1041,7 +1041,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-29T11:14:14",
       "modificado": "2026-04-29T14:11:16",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
@@ -1785,7 +1785,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-03-27T11:15:22",
       "modificado": "2026-04-22T11:33:16",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "Configuração GWMS - POC - VEDAMOTORS"
     },
     {
