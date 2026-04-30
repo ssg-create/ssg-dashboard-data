@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777580420,
-  "generated_at_iso": "2026-04-30T20:20:20Z",
+  "generated_at": 1777581027,
+  "generated_at_iso": "2026-04-30T20:30:27Z",
   "count": 177,
   "filas": [
     "DATASUL",
@@ -20,7 +20,7 @@
       "prioridade": "3 normal",
       "atendente": "Tiago Silva",
       "criado": "2026-04-30T17:13:13",
-      "modificado": "2026-04-30T17:15:05",
+      "modificado": "2026-04-30T17:21:49",
       "idade_dias": 0,
       "assunto": "[CHAMADO DE TESTE] ERRO DEPRECIACAO ATIVO BRGAAP"
     },
@@ -657,7 +657,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T17:23:23",
       "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
@@ -733,18 +733,6 @@
       "assunto": "Erro e perdendo a conexão."
     },
     {
-      "ticket": "2026042726000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-27T08:26:47",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 3,
-      "assunto": "Erro de  -L no servidor"
-    },
-    {
       "ticket": "2026041426000085",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -755,6 +743,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 16,
       "assunto": "Problema de exclusão de título financeiro"
+    },
+    {
+      "ticket": "2026042726000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-27T08:26:47",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 3,
+      "assunto": "Erro de  -L no servidor"
     },
     {
       "ticket": "2026042326000255",
@@ -781,18 +781,6 @@
       "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
     },
     {
-      "ticket": "2026042226000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-22T08:48:42",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 8,
-      "assunto": "Liberação de tabelas"
-    },
-    {
       "ticket": "2026040726000384",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -803,6 +791,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 23,
       "assunto": "Liberar Modo Financeiro"
+    },
+    {
+      "ticket": "2026042226000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-22T08:48:42",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 8,
+      "assunto": "Liberação de tabelas"
     },
     {
       "ticket": "2026031726000287",
@@ -1713,7 +1713,7 @@
       "atendente": "George Eivazian",
       "criado": "2026-03-06T17:22:15",
       "modificado": "2026-04-24T14:19:06",
-      "idade_dias": 54,
+      "idade_dias": 55,
       "assunto": "AJUSTE DE LP BAIXA - 40 BETFAIR"
     },
     {
