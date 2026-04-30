@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777551629,
-  "generated_at_iso": "2026-04-30T12:20:29Z",
+  "generated_at": 1777552238,
+  "generated_at_iso": "2026-04-30T12:30:38Z",
   "counts": {
     "crit": 2,
-    "warn": 4,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -46,25 +46,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Jean_Pierre_Rocha",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 9 tickets",
-      "summary": "Jean Pierre Rocha tem 9 tickets ativos sob sua responsabilidade: 2 em atendimento + 7 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Jean Pierre Rocha",
-          "carga_real": 9,
-          "em_atendimento": 2,
-          "abertos": 7,
-          "aguardando_terceiros": 0,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
@@ -84,38 +65,38 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "warn",
+      "id": "sobrecarga_Jean_Pierre_Rocha",
+      "severity": "crit",
       "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 5 tickets",
-      "summary": "Eduardo Candido tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Jean Pierre Rocha com carga real de 9 tickets",
+      "summary": "Jean Pierre Rocha tem 9 tickets ativos sob sua responsabilidade: 2 em atendimento + 7 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Eduardo Candido",
-          "carga_real": 5,
+          "atendente": "Jean Pierre Rocha",
+          "carga_real": 9,
           "em_atendimento": 2,
-          "abertos": 3,
-          "aguardando_terceiros": 2,
-          "ativos_total": 8
+          "abertos": 7,
+          "aguardando_terceiros": 0,
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Thiago_Trufelli",
+      "id": "sobrecarga_Eduardo_Candido",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Thiago Trufelli com carga real de 5 tickets",
-      "summary": "Thiago Trufelli tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Eduardo Candido com carga real de 6 tickets",
+      "summary": "Eduardo Candido tem 6 tickets ativos sob sua responsabilidade: 2 em atendimento + 4 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Thiago Trufelli",
-          "carga_real": 5,
-          "em_atendimento": 3,
-          "abertos": 2,
-          "aguardando_terceiros": 3,
-          "ativos_total": 8
+          "atendente": "Eduardo Candido",
+          "carga_real": 6,
+          "em_atendimento": 2,
+          "abertos": 4,
+          "aguardando_terceiros": 2,
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
