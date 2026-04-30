@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777579815,
-  "generated_at_iso": "2026-04-30T20:10:15Z",
-  "count": 0,
+  "generated_at": 1777580337,
+  "generated_at_iso": "2026-04-30T20:18:57Z",
+  "count": 1,
   "filas": [
     "DATASUL",
     "DBA",
@@ -11,5 +11,17 @@
     "SSG",
     "SSG-MELHORIAS"
   ],
-  "rows": []
+  "rows": [
+    {
+      "ticket": "2026043026000303",
+      "cliente": null,
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-30T17:13:13",
+      "triagem_min": 5,
+      "assunto": "[CHAMADO DE TESTE] ERRO DEPRECIACAO ATIVO BRGAAP"
+    }
+  ]
 }
