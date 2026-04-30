@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777573224,
-  "generated_at_iso": "2026-04-30T18:20:24Z",
+  "generated_at": 1777573830,
+  "generated_at_iso": "2026-04-30T18:30:30Z",
   "counts": {
     "crit": 1,
-    "warn": 2,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -19,7 +19,7 @@
           "cliente": "AUTOZONE",
           "fila": "SSG",
           "atendente": "Carlos Fernandes",
-          "dias_silencio": 63.9,
+          "dias_silencio": 64.0,
           "estado": "OPEN"
         }
       ],
@@ -59,6 +59,25 @@
           "abertos": 7,
           "aguardando_terceiros": 0,
           "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Thiago_Trufelli",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Thiago Trufelli com carga real de 5 tickets",
+      "summary": "Thiago Trufelli tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Thiago Trufelli",
+          "carga_real": 5,
+          "em_atendimento": 3,
+          "abertos": 2,
+          "aguardando_terceiros": 2,
+          "ativos_total": 7
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
