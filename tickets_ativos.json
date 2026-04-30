@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777576231,
-  "generated_at_iso": "2026-04-30T19:10:31Z",
+  "generated_at": 1777576826,
+  "generated_at_iso": "2026-04-30T19:20:26Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -20,9 +20,33 @@
       "prioridade": "1 very low",
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-30T11:25:22",
-      "modificado": "2026-04-30T16:10:08",
+      "modificado": "2026-04-30T16:18:43",
       "idade_dias": 0,
       "assunto": "Notificação de indisponibilidade TI Fluig"
+    },
+    {
+      "ticket": "2026042726000113",
+      "cliente": "guilherme.jonck@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T09:25:09",
+      "modificado": "2026-04-30T16:13:28",
+      "idade_dias": 3,
+      "assunto": "Revisão do plugin discovery_protheus_appservers"
+    },
+    {
+      "ticket": "2026042726000435",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-27T17:35:13",
+      "modificado": "2026-04-30T16:12:59",
+      "idade_dias": 2,
+      "assunto": "Revisão dashboards Totvs"
     },
     {
       "ticket": "2026020226000164",
@@ -141,7 +165,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-04-14T16:19:19",
       "modificado": "2026-04-30T14:54:57",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Relatório de Lucratividade."
     },
     {
@@ -337,18 +361,6 @@
       "assunto": "Desligar DR - Fechamento - Maio/2026"
     },
     {
-      "ticket": "2026042726000435",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-27T17:35:13",
-      "modificado": "2026-04-30T12:05:21",
-      "idade_dias": 2,
-      "assunto": "Revisão dashboards Totvs"
-    },
-    {
       "ticket": "2026043026000189",
       "cliente": "SECONCI",
       "fila": "DBA",
@@ -513,7 +525,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:20:10",
       "modificado": "2026-04-30T09:16:11",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Implementação ELK - GWMS DKT"
     },
     {
@@ -673,18 +685,6 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026042726000113",
-      "cliente": "guilherme.jonck@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T09:25:09",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 3,
-      "assunto": "Revisão do plugin discovery_protheus_appservers"
-    },
-    {
       "ticket": "2026041626000214",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -829,18 +829,6 @@
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
-      "ticket": "2026042726000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-27T08:26:47",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 3,
-      "assunto": "Erro de  -L no servidor"
-    },
-    {
       "ticket": "2026042326000255",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -851,6 +839,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 7,
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+    },
+    {
+      "ticket": "2026042726000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-27T08:26:47",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 3,
+      "assunto": "Erro de  -L no servidor"
     },
     {
       "ticket": "2026041526000181",
@@ -1365,7 +1365,7 @@
       "atendente": "Francisco Silva",
       "criado": "2026-04-14T16:16:57",
       "modificado": "2026-04-28T17:21:40",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Update - GGR3"
     },
     {
@@ -1497,7 +1497,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-12-16T16:15:09",
       "modificado": "2026-04-28T10:18:14",
-      "idade_dias": 134,
+      "idade_dias": 135,
       "assunto": "RES: RES: [EXTERNAL] Re: LIVRO FISCAL"
     },
     {
@@ -1797,7 +1797,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-25T16:20:08",
       "modificado": "2026-04-22T10:36:34",
-      "idade_dias": 35,
+      "idade_dias": 36,
       "assunto": "Ativar SNMPv3 equipamentos TOTVS"
     },
     {
