@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777554030,
-  "generated_at_iso": "2026-04-30T13:00:30Z",
+  "generated_at": 1777554626,
+  "generated_at_iso": "2026-04-30T13:10:26Z",
   "count": 179,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000531",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "MELHORIA",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-28T16:45:15",
+      "modificado": "2026-04-30T10:05:14",
+      "idade_dias": 1,
+      "assunto": "Troca de impressora Zebra - Programa OLRE0011"
+    },
+    {
+      "ticket": "2026042926000262",
+      "cliente": "eduardo.candido@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Jonathan Oliveira",
+      "criado": "2026-04-29T15:10:07",
+      "modificado": "2026-04-30T10:02:07",
+      "idade_dias": 0,
+      "assunto": "Ticket para verificar problema com abertura de tela no GWMS"
+    },
     {
       "ticket": "2026040226000044",
       "cliente": "ALMEIDA JR",
@@ -119,18 +143,6 @@
       "modificado": "2026-04-30T09:35:20",
       "idade_dias": 2,
       "assunto": "Revisão dashboards Totvs"
-    },
-    {
-      "ticket": "2026042926000262",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Jonathan Oliveira",
-      "criado": "2026-04-29T15:10:07",
-      "modificado": "2026-04-30T09:30:26",
-      "idade_dias": 0,
-      "assunto": "Ticket para verificar problema com abertura de tela no GWMS"
     },
     {
       "ticket": "2026042826000362",
@@ -1069,18 +1081,6 @@
       "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
     },
     {
-      "ticket": "2026042826000531",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-28T16:45:15",
-      "modificado": "2026-04-29T11:38:36",
-      "idade_dias": 1,
-      "assunto": "Troca de impressora Zebra - Programa OLRE0011"
-    },
-    {
       "ticket": "2026042926000075",
       "cliente": "SERVENG",
       "fila": "DBA",
@@ -1389,7 +1389,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-27T10:05:14",
       "modificado": "2026-04-28T15:51:17",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042709595386"
     },
     {
