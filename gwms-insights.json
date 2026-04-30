@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777525830,
-  "generated_at_iso": "2026-04-30T05:10:30Z",
+  "generated_at": 1777526435,
+  "generated_at_iso": "2026-04-30T05:20:35Z",
   "counts": {
     "crit": 1,
     "warn": 4,
@@ -49,15 +49,15 @@
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Weskley Silva com carga real de 6 tickets",
-      "summary": "Weskley Silva tem 6 tickets ativos sob sua responsabilidade: 6 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Weskley Silva com carga real de 5 tickets",
+      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Weskley Silva",
-          "carga_real": 6,
-          "em_atendimento": 6,
+          "carga_real": 5,
+          "em_atendimento": 5,
           "abertos": 0,
-          "aguardando_terceiros": 3,
+          "aguardando_terceiros": 4,
           "ativos_total": 9
         }
       ],
