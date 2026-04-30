@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777533621,
-  "generated_at_iso": "2026-04-30T07:20:21Z",
-  "count": 188,
+  "generated_at": 1777534223,
+  "generated_at_iso": "2026-04-30T07:30:23Z",
+  "count": 190,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026043026000036",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-04-30T04:00:04",
+      "modificado": "2026-04-30T04:23:47",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory"
+    },
+    {
+      "ticket": "2026043026000045",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-04-30T04:05:05",
+      "modificado": "2026-04-30T04:23:41",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26043004005891"
+    },
     {
       "ticket": "2026032726000142",
       "cliente": "ECAD",
@@ -793,6 +817,18 @@
       "assunto": "Alteração Dashboard Logmein"
     },
     {
+      "ticket": "2026042226000481",
+      "cliente": "eduardo.candido@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-22T17:00:14",
+      "modificado": "2026-04-29T05:00:16",
+      "idade_dias": 7,
+      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
+    },
+    {
       "ticket": "2026041626000214",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -817,18 +853,6 @@
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
-      "ticket": "2026042226000481",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-22T17:00:14",
-      "modificado": "2026-04-29T05:00:16",
-      "idade_dias": 7,
-      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
-    },
-    {
       "ticket": "2026042526000331",
       "cliente": "GRUPO_METALNOX",
       "fila": "GWMS",
@@ -841,18 +865,6 @@
       "assunto": "Monitoramento"
     },
     {
-      "ticket": "2026040726000384",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-07T14:54:52",
-      "modificado": "2026-04-29T05:00:15",
-      "idade_dias": 22,
-      "assunto": "Liberar Modo Financeiro"
-    },
-    {
       "ticket": "2026042426000182",
       "cliente": "TJBA",
       "fila": "GWMS",
@@ -863,6 +875,18 @@
       "modificado": "2026-04-29T05:00:15",
       "idade_dias": 5,
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
+    },
+    {
+      "ticket": "2026040726000384",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-07T14:54:52",
+      "modificado": "2026-04-29T05:00:15",
+      "idade_dias": 22,
+      "assunto": "Liberar Modo Financeiro"
     },
     {
       "ticket": "2026042426000324",
@@ -913,40 +937,16 @@
       "assunto": "Unimed - Gerenciamento de dashboards"
     },
     {
-      "ticket": "2026041526000181",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-04-15T09:31:44",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 14,
-      "assunto": "Rollback exclusão de NF"
-    },
-    {
-      "ticket": "2026041426000085",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-14T08:50:46",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
       "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 15,
-      "assunto": "Problema de exclusão de título financeiro"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 273,
-      "assunto": "Organizar cód Fontes"
+      "idade_dias": 5,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026042226000239",
@@ -973,6 +973,18 @@
       "assunto": "Revisão de ativos de rede da ARCO"
     },
     {
+      "ticket": "2026041526000181",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-04-15T09:31:44",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 14,
+      "assunto": "Rollback exclusão de NF"
+    },
+    {
       "ticket": "2026041626000358",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -983,6 +995,30 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 13,
       "assunto": "RE: Agent GWMS"
+    },
+    {
+      "ticket": "2026041426000085",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-14T08:50:46",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 15,
+      "assunto": "Problema de exclusão de título financeiro"
+    },
+    {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 273,
+      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026011426000241",
@@ -997,18 +1033,6 @@
       "assunto": "SFT frete"
     },
     {
-      "ticket": "2026041726000338",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-04-17T16:21:22",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 12,
-      "assunto": "PROBLEMA AO ACESSAR"
-    },
-    {
       "ticket": "2026042326000219",
       "cliente": "joalyson.oliveira@teletex.com",
       "fila": "DBA",
@@ -1019,6 +1043,18 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 6,
       "assunto": "Verificação de Banco de Dados | FLN - SFLNACLU-SQL02"
+    },
+    {
+      "ticket": "2026041726000338",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-04-17T16:21:22",
+      "modificado": "2026-04-29T05:00:14",
+      "idade_dias": 12,
+      "assunto": "PROBLEMA AO ACESSAR"
     },
     {
       "ticket": "2026042426000146",
@@ -1055,18 +1091,6 @@
       "modificado": "2026-04-29T05:00:14",
       "idade_dias": 15,
       "assunto": "AUTOZONE - GWMS-Server - Disks Queue Length - 26041413581068"
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-04-29T05:00:14",
-      "idade_dias": 5,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026042226000097",
