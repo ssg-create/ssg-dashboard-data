@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777551033,
-  "generated_at_iso": "2026-04-30T12:10:33Z",
+  "generated_at": 1777551629,
+  "generated_at_iso": "2026-04-30T12:20:29Z",
   "counts": {
     "crit": 2,
-    "warn": 5,
+    "warn": 4,
     "ok": 0
   },
   "insights": [
@@ -46,25 +46,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Weskley_Silva",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Weskley Silva com carga real de 5 tickets",
-      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Weskley Silva",
-          "carga_real": 5,
-          "em_atendimento": 5,
-          "abertos": 0,
-          "aguardando_terceiros": 4,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
       "category": "capacidade",
@@ -77,6 +58,25 @@
           "em_atendimento": 2,
           "abertos": 7,
           "aguardando_terceiros": 0,
+          "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Weskley_Silva",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Weskley Silva com carga real de 5 tickets",
+      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Weskley Silva",
+          "carga_real": 5,
+          "em_atendimento": 5,
+          "abertos": 0,
+          "aguardando_terceiros": 4,
           "ativos_total": 9
         }
       ],
@@ -116,25 +116,6 @@
           "abertos": 2,
           "aguardando_terceiros": 3,
           "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 6 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 6 tickets ativos sob sua responsabilidade: 2 em atendimento + 4 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
-          "carga_real": 6,
-          "em_atendimento": 2,
-          "abertos": 4,
-          "aguardando_terceiros": 0,
-          "ativos_total": 6
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
