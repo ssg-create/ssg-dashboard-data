@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777573220,
-  "generated_at_iso": "2026-04-30T18:20:20Z",
-  "count": 174,
+  "generated_at": 1777573825,
+  "generated_at_iso": "2026-04-30T18:30:25Z",
+  "count": 175,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042026000199",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-20T15:15:20",
+      "modificado": "2026-04-30T15:29:51",
+      "idade_dias": 10,
+      "assunto": "Solicitação de controle de  fila de impressão"
+    },
+    {
+      "ticket": "2026043026000278",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-30T15:20:27",
+      "modificado": "2026-04-30T15:25:40",
+      "idade_dias": 0,
+      "assunto": "Acessos Aline e Franciele"
+    },
+    {
+      "ticket": "2026042726000186",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-27T10:24:20",
+      "modificado": "2026-04-30T15:25:17",
+      "idade_dias": 3,
+      "assunto": "Baixa Teste Homologação"
+    },
     {
       "ticket": "2026041226000043",
       "cliente": "monitoramento@groundwork.com.br",
@@ -251,18 +287,6 @@
       "modificado": "2026-04-30T13:00:07",
       "idade_dias": 1,
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
-    },
-    {
-      "ticket": "2026042726000186",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-27T10:24:20",
-      "modificado": "2026-04-30T12:30:11",
-      "idade_dias": 3,
-      "assunto": "Baixa Teste Homologação"
     },
     {
       "ticket": "2026043026000205",
@@ -733,16 +757,16 @@
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
-      "ticket": "2026042026000199",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-20T15:15:20",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 10,
-      "assunto": "Solicitação de controle de  fila de impressão"
+      "idade_dias": 274,
+      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026042226000097",
@@ -791,18 +815,6 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 7,
       "assunto": "Configurar Programa"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 274,
-      "assunto": "Organizar cód Fontes"
     },
     {
       "ticket": "2026042126000071",
