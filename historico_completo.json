@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777585232,
-  "generated_at_iso": "2026-04-30T21:40:32Z",
-  "count": 2337,
+  "generated_at": 1777585820,
+  "generated_at_iso": "2026-04-30T21:50:20Z",
+  "count": 2336,
   "filas": [
     "DATASUL",
     "DBA",
@@ -4693,26 +4693,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -4731,6 +4711,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46731,26 +46731,6 @@
       "sol_min_raw": 10892,
       "sol_min_bh": 3105,
       "resp_min_bh": 13
-    },
-    {
-      "num": "2025123026000237",
-      "assunto": "AZ - Desligar servidor HML as 00h",
-      "criado": "2025-12-30T18:45:05",
-      "modificado": "2026-01-06T09:45:16",
-      "fila": "INFRAESTUTURA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Wiglas Reis",
-      "primeiro_nome": "Wiglas",
-      "ultimo_nome": "Reis",
-      "cli_id": "ricardo.pinheiro@groundwork.com.br",
-      "cli_user": "ricardo.pinheiro@groundwork.com.br",
-      "servico": "Banco de Horas::Infraestrutura e Cloud",
-      "fechado": "2026-01-06T09:45:16",
-      "resp_min_raw": 816,
-      "sol_min_raw": 9540,
-      "sol_min_bh": 2265,
-      "resp_min_bh": 21
     }
   ],
   "janela_meses": 4,
