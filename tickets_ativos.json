@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777591827,
-  "generated_at_iso": "2026-04-30T23:30:27Z",
-  "count": 180,
+  "generated_at": 1777592126,
+  "generated_at_iso": "2026-04-30T23:35:26Z",
+  "count": 179,
   "filas": [
     "DATASUL",
     "DBA",
@@ -709,6 +709,18 @@
       "assunto": "Alterar o threshold ATITUS"
     },
     {
+      "ticket": "2026042726000426",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:23:23",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 3,
+      "assunto": "Select - Combo rules - W1 PD09 FY26"
+    },
+    {
       "ticket": "2026042826000157",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -719,18 +731,6 @@
       "modificado": "2026-04-30T05:00:14",
       "idade_dias": 2,
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 6,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026042326000424",
@@ -745,6 +745,18 @@
       "assunto": "Acesso ao GWMS"
     },
     {
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 6,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
+    },
+    {
       "ticket": "2026042826000166",
       "cliente": "lucio.oliveira@totvs.com.br",
       "fila": "GWMS",
@@ -755,18 +767,6 @@
       "modificado": "2026-04-30T05:00:14",
       "idade_dias": 2,
       "assunto": "Remoção de monitoramento"
-    },
-    {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 3,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
       "ticket": "2026042726000122",
@@ -793,28 +793,16 @@
       "assunto": "Configurar Programa"
     },
     {
-      "ticket": "2026041426000085",
+      "ticket": "2026041626000214",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-14T08:50:46",
+      "prioridade": "5 very high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-16T09:38:46",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 16,
-      "assunto": "Problema de exclusão de título financeiro"
-    },
-    {
-      "ticket": "2026040726000384",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-07T14:54:52",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 23,
-      "assunto": "Liberar Modo Financeiro"
+      "idade_dias": 14,
+      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
     },
     {
       "ticket": "2026031726000287",
@@ -829,16 +817,28 @@
       "assunto": "CIAP - loja 150"
     },
     {
-      "ticket": "2026042126000071",
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 274,
+      "assunto": "Organizar cód Fontes"
+    },
+    {
+      "ticket": "2026041426000085",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-21T13:48:10",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-14T08:50:46",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 9,
-      "assunto": "Erro e perdendo a conexão."
+      "idade_dias": 16,
+      "assunto": "Problema de exclusão de título financeiro"
     },
     {
       "ticket": "2026040126000251",
@@ -865,18 +865,6 @@
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
     },
     {
-      "ticket": "2026042326000255",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-23T11:01:21",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 7,
-      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
-    },
-    {
       "ticket": "2026042726000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -889,16 +877,16 @@
       "assunto": "Erro de  -L no servidor"
     },
     {
-      "ticket": "2026041626000214",
+      "ticket": "2026040726000384",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-16T09:38:46",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-07T14:54:52",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 14,
-      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
+      "idade_dias": 23,
+      "assunto": "Liberar Modo Financeiro"
     },
     {
       "ticket": "2026042426000182",
@@ -913,6 +901,18 @@
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
+      "ticket": "2026042126000071",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-21T13:48:10",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 9,
+      "assunto": "Erro e perdendo a conexão."
+    },
+    {
       "ticket": "2026042226000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -925,18 +925,6 @@
       "assunto": "Liberação de tabelas"
     },
     {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 274,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
       "ticket": "2026041626000358",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -947,6 +935,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 14,
       "assunto": "RE: Agent GWMS"
+    },
+    {
+      "ticket": "2026042326000255",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-23T11:01:21",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 7,
+      "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
       "ticket": "2026011426000241",
@@ -1955,18 +1955,6 @@
       "modificado": "2026-04-21T11:58:34",
       "idade_dias": 48,
       "assunto": "Solicitação de Ponto de Entrada - Permissão Automática em Contratos (SIGAGCT)"
-    },
-    {
-      "ticket": "2026040626000224",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-06T11:54:20",
-      "modificado": "2026-04-20T18:54:18",
-      "idade_dias": 24,
-      "assunto": "CBENEF"
     },
     {
       "ticket": "2026042026000233",
