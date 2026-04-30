@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777564230,
-  "generated_at_iso": "2026-04-30T15:50:30Z",
+  "generated_at": 1777564711,
+  "generated_at_iso": "2026-04-30T15:58:31Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
+      "modificado": "2026-04-30T12:53:44",
+      "idade_dias": 2,
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+    },
     {
       "ticket": "2026043026000198",
       "cliente": "rodrigo.cuani@groundwork.com.br",
@@ -143,18 +155,6 @@
       "modificado": "2026-04-30T11:43:11",
       "idade_dias": 1,
       "assunto": "Envio de relatório de projetos próximo ao fim"
-    },
-    {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-04-30T11:24:03",
-      "idade_dias": 2,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
       "ticket": "2026041426000371",
@@ -1089,7 +1089,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-29T12:55:08",
       "modificado": "2026-04-29T15:21:15",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Criação de Usuário "
     },
     {
@@ -1821,7 +1821,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T12:58:25",
       "modificado": "2026-04-24T10:54:16",
-      "idade_dias": 132,
+      "idade_dias": 133,
       "assunto": "Inclusão de pedidos - Alteração no conceito de exibição do campo \"Desconto Faseamento\""
     },
     {
