@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777545627,
-  "generated_at_iso": "2026-04-30T10:40:27Z",
+  "generated_at": 1777546230,
+  "generated_at_iso": "2026-04-30T10:50:30Z",
   "count": 185,
   "filas": [
     "DATASUL",
@@ -13,14 +13,50 @@
   ],
   "rows": [
     {
+      "ticket": "2026043026000027",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-30T00:40:18",
+      "modificado": "2026-04-30T07:50:15",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26043000371851"
+    },
+    {
+      "ticket": "2026043026000036",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-30T04:00:04",
+      "modificado": "2026-04-30T07:49:25",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory"
+    },
+    {
+      "ticket": "2026043026000045",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-30T04:05:05",
+      "modificado": "2026-04-30T07:47:14",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26043004005891"
+    },
+    {
       "ticket": "2026043026000054",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
       "criado": "2026-04-30T04:55:11",
-      "modificado": "2026-04-30T05:01:50",
+      "modificado": "2026-04-30T07:46:19",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26043004522788"
     },
@@ -433,18 +469,6 @@
       "assunto": "Solicitação de controle de  fila de impressão"
     },
     {
-      "ticket": "2026041226000043",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-12T09:15:14",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 17,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
-    },
-    {
       "ticket": "2026042126000071",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -455,6 +479,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 8,
       "assunto": "Erro e perdendo a conexão."
+    },
+    {
+      "ticket": "2026041226000043",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-12T09:15:14",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 17,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
       "ticket": "2026041426000085",
@@ -553,30 +589,6 @@
       "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
-      "ticket": "2026043026000036",
-      "cliente": "cloud-admin@ess.cloud.elastic.co",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-04-30T04:00:04",
-      "modificado": "2026-04-30T04:23:47",
-      "idade_dias": 0,
-      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory"
-    },
-    {
-      "ticket": "2026043026000045",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-04-30T04:05:05",
-      "modificado": "2026-04-30T04:23:41",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26043004005891"
-    },
-    {
       "ticket": "2026032726000142",
       "cliente": "ECAD",
       "fila": "PROTHEUS",
@@ -611,18 +623,6 @@
       "modificado": "2026-04-30T00:48:41",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Falhas Mysql - 26043000065855"
-    },
-    {
-      "ticket": "2026043026000027",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-04-30T00:40:18",
-      "modificado": "2026-04-30T00:48:34",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26043000371851"
     },
     {
       "ticket": "2026042926000397",
@@ -765,7 +765,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-17T07:50:21",
       "modificado": "2026-04-29T17:31:25",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
