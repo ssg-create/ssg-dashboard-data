@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777554626,
-  "generated_at_iso": "2026-04-30T13:10:26Z",
+  "generated_at": 1777555230,
+  "generated_at_iso": "2026-04-30T13:20:30Z",
   "count": 179,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000246",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-28T10:45:20",
+      "modificado": "2026-04-30T10:19:29",
+      "idade_dias": 1,
+      "assunto": "INSERT/ SELECT - TIPO 9"
+    },
+    {
+      "ticket": "2026042826000611",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-28T18:00:25",
+      "modificado": "2026-04-30T10:15:55",
+      "idade_dias": 1,
+      "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
+    },
     {
       "ticket": "2026042826000531",
       "cliente": "AUMOVIO",
@@ -301,6 +325,18 @@
       "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
+      "ticket": "2026042826000273",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-28T11:50:17",
+      "modificado": "2026-04-30T05:00:15",
+      "idade_dias": 1,
+      "assunto": "Error. \"Instance Failed to Load\""
+    },
+    {
       "ticket": "2026042826000326",
       "cliente": "enzo.fucitalo@groundwork.com.br",
       "fila": "GWMS",
@@ -325,18 +361,6 @@
       "assunto": "Remover monitoramento da base ATITUS"
     },
     {
-      "ticket": "2026042826000246",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-28T10:45:20",
-      "modificado": "2026-04-30T05:00:15",
-      "idade_dias": 1,
-      "assunto": "INSERT/ SELECT - TIPO 9"
-    },
-    {
       "ticket": "2026042826000228",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -347,18 +371,6 @@
       "modificado": "2026-04-30T05:00:15",
       "idade_dias": 1,
       "assunto": "Analise de alertas FW-ESCRITORIO-FORTALEZA"
-    },
-    {
-      "ticket": "2026042826000273",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-28T11:50:17",
-      "modificado": "2026-04-30T05:00:15",
-      "idade_dias": 1,
-      "assunto": "Error. \"Instance Failed to Load\""
     },
     {
       "ticket": "2026042726000113",
@@ -421,6 +433,18 @@
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
     },
     {
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 6,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
+    },
+    {
       "ticket": "2026042826000166",
       "cliente": "lucio.oliveira@totvs.com.br",
       "fila": "GWMS",
@@ -445,16 +469,28 @@
       "assunto": "Criação de usuário."
     },
     {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
+      "ticket": "2026041226000043",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-12T09:15:14",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 18,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
+    },
+    {
+      "ticket": "2026042226000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 5,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
+      "atendente": "Marcelo David",
+      "criado": "2026-04-22T08:48:42",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 8,
+      "assunto": "Liberação de tabelas"
     },
     {
       "ticket": "2026042126000071",
@@ -469,18 +505,6 @@
       "assunto": "Erro e perdendo a conexão."
     },
     {
-      "ticket": "2026042326000282",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 6,
-      "assunto": "Configurar Programa"
-    },
-    {
       "ticket": "2026041426000085",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -493,16 +517,16 @@
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
-      "ticket": "2026042226000481",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "GWMS",
+      "ticket": "2026042326000282",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-22T17:00:14",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-23T11:22:35",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 7,
-      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
+      "idade_dias": 6,
+      "assunto": "Configurar Programa"
     },
     {
       "ticket": "2026042326000255",
@@ -515,6 +539,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 6,
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
+    },
+    {
+      "ticket": "2026042226000481",
+      "cliente": "eduardo.candido@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-22T17:00:14",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 7,
+      "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
     },
     {
       "ticket": "2026041626000214",
@@ -565,18 +601,6 @@
       "assunto": "#TOTVS-SERVERS - Adicionar servidores"
     },
     {
-      "ticket": "2026042426000182",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-24T11:59:50",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 5,
-      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
-    },
-    {
       "ticket": "2026040126000251",
       "cliente": "FADEL",
       "fila": "SSG",
@@ -599,6 +623,18 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 76,
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
+    },
+    {
+      "ticket": "2026042426000182",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-24T11:59:50",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 5,
+      "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
     },
     {
       "ticket": "2026042026000199",
@@ -625,18 +661,6 @@
       "assunto": "Erro de  -L no servidor"
     },
     {
-      "ticket": "2026041626000358",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-16T15:00:06",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 13,
-      "assunto": "RE: Agent GWMS"
-    },
-    {
       "ticket": "2025073026000407",
       "cliente": "ECAD",
       "fila": "SSG-MELHORIAS",
@@ -649,28 +673,16 @@
       "assunto": "Organizar cód Fontes"
     },
     {
-      "ticket": "2026041226000043",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
+      "ticket": "2026041626000358",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-12T09:15:14",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-16T15:00:06",
       "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 18,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
-    },
-    {
-      "ticket": "2026042226000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-22T08:48:42",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 8,
-      "assunto": "Liberação de tabelas"
+      "idade_dias": 13,
+      "assunto": "RE: Agent GWMS"
     },
     {
       "ticket": "2026011426000241",
@@ -909,7 +921,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-28T10:15:22",
       "modificado": "2026-04-29T16:17:56",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Atualização - Certificado Groundwork"
     },
     {
@@ -1283,18 +1295,6 @@
       "modificado": "2026-04-29T08:36:19",
       "idade_dias": 1,
       "assunto": "Reset de senha: OTRS Jean"
-    },
-    {
-      "ticket": "2026042826000611",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-28T18:00:25",
-      "modificado": "2026-04-29T08:17:49",
-      "idade_dias": 1,
-      "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
       "ticket": "2026042726000382",
