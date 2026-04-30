@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777566621,
-  "generated_at_iso": "2026-04-30T16:30:21Z",
+  "generated_at": 1777567222,
+  "generated_at_iso": "2026-04-30T16:40:22Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -13,6 +13,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-04-30T13:36:13",
+      "idade_dias": 0,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
       "ticket": "2026042826000237",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -23,18 +35,6 @@
       "modificado": "2026-04-30T13:27:39",
       "idade_dias": 2,
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-04-30T13:20:55",
-      "idade_dias": 0,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026042826000362",
@@ -1653,7 +1653,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-09T13:40:09",
       "modificado": "2026-04-27T11:27:20",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "RE: Proposta de POC - GWMS"
     },
     {
