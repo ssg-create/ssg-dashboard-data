@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777582831,
-  "generated_at_iso": "2026-04-30T21:00:31Z",
+  "generated_at": 1777583427,
+  "generated_at_iso": "2026-04-30T21:10:27Z",
   "count": 2337,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026043026000349",
+      "assunto": "Ajuste Monitoramento Host ADCONNECTAPP002",
+      "criado": "2026-04-30T17:57:07",
+      "modificado": "2026-04-30T18:03:28",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Marcio Guimaraes",
+      "primeiro_nome": "Marcio",
+      "ultimo_nome": "Guimaraes",
+      "cli_id": "TJBA",
+      "cli_user": "lucas.nascimento@teletex.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026043026000331",
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS ",
@@ -46731,26 +46751,6 @@
       "sol_min_raw": 9540,
       "sol_min_bh": 2265,
       "resp_min_bh": 21
-    },
-    {
-      "num": "2025123026000228",
-      "assunto": "DIRECIONAMENTO DE SOLICITAÇÕES DE COMPRA",
-      "criado": "2025-12-30T18:06:53",
-      "modificado": "2026-01-08T15:45:09",
-      "fila": "SSG",
-      "estado": "closed successful",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "primeiro_nome": "Debora",
-      "ultimo_nome": "Gomes",
-      "cli_id": "ALMEIDA JR",
-      "cli_user": "integracao.almeidajunior",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": "2026-01-08T15:45:09",
-      "resp_min_raw": 845,
-      "sol_min_raw": 12818,
-      "sol_min_bh": 3645,
-      "resp_min_bh": 11
     }
   ],
   "janela_meses": 4,
