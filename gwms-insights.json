@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777568439,
-  "generated_at_iso": "2026-04-30T17:00:39Z",
+  "generated_at": 1777569037,
+  "generated_at_iso": "2026-04-30T17:10:37Z",
   "counts": {
     "crit": 1,
     "warn": 4,
@@ -31,15 +31,15 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Marcio Guimaraes com carga real de 7 tickets",
-      "summary": "Marcio Guimaraes tem 7 tickets ativos sob sua responsabilidade: 4 em atendimento + 3 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Marcio Guimaraes tem 7 tickets ativos sob sua responsabilidade: 5 em atendimento + 2 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcio Guimaraes",
           "carga_real": 7,
-          "em_atendimento": 4,
-          "abertos": 3,
-          "aguardando_terceiros": 5,
-          "ativos_total": 12
+          "em_atendimento": 5,
+          "abertos": 2,
+          "aguardando_terceiros": 4,
+          "ativos_total": 11
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
