@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777636221,
-  "generated_at_iso": "2026-05-01T11:50:21Z",
-  "count": 2338,
+  "generated_at": 1777636827,
+  "generated_at_iso": "2026-05-01T12:00:27Z",
+  "count": 2339,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050126000124",
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26050108460045",
+      "criado": "2026-05-01T08:50:16",
+      "modificado": "2026-05-01T08:51:47",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050126000106",
       "assunto": "#TOTVS-SERVERS - JV_JV-MON-CL01 - UX:tdn.totvs.com - 26050107561115",
