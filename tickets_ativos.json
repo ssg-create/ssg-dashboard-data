@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777605019,
-  "generated_at_iso": "2026-05-01T03:10:19Z",
+  "generated_at": 1777605627,
+  "generated_at_iso": "2026-05-01T03:20:27Z",
   "count": 178,
   "filas": [
     "DATASUL",
@@ -273,7 +273,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-23T00:15:09",
       "modificado": "2026-04-30T15:15:58",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
     },
     {
@@ -709,6 +709,18 @@
       "assunto": "Remover monitoramento da base ATITUS"
     },
     {
+      "ticket": "2026042326000424",
+      "cliente": "elaine.vicente@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T16:30:15",
+      "modificado": "2026-04-30T05:00:14",
+      "idade_dias": 7,
+      "assunto": "Acesso ao GWMS"
+    },
+    {
       "ticket": "2026042726000426",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -769,16 +781,28 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
-      "ticket": "2026042326000424",
-      "cliente": "elaine.vicente@teletex.com",
-      "fila": "GWMS",
+      "ticket": "2026041626000214",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T16:30:15",
-      "modificado": "2026-04-30T05:00:14",
-      "idade_dias": 7,
-      "assunto": "Acesso ao GWMS"
+      "prioridade": "5 very high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-16T09:38:46",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 14,
+      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
+    },
+    {
+      "ticket": "2026040126000251",
+      "cliente": "FADEL",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-01T12:19:14",
+      "modificado": "2026-04-30T05:00:13",
+      "idade_dias": 29,
+      "assunto": "Implantação de um PE"
     },
     {
       "ticket": "2026021226000207",
@@ -923,30 +947,6 @@
       "modificado": "2026-04-30T05:00:13",
       "idade_dias": 7,
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
-    },
-    {
-      "ticket": "2026041626000214",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-16T09:38:46",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 14,
-      "assunto": "Processo Workflow com aviso: Processo IGNORADO, FINALIZADO anteriormente"
-    },
-    {
-      "ticket": "2026040126000251",
-      "cliente": "FADEL",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-01T12:19:14",
-      "modificado": "2026-04-30T05:00:13",
-      "idade_dias": 29,
-      "assunto": "Implantação de um PE"
     },
     {
       "ticket": "2025121126000371",
@@ -1533,7 +1533,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-23T00:15:09",
       "modificado": "2026-04-28T10:55:45",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR"
     },
     {
