@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777631424,
-  "generated_at_iso": "2026-05-01T10:30:24Z",
-  "count": 176,
+  "generated_at": 1777632019,
+  "generated_at_iso": "2026-05-01T10:40:19Z",
+  "count": 178,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050126000071",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-01T07:20:23",
+      "modificado": "2026-05-01T07:31:36",
+      "idade_dias": 0,
+      "assunto": "IMCD - GWMS-SERVER - Cpu - 26050107165768"
+    },
+    {
+      "ticket": "2026050126000081",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-01T07:30:23",
+      "modificado": "2026-05-01T07:31:30",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:tdn.totvs.com - 26050107274989"
+    },
     {
       "ticket": "2026050126000062",
       "cliente": "monitoramento@groundwork.com.br",
@@ -37,16 +61,16 @@
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050104533249"
     },
     {
-      "ticket": "2026042826000461",
+      "ticket": "2026042926000333",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
+      "prioridade": "4 high",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T15:49:01",
+      "criado": "2026-04-29T16:49:35",
       "modificado": "2026-05-01T05:00:27",
-      "idade_dias": 2,
-      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+      "idade_dias": 1,
+      "assunto": "excluir sc 006111 - NR"
     },
     {
       "ticket": "2026042826000228",
@@ -71,6 +95,18 @@
       "modificado": "2026-05-01T05:00:27",
       "idade_dias": 1,
       "assunto": "Criação de Usuário "
+    },
+    {
+      "ticket": "2026042826000461",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T15:49:01",
+      "modificado": "2026-05-01T05:00:27",
+      "idade_dias": 2,
+      "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
       "ticket": "2026042826000326",
@@ -133,16 +169,16 @@
       "assunto": "Remover monitoramento da base ATITUS"
     },
     {
-      "ticket": "2026042926000333",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026042726000426",
+      "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T16:49:35",
-      "modificado": "2026-05-01T05:00:27",
-      "idade_dias": 1,
-      "assunto": "excluir sc 006111 - NR"
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:23:23",
+      "modificado": "2026-05-01T05:00:26",
+      "idade_dias": 3,
+      "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
       "ticket": "2026042826000157",
@@ -205,18 +241,6 @@
       "assunto": "Atualização - Certificado Groundwork"
     },
     {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
-      "modificado": "2026-05-01T05:00:26",
-      "idade_dias": 3,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
-    },
-    {
       "ticket": "2026042826000193",
       "cliente": "joalyson.oliveira@teletex.com",
       "fila": "GWMS",
@@ -227,18 +251,6 @@
       "modificado": "2026-05-01T05:00:25",
       "idade_dias": 2,
       "assunto": "Liberação de acesso ao CENTREON"
-    },
-    {
-      "ticket": "2026042726000453",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-27T17:59:57",
-      "modificado": "2026-05-01T05:00:25",
-      "idade_dias": 3,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
       "ticket": "2026042726000097",
@@ -265,6 +277,18 @@
       "assunto": "Criação de usuário."
     },
     {
+      "ticket": "2026042726000453",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-27T17:59:57",
+      "modificado": "2026-05-01T05:00:25",
+      "idade_dias": 3,
+      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
+    },
+    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
@@ -289,30 +313,6 @@
       "assunto": "NF nao aparece no xml"
     },
     {
-      "ticket": "2026042126000071",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-21T13:48:10",
-      "modificado": "2026-05-01T05:00:24",
-      "idade_dias": 9,
-      "assunto": "Erro e perdendo a conexão."
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-05-01T05:00:24",
-      "idade_dias": 6,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
-    },
-    {
       "ticket": "2026042326000424",
       "cliente": "elaine.vicente@teletex.com",
       "fila": "GWMS",
@@ -323,6 +323,18 @@
       "modificado": "2026-05-01T05:00:24",
       "idade_dias": 7,
       "assunto": "Acesso ao GWMS"
+    },
+    {
+      "ticket": "2026042126000071",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-21T13:48:10",
+      "modificado": "2026-05-01T05:00:24",
+      "idade_dias": 9,
+      "assunto": "Erro e perdendo a conexão."
     },
     {
       "ticket": "2026042226000159",
@@ -347,6 +359,18 @@
       "modificado": "2026-05-01T05:00:24",
       "idade_dias": 14,
       "assunto": "RE: Agent GWMS"
+    },
+    {
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
+      "modificado": "2026-05-01T05:00:24",
+      "idade_dias": 6,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026042326000041",
@@ -385,18 +409,6 @@
       "assunto": "Configurar Programa"
     },
     {
-      "ticket": "2026040126000251",
-      "cliente": "FADEL",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-01T12:19:14",
-      "modificado": "2026-05-01T05:00:23",
-      "idade_dias": 29,
-      "assunto": "Implantação de um PE"
-    },
-    {
       "ticket": "2026041726000034",
       "cliente": "weskley.silva@groundwork.com.br",
       "fila": "SSG",
@@ -407,6 +419,18 @@
       "modificado": "2026-05-01T05:00:23",
       "idade_dias": 13,
       "assunto": "Re: 30.000 documentos em fila de processamento"
+    },
+    {
+      "ticket": "2026040126000251",
+      "cliente": "FADEL",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-01T12:19:14",
+      "modificado": "2026-05-01T05:00:23",
+      "idade_dias": 29,
+      "assunto": "Implantação de um PE"
     },
     {
       "ticket": "2026041426000085",
@@ -421,18 +445,6 @@
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
-      "ticket": "2026031726000287",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-03-17T12:12:20",
-      "modificado": "2026-05-01T05:00:21",
-      "idade_dias": 44,
-      "assunto": "CIAP - loja 150"
-    },
-    {
       "ticket": "2026042426000182",
       "cliente": "TJBA",
       "fila": "GWMS",
@@ -443,6 +455,18 @@
       "modificado": "2026-05-01T05:00:21",
       "idade_dias": 6,
       "assunto": "Dash exibindo apenas dados do dia - SW-CORE-SALA-COFRE-VDC"
+    },
+    {
+      "ticket": "2026031726000287",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-03-17T12:12:20",
+      "modificado": "2026-05-01T05:00:21",
+      "idade_dias": 44,
+      "assunto": "CIAP - loja 150"
     },
     {
       "ticket": "2026041526000565",
@@ -481,6 +505,30 @@
       "assunto": "Configurar Compilador"
     },
     {
+      "ticket": "2026011426000241",
+      "cliente": "AUTOZONE",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-01-14T11:54:43",
+      "modificado": "2026-05-01T05:00:20",
+      "idade_dias": 106,
+      "assunto": "SFT frete"
+    },
+    {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-05-01T05:00:20",
+      "idade_dias": 274,
+      "assunto": "Organizar cód Fontes"
+    },
+    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -517,28 +565,16 @@
       "assunto": "Solicitação de API REST – Integração Protheus/ Inventário Físico"
     },
     {
-      "ticket": "2026011426000241",
+      "ticket": "2026012926000455",
       "cliente": "AUTOZONE",
-      "fila": "PROTHEUS",
+      "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-01-14T11:54:43",
-      "modificado": "2026-05-01T05:00:20",
-      "idade_dias": 106,
-      "assunto": "SFT frete"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-05-01T05:00:20",
-      "idade_dias": 274,
-      "assunto": "Organizar cód Fontes"
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
+      "modificado": "2026-05-01T05:00:19",
+      "idade_dias": 91,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2025121126000371",
@@ -551,18 +587,6 @@
       "modificado": "2026-05-01T05:00:19",
       "idade_dias": 140,
       "assunto": "PRE DANFE"
-    },
-    {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
-      "modificado": "2026-05-01T05:00:19",
-      "idade_dias": 91,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026050126000017",
@@ -1317,7 +1341,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-04-23T07:39:58",
       "modificado": "2026-04-29T11:55:23",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
     },
     {
