@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777666225,
-  "generated_at_iso": "2026-05-01T20:10:25Z",
+  "generated_at": 1777666830,
+  "generated_at_iso": "2026-05-01T20:20:30Z",
   "count": 2341,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050126000161",
+      "assunto": "#TOTVS-SERVERS - SP_SPOSVTOT-CON02.SP01.LOCAL - Storage Backup:sposvtot-dd02.sp01.local - 26050117041051",
+      "criado": "2026-05-01T17:10:20",
+      "modificado": "2026-05-01T17:20:28",
+      "fila": "INFRAESTUTURA",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050126000151",
       "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050114204940",
@@ -46811,26 +46831,6 @@
       "sol_min_raw": 8679,
       "sol_min_bh": 2199,
       "resp_min_bh": 553
-    },
-    {
-      "num": "2026010126000097",
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26010117193548",
-      "criado": "2026-01-01T17:20:12",
-      "modificado": "2026-01-08T09:45:18",
-      "fila": "DBA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "primeiro_nome": "Enzo",
-      "ultimo_nome": "Fucitalo",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)::NOC",
-      "fechado": "2026-01-08T09:45:18",
-      "resp_min_raw": 5279,
-      "sol_min_raw": 9625,
-      "sol_min_bh": 2304,
-      "resp_min_bh": 658
     }
   ],
   "janela_meses": 4,
