@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777632022,
-  "generated_at_iso": "2026-05-01T10:40:22Z",
-  "count": 2336,
+  "generated_at": 1777632623,
+  "generated_at_iso": "2026-05-01T10:50:23Z",
+  "count": 2337,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050126000099",
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:tdn.totvs.com - 26050107242755",
+      "criado": "2026-05-01T07:35:04",
+      "modificado": "2026-05-01T07:48:16",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050126000081",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:tdn.totvs.com - 26050107274989",
@@ -4833,26 +4853,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -4871,6 +4871,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
