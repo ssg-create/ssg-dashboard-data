@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777743023,
-  "generated_at_iso": "2026-05-02T17:30:23Z",
-  "count": 2347,
+  "generated_at": 1777743637,
+  "generated_at_iso": "2026-05-02T17:40:37Z",
+  "count": 2346,
   "filas": [
     "DATASUL",
     "DBA",
@@ -5193,26 +5193,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5231,6 +5211,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46931,26 +46931,6 @@
       "sol_min_raw": 28959,
       "sol_min_bh": 7719,
       "resp_min_bh": 43
-    },
-    {
-      "num": "2026010226000111",
-      "assunto": "Alterações de Alçadas",
-      "criado": "2026-01-02T14:36:56",
-      "modificado": "2026-01-13T13:45:15",
-      "fila": "SSG",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "primeiro_nome": "Dyalef",
-      "ultimo_nome": "Abreu Santos",
-      "cli_id": "ALMEIDA JR",
-      "cli_user": "integracao.almeidajunior",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": "2026-01-13T13:45:15",
-      "resp_min_raw": 42,
-      "sol_min_raw": 15788,
-      "sol_min_bh": 3728,
-      "resp_min_bh": 42
     }
   ],
   "janela_meses": 4,
