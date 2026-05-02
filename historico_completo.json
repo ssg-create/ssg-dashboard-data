@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777752158,
-  "generated_at_iso": "2026-05-02T20:02:38Z",
+  "generated_at": 1777752628,
+  "generated_at_iso": "2026-05-02T20:10:28Z",
   "count": 2342,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050226000104",
+      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050217041841",
+      "criado": "2026-05-02T17:05:13",
+      "modificado": "2026-05-02T17:09:49",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050226000097",
       "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050216270914",
@@ -46831,26 +46851,6 @@
       "sol_min_raw": 14140,
       "sol_min_bh": 3240,
       "resp_min_bh": 21
-    },
-    {
-      "num": "2026010226000219",
-      "assunto": "ENC: Rotina de Custo - NF com problemas",
-      "criado": "2026-01-02T17:10:07",
-      "modificado": "2026-01-17T05:00:16",
-      "fila": "DATASUL",
-      "estado": "fechado sem êxito (auto)",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "primeiro_nome": "Guilherme",
-      "ultimo_nome": "Rosa",
-      "cli_id": "rita.jacob@aumovio.com",
-      "cli_user": "rita.jacob@aumovio.com",
-      "servico": "Serviço de Sustentação Groundwork::ERP Datasul",
-      "fechado": "2026-01-17T05:00:16",
-      "resp_min_raw": 3788,
-      "sol_min_raw": 20870,
-      "sol_min_bh": 5449,
-      "resp_min_bh": 67
     }
   ],
   "janela_meses": 4,
