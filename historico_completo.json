@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777734623,
-  "generated_at_iso": "2026-05-02T15:10:23Z",
-  "count": 2346,
+  "generated_at": 1777735221,
+  "generated_at_iso": "2026-05-02T15:20:21Z",
+  "count": 2345,
   "filas": [
     "DATASUL",
     "DBA",
@@ -5133,26 +5133,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5171,6 +5151,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46911,26 +46911,6 @@
       "sol_min_raw": 15819,
       "sol_min_bh": 3758,
       "resp_min_bh": 2
-    },
-    {
-      "num": "2026010226000095",
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.TSS03 - Appserver 12.1.2410 - 26010212130575",
-      "criado": "2026-01-02T12:20:07",
-      "modificado": "2026-01-08T11:45:14",
-      "fila": "DBA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "primeiro_nome": "Enzo",
-      "ultimo_nome": "Fucitalo",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Banco de Horas::Banco de Dados",
-      "fechado": "2026-01-08T11:45:14",
-      "resp_min_raw": 4170,
-      "sol_min_raw": 8605,
-      "sol_min_bh": 2145,
-      "resp_min_bh": 410
     }
   ],
   "janela_meses": 4,
