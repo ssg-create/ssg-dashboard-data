@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777750227,
-  "generated_at_iso": "2026-05-02T19:30:27Z",
-  "count": 2344,
+  "generated_at": 1777750823,
+  "generated_at_iso": "2026-05-02T19:40:23Z",
+  "count": 2343,
   "filas": [
     "DATASUL",
     "DBA",
@@ -5213,26 +5213,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5251,6 +5231,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46871,26 +46871,6 @@
       "sol_min_raw": 15140,
       "sol_min_bh": 3319,
       "resp_min_bh": 90
-    },
-    {
-      "num": "2026010226000184",
-      "assunto": "Problema em todos os shopping 29/12/2025",
-      "criado": "2026-01-02T16:32:49",
-      "modificado": "2026-03-02T19:45:18",
-      "fila": "SSG",
-      "estado": "closed successful",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "primeiro_nome": "Dyalef",
-      "ultimo_nome": "Abreu Santos",
-      "cli_id": "ALMEIDA JR",
-      "cli_user": "integracao.almeidajunior",
-      "servico": "Serviço de Sustentação Groundwork",
-      "fechado": "2026-03-02T19:45:18",
-      "resp_min_raw": 77890,
-      "sol_min_raw": 85152,
-      "sol_min_bh": 22227,
-      "resp_min_bh": 20607
     }
   ],
   "janela_meses": 4,
