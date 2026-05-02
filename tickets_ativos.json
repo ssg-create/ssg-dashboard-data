@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777684826,
-  "generated_at_iso": "2026-05-02T01:20:26Z",
-  "count": 186,
+  "generated_at": 1777685421,
+  "generated_at_iso": "2026-05-02T01:30:21Z",
+  "count": 188,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050126000197",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-01T22:00:19",
+      "modificado": "2026-05-01T22:29:08",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050121571127"
+    },
+    {
+      "ticket": "2026050126000204",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-01T22:00:20",
+      "modificado": "2026-05-01T22:29:03",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050121583817"
+    },
     {
       "ticket": "2026050126000188",
       "cliente": "monitoramento@groundwork.com.br",
@@ -193,16 +217,16 @@
       "assunto": "Remover monitoramento da base ATITUS"
     },
     {
-      "ticket": "2026042826000461",
+      "ticket": "2026042926000333",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
+      "prioridade": "4 high",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T15:49:01",
+      "criado": "2026-04-29T16:49:35",
       "modificado": "2026-05-01T05:00:27",
-      "idade_dias": 3,
-      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+      "idade_dias": 2,
+      "assunto": "excluir sc 006111 - NR"
     },
     {
       "ticket": "2026042826000273",
@@ -215,6 +239,18 @@
       "modificado": "2026-05-01T05:00:27",
       "idade_dias": 3,
       "assunto": "Error. \"Instance Failed to Load\""
+    },
+    {
+      "ticket": "2026042826000461",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T15:49:01",
+      "modificado": "2026-05-01T05:00:27",
+      "idade_dias": 3,
+      "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
       "ticket": "2026042826000228",
@@ -277,16 +313,16 @@
       "assunto": "Alertas Braveo - Pulmer"
     },
     {
-      "ticket": "2026042926000333",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026042726000426",
+      "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T16:49:35",
-      "modificado": "2026-05-01T05:00:27",
-      "idade_dias": 2,
-      "assunto": "excluir sc 006111 - NR"
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:23:23",
+      "modificado": "2026-05-01T05:00:26",
+      "idade_dias": 4,
+      "assunto": "Select - Combo rules - W1 PD09 FY26"
     },
     {
       "ticket": "2026042826000157",
@@ -337,18 +373,6 @@
       "assunto": "Remoção de monitoramento"
     },
     {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
-      "modificado": "2026-05-01T05:00:26",
-      "idade_dias": 4,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
-    },
-    {
       "ticket": "2026042826000219",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -371,6 +395,18 @@
       "modificado": "2026-05-01T05:00:25",
       "idade_dias": 4,
       "assunto": "Erro de  -L no servidor"
+    },
+    {
+      "ticket": "2026042426000306",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-24T15:05:00",
+      "modificado": "2026-05-01T05:00:25",
+      "idade_dias": 7,
+      "assunto": "NF nao aparece no xml"
     },
     {
       "ticket": "2026042826000193",
@@ -421,18 +457,6 @@
       "assunto": "Alteração Dashboard Logmein"
     },
     {
-      "ticket": "2026042426000306",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-24T15:05:00",
-      "modificado": "2026-05-01T05:00:25",
-      "idade_dias": 7,
-      "assunto": "NF nao aparece no xml"
-    },
-    {
       "ticket": "2026042126000071",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -443,18 +467,6 @@
       "modificado": "2026-05-01T05:00:24",
       "idade_dias": 10,
       "assunto": "Erro e perdendo a conexão."
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-05-01T05:00:24",
-      "idade_dias": 7,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026042326000424",
@@ -505,6 +517,18 @@
       "assunto": "Configurar Programa"
     },
     {
+      "ticket": "2026042426000137",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T10:15:23",
+      "modificado": "2026-05-01T05:00:24",
+      "idade_dias": 7,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
+    },
+    {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -529,18 +553,6 @@
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
-      "ticket": "2026040126000251",
-      "cliente": "FADEL",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-01T12:19:14",
-      "modificado": "2026-05-01T05:00:23",
-      "idade_dias": 30,
-      "assunto": "Implantação de um PE"
-    },
-    {
       "ticket": "2026041726000034",
       "cliente": "weskley.silva@groundwork.com.br",
       "fila": "SSG",
@@ -551,6 +563,18 @@
       "modificado": "2026-05-01T05:00:23",
       "idade_dias": 14,
       "assunto": "Re: 30.000 documentos em fila de processamento"
+    },
+    {
+      "ticket": "2026040126000251",
+      "cliente": "FADEL",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-01T12:19:14",
+      "modificado": "2026-05-01T05:00:23",
+      "idade_dias": 30,
+      "assunto": "Implantação de um PE"
     },
     {
       "ticket": "2026041426000085",
@@ -625,6 +649,30 @@
       "assunto": "Descoberta de Topologia automática"
     },
     {
+      "ticket": "2025073026000407",
+      "cliente": "ECAD",
+      "fila": "SSG-MELHORIAS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Weskley Silva",
+      "criado": "2025-07-30T10:35:20",
+      "modificado": "2026-05-01T05:00:20",
+      "idade_dias": 275,
+      "assunto": "Organizar cód Fontes"
+    },
+    {
+      "ticket": "2026011426000241",
+      "cliente": "AUTOZONE",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-01-14T11:54:43",
+      "modificado": "2026-05-01T05:00:20",
+      "idade_dias": 107,
+      "assunto": "SFT frete"
+    },
+    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -659,30 +707,6 @@
       "modificado": "2026-05-01T05:00:20",
       "idade_dias": 35,
       "assunto": "Solicitação de API REST – Integração Protheus/ Inventário Físico"
-    },
-    {
-      "ticket": "2025073026000407",
-      "cliente": "ECAD",
-      "fila": "SSG-MELHORIAS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Weskley Silva",
-      "criado": "2025-07-30T10:35:20",
-      "modificado": "2026-05-01T05:00:20",
-      "idade_dias": 275,
-      "assunto": "Organizar cód Fontes"
-    },
-    {
-      "ticket": "2026011426000241",
-      "cliente": "AUTOZONE",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-01-14T11:54:43",
-      "modificado": "2026-05-01T05:00:20",
-      "idade_dias": 107,
-      "assunto": "SFT frete"
     },
     {
       "ticket": "2026012926000455",
