@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777723227,
-  "generated_at_iso": "2026-05-02T12:00:27Z",
-  "count": 2346,
+  "generated_at": 1777723828,
+  "generated_at_iso": "2026-05-02T12:10:28Z",
+  "count": 2345,
   "filas": [
     "DATASUL",
     "DBA",
@@ -5073,26 +5073,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -5111,6 +5091,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
@@ -46911,26 +46911,6 @@
       "sol_min_raw": 8659,
       "sol_min_bh": 2179,
       "resp_min_bh": 534
-    },
-    {
-      "num": "2026010226000022",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26010209022733",
-      "criado": "2026-01-02T09:05:20",
-      "modificado": "2026-01-08T09:45:18",
-      "fila": "DBA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "primeiro_nome": "Enzo",
-      "ultimo_nome": "Fucitalo",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Banco de Horas::Banco de Dados",
-      "fechado": "2026-01-08T09:45:18",
-      "resp_min_raw": 4334,
-      "sol_min_raw": 8679,
-      "sol_min_bh": 2199,
-      "resp_min_bh": 553
     }
   ],
   "janela_meses": 4,
