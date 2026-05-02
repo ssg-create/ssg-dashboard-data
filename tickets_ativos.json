@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777739423,
-  "generated_at_iso": "2026-05-02T16:30:23Z",
-  "count": 187,
+  "generated_at": 1777740022,
+  "generated_at_iso": "2026-05-02T16:40:22Z",
+  "count": 189,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050226000061",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-02T12:20:15",
+      "modificado": "2026-05-02T13:35:07",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - CheckLog: ces_broker_x_gwms_cstg_gwms-stream-connector.log - 26050212174141"
+    },
+    {
+      "ticket": "2026050226000051",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-02T12:10:13",
+      "modificado": "2026-05-02T13:35:02",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26050212063127"
+    },
     {
       "ticket": "2026050226000042",
       "cliente": "monitoramento@groundwork.com.br",
@@ -157,18 +181,6 @@
       "assunto": "Liberação de acesso ao CENTREON"
     },
     {
-      "ticket": "2026042726000453",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-27T17:59:57",
-      "modificado": "2026-05-02T05:00:25",
-      "idade_dias": 4,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
-    },
-    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
@@ -179,6 +191,18 @@
       "modificado": "2026-05-02T05:00:25",
       "idade_dias": 4,
       "assunto": "Alteração Dashboard Logmein"
+    },
+    {
+      "ticket": "2026042726000453",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-27T17:59:57",
+      "modificado": "2026-05-02T05:00:25",
+      "idade_dias": 4,
+      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
       "ticket": "2026042826000308",
@@ -217,18 +241,6 @@
       "assunto": "Acessos Aline e Franciele"
     },
     {
-      "ticket": "2026042426000306",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-24T15:05:00",
-      "modificado": "2026-05-02T05:00:25",
-      "idade_dias": 7,
-      "assunto": "NF nao aparece no xml"
-    },
-    {
       "ticket": "2026042826000273",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
@@ -241,16 +253,16 @@
       "assunto": "Error. \"Instance Failed to Load\""
     },
     {
-      "ticket": "2026042826000461",
+      "ticket": "2026042426000306",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T15:49:01",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-24T15:05:00",
       "modificado": "2026-05-02T05:00:25",
-      "idade_dias": 3,
-      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+      "idade_dias": 7,
+      "assunto": "NF nao aparece no xml"
     },
     {
       "ticket": "2026042826000326",
@@ -277,6 +289,18 @@
       "assunto": "Zurich - validação CS0016501"
     },
     {
+      "ticket": "2026042826000461",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T15:49:01",
+      "modificado": "2026-05-02T05:00:25",
+      "idade_dias": 3,
+      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+    },
+    {
       "ticket": "2026043026000198",
       "cliente": "rodrigo.cuani@groundwork.com.br",
       "fila": "GWMS",
@@ -289,6 +313,18 @@
       "assunto": "Acesso - az-srv-app-01 - OTRS - Agente de IA"
     },
     {
+      "ticket": "2026042326000041",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:27:00",
+      "modificado": "2026-05-02T05:00:24",
+      "idade_dias": 9,
+      "assunto": "ROBÔ DACTE DE COMPRA"
+    },
+    {
       "ticket": "2026042326000451",
       "cliente": "ayko.ubirajara@braveo.com.br",
       "fila": "GWMS",
@@ -299,18 +335,6 @@
       "modificado": "2026-05-02T05:00:24",
       "idade_dias": 8,
       "assunto": "Inserir Servidor Monitoramento"
-    },
-    {
-      "ticket": "2026043026000205",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-30T11:41:06",
-      "modificado": "2026-05-02T05:00:24",
-      "idade_dias": 2,
-      "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
     },
     {
       "ticket": "2026042226000159",
@@ -337,6 +361,18 @@
       "assunto": "RE: Absolute"
     },
     {
+      "ticket": "2026043026000205",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-30T11:41:06",
+      "modificado": "2026-05-02T05:00:24",
+      "idade_dias": 2,
+      "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
+    },
+    {
       "ticket": "2026042726000426",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -347,18 +383,6 @@
       "modificado": "2026-05-02T05:00:24",
       "idade_dias": 4,
       "assunto": "Select - Combo rules - W1 PD09 FY26"
-    },
-    {
-      "ticket": "2026042826000157",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T09:18:12",
-      "modificado": "2026-05-02T05:00:24",
-      "idade_dias": 4,
-      "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
     },
     {
       "ticket": "2026042826000228",
@@ -373,6 +397,18 @@
       "assunto": "Analise de alertas FW-ESCRITORIO-FORTALEZA"
     },
     {
+      "ticket": "2026042826000157",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T09:18:12",
+      "modificado": "2026-05-02T05:00:24",
+      "idade_dias": 4,
+      "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
+    },
+    {
       "ticket": "2026043026000091",
       "cliente": "rafael.dealmeida@teletex.com",
       "fila": "GWMS",
@@ -383,18 +419,6 @@
       "modificado": "2026-05-02T05:00:24",
       "idade_dias": 2,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
-    },
-    {
-      "ticket": "2026042326000041",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:27:00",
-      "modificado": "2026-05-02T05:00:24",
-      "idade_dias": 9,
-      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026042826000166",
@@ -445,6 +469,18 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
+      "ticket": "2026041726000034",
+      "cliente": "weskley.silva@groundwork.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-17T07:50:21",
+      "modificado": "2026-05-02T05:00:22",
+      "idade_dias": 15,
+      "assunto": "Re: 30.000 documentos em fila de processamento"
+    },
+    {
       "ticket": "2026041526000565",
       "cliente": "TJBA",
       "fila": "GWMS",
@@ -469,16 +505,16 @@
       "assunto": "Erro de  -L no servidor"
     },
     {
-      "ticket": "2026041726000034",
-      "cliente": "weskley.silva@groundwork.com.br",
-      "fila": "SSG",
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-17T07:50:21",
-      "modificado": "2026-05-02T05:00:22",
-      "idade_dias": 15,
-      "assunto": "Re: 30.000 documentos em fila de processamento"
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-05-02T05:00:21",
+      "idade_dias": 3,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026042126000071",
@@ -491,18 +527,6 @@
       "modificado": "2026-05-02T05:00:21",
       "idade_dias": 10,
       "assunto": "Erro e perdendo a conexão."
-    },
-    {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-05-02T05:00:21",
-      "idade_dias": 3,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026042826000344",
@@ -539,6 +563,18 @@
       "modificado": "2026-05-02T05:00:21",
       "idade_dias": 30,
       "assunto": "Configurar Compilador"
+    },
+    {
+      "ticket": "2026042826000335",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:54:03",
+      "modificado": "2026-05-02T05:00:20",
+      "idade_dias": 3,
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
       "ticket": "2026031726000287",
@@ -601,16 +637,16 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
-      "ticket": "2026042826000335",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
+      "ticket": "2026042726000462",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
-      "modificado": "2026-05-02T05:00:20",
-      "idade_dias": 3,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-05-02T05:00:19",
+      "idade_dias": 4,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
       "ticket": "2026021226000207",
@@ -623,18 +659,6 @@
       "modificado": "2026-05-02T05:00:19",
       "idade_dias": 78,
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
-    },
-    {
-      "ticket": "2026042726000462",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-02T05:00:19",
-      "idade_dias": 4,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
       "ticket": "2026012926000455",
@@ -1173,7 +1197,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-09T13:40:09",
       "modificado": "2026-04-30T14:22:04",
-      "idade_dias": 22,
+      "idade_dias": 23,
       "assunto": "RE: Proposta de POC - GWMS"
     },
     {
