@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777822231,
-  "generated_at_iso": "2026-05-03T15:30:31Z",
-  "count": 2348,
+  "generated_at": 1777822823,
+  "generated_at_iso": "2026-05-03T15:40:23Z",
+  "count": 2350,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,46 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050326000086",
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26050312083736",
+      "criado": "2026-05-03T12:10:10",
+      "modificado": "2026-05-03T12:37:55",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
+    {
+      "num": "2026050326000077",
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050310282790",
+      "criado": "2026-05-03T10:30:17",
+      "modificado": "2026-05-03T12:37:50",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050326000068",
       "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Core Services - 26050309423083",
