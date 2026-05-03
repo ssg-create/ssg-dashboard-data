@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777839023,
-  "generated_at_iso": "2026-05-03T20:10:23Z",
-  "count": 2353,
+  "generated_at": 1777839629,
+  "generated_at_iso": "2026-05-03T20:20:29Z",
+  "count": 2354,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050326000121",
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050316594340",
+      "criado": "2026-05-03T17:00:08",
+      "modificado": "2026-05-03T17:15:35",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050326000111",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050315582381",
@@ -5493,26 +5513,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5531,6 +5531,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
