@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777810227,
-  "generated_at_iso": "2026-05-03T12:10:27Z",
-  "count": 2347,
+  "generated_at": 1777810826,
+  "generated_at_iso": "2026-05-03T12:20:26Z",
+  "count": 2346,
   "filas": [
     "DATASUL",
     "DBA",
@@ -5353,26 +5353,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5391,6 +5371,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46931,26 +46931,6 @@
       "sol_min_raw": 5884,
       "sol_min_bh": 1845,
       "resp_min_bh": 23
-    },
-    {
-      "num": "2026010326000039",
-      "assunto": "Solicitação de verificação – Hostname/VDI indisponível",
-      "criado": "2026-01-03T09:20:20",
-      "modificado": "2026-01-13T05:00:38",
-      "fila": "INFRAESTUTURA",
-      "estado": "fechado sem êxito (auto)",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "primeiro_nome": "Vinicius",
-      "ultimo_nome": "Vedove",
-      "cli_id": "FADEL",
-      "cli_user": "pedro.hmarins@fadeltransportes.com.br",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "fechado": "2026-01-13T05:00:38",
-      "resp_min_raw": 2821,
-      "sol_min_raw": 14140,
-      "sol_min_bh": 3240,
-      "resp_min_bh": 21
     }
   ],
   "janela_meses": 4,
