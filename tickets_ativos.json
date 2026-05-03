@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777833626,
-  "generated_at_iso": "2026-05-03T18:40:26Z",
+  "generated_at": 1777834229,
+  "generated_at_iso": "2026-05-03T18:50:29Z",
   "count": 203,
   "filas": [
     "DATASUL",
@@ -167,6 +167,30 @@
       "modificado": "2026-05-03T05:00:19",
       "idade_dias": 3,
       "assunto": "Acessos Aline e Franciele"
+    },
+    {
+      "ticket": "2026042826000461",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T15:49:01",
+      "modificado": "2026-05-03T05:00:18",
+      "idade_dias": 5,
+      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+    },
+    {
+      "ticket": "2026042826000193",
+      "cliente": "joalyson.oliveira@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-28T10:00:20",
+      "modificado": "2026-05-03T05:00:18",
+      "idade_dias": 5,
+      "assunto": "Liberação de acesso ao CENTREON"
     },
     {
       "ticket": "2026042826000273",
@@ -361,28 +385,40 @@
       "assunto": "RE: Absolute"
     },
     {
-      "ticket": "2026042826000461",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
+      "ticket": "2026042726000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T15:49:01",
-      "modificado": "2026-05-03T05:00:18",
-      "idade_dias": 4,
-      "assunto": "404001 - Exclusão de TB - Contas a pagar"
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-27T08:26:47",
+      "modificado": "2026-05-03T05:00:17",
+      "idade_dias": 6,
+      "assunto": "Erro de  -L no servidor"
     },
     {
-      "ticket": "2026042826000193",
-      "cliente": "joalyson.oliveira@teletex.com",
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
       "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-28T10:00:20",
-      "modificado": "2026-05-03T05:00:18",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-05-03T05:00:17",
       "idade_dias": 5,
-      "assunto": "Liberação de acesso ao CENTREON"
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
+    },
+    {
+      "ticket": "2026042726000453",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-27T17:59:57",
+      "modificado": "2026-05-03T05:00:17",
+      "idade_dias": 5,
+      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
       "ticket": "2026041726000034",
@@ -589,54 +625,6 @@
       "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
-      "ticket": "2026042726000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-27T08:26:47",
-      "modificado": "2026-05-03T05:00:17",
-      "idade_dias": 6,
-      "assunto": "Erro de  -L no servidor"
-    },
-    {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-05-03T05:00:17",
-      "idade_dias": 5,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
-      "ticket": "2026042726000453",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-27T17:59:57",
-      "modificado": "2026-05-03T05:00:17",
-      "idade_dias": 5,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
-    },
-    {
-      "ticket": "2026041526000181",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-04-15T09:31:44",
-      "modificado": "2026-05-03T05:00:16",
-      "idade_dias": 18,
-      "assunto": "Rollback exclusão de NF"
-    },
-    {
       "ticket": "2026042226000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -659,6 +647,18 @@
       "modificado": "2026-05-03T05:00:16",
       "idade_dias": 47,
       "assunto": "CIAP - loja 150"
+    },
+    {
+      "ticket": "2026041526000181",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-04-15T09:31:44",
+      "modificado": "2026-05-03T05:00:16",
+      "idade_dias": 18,
+      "assunto": "Rollback exclusão de NF"
     },
     {
       "ticket": "2026040126000439",
@@ -825,7 +825,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-02T15:45:22",
       "modificado": "2026-05-02T16:13:43",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050215434661"
     },
     {
@@ -1581,7 +1581,7 @@
       "atendente": "Diogo Cunha",
       "criado": "2026-04-29T15:42:15",
       "modificado": "2026-04-29T16:41:59",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "BASE INDISPONÍVEL"
     },
     {
@@ -1809,7 +1809,7 @@
       "atendente": "Francisco Silva",
       "criado": "2026-03-24T15:47:51",
       "modificado": "2026-04-28T13:46:37",
-      "idade_dias": 39,
+      "idade_dias": 40,
       "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
     },
     {
