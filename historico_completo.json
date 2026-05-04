@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777927826,
-  "generated_at_iso": "2026-05-04T20:50:26Z",
+  "generated_at": 1777928431,
+  "generated_at_iso": "2026-05-04T21:00:31Z",
   "count": 2341,
   "filas": [
     "DATASUL",
@@ -56,9 +56,9 @@
       "num": "2026050426000379",
       "assunto": "Agendamento Manutenção Banco - MAIO /2026",
       "criado": "2026-05-04T16:55:21",
-      "modificado": "2026-05-04T16:59:50",
+      "modificado": "2026-05-04T18:00:13",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "retorno cliente",
       "prioridade": "3 normal",
       "atendente": "Bruno Montenegro",
       "primeiro_nome": "Bruno",
@@ -67,10 +67,10 @@
       "cli_user": "psouza@bentonit.com.br",
       "servico": "Banco de Horas::Banco de Dados",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 59,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 59
     },
     {
       "num": "2026050426000361",
@@ -376,9 +376,9 @@
       "num": "2026050426000182",
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465",
       "criado": "2026-05-04T11:00:18",
-      "modificado": "2026-05-04T12:00:24",
+      "modificado": "2026-05-04T17:50:39",
       "fila": "GWMS",
-      "estado": "retorno cliente",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
