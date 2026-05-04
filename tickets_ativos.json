@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777927823,
-  "generated_at_iso": "2026-05-04T20:50:23Z",
+  "generated_at": 1777928427,
+  "generated_at_iso": "2026-05-04T21:00:27Z",
   "count": 172,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000379",
+      "cliente": "psouza@bentonit.com.br",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-04T16:55:21",
+      "modificado": "2026-05-04T18:00:13",
+      "idade_dias": 0,
+      "assunto": "Agendamento Manutenção Banco - MAIO /2026"
+    },
+    {
+      "ticket": "2026050426000182",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-04T11:00:18",
+      "modificado": "2026-05-04T17:50:39",
+      "idade_dias": 0,
+      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
+    },
     {
       "ticket": "2026050426000271",
       "cliente": "monitoramento@groundwork.com.br",
@@ -107,18 +131,6 @@
       "modificado": "2026-05-04T17:05:23",
       "idade_dias": 0,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
-      "ticket": "2026050426000379",
-      "cliente": "psouza@bentonit.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-04T16:55:21",
-      "modificado": "2026-05-04T16:59:50",
-      "idade_dias": 0,
-      "assunto": "Agendamento Manutenção Banco - MAIO /2026"
     },
     {
       "ticket": "2026050426000361",
@@ -285,7 +297,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-05-04T14:40:26",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
@@ -371,18 +383,6 @@
       "modificado": "2026-05-04T13:28:16",
       "idade_dias": 4,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
-    },
-    {
-      "ticket": "2026050426000182",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T11:00:18",
-      "modificado": "2026-05-04T12:00:24",
-      "idade_dias": 0,
-      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
     },
     {
       "ticket": "2026043026000205",
@@ -645,7 +645,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-28T18:00:25",
       "modificado": "2026-05-04T09:14:26",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
@@ -909,7 +909,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-27T17:59:57",
       "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
@@ -1257,7 +1257,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-04-30T13:18:08",
-      "idade_dias": 72,
+      "idade_dias": 73,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
@@ -1413,7 +1413,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-28T18:00:24",
       "modificado": "2026-04-29T15:47:04",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
     },
     {
