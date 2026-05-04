@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777885819,
-  "generated_at_iso": "2026-05-04T09:10:19Z",
+  "generated_at": 1777886430,
+  "generated_at_iso": "2026-05-04T09:20:30Z",
   "count": 173,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026043026000205",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-30T11:41:06",
+      "modificado": "2026-05-04T06:14:48",
+      "idade_dias": 3,
+      "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
+    },
     {
       "ticket": "2026042826000461",
       "cliente": "ALMEIDA JR",
@@ -347,18 +359,6 @@
       "modificado": "2026-05-04T05:00:21",
       "idade_dias": 10,
       "assunto": "Configurar Programa"
-    },
-    {
-      "ticket": "2026043026000205",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-30T11:41:06",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 3,
-      "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
     },
     {
       "ticket": "2026042126000071",
