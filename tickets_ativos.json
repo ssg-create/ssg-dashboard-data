@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777891221,
-  "generated_at_iso": "2026-05-04T10:40:21Z",
+  "generated_at": 1777891828,
+  "generated_at_iso": "2026-05-04T10:50:28Z",
   "count": 175,
   "filas": [
     "DATASUL",
@@ -13,28 +13,88 @@
   ],
   "rows": [
     {
-      "ticket": "2026050426000057",
-      "cliente": "monitoramento@groundwork.com.br",
+      "ticket": "2026050226000079",
+      "cliente": "eduardo.candido@groundwork.com.br",
       "fila": "DBA",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-04T07:15:05",
-      "modificado": "2026-05-04T07:40:08",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-02T13:50:07",
+      "modificado": "2026-05-04T07:46:21",
+      "idade_dias": 1,
+      "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
+    },
+    {
+      "ticket": "2026050326000157",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-03T23:05:04",
+      "modificado": "2026-05-04T07:45:33",
       "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z35-TOTVS-P12-JOB05_T-Autozone-12035 TAXID - 26050407083319"
+      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050323023665"
+    },
+    {
+      "ticket": "2026050426000011",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-04T00:10:12",
+      "modificado": "2026-05-04T07:44:52",
+      "idade_dias": 0,
+      "assunto": "VEDAMOTORS - Alertas HOST DOWN - 26050400050957"
+    },
+    {
+      "ticket": "2026050426000021",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-04T00:40:15",
+      "modificado": "2026-05-04T07:43:58",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050400355317"
+    },
+    {
+      "ticket": "2026050426000039",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-04T04:55:08",
+      "modificado": "2026-05-04T07:43:12",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050404544179"
     },
     {
       "ticket": "2026050426000048",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Pedro Luiz",
       "criado": "2026-05-04T07:05:05",
-      "modificado": "2026-05-04T07:09:58",
+      "modificado": "2026-05-04T07:42:19",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26050407013714"
+    },
+    {
+      "ticket": "2026050426000057",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-04T07:15:05",
+      "modificado": "2026-05-04T07:41:17",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z35-TOTVS-P12-JOB05_T-Autozone-12035 TAXID - 26050407083319"
     },
     {
       "ticket": "2026043026000205",
@@ -477,7 +537,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-17T07:50:21",
       "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
@@ -661,54 +721,6 @@
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
-      "ticket": "2026050426000039",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-04T04:55:08",
-      "modificado": "2026-05-04T04:56:30",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050404544179"
-    },
-    {
-      "ticket": "2026050426000021",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-04T00:40:15",
-      "modificado": "2026-05-04T00:43:37",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050400355317"
-    },
-    {
-      "ticket": "2026050326000157",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-03T23:05:04",
-      "modificado": "2026-05-04T00:20:00",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050323023665"
-    },
-    {
-      "ticket": "2026050426000011",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-04T00:10:12",
-      "modificado": "2026-05-04T00:19:54",
-      "idade_dias": 0,
-      "assunto": "VEDAMOTORS - Alertas HOST DOWN - 26050400050957"
-    },
-    {
       "ticket": "2026050326000013",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -743,18 +755,6 @@
       "modificado": "2026-05-03T07:39:59",
       "idade_dias": 18,
       "assunto": "Descoberta de Topologia automática"
-    },
-    {
-      "ticket": "2026050226000079",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-02T13:50:07",
-      "modificado": "2026-05-02T14:12:37",
-      "idade_dias": 1,
-      "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
     },
     {
       "ticket": "2026050126000099",
