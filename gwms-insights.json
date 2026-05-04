@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777927828,
-  "generated_at_iso": "2026-05-04T20:50:28Z",
+  "generated_at": 1777928434,
+  "generated_at_iso": "2026-05-04T21:00:34Z",
   "counts": {
     "crit": 1,
     "warn": 5,
@@ -19,30 +19,11 @@
           "cliente": "AUTOZONE",
           "fila": "SSG",
           "atendente": "Carlos Fernandes",
-          "dias_silencio": 68.0,
+          "dias_silencio": 68.1,
           "estado": "OPEN"
         }
       ],
       "recommendation": "Revisar em bloco: cada atendente confirma se o ticket está ativo ou deve ser fechado/escalado.",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Jean_Pierre_Rocha",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 9 tickets",
-      "summary": "Jean Pierre Rocha tem 9 tickets ativos sob sua responsabilidade: 3 em atendimento + 6 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Jean Pierre Rocha",
-          "carga_real": 9,
-          "em_atendimento": 3,
-          "abertos": 6,
-          "aguardando_terceiros": 0,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
       "impact_estimate": "médio"
     },
     {
@@ -58,6 +39,25 @@
           "em_atendimento": 2,
           "abertos": 4,
           "aguardando_terceiros": 2,
+          "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Jean_Pierre_Rocha",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Jean Pierre Rocha com carga real de 9 tickets",
+      "summary": "Jean Pierre Rocha tem 9 tickets ativos sob sua responsabilidade: 3 em atendimento + 6 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Jean Pierre Rocha",
+          "carga_real": 9,
+          "em_atendimento": 3,
+          "abertos": 6,
+          "aguardando_terceiros": 0,
           "ativos_total": 9
         }
       ],
