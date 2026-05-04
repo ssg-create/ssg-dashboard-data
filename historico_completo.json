@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777905636,
-  "generated_at_iso": "2026-05-04T14:40:36Z",
-  "count": 2330,
+  "generated_at": 1777906251,
+  "generated_at_iso": "2026-05-04T14:50:51Z",
+  "count": 2331,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050426000235",
+      "assunto": "Ticket Recorrência Mensal AUTOZONE",
+      "criado": "2026-05-04T11:40:20",
+      "modificado": "2026-05-04T11:50:22",
+      "fila": "DBA",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "eduardo.candido@groundwork.com.br",
+      "cli_user": "eduardo.candido@groundwork.com.br",
+      "servico": "Banco de Horas::Banco de Dados",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050426000226",
       "assunto": "Configurar Compilador",
@@ -36,21 +56,21 @@
       "num": "2026050426000217",
       "assunto": "acesso ao ambeinte do servidor",
       "criado": "2026-05-04T11:32:40",
-      "modificado": "2026-05-04T11:35:28",
+      "modificado": "2026-05-04T11:44:35",
       "fila": "SSG",
-      "estado": "new",
+      "estado": "open",
       "prioridade": "4 high",
-      "atendente": "Admin OTRS",
-      "primeiro_nome": "Admin",
-      "ultimo_nome": "OTRS",
+      "atendente": "Debora Gomes",
+      "primeiro_nome": "Debora",
+      "ultimo_nome": "Gomes",
       "cli_id": "AUTOZONE",
       "cli_user": "renato.ferreira@autozone.com",
       "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 11,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 11
     },
     {
       "num": "2026050426000208",
