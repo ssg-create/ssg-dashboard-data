@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777929024,
-  "generated_at_iso": "2026-05-04T21:10:24Z",
+  "generated_at": 1777929619,
+  "generated_at_iso": "2026-05-04T21:20:19Z",
   "count": 172,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000397",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-04T17:22:52",
+      "modificado": "2026-05-04T18:19:06",
+      "idade_dias": 0,
+      "assunto": "SIGAEIC :: EDITAR PARCELA DE PROCESSO DRAWBACK"
+    },
     {
       "ticket": "2026042326000451",
       "cliente": "ayko.ubirajara@braveo.com.br",
@@ -59,18 +71,6 @@
       "modificado": "2026-05-04T17:50:06",
       "idade_dias": 0,
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
-    },
-    {
-      "ticket": "2026050426000397",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-04T17:22:52",
-      "modificado": "2026-05-04T17:47:22",
-      "idade_dias": 0,
-      "assunto": "SIGAEIC :: EDITAR PARCELA DE PROCESSO DRAWBACK"
     },
     {
       "ticket": "2026050426000388",
@@ -1137,7 +1137,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-15T18:11:21",
       "modificado": "2026-05-03T07:39:59",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Descoberta de Topologia automática"
     },
     {
@@ -1593,7 +1593,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-17T18:17:04",
       "modificado": "2026-04-28T08:44:10",
-      "idade_dias": 137,
+      "idade_dias": 138,
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
