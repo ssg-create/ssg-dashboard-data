@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777924822,
-  "generated_at_iso": "2026-05-04T20:00:22Z",
+  "generated_at": 1777925419,
+  "generated_at_iso": "2026-05-04T20:10:19Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000351",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-04T16:20:17",
+      "modificado": "2026-05-04T17:08:59",
+      "idade_dias": 0,
+      "assunto": "Unimed Curitiba - CS0016635"
+    },
+    {
+      "ticket": "2026050426000333",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T14:54:50",
+      "modificado": "2026-05-04T17:05:23",
+      "idade_dias": 0,
+      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
+    },
     {
       "ticket": "2026050426000379",
       "cliente": "psouza@bentonit.com.br",
@@ -47,18 +71,6 @@
       "modificado": "2026-05-04T16:56:17",
       "idade_dias": 0,
       "assunto": "Validar configuraciones"
-    },
-    {
-      "ticket": "2026050426000351",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-04T16:20:17",
-      "modificado": "2026-05-04T16:39:34",
-      "idade_dias": 0,
-      "assunto": "Unimed Curitiba - CS0016635"
     },
     {
       "ticket": "2026050426000315",
@@ -131,18 +143,6 @@
       "modificado": "2026-05-04T16:05:17",
       "idade_dias": 144,
       "assunto": "PRE DANFE"
-    },
-    {
-      "ticket": "2026050426000333",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "MELHORIA",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T14:54:50",
-      "modificado": "2026-05-04T16:05:15",
-      "idade_dias": 0,
-      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
       "ticket": "2026042826000246",
@@ -273,7 +273,7 @@
       "atendente": "Vilante Marques Alves",
       "criado": "2025-09-18T17:09:56",
       "modificado": "2026-05-04T14:28:39",
-      "idade_dias": 227,
+      "idade_dias": 228,
       "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
     },
     {
@@ -853,6 +853,30 @@
       "assunto": "Reset de senha: OTRS Jean"
     },
     {
+      "ticket": "2026042426000306",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-24T15:05:00",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 10,
+      "assunto": "NF nao aparece no xml"
+    },
+    {
+      "ticket": "2026042326000282",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-23T11:22:35",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 11,
+      "assunto": "Configurar Programa"
+    },
+    {
       "ticket": "2026042926000208",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -889,18 +913,6 @@
       "assunto": "Implantação de um PE"
     },
     {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 7,
-      "assunto": "Alteração Dashboard Logmein"
-    },
-    {
       "ticket": "2026043026000091",
       "cliente": "rafael.dealmeida@teletex.com",
       "fila": "GWMS",
@@ -911,6 +923,18 @@
       "modificado": "2026-05-04T05:00:21",
       "idade_dias": 4,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
+    },
+    {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 7,
+      "assunto": "Alteração Dashboard Logmein"
     },
     {
       "ticket": "2026043026000198",
@@ -949,28 +973,16 @@
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
-      "ticket": "2026042426000306",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-24T15:05:00",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 10,
-      "assunto": "NF nao aparece no xml"
-    },
-    {
-      "ticket": "2026042326000282",
+      "ticket": "2026040126000439",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
+      "prioridade": "3 normal",
       "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 11,
-      "assunto": "Configurar Programa"
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-04T05:00:20",
+      "idade_dias": 32,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026031726000287",
@@ -1103,18 +1115,6 @@
       "modificado": "2026-05-04T05:00:20",
       "idade_dias": 6,
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
-    },
-    {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 32,
-      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026041526000181",
