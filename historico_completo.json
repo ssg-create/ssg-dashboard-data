@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777923031,
-  "generated_at_iso": "2026-05-04T19:30:31Z",
-  "count": 2336,
+  "generated_at": 1777923644,
+  "generated_at_iso": "2026-05-04T19:40:44Z",
+  "count": 2337,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050426000351",
+      "assunto": "Unimed Curitiba - CS0016635",
+      "criado": "2026-05-04T16:20:17",
+      "modificado": "2026-05-04T16:39:34",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "primeiro_nome": "Marcio",
+      "ultimo_nome": "Guimaraes",
+      "cli_id": "servicedesk@teletex.com",
+      "cli_user": "servicedesk@teletex.com",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050426000342",
       "assunto": "Alerta - 26050414254238",
@@ -56,9 +76,9 @@
       "num": "2026050426000315",
       "assunto": "Alteração na consulta via Monitoramento Central de cliente",
       "criado": "2026-05-04T14:15:21",
-      "modificado": "2026-05-04T14:36:58",
+      "modificado": "2026-05-04T16:30:51",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
@@ -67,10 +87,10 @@
       "cli_user": "bucci.luana@totvs.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 135,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 135
     },
     {
       "num": "2026050426000306",
@@ -5213,26 +5233,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -5251,6 +5251,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
