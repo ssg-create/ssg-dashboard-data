@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777898425,
-  "generated_at_iso": "2026-05-04T12:40:25Z",
+  "generated_at": 1777899021,
+  "generated_at_iso": "2026-05-04T12:50:21Z",
   "count": 166,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026012926000455",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
+      "modificado": "2026-05-04T09:48:52",
+      "idade_dias": 94,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-04T09:45:10",
+      "idade_dias": 5,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2026043026000349",
       "cliente": "TJBA",
@@ -167,18 +191,6 @@
       "modificado": "2026-05-04T09:10:26",
       "idade_dias": 80,
       "assunto": "Fonte CFOP 2409"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-04T09:10:25",
-      "idade_dias": 4,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2025073026000407",
@@ -779,18 +791,6 @@
       "modificado": "2026-05-04T05:00:20",
       "idade_dias": 12,
       "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
-    },
-    {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
-      "modificado": "2026-05-04T05:00:18",
-      "idade_dias": 94,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026010826000262",
@@ -1413,7 +1413,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-28T09:41:21",
       "modificado": "2026-04-28T10:56:33",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "SIGACOM :: Auxilio com novo fluxo de compras"
     },
     {
