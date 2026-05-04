@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777903835,
-  "generated_at_iso": "2026-05-04T14:10:35Z",
-  "count": 2326,
+  "generated_at": 1777904428,
+  "generated_at_iso": "2026-05-04T14:20:28Z",
+  "count": 2327,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050426000191",
+      "assunto": "Chamado para apontamento de horas.",
+      "criado": "2026-05-04T11:15:18",
+      "modificado": "2026-05-04T11:18:50",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "primeiro_nome": "Sergio",
+      "ultimo_nome": "Luiz Glovatinski Jr",
+      "cli_id": "sergio.glovatinski@groundwork.com.br",
+      "cli_user": "sergio.glovatinski@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050426000182",
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465",
@@ -476,7 +496,7 @@
       "num": "2026043026000269",
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09",
       "criado": "2026-04-30T14:49:16",
-      "modificado": "2026-05-04T10:33:00",
+      "modificado": "2026-05-04T11:16:53",
       "fila": "SSG",
       "estado": "aguardando cliente",
       "prioridade": "5 very high",
@@ -3176,7 +3196,7 @@
       "num": "2026042726000186",
       "assunto": "Baixa Teste Homologação",
       "criado": "2026-04-27T10:24:20",
-      "modificado": "2026-04-30T15:25:17",
+      "modificado": "2026-05-04T11:15:25",
       "fila": "SSG",
       "estado": "retorno cliente",
       "prioridade": "3 normal",
