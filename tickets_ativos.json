@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777925419,
-  "generated_at_iso": "2026-05-04T20:10:19Z",
+  "generated_at": 1777926021,
+  "generated_at_iso": "2026-05-04T20:20:21Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026043026000269",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-30T14:49:16",
+      "modificado": "2026-05-04T17:10:38",
+      "idade_dias": 4,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
+    },
     {
       "ticket": "2026050426000351",
       "cliente": "servicedesk@teletex.com",
@@ -445,18 +457,6 @@
       "assunto": "Aplicação de boletim - PROJETO e UNO"
     },
     {
-      "ticket": "2026043026000269",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-30T14:49:16",
-      "modificado": "2026-05-04T11:16:53",
-      "idade_dias": 4,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
-    },
-    {
       "ticket": "2026050426000101",
       "cliente": "leonardo.pires@totvs.com.br",
       "fila": "GWMS",
@@ -657,7 +657,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-12T17:18:11",
       "modificado": "2026-05-04T09:10:26",
-      "idade_dias": 80,
+      "idade_dias": 81,
       "assunto": "Fonte CFOP 2409"
     },
     {
@@ -853,30 +853,6 @@
       "assunto": "Reset de senha: OTRS Jean"
     },
     {
-      "ticket": "2026042426000306",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-24T15:05:00",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 10,
-      "assunto": "NF nao aparece no xml"
-    },
-    {
-      "ticket": "2026042326000282",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 11,
-      "assunto": "Configurar Programa"
-    },
-    {
       "ticket": "2026042926000208",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -913,18 +889,6 @@
       "assunto": "Implantação de um PE"
     },
     {
-      "ticket": "2026043026000091",
-      "cliente": "rafael.dealmeida@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-30T08:30:27",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 4,
-      "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
-    },
-    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
@@ -935,6 +899,18 @@
       "modificado": "2026-05-04T05:00:21",
       "idade_dias": 7,
       "assunto": "Alteração Dashboard Logmein"
+    },
+    {
+      "ticket": "2026043026000091",
+      "cliente": "rafael.dealmeida@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-30T08:30:27",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 4,
+      "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
       "ticket": "2026043026000198",
@@ -973,16 +949,28 @@
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
-      "ticket": "2026040126000439",
+      "ticket": "2026042426000306",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-24T15:05:00",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 10,
+      "assunto": "NF nao aparece no xml"
+    },
+    {
+      "ticket": "2026042326000282",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
+      "prioridade": "5 very high",
       "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 32,
-      "assunto": "Configurar Compilador"
+      "criado": "2026-04-23T11:22:35",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 11,
+      "assunto": "Configurar Programa"
     },
     {
       "ticket": "2026031726000287",
@@ -1117,6 +1105,18 @@
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-04T05:00:20",
+      "idade_dias": 32,
+      "assunto": "Configurar Compilador"
+    },
+    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1197,7 +1197,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-30T17:13:13",
       "modificado": "2026-04-30T17:21:49",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "[CHAMADO DE TESTE] ERRO DEPRECIACAO ATIVO BRGAAP"
     },
     {
