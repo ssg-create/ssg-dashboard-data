@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777905638,
-  "generated_at_iso": "2026-05-04T14:40:38Z",
+  "generated_at": 1777906254,
+  "generated_at_iso": "2026-05-04T14:50:54Z",
   "counts": {
     "crit": 1,
     "warn": 5,
@@ -24,6 +24,25 @@
         }
       ],
       "recommendation": "Revisar em bloco: cada atendente confirma se o ticket está ativo ou deve ser fechado/escalado.",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Eduardo_Candido",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Eduardo Candido com carga real de 6 tickets",
+      "summary": "Eduardo Candido tem 6 tickets ativos sob sua responsabilidade: 2 em atendimento + 4 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Eduardo Candido",
+          "carga_real": 6,
+          "em_atendimento": 2,
+          "abertos": 4,
+          "aguardando_terceiros": 2,
+          "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
       "impact_estimate": "médio"
     },
     {
@@ -59,25 +78,6 @@
           "abertos": 6,
           "aguardando_terceiros": 0,
           "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 5 tickets",
-      "summary": "Eduardo Candido tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Eduardo Candido",
-          "carga_real": 5,
-          "em_atendimento": 2,
-          "abertos": 3,
-          "aguardando_terceiros": 2,
-          "ativos_total": 8
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
