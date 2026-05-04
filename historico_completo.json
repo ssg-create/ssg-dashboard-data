@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777938031,
-  "generated_at_iso": "2026-05-04T23:40:31Z",
+  "generated_at": 1777938622,
+  "generated_at_iso": "2026-05-04T23:50:22Z",
   "count": 2343,
   "filas": [
     "DATASUL",
@@ -376,9 +376,9 @@
       "num": "2026050426000208",
       "assunto": "Aplicação de boletim - PROJETO e UNO",
       "criado": "2026-05-04T11:15:20",
-      "modificado": "2026-05-04T20:25:09",
+      "modificado": "2026-05-04T20:42:25",
       "fila": "DBA",
-      "estado": "retorno cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Eduardo Candido",
       "primeiro_nome": "Eduardo",
@@ -386,11 +386,11 @@
       "cli_id": "SERVENG",
       "cli_user": "accamargo@serveng.com.br",
       "servico": "Banco de Horas::Banco de Dados",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-05-04T20:42:25",
+      "resp_min_raw": 567,
+      "sol_min_raw": 567,
+      "sol_min_bh": 344,
+      "resp_min_bh": 344
     },
     {
       "num": "2026050426000191",
@@ -5356,7 +5356,7 @@
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
+      "modificado": "2026-05-04T20:44:04",
       "fila": "DBA",
       "estado": "aguardando atendente (interno)",
       "prioridade": "3 normal",
