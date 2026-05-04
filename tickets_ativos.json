@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777926291,
-  "generated_at_iso": "2026-05-04T20:24:51Z",
-  "count": 175,
+  "generated_at": 1777926625,
+  "generated_at_iso": "2026-05-04T20:30:25Z",
+  "count": 173,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,18 @@
   ],
   "rows": [
     {
+      "ticket": "2025121126000371",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "GMUD",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2025-12-11T15:00:57",
+      "modificado": "2026-05-04T17:29:20",
+      "idade_dias": 144,
+      "assunto": "PRE DANFE"
+    },
+    {
       "ticket": "2026050426000397",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -20,7 +32,7 @@
       "prioridade": "4 high",
       "atendente": "Admin OTRS",
       "criado": "2026-05-04T17:22:52",
-      "modificado": "2026-05-04T17:22:55",
+      "modificado": "2026-05-04T17:25:45",
       "idade_dias": 0,
       "assunto": "SIGAEIC :: EDITAR PARCELA DE PROCESSO DRAWBACK"
     },
@@ -157,18 +169,6 @@
       "assunto": "Chamado para apontamento de horas."
     },
     {
-      "ticket": "2025121126000371",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2025-12-11T15:00:57",
-      "modificado": "2026-05-04T16:05:17",
-      "idade_dias": 144,
-      "assunto": "PRE DANFE"
-    },
-    {
       "ticket": "2026042826000246",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -239,18 +239,6 @@
       "modificado": "2026-05-04T15:03:44",
       "idade_dias": 0,
       "assunto": "acesso ao ambeinte do servidor"
-    },
-    {
-      "ticket": "2026050426000281",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-04T14:08:45",
-      "modificado": "2026-05-04T15:03:25",
-      "idade_dias": 0,
-      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
     },
     {
       "ticket": "2026042826000219",
@@ -865,6 +853,30 @@
       "assunto": "Reset de senha: OTRS Jean"
     },
     {
+      "ticket": "2026042426000306",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-24T15:05:00",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 10,
+      "assunto": "NF nao aparece no xml"
+    },
+    {
+      "ticket": "2026042326000282",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-23T11:22:35",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 11,
+      "assunto": "Configurar Programa"
+    },
+    {
       "ticket": "2026042926000208",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -901,18 +913,6 @@
       "assunto": "Implantação de um PE"
     },
     {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 7,
-      "assunto": "Alteração Dashboard Logmein"
-    },
-    {
       "ticket": "2026043026000091",
       "cliente": "rafael.dealmeida@teletex.com",
       "fila": "GWMS",
@@ -923,6 +923,18 @@
       "modificado": "2026-05-04T05:00:21",
       "idade_dias": 4,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
+    },
+    {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-04T05:00:21",
+      "idade_dias": 7,
+      "assunto": "Alteração Dashboard Logmein"
     },
     {
       "ticket": "2026043026000198",
@@ -961,28 +973,16 @@
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
-      "ticket": "2026042426000306",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-24T15:05:00",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 10,
-      "assunto": "NF nao aparece no xml"
-    },
-    {
-      "ticket": "2026042326000282",
+      "ticket": "2026040126000439",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
+      "prioridade": "3 normal",
       "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 11,
-      "assunto": "Configurar Programa"
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-04T05:00:20",
+      "idade_dias": 32,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026031726000287",
@@ -1117,18 +1117,6 @@
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 32,
-      "assunto": "Configurar Compilador"
-    },
-    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1199,18 +1187,6 @@
       "modificado": "2026-04-30T17:38:42",
       "idade_dias": 5,
       "assunto": "Ajuste de tipos de autenticação de usuário"
-    },
-    {
-      "ticket": "2026043026000303",
-      "cliente": null,
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-30T17:13:13",
-      "modificado": "2026-04-30T17:21:49",
-      "idade_dias": 4,
-      "assunto": "[CHAMADO DE TESTE] ERRO DEPRECIACAO ATIVO BRGAAP"
     },
     {
       "ticket": "2026042726000435",
