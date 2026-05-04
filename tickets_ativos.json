@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777899021,
-  "generated_at_iso": "2026-05-04T12:50:21Z",
+  "generated_at": 1777899632,
+  "generated_at_iso": "2026-05-04T13:00:32Z",
   "count": 166,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000648",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-04-28T18:35:08",
+      "modificado": "2026-05-04T09:57:53",
+      "idade_dias": 5,
+      "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
+    },
+    {
+      "ticket": "2026012726000468",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "4 high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-01-27T16:44:15",
+      "modificado": "2026-05-04T09:56:47",
+      "idade_dias": 96,
+      "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
+    },
+    {
+      "ticket": "2026050426000146",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-04T09:45:07",
+      "modificado": "2026-05-04T09:53:34",
+      "idade_dias": 0,
+      "assunto": "PAM_PLASTICOS - GWMS-Server - Time - 26050409443398"
+    },
     {
       "ticket": "2026012926000455",
       "cliente": "AUTOZONE",
@@ -95,18 +131,6 @@
       "modificado": "2026-05-04T09:32:45",
       "idade_dias": 5,
       "assunto": "Criação de nova visualização"
-    },
-    {
-      "ticket": "2026050426000128",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-04T09:20:23",
-      "modificado": "2026-05-04T09:32:20",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Perfdata Size - 26050409194129"
     },
     {
       "ticket": "2026042326000111",
@@ -477,7 +501,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-28T10:00:20",
       "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Liberação de acesso ao CENTREON"
     },
     {
@@ -993,7 +1017,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-02-02T10:00:27",
       "modificado": "2026-04-30T15:55:24",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
@@ -1103,18 +1127,6 @@
       "modificado": "2026-04-30T13:18:08",
       "idade_dias": 72,
       "assunto": "Atualização Moeda RON não está acontecendo"
-    },
-    {
-      "ticket": "2026042826000648",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-04-28T18:35:08",
-      "modificado": "2026-04-30T13:00:07",
-      "idade_dias": 5,
-      "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
     },
     {
       "ticket": "2026043026000189",
@@ -1321,18 +1333,6 @@
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
-      "ticket": "2026012726000468",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "4 high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-01-27T16:44:15",
-      "modificado": "2026-04-29T08:50:48",
-      "idade_dias": 96,
-      "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
-    },
-    {
       "ticket": "2026042226000631",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1377,7 +1377,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-11T09:55:13",
       "modificado": "2026-04-28T15:53:10",
-      "idade_dias": 53,
+      "idade_dias": 54,
       "assunto": "Atualizar o Grafana dos clientes para o Grafana 10"
     },
     {
@@ -1533,7 +1533,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-15T10:00:23",
       "modificado": "2026-04-27T11:17:39",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Apontamentos referente a calls internas."
     },
     {
@@ -1581,7 +1581,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-22T10:00:21",
       "modificado": "2026-04-24T18:04:36",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Desenvolvimento do gw/v2"
     },
     {
@@ -1593,7 +1593,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-04-15T09:51:09",
       "modificado": "2026-04-24T14:21:52",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "V2 Customização PCC para trazer o anexo da NF no novo Titulo gerado"
     },
     {
