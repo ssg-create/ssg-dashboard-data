@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777913445,
-  "generated_at_iso": "2026-05-04T16:50:45Z",
+  "generated_at": 1777914023,
+  "generated_at_iso": "2026-05-04T17:00:23Z",
   "count": 172,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000248",
+      "cliente": "diego.carvalho@groundwork.com.br",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Carvalho",
+      "criado": "2026-04-27T11:55:11",
+      "modificado": "2026-05-04T14:00:20",
+      "idade_dias": 7,
+      "assunto": "RES: Histórico Analise de Crédito - RPA"
+    },
     {
       "ticket": "2026041726000114",
       "cliente": "GroundWork",
@@ -561,7 +573,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-19T13:59:01",
       "modificado": "2026-05-04T08:10:27",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
     },
     {
@@ -849,7 +861,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T13:54:03",
       "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
@@ -945,7 +957,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T13:58:03",
       "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Numero de caracteres do Funções Contas a Pagar"
     },
     {
@@ -1561,18 +1573,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26042409115520"
     },
     {
-      "ticket": "2026042726000248",
-      "cliente": "diego.carvalho@groundwork.com.br",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Carvalho",
-      "criado": "2026-04-27T11:55:11",
-      "modificado": "2026-04-27T16:35:07",
-      "idade_dias": 7,
-      "assunto": "RES: Histórico Analise de Crédito - RPA"
-    },
-    {
       "ticket": "2026042726000346",
       "cliente": "postmaster@autozone.com",
       "fila": "SSG",
@@ -2073,7 +2073,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2026-01-30T13:55:07",
       "modificado": "2026-02-25T16:38:55",
-      "idade_dias": 93,
+      "idade_dias": 94,
       "assunto": "ENC: AZ - Chamado 2025111226000344"
     }
   ]
