@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777896027,
-  "generated_at_iso": "2026-05-04T12:00:27Z",
+  "generated_at": 1777896625,
+  "generated_at_iso": "2026-05-04T12:10:25Z",
   "count": 166,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-04T09:10:23",
+      "idade_dias": 4,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2025073026000407",
       "cliente": "ECAD",
@@ -1211,18 +1223,6 @@
       "modificado": "2026-04-29T15:47:04",
       "idade_dias": 5,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-04-29T15:33:15",
-      "idade_dias": 4,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026042926000244",
