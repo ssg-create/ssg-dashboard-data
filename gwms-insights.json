@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777893025,
-  "generated_at_iso": "2026-05-04T11:10:25Z",
+  "generated_at": 1777893627,
+  "generated_at_iso": "2026-05-04T11:20:27Z",
   "counts": {
     "crit": 2,
     "warn": 4,
@@ -19,7 +19,7 @@
           "cliente": "AUTOZONE",
           "fila": "SSG",
           "atendente": "Carlos Fernandes",
-          "dias_silencio": 67.6,
+          "dias_silencio": 67.7,
           "estado": "OPEN"
         }
       ],
@@ -30,16 +30,16 @@
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "crit",
       "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 10 tickets",
-      "summary": "Marcio Guimaraes tem 10 tickets ativos sob sua responsabilidade: 2 em atendimento + 8 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcio Guimaraes com carga real de 11 tickets",
+      "summary": "Marcio Guimaraes tem 11 tickets ativos sob sua responsabilidade: 2 em atendimento + 9 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcio Guimaraes",
-          "carga_real": 10,
+          "carga_real": 11,
           "em_atendimento": 2,
-          "abertos": 8,
+          "abertos": 9,
           "aguardando_terceiros": 4,
-          "ativos_total": 14
+          "ativos_total": 15
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
