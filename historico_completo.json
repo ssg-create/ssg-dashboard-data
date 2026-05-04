@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777891831,
-  "generated_at_iso": "2026-05-04T10:50:31Z",
+  "generated_at": 1777892429,
+  "generated_at_iso": "2026-05-04T11:00:29Z",
   "count": 2326,
   "filas": [
     "DATASUL",
@@ -16,9 +16,9 @@
       "num": "2026050426000057",
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z35-TOTVS-P12-JOB05_T-Autozone-12035 TAXID - 26050407083319",
       "criado": "2026-05-04T07:15:05",
-      "modificado": "2026-05-04T07:41:17",
+      "modificado": "2026-05-04T07:55:39",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "3 normal",
       "atendente": "Bruno Montenegro",
       "primeiro_nome": "Bruno",
@@ -27,10 +27,10 @@
       "cli_user": "monitoramento@groundwork.com.br",
       "servico": "Serviço de Sustentação Groundwork::Banco de Dados",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 40,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 0
     },
     {
       "num": "2026050426000048",
