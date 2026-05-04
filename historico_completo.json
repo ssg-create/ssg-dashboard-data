@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777888837,
-  "generated_at_iso": "2026-05-04T10:00:37Z",
-  "count": 2324,
+  "generated_at": 1777889432,
+  "generated_at_iso": "2026-05-04T10:10:32Z",
+  "count": 2325,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050426000048",
+      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26050407013714",
+      "criado": "2026-05-04T07:05:05",
+      "modificado": "2026-05-04T07:09:58",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050426000039",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050404544179",
@@ -1676,9 +1696,9 @@
       "num": "2026042826000497",
       "assunto": "Inclusão de usuário em grupo Iso RX",
       "criado": "2026-04-28T16:10:09",
-      "modificado": "2026-04-29T17:11:05",
+      "modificado": "2026-05-04T07:03:51",
       "fila": "INFRAESTUTURA",
-      "estado": "resolvido",
+      "estado": "closed successful",
       "prioridade": "3 normal",
       "atendente": "Gilberto Sousa",
       "primeiro_nome": "Gilberto",
@@ -1686,10 +1706,10 @@
       "cli_id": "cida@adelco.com.br",
       "cli_user": "cida@adelco.com.br",
       "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "fechado": "2026-04-29T17:11:05",
+      "fechado": "2026-05-04T07:03:51",
       "resp_min_raw": 954,
-      "sol_min_raw": 1500,
-      "sol_min_bh": 600,
+      "sol_min_raw": 8093,
+      "sol_min_bh": 1729,
       "resp_min_bh": 113
     },
     {
@@ -4913,26 +4933,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-28T10:55:45",
-      "fila": "SSG",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -4951,6 +4951,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-28T10:55:45",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
