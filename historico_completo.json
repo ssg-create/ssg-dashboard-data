@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777914030,
-  "generated_at_iso": "2026-05-04T17:00:30Z",
+  "generated_at": 1777914635,
+  "generated_at_iso": "2026-05-04T17:10:35Z",
   "count": 2333,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050426000281",
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-04T14:08:48",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "4 high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "GDBR",
+      "cli_user": "rafaella.isidoro@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050426000271",
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576",
@@ -311,26 +331,6 @@
       "sol_min_raw": 79,
       "sol_min_bh": 79,
       "resp_min_bh": 7
-    },
-    {
-      "num": "2026050426000048",
-      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26050407013714",
-      "criado": "2026-05-04T07:05:05",
-      "modificado": "2026-05-04T07:42:19",
-      "fila": "GWMS",
-      "estado": "open",
-      "prioridade": "3 normal",
-      "atendente": "Pedro Luiz",
-      "primeiro_nome": "Pedro",
-      "ultimo_nome": "Luiz",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
     },
     {
       "num": "2026050426000011",
@@ -2456,9 +2456,9 @@
       "num": "2026042826000193",
       "assunto": "Liberação de acesso ao CENTREON",
       "criado": "2026-04-28T10:00:20",
-      "modificado": "2026-05-04T05:00:21",
+      "modificado": "2026-05-04T14:03:03",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "1 very low",
       "atendente": "Pedro Luiz",
       "primeiro_nome": "Pedro",
@@ -2466,10 +2466,10 @@
       "cli_id": "joalyson.oliveira@teletex.com",
       "cli_user": "joalyson.oliveira@teletex.com",
       "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
+      "fechado": "2026-05-04T14:03:03",
       "resp_min_raw": 79,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 8882,
+      "sol_min_bh": 2342,
       "resp_min_bh": 79
     },
     {
@@ -5133,26 +5133,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-04-30T15:15:58",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -5171,6 +5151,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-04-30T15:15:58",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
