@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777894031,
-  "generated_at_iso": "2026-05-04T11:27:11Z",
+  "generated_at": 1777894229,
+  "generated_at_iso": "2026-05-04T11:30:29Z",
   "count": 169,
   "filas": [
     "DATASUL",
@@ -13,6 +13,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026050426000084",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-04T08:20:15",
+      "modificado": "2026-05-04T08:27:23",
+      "idade_dias": 0,
+      "assunto": "MAQUINA CONSULTOR"
+    },
+    {
       "ticket": "2026041326000121",
       "cliente": "joao.oliveira@almeidajunior.com.br",
       "fila": "SSG",
@@ -23,18 +35,6 @@
       "modificado": "2026-05-04T08:26:06",
       "idade_dias": 20,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
-    },
-    {
-      "ticket": "2026050426000084",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-04T08:20:15",
-      "modificado": "2026-05-04T08:21:24",
-      "idade_dias": 0,
-      "assunto": "MAQUINA CONSULTOR"
     },
     {
       "ticket": "2026042726000113",
@@ -309,7 +309,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-30T08:30:27",
       "modificado": "2026-05-04T05:00:21",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
