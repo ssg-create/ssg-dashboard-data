@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777979423,
-  "generated_at_iso": "2026-05-05T11:10:23Z",
+  "generated_at": 1777980017,
+  "generated_at_iso": "2026-05-05T11:20:17Z",
   "count": 5,
   "filas": [
     "DATASUL",
@@ -25,6 +25,18 @@
       "assunto": "Solicitação de controle de  fila de impressão"
     },
     {
+      "ticket": "2026040226000044",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado_atual": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-02T08:35:38",
+      "modificado": "2026-05-05T08:13:00",
+      "vezes_fechado": 1,
+      "assunto": "Bloqueio de fornecedores inativos no Protheus"
+    },
+    {
       "ticket": "2026041226000043",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "DBA",
@@ -35,18 +47,6 @@
       "modificado": "2026-04-30T15:17:08",
       "vezes_fechado": 1,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
-    },
-    {
-      "ticket": "2026040226000044",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado_atual": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-02T08:35:38",
-      "modificado": "2026-04-30T10:00:13",
-      "vezes_fechado": 1,
-      "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
       "ticket": "2026032526000459",
