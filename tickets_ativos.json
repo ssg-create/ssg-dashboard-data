@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777938619,
-  "generated_at_iso": "2026-05-04T23:50:19Z",
+  "generated_at": 1777939231,
+  "generated_at_iso": "2026-05-05T00:00:31Z",
   "count": 173,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050226000079",
+      "cliente": "eduardo.candido@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "AGUARDANDO AGENTES EXTERNOS",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-02T13:50:07",
+      "modificado": "2026-05-04T20:59:42",
+      "idade_dias": 2,
+      "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
+    },
     {
       "ticket": "2026042326000013",
       "cliente": "monitoramento@groundwork.com.br",
@@ -755,18 +767,6 @@
       "modificado": "2026-05-04T08:10:27",
       "idade_dias": 105,
       "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
-    },
-    {
-      "ticket": "2026050226000079",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-02T13:50:07",
-      "modificado": "2026-05-04T07:46:21",
-      "idade_dias": 2,
-      "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
     },
     {
       "ticket": "2026042826000461",
