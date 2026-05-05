@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778012437,
-  "generated_at_iso": "2026-05-05T20:20:37Z",
+  "generated_at": 1778013037,
+  "generated_at_iso": "2026-05-05T20:30:37Z",
   "count": 2335,
   "filas": [
     "DATASUL",
@@ -16,21 +16,21 @@
       "num": "2026050526000411",
       "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS",
       "criado": "2026-05-05T17:19:36",
-      "modificado": "2026-05-05T17:19:39",
+      "modificado": "2026-05-05T17:23:54",
       "fila": "SSG",
-      "estado": "new",
+      "estado": "open",
       "prioridade": "2 low",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "primeiro_nome": "AlmeidaJR",
-      "ultimo_nome": "Integração Movidesk",
+      "atendente": "Debora Gomes",
+      "primeiro_nome": "Debora",
+      "ultimo_nome": "Gomes",
       "cli_id": "ALMEIDA JR",
       "cli_user": "integracao.almeidajunior",
-      "servico": "",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 4,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 4
     },
     {
       "num": "2026050526000402",
@@ -1256,9 +1256,9 @@
       "num": "2026043026000321",
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781",
       "criado": "2026-04-30T17:45:15",
-      "modificado": "2026-04-30T17:53:02",
+      "modificado": "2026-05-05T17:27:54",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Joao Santos",
       "primeiro_nome": "Joao",
@@ -1267,10 +1267,10 @@
       "cli_user": "filipe.meier@totvs.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Operacional",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 7182,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 1601
     },
     {
       "num": "2026043026000303",
