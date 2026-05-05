@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778015448,
-  "generated_at_iso": "2026-05-05T21:10:48Z",
-  "count": 2339,
+  "generated_at": 1778016032,
+  "generated_at_iso": "2026-05-05T21:20:32Z",
+  "count": 2340,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050526000501",
+      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09",
+      "criado": "2026-05-05T18:18:44",
+      "modificado": "2026-05-05T18:20:18",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "AUTOZONE",
+      "cli_user": "antonio.neto@autozone.com",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000475",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Notif Groups Relations - 26050517513398",
@@ -6816,9 +6836,9 @@
       "num": "2026042226000168",
       "assunto": "Desenvolvimento do gw/v2",
       "criado": "2026-04-22T10:00:21",
-      "modificado": "2026-05-05T18:05:44",
+      "modificado": "2026-05-05T18:14:35",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "open",
       "prioridade": "3 normal",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
