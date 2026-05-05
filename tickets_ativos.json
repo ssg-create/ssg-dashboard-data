@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777992039,
-  "generated_at_iso": "2026-05-05T14:40:39Z",
-  "count": 175,
+  "generated_at": 1777992652,
+  "generated_at_iso": "2026-05-05T14:50:52Z",
+  "count": 176,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,54 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000171",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-05T10:05:11",
+      "modificado": "2026-05-05T11:47:49",
+      "idade_dias": 0,
+      "assunto": "RE: Coiban/Coife"
+    },
+    {
+      "ticket": "2026050526000224",
+      "cliente": null,
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-05T11:44:44",
+      "modificado": "2026-05-05T11:47:06",
+      "idade_dias": 0,
+      "assunto": "[CHAMADO TESTE BOT] ERRO NO CIAP AZ"
+    },
+    {
+      "ticket": "2026042926000048",
+      "cliente": "elizeu.brasil@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-29T05:05:08",
+      "modificado": "2026-05-05T11:45:25",
+      "idade_dias": 6,
+      "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
+    },
+    {
+      "ticket": "2026050426000244",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "MELHORIA",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T11:50:48",
+      "modificado": "2026-05-05T11:43:19",
+      "idade_dias": 1,
+      "assunto": "Erro ao tentar reimportar nota - programa"
+    },
     {
       "ticket": "2026050426000342",
       "cliente": "ivan.claudio@totvs.com.br",
@@ -145,18 +193,6 @@
       "assunto": "Aprovação de pedido não chegou até o usuário"
     },
     {
-      "ticket": "2026050526000171",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-05T10:05:11",
-      "modificado": "2026-05-05T11:06:29",
-      "idade_dias": 0,
-      "assunto": "RE: Coiban/Coife"
-    },
-    {
       "ticket": "2026041726000061",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -167,18 +203,6 @@
       "modificado": "2026-05-05T11:01:26",
       "idade_dias": 18,
       "assunto": "Implantação GWMS cliente Digna"
-    },
-    {
-      "ticket": "2026042926000048",
-      "cliente": "elizeu.brasil@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-29T05:05:08",
-      "modificado": "2026-05-05T11:00:22",
-      "idade_dias": 6,
-      "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
     },
     {
       "ticket": "2026050426000404",
@@ -227,18 +251,6 @@
       "modificado": "2026-05-05T10:30:15",
       "idade_dias": 7,
       "assunto": "Atualização - Certificado Groundwork"
-    },
-    {
-      "ticket": "2026050426000244",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T11:50:48",
-      "modificado": "2026-05-05T10:24:31",
-      "idade_dias": 0,
-      "assunto": "Erro ao tentar reimportar nota - programa"
     },
     {
       "ticket": "2026050526000199",
@@ -561,7 +573,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T11:50:17",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Error. \"Instance Failed to Load\""
     },
     {
@@ -849,7 +861,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-30T11:41:06",
       "modificado": "2026-05-04T23:14:16",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
     },
     {
