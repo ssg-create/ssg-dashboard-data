@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777996831,
-  "generated_at_iso": "2026-05-05T16:00:31Z",
+  "generated_at": 1777997427,
+  "generated_at_iso": "2026-05-05T16:10:27Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050426000244",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T11:50:48",
+      "modificado": "2026-05-05T13:10:15",
+      "idade_dias": 1,
+      "assunto": "Erro ao tentar reimportar nota - programa"
+    },
+    {
+      "ticket": "2026042026000199",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-20T15:15:20",
+      "modificado": "2026-05-05T13:10:02",
+      "idade_dias": 14,
+      "assunto": "Solicitação de controle de  fila de impressão"
+    },
+    {
       "ticket": "2026050526000242",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -23,18 +47,6 @@
       "modificado": "2026-05-05T12:49:10",
       "idade_dias": 0,
       "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
-      "ticket": "2026050426000244",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T11:50:48",
-      "modificado": "2026-05-05T12:45:11",
-      "idade_dias": 1,
-      "assunto": "Erro ao tentar reimportar nota - programa"
     },
     {
       "ticket": "2026050526000233",
@@ -1369,18 +1381,6 @@
       "assunto": "Ajuste de tipos de autenticação de usuário"
     },
     {
-      "ticket": "2026042026000199",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-20T15:15:20",
-      "modificado": "2026-04-30T15:29:51",
-      "idade_dias": 14,
-      "assunto": "Solicitação de controle de  fila de impressão"
-    },
-    {
       "ticket": "2026041226000043",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "DBA",
@@ -1797,7 +1797,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T13:02:21",
       "modificado": "2026-04-24T10:53:35",
-      "idade_dias": 137,
+      "idade_dias": 138,
       "assunto": "Cadastro de Cliente - Não está salvando o arquivo no servidor do ERP"
     },
     {
