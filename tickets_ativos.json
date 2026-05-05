@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777990842,
-  "generated_at_iso": "2026-05-05T14:20:42Z",
+  "generated_at": 1777991387,
+  "generated_at_iso": "2026-05-05T14:29:47Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000135",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T09:21:25",
+      "modificado": "2026-05-05T11:29:24",
+      "idade_dias": 0,
+      "assunto": "Pedido de compra não está saindo com informações corretas"
+    },
+    {
+      "ticket": "2026042726000462",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-05-05T11:25:39",
+      "idade_dias": 7,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
+    {
+      "ticket": "2026050426000333",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "MELHORIA",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T14:54:50",
+      "modificado": "2026-05-05T11:24:54",
+      "idade_dias": 0,
+      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
+    },
     {
       "ticket": "2026050426000379",
       "cliente": "psouza@bentonit.com.br",
@@ -301,18 +337,6 @@
       "assunto": "Unimed Curitiba - CS0016635"
     },
     {
-      "ticket": "2026050526000135",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T09:21:25",
-      "modificado": "2026-05-05T09:33:18",
-      "idade_dias": 0,
-      "assunto": "Pedido de compra não está saindo com informações corretas"
-    },
-    {
       "ticket": "2026041526000181",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -549,7 +573,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-23T11:22:35",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Configurar Programa"
     },
     {
@@ -889,18 +913,6 @@
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
     },
     {
-      "ticket": "2026050426000333",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T14:54:50",
-      "modificado": "2026-05-04T17:05:23",
-      "idade_dias": 0,
-      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
       "ticket": "2026050426000361",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
@@ -973,18 +985,6 @@
       "assunto": "Alerta - 26050414254238"
     },
     {
-      "ticket": "2026042726000462",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-04T14:30:27",
-      "idade_dias": 7,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
-    },
-    {
       "ticket": "2025091826000356",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1029,7 +1029,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-30T11:25:22",
       "modificado": "2026-05-04T13:46:47",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Notificação de indisponibilidade TI Fluig"
     },
     {
@@ -1413,7 +1413,7 @@
       "atendente": "Diogo Cunha",
       "criado": "2026-04-30T11:27:27",
       "modificado": "2026-04-30T11:48:11",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "FLUIG - MENU INDISPONÍVEL"
     },
     {
@@ -1557,7 +1557,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-03-06T11:21:07",
       "modificado": "2026-04-28T17:16:03",
-      "idade_dias": 59,
+      "idade_dias": 60,
       "assunto": "Suporte  - Ajuste de Ativos na empresa 40"
     },
     {
@@ -2037,7 +2037,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-03-31T11:23:44",
       "modificado": "2026-04-13T14:22:01",
-      "idade_dias": 34,
+      "idade_dias": 35,
       "assunto": "Cópia de pedido - Não leva para integração os dados preenchidos na primeira etapa"
     },
     {
