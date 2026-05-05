@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777983619,
-  "generated_at_iso": "2026-05-05T12:20:19Z",
+  "generated_at": 1777984228,
+  "generated_at_iso": "2026-05-05T12:30:28Z",
   "count": 36,
   "filas": [
     "DATASUL",
@@ -13,15 +13,6 @@
   ],
   "rows": [
     {
-      "atendente": "Marcio Guimaraes",
-      "login": "marcio.guimaraes",
-      "ativos_total": 18,
-      "em_atendimento": 2,
-      "aguardando": 5,
-      "abertos": 11,
-      "em_atend_tempo_med_min": 9851
-    },
-    {
       "atendente": "Robert Rodrigues dos Santos",
       "login": "robert.santos",
       "ativos_total": 11,
@@ -29,6 +20,15 @@
       "aguardando": 10,
       "abertos": 1,
       "em_atend_tempo_med_min": null
+    },
+    {
+      "atendente": "Marcio Guimaraes",
+      "login": "marcio.guimaraes",
+      "ativos_total": 10,
+      "em_atendimento": 2,
+      "aguardando": 5,
+      "abertos": 3,
+      "em_atend_tempo_med_min": 9861.5
     },
     {
       "atendente": "Dyalef Abreu Santos",
@@ -46,7 +46,7 @@
       "em_atendimento": 1,
       "aguardando": 9,
       "abertos": 0,
-      "em_atend_tempo_med_min": 1449
+      "em_atend_tempo_med_min": 1460
     },
     {
       "atendente": "Bruno Fagundes",
@@ -55,7 +55,7 @@
       "em_atendimento": 1,
       "aguardando": 6,
       "abertos": 2,
-      "em_atend_tempo_med_min": 13
+      "em_atend_tempo_med_min": 23
     },
     {
       "atendente": "Jean Pierre Rocha",
@@ -64,7 +64,7 @@
       "em_atendimento": 3,
       "aguardando": 0,
       "abertos": 6,
-      "em_atend_tempo_med_min": 11847.3333
+      "em_atend_tempo_med_min": 11857.3333
     },
     {
       "atendente": "Eduardo Candido",
@@ -73,7 +73,7 @@
       "em_atendimento": 2,
       "aguardando": 3,
       "abertos": 2,
-      "em_atend_tempo_med_min": 10319.5
+      "em_atend_tempo_med_min": 10330
     },
     {
       "atendente": "Weskley Silva",
@@ -82,7 +82,7 @@
       "em_atendimento": 5,
       "aguardando": 3,
       "abertos": 0,
-      "em_atend_tempo_med_min": 20235.4
+      "em_atend_tempo_med_min": 20245.6
     },
     {
       "atendente": "Joao Santos",
@@ -91,7 +91,7 @@
       "em_atendimento": 1,
       "aguardando": 2,
       "abertos": 4,
-      "em_atend_tempo_med_min": 8253
+      "em_atend_tempo_med_min": 8263
     },
     {
       "atendente": "Diego Cardoso",
@@ -100,7 +100,7 @@
       "em_atendimento": 1,
       "aguardando": 4,
       "abertos": 2,
-      "em_atend_tempo_med_min": 590
+      "em_atend_tempo_med_min": 600
     },
     {
       "atendente": "Marcelo David",
@@ -118,7 +118,16 @@
       "em_atendimento": 2,
       "aguardando": 2,
       "abertos": 2,
-      "em_atend_tempo_med_min": 19849
+      "em_atend_tempo_med_min": 19859
+    },
+    {
+      "atendente": "Guilherme Jonck",
+      "login": "guilherme.jonck",
+      "ativos_total": 6,
+      "em_atendimento": 1,
+      "aguardando": 3,
+      "abertos": 2,
+      "em_atend_tempo_med_min": 83
     },
     {
       "atendente": "Sergio Luiz Glovatinski Jr",
@@ -127,16 +136,16 @@
       "em_atendimento": 2,
       "aguardando": 2,
       "abertos": 1,
-      "em_atend_tempo_med_min": 9803.5
+      "em_atend_tempo_med_min": 9813.5
     },
     {
-      "atendente": "Guilherme Jonck",
-      "login": "guilherme.jonck",
+      "atendente": "Pedro Luiz",
+      "login": "pedro.luiz",
       "ativos_total": 5,
       "em_atendimento": 1,
-      "aguardando": 3,
-      "abertos": 1,
-      "em_atend_tempo_med_min": 73
+      "aguardando": 2,
+      "abertos": 2,
+      "em_atend_tempo_med_min": 84
     },
     {
       "atendente": "Guilherme Rosa",
@@ -148,22 +157,13 @@
       "em_atend_tempo_med_min": null
     },
     {
-      "atendente": "Pedro Luiz",
-      "login": "pedro.luiz",
-      "ativos_total": 4,
-      "em_atendimento": 1,
-      "aguardando": 2,
-      "abertos": 1,
-      "em_atend_tempo_med_min": 73
-    },
-    {
       "atendente": "Luciano Katsumi Shiraishi",
       "login": "luciano.shiraishi",
       "ativos_total": 4,
       "em_atendimento": 1,
       "aguardando": 2,
       "abertos": 1,
-      "em_atend_tempo_med_min": 821
+      "em_atend_tempo_med_min": 831
     },
     {
       "atendente": "Adriano Luiz",
@@ -172,7 +172,7 @@
       "em_atendimento": 1,
       "aguardando": 0,
       "abertos": 3,
-      "em_atend_tempo_med_min": 18599
+      "em_atend_tempo_med_min": 18609
     },
     {
       "atendente": "Geyson Albano",
@@ -181,7 +181,7 @@
       "em_atendimento": 1,
       "aguardando": 1,
       "abertos": 1,
-      "em_atend_tempo_med_min": 15540
+      "em_atend_tempo_med_min": 15550
     },
     {
       "atendente": "Debora Gomes",
@@ -190,7 +190,16 @@
       "em_atendimento": 1,
       "aguardando": 3,
       "abertos": 0,
-      "em_atend_tempo_med_min": 8638
+      "em_atend_tempo_med_min": 8648
+    },
+    {
+      "atendente": "Enzo Fucitalo",
+      "login": "enzo.fucitalo",
+      "ativos_total": 3,
+      "em_atendimento": 0,
+      "aguardando": 0,
+      "abertos": 3,
+      "em_atend_tempo_med_min": null
     },
     {
       "atendente": "Eduardo Souza",
@@ -199,7 +208,7 @@
       "em_atendimento": 1,
       "aguardando": 1,
       "abertos": 1,
-      "em_atend_tempo_med_min": 8574
+      "em_atend_tempo_med_min": 8584
     },
     {
       "atendente": "Cristiano Scaranci",
@@ -208,16 +217,7 @@
       "em_atendimento": 3,
       "aguardando": 0,
       "abertos": 0,
-      "em_atend_tempo_med_min": 15846.3333
-    },
-    {
-      "atendente": "Enzo Fucitalo",
-      "login": "enzo.fucitalo",
-      "ativos_total": 2,
-      "em_atendimento": 0,
-      "aguardando": 0,
-      "abertos": 2,
-      "em_atend_tempo_med_min": null
+      "em_atend_tempo_med_min": 15856.3333
     },
     {
       "atendente": "Diogo Cunha",
@@ -226,7 +226,7 @@
       "em_atendimento": 1,
       "aguardando": 0,
       "abertos": 1,
-      "em_atend_tempo_med_min": 8198
+      "em_atend_tempo_med_min": 8208
     },
     {
       "atendente": "Wiglas Reis",
@@ -235,7 +235,7 @@
       "em_atendimento": 2,
       "aguardando": 0,
       "abertos": 0,
-      "em_atend_tempo_med_min": 25517.5
+      "em_atend_tempo_med_min": 25527.5
     },
     {
       "atendente": "Francisco Silva",
@@ -244,7 +244,7 @@
       "em_atendimento": 1,
       "aguardando": 1,
       "abertos": 0,
-      "em_atend_tempo_med_min": 9813
+      "em_atend_tempo_med_min": 9823
     },
     {
       "atendente": "Carlos Fernandes",
@@ -253,24 +253,6 @@
       "em_atendimento": 0,
       "aguardando": 0,
       "abertos": 2,
-      "em_atend_tempo_med_min": null
-    },
-    {
-      "atendente": "Diego Carvalho",
-      "login": "diego.carvalho",
-      "ativos_total": 1,
-      "em_atendimento": 0,
-      "aguardando": 1,
-      "abertos": 0,
-      "em_atend_tempo_med_min": null
-    },
-    {
-      "atendente": "Fabiano Souza",
-      "login": "fabiano.souza",
-      "ativos_total": 1,
-      "em_atendimento": 0,
-      "aguardando": 1,
-      "abertos": 0,
       "em_atend_tempo_med_min": null
     },
     {
@@ -298,7 +280,7 @@
       "em_atendimento": 1,
       "aguardando": 0,
       "abertos": 0,
-      "em_atend_tempo_med_min": 1049
+      "em_atend_tempo_med_min": 1059
     },
     {
       "atendente": "Gilberto Sousa",
@@ -307,7 +289,7 @@
       "em_atendimento": 1,
       "aguardando": 0,
       "abertos": 0,
-      "em_atend_tempo_med_min": 11346
+      "em_atend_tempo_med_min": 11356
     },
     {
       "atendente": "Vilante Marques Alves",
@@ -330,6 +312,24 @@
     {
       "atendente": "Gesiel Silva",
       "login": "gesiel.silva",
+      "ativos_total": 1,
+      "em_atendimento": 0,
+      "aguardando": 1,
+      "abertos": 0,
+      "em_atend_tempo_med_min": null
+    },
+    {
+      "atendente": "Diego Carvalho",
+      "login": "diego.carvalho",
+      "ativos_total": 1,
+      "em_atendimento": 0,
+      "aguardando": 1,
+      "abertos": 0,
+      "em_atend_tempo_med_min": null
+    },
+    {
+      "atendente": "Fabiano Souza",
+      "login": "fabiano.souza",
       "ativos_total": 1,
       "em_atendimento": 0,
       "aguardando": 1,
