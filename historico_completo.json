@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778021453,
-  "generated_at_iso": "2026-05-05T22:50:53Z",
-  "count": 2342,
+  "generated_at": 1778022027,
+  "generated_at_iso": "2026-05-05T23:00:27Z",
+  "count": 2343,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050526000528",
+      "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT",
+      "criado": "2026-05-05T19:53:08",
+      "modificado": "2026-05-05T19:53:11",
+      "fila": "INFRAESTUTURA",
+      "estado": "new",
+      "prioridade": "4 high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "FADEL",
+      "cli_user": "aleson.soares@fadeltransportes.com.br",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::Firewall",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000519",
       "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/ - 26050519091133",
@@ -3416,7 +3436,7 @@
       "num": "2026042826000175",
       "assunto": "SIGACOM :: Auxilio com novo fluxo de compras",
       "criado": "2026-04-28T09:41:21",
-      "modificado": "2026-05-04T23:23:37",
+      "modificado": "2026-05-05T19:54:55",
       "fila": "SSG",
       "estado": "aguardando cliente",
       "prioridade": "3 normal",
