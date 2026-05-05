@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778003430,
-  "generated_at_iso": "2026-05-05T17:50:30Z",
+  "generated_at": 1778003769,
+  "generated_at_iso": "2026-05-05T17:56:09Z",
   "count": 178,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-05T14:51:13",
+      "idade_dias": 0,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026050526000313",
       "cliente": "SAYERLACK",
@@ -181,18 +193,6 @@
       "assunto": "acesso ao ambeinte do servidor"
     },
     {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-05T13:54:53",
-      "idade_dias": 0,
-      "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
       "ticket": "2026050526000073",
       "cliente": "TJBA",
       "fila": "GWMS",
@@ -357,7 +357,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-04T14:54:50",
       "modificado": "2026-05-05T11:24:54",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
