@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777983118,
-  "generated_at_iso": "2026-05-05T12:11:58Z",
+  "generated_at": 1777983621,
+  "generated_at_iso": "2026-05-05T12:20:21Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -13,6 +13,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000108",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-05T09:01:37",
+      "modificado": "2026-05-05T09:18:09",
+      "idade_dias": 0,
+      "assunto": "Contabilização Aplicação - Gesplan"
+    },
+    {
       "ticket": "2026050426000351",
       "cliente": "servicedesk@teletex.com",
       "fila": "GWMS",
@@ -23,18 +35,6 @@
       "modificado": "2026-05-05T09:07:13",
       "idade_dias": 0,
       "assunto": "Unimed Curitiba - CS0016635"
-    },
-    {
-      "ticket": "2026050526000108",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-05T09:01:37",
-      "modificado": "2026-05-05T09:06:56",
-      "idade_dias": 0,
-      "assunto": "Contabilização Aplicação - Gesplan"
     },
     {
       "ticket": "2026042926000208",
@@ -289,6 +289,18 @@
       "assunto": "excluir sc 006111 - NR"
     },
     {
+      "ticket": "2026042826000611",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-04-28T18:00:25",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 6,
+      "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
+    },
+    {
       "ticket": "2026042826000461",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -311,18 +323,6 @@
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 6,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 7,
-      "assunto": "Alteração Dashboard Logmein"
     },
     {
       "ticket": "2026043026000198",
@@ -361,6 +361,18 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 7,
+      "assunto": "Alteração Dashboard Logmein"
+    },
+    {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -383,6 +395,30 @@
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 6,
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
+    },
+    {
+      "ticket": "2026042726000097",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-27T08:26:47",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 8,
+      "assunto": "Erro de  -L no servidor"
+    },
+    {
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 33,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026040126000251",
@@ -409,28 +445,16 @@
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
-      "ticket": "2026042726000097",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-27T08:26:47",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 8,
-      "assunto": "Erro de  -L no servidor"
-    },
-    {
-      "ticket": "2026040126000439",
+      "ticket": "2026042826000273",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
       "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
+      "criado": "2026-04-28T11:50:17",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 33,
-      "assunto": "Configurar Compilador"
+      "idade_dias": 6,
+      "assunto": "Error. \"Instance Failed to Load\""
     },
     {
       "ticket": "2026042826000228",
@@ -481,16 +505,16 @@
       "assunto": "Acessos Aline e Franciele"
     },
     {
-      "ticket": "2026042826000273",
+      "ticket": "2026042326000282",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
+      "prioridade": "5 very high",
       "atendente": "Marcelo David",
-      "criado": "2026-04-28T11:50:17",
+      "criado": "2026-04-23T11:22:35",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 6,
-      "assunto": "Error. \"Instance Failed to Load\""
+      "idade_dias": 11,
+      "assunto": "Configurar Programa"
     },
     {
       "ticket": "2026042126000071",
@@ -513,20 +537,8 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T09:18:12",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
-    },
-    {
-      "ticket": "2026042326000282",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 11,
-      "assunto": "Configurar Programa"
     },
     {
       "ticket": "2026042826000344",
@@ -551,18 +563,6 @@
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 5,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
-    },
-    {
-      "ticket": "2026042826000611",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-04-28T18:00:25",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 6,
-      "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
       "ticket": "2026021226000207",
@@ -957,7 +957,7 @@
       "atendente": "Gesiel Silva",
       "criado": "2026-04-16T09:20:09",
       "modificado": "2026-05-04T14:24:23",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
@@ -1353,7 +1353,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-12T09:15:14",
       "modificado": "2026-04-30T15:17:08",
-      "idade_dias": 22,
+      "idade_dias": 23,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
@@ -1653,7 +1653,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-24T09:15:21",
       "modificado": "2026-04-27T18:49:20",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26042409115520"
     },
     {
@@ -2085,7 +2085,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-09T09:15:10",
       "modificado": "2026-04-13T10:23:20",
-      "idade_dias": 25,
+      "idade_dias": 26,
       "assunto": "Solicitação de Ajuste - WebService WEBA016 (Inclusão de PA)"
     },
     {
@@ -2109,7 +2109,7 @@
       "atendente": "George Eivazian",
       "criado": "2026-04-01T09:14:12",
       "modificado": "2026-04-08T10:32:44",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "inconsistencia no Rateio"
     },
     {
