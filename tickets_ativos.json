@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778015445,
-  "generated_at_iso": "2026-05-05T21:10:45Z",
-  "count": 183,
+  "generated_at": 1778016026,
+  "generated_at_iso": "2026-05-05T21:20:26Z",
+  "count": 184,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,14 +13,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000501",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-05T18:18:44",
+      "modificado": "2026-05-05T18:20:18",
+      "idade_dias": 0,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
+    },
+    {
       "ticket": "2026042226000168",
       "cliente": "guilherme.jonck@groundwork.com.br",
       "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
+      "estado": "OPEN",
       "prioridade": "3 normal",
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-22T10:00:21",
-      "modificado": "2026-05-05T18:05:44",
+      "modificado": "2026-05-05T18:14:35",
       "idade_dias": 13,
       "assunto": "Desenvolvimento do gw/v2"
     },
@@ -1557,7 +1569,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-15T18:11:21",
       "modificado": "2026-05-03T07:39:59",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Descoberta de Topologia automática"
     },
     {
@@ -1821,7 +1833,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-17T18:17:04",
       "modificado": "2026-04-28T08:44:10",
-      "idade_dias": 138,
+      "idade_dias": 139,
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
