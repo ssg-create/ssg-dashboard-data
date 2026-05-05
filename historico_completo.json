@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778011829,
-  "generated_at_iso": "2026-05-05T20:10:29Z",
-  "count": 2334,
+  "generated_at": 1778012437,
+  "generated_at_iso": "2026-05-05T20:20:37Z",
+  "count": 2335,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050526000411",
+      "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS",
+      "criado": "2026-05-05T17:19:36",
+      "modificado": "2026-05-05T17:19:39",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "2 low",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "primeiro_nome": "AlmeidaJR",
+      "ultimo_nome": "Integração Movidesk",
+      "cli_id": "ALMEIDA JR",
+      "cli_user": "integracao.almeidajunior",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000402",
       "assunto": "PECVAL - GWMS-Server - Time - 26050517003426",
@@ -336,9 +356,9 @@
       "num": "2026050526000181",
       "assunto": "Incluir Firewalls Monitoramento",
       "criado": "2026-05-05T10:15:12",
-      "modificado": "2026-05-05T16:52:41",
+      "modificado": "2026-05-05T17:20:12",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "1 very low",
       "atendente": "Thiago Trufelli",
       "primeiro_nome": "Thiago",
