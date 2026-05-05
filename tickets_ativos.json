@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778020227,
-  "generated_at_iso": "2026-05-05T22:30:27Z",
+  "generated_at": 1778020834,
+  "generated_at_iso": "2026-05-05T22:40:34Z",
   "count": 186,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000226",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-04T11:34:20",
+      "modificado": "2026-05-05T19:32:31",
+      "idade_dias": 1,
+      "assunto": "Configurar Compilador"
+    },
+    {
+      "ticket": "2026050426000361",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-04T16:47:56",
+      "modificado": "2026-05-05T19:31:35",
+      "idade_dias": 1,
+      "assunto": "Validar configuraciones"
+    },
     {
       "ticket": "2026050526000493",
       "cliente": "monitoramento@groundwork.com.br",
@@ -901,18 +925,6 @@
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
-      "ticket": "2026042326000282",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-23T11:22:35",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 12,
-      "assunto": "Configurar Programa"
-    },
-    {
       "ticket": "2026042826000611",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -923,6 +935,18 @@
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 7,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
+    },
+    {
+      "ticket": "2026042326000282",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-23T11:22:35",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 12,
+      "assunto": "Configurar Programa"
     },
     {
       "ticket": "2026031726000287",
@@ -1273,18 +1297,6 @@
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
-      "ticket": "2026050426000361",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-05-04T16:47:56",
-      "modificado": "2026-05-04T16:56:17",
-      "idade_dias": 1,
-      "assunto": "Validar configuraciones"
-    },
-    {
       "ticket": "2026050426000137",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1367,18 +1379,6 @@
       "modificado": "2026-05-04T13:28:16",
       "idade_dias": 5,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
-    },
-    {
-      "ticket": "2026050426000226",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-05-04T11:34:20",
-      "modificado": "2026-05-04T11:51:59",
-      "idade_dias": 1,
-      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026050426000164",
