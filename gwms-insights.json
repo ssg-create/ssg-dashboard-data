@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777998636,
-  "generated_at_iso": "2026-05-05T16:30:36Z",
+  "generated_at": 1777999241,
+  "generated_at_iso": "2026-05-05T16:40:41Z",
   "counts": {
     "crit": 1,
     "warn": 3,
@@ -46,25 +46,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Joao_Santos",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Joao Santos com carga real de 6 tickets",
-      "summary": "Joao Santos tem 6 tickets ativos sob sua responsabilidade: 1 em atendimento + 5 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Joao Santos",
-          "carga_real": 6,
-          "em_atendimento": 1,
-          "abertos": 5,
-          "aguardando_terceiros": 2,
-          "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
@@ -77,6 +58,25 @@
           "em_atendimento": 5,
           "abertos": 0,
           "aguardando_terceiros": 3,
+          "ativos_total": 8
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Joao_Santos",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Joao Santos com carga real de 6 tickets",
+      "summary": "Joao Santos tem 6 tickets ativos sob sua responsabilidade: 1 em atendimento + 5 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Joao Santos",
+          "carga_real": 6,
+          "em_atendimento": 1,
+          "abertos": 5,
+          "aguardando_terceiros": 2,
           "ativos_total": 8
         }
       ],
