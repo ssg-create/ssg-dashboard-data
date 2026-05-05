@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777997622,
-  "generated_at_iso": "2026-05-05T16:13:42Z",
+  "generated_at": 1777998030,
+  "generated_at_iso": "2026-05-05T16:20:30Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -13,16 +13,40 @@
   ],
   "rows": [
     {
+      "ticket": "2026050426000315",
+      "cliente": "bucci.luana@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-04T14:15:21",
+      "modificado": "2026-05-05T13:20:00",
+      "idade_dias": 0,
+      "assunto": "Alteração na consulta via Monitoramento Central de cliente"
+    },
+    {
       "ticket": "2026042026000199",
       "cliente": "valdeson.silva.ma@riopiranhas.com.br",
       "fila": "GWMS",
-      "estado": "OPEN",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-20T15:15:20",
-      "modificado": "2026-05-05T13:13:38",
+      "modificado": "2026-05-05T13:15:45",
       "idade_dias": 14,
       "assunto": "Solicitação de controle de  fila de impressão"
+    },
+    {
+      "ticket": "2026042926000146",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-05-05T13:15:19",
+      "idade_dias": 6,
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026050426000244",
@@ -215,18 +239,6 @@
       "modificado": "2026-05-05T11:18:43",
       "idade_dias": 0,
       "assunto": "Agendamento Manutenção Banco - MAIO /2026"
-    },
-    {
-      "ticket": "2026042926000146",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-05-05T11:14:53",
-      "idade_dias": 6,
-      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026042826000121",
@@ -515,18 +527,6 @@
       "modificado": "2026-05-05T08:12:30",
       "idade_dias": 8,
       "assunto": "RES: Histórico Analise de Crédito - RPA"
-    },
-    {
-      "ticket": "2026050426000315",
-      "cliente": "bucci.luana@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-04T14:15:21",
-      "modificado": "2026-05-05T08:07:02",
-      "idade_dias": 0,
-      "assunto": "Alteração na consulta via Monitoramento Central de cliente"
     },
     {
       "ticket": "2026050526000019",
