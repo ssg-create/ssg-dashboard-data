@@ -1,7 +1,7 @@
 {
-  "generated_at": 1777991427,
-  "generated_at_iso": "2026-05-05T14:30:27Z",
-  "count": 2337,
+  "generated_at": 1777992042,
+  "generated_at_iso": "2026-05-05T14:40:42Z",
+  "count": 2338,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050526000215",
+      "assunto": "Comparação do Grafana atual e novo Totvs",
+      "criado": "2026-05-05T11:00:20",
+      "modificado": "2026-05-05T11:31:03",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "primeiro_nome": "Bruno",
+      "ultimo_nome": "Fagundes",
+      "cli_id": "bruno.fagundes@groundwork.com.br",
+      "cli_user": "bruno.fagundes@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000206",
       "assunto": "Acesso Fabricio - Novo colaborador marketing",
@@ -416,9 +436,9 @@
       "num": "2026050426000342",
       "assunto": "Alerta - 26050414254238",
       "criado": "2026-05-04T15:10:07",
-      "modificado": "2026-05-04T15:20:45",
+      "modificado": "2026-05-05T11:40:25",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "retorno cliente",
       "prioridade": "1 very low",
       "atendente": "Marcio Guimaraes",
       "primeiro_nome": "Marcio",
@@ -1816,7 +1836,7 @@
       "num": "2026042926000128",
       "assunto": "Movimentações Itaú 03/2026.",
       "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-05T10:10:12",
+      "modificado": "2026-05-05T11:35:26",
       "fila": "SSG",
       "estado": "retorno cliente",
       "prioridade": "3 normal",
