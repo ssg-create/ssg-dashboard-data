@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778022629,
-  "generated_at_iso": "2026-05-05T23:10:29Z",
+  "generated_at": 1778023218,
+  "generated_at_iso": "2026-05-05T23:20:18Z",
   "count": 188,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026032326000221",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-03-23T10:26:08",
+      "modificado": "2026-05-05T20:11:45",
+      "idade_dias": 43,
+      "assunto": "Baixa Automática de Pagamento Grupo 80"
+    },
     {
       "ticket": "2026043026000205",
       "cliente": "GDBR",
@@ -1859,18 +1871,6 @@
       "modificado": "2026-04-28T10:55:45",
       "idade_dias": 12,
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR"
-    },
-    {
-      "ticket": "2026032326000221",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-03-23T10:26:08",
-      "modificado": "2026-04-28T10:51:49",
-      "idade_dias": 43,
-      "assunto": "Baixa Automática de Pagamento Grupo 80"
     },
     {
       "ticket": "2025121726000495",
