@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777946427,
-  "generated_at_iso": "2026-05-05T02:00:27Z",
+  "generated_at": 1777947025,
+  "generated_at_iso": "2026-05-05T02:10:25Z",
   "count": 172,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
+      "modificado": "2026-05-04T23:02:38",
+      "idade_dias": 6,
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+    },
     {
       "ticket": "2026042226000631",
       "cliente": "GDBR",
@@ -1079,18 +1091,6 @@
       "modificado": "2026-05-04T05:00:20",
       "idade_dias": 12,
       "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
-    },
-    {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-05-04T05:00:20",
-      "idade_dias": 6,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
       "ticket": "2026031726000287",
