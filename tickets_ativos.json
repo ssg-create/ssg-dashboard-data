@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778008822,
-  "generated_at_iso": "2026-05-05T19:20:22Z",
-  "count": 173,
+  "generated_at": 1778009429,
+  "generated_at_iso": "2026-05-05T19:30:29Z",
+  "count": 174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000359",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-05T16:20:22",
+      "modificado": "2026-05-05T16:28:35",
+      "idade_dias": 0,
+      "assunto": "VEDAMOTORS - GWMS-SERVER - Influxdb Check Writes - 26050516171179"
+    },
+    {
+      "ticket": "2026042926000146",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-29T11:14:14",
+      "modificado": "2026-05-05T16:26:29",
+      "idade_dias": 6,
+      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
+    },
+    {
       "ticket": "2026042726000462",
       "cliente": "monitoramento-noc@groundwork.com.br",
       "fila": "GWMS",
@@ -20,9 +44,33 @@
       "prioridade": "1 very low",
       "atendente": "Joao Santos",
       "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-05T16:18:25",
+      "modificado": "2026-05-05T16:25:38",
       "idade_dias": 7,
       "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-05T16:25:26",
+      "idade_dias": 0,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
+    {
+      "ticket": "2026050526000181",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-05T10:15:12",
+      "modificado": "2026-05-05T16:25:26",
+      "idade_dias": 0,
+      "assunto": "Incluir Firewalls Monitoramento"
     },
     {
       "ticket": "2026050526000341",
@@ -47,18 +95,6 @@
       "modificado": "2026-05-05T16:16:12",
       "idade_dias": 20,
       "assunto": "Apontamentos referente a calls internas."
-    },
-    {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-05T16:12:45",
-      "idade_dias": 0,
-      "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
       "ticket": "2026042226000088",
@@ -157,18 +193,6 @@
       "assunto": "RPA - Para Arquivos de DDA"
     },
     {
-      "ticket": "2026050526000181",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-05T10:15:12",
-      "modificado": "2026-05-05T15:08:26",
-      "idade_dias": 0,
-      "assunto": "Incluir Firewalls Monitoramento"
-    },
-    {
       "ticket": "2026042226000168",
       "cliente": "guilherme.jonck@groundwork.com.br",
       "fila": "GWMS",
@@ -249,7 +273,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-27T16:30:05",
       "modificado": "2026-05-05T14:41:02",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Alteração Dashboard Logmein"
     },
     {
@@ -265,18 +289,6 @@
       "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
     },
     {
-      "ticket": "2026042826000371",
-      "cliente": "cesar.fernandes@arcoeducacao.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-05T14:10:19",
-      "idade_dias": 7,
-      "assunto": "Criação de nova visualização"
-    },
-    {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
       "fila": "SSG",
@@ -287,6 +299,18 @@
       "modificado": "2026-05-05T14:10:19",
       "idade_dias": 6,
       "assunto": "Movimentações Itaú 03/2026."
+    },
+    {
+      "ticket": "2026042826000371",
+      "cliente": "cesar.fernandes@arcoeducacao.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-28T14:25:16",
+      "modificado": "2026-05-05T14:10:19",
+      "idade_dias": 7,
+      "assunto": "Criação de nova visualização"
     },
     {
       "ticket": "2026041726000034",
@@ -347,18 +371,6 @@
       "modificado": "2026-05-05T13:15:45",
       "idade_dias": 15,
       "assunto": "Solicitação de controle de  fila de impressão"
-    },
-    {
-      "ticket": "2026042926000146",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-29T11:14:14",
-      "modificado": "2026-05-05T13:15:19",
-      "idade_dias": 6,
-      "assunto": "verificar servidores PJE1GAPP002 e PJE1GAPP003"
     },
     {
       "ticket": "2026041726000114",
@@ -685,18 +697,6 @@
       "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050500580721"
     },
     {
-      "ticket": "2026043026000287",
-      "cliente": "carlos.fernandes@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-30T16:20:23",
-      "modificado": "2026-05-05T05:00:22",
-      "idade_dias": 4,
-      "assunto": "Criação de Serviços Protheus"
-    },
-    {
       "ticket": "2026042926000333",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -707,6 +707,18 @@
       "modificado": "2026-05-05T05:00:22",
       "idade_dias": 5,
       "assunto": "excluir sc 006111 - NR"
+    },
+    {
+      "ticket": "2026043026000287",
+      "cliente": "carlos.fernandes@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-30T16:20:23",
+      "modificado": "2026-05-05T05:00:22",
+      "idade_dias": 5,
+      "assunto": "Criação de Serviços Protheus"
     },
     {
       "ticket": "2026042826000362",
@@ -721,30 +733,6 @@
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
-      "ticket": "2026042826000461",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T15:49:01",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 7,
-      "assunto": "404001 - Exclusão de TB - Contas a pagar"
-    },
-    {
-      "ticket": "2026031726000287",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-03-17T12:12:20",
-      "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 49,
-      "assunto": "CIAP - loja 150"
-    },
-    {
       "ticket": "2026042226000159",
       "cliente": "bucci.luana@totvs.com.br",
       "fila": "GWMS",
@@ -757,28 +745,40 @@
       "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
     },
     {
-      "ticket": "2026042826000335",
+      "ticket": "2026042726000426",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:23:23",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 7,
+      "assunto": "Select - Combo rules - W1 PD09 FY26"
+    },
+    {
+      "ticket": "2026043026000278",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-30T15:20:27",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 7,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+      "idade_dias": 5,
+      "assunto": "Acessos Aline e Franciele"
     },
     {
-      "ticket": "2026042326000041",
-      "cliente": "GDBR",
+      "ticket": "2026042126000071",
+      "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:27:00",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-21T13:48:10",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 12,
-      "assunto": "ROBÔ DACTE DE COMPRA"
+      "idade_dias": 14,
+      "assunto": "Erro e perdendo a conexão."
     },
     {
       "ticket": "2026043026000091",
@@ -793,16 +793,28 @@
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
-      "ticket": "2026040126000251",
-      "cliente": "FADEL",
+      "ticket": "2026042826000344",
+      "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-01T12:19:14",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:58:03",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 34,
-      "assunto": "Implantação de um PE"
+      "idade_dias": 7,
+      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+    },
+    {
+      "ticket": "2026042826000157",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T09:18:12",
+      "modificado": "2026-05-05T05:00:21",
+      "idade_dias": 7,
+      "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
     },
     {
       "ticket": "2026042726000097",
@@ -853,16 +865,16 @@
       "assunto": "Acesso - az-srv-app-01 - OTRS - Agente de IA"
     },
     {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 7,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
       "ticket": "2026042826000273",
@@ -877,52 +889,52 @@
       "assunto": "Error. \"Instance Failed to Load\""
     },
     {
-      "ticket": "2026043026000278",
+      "ticket": "2026042826000461",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-30T15:20:27",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T15:49:01",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 5,
-      "assunto": "Acessos Aline e Franciele"
+      "idade_dias": 7,
+      "assunto": "404001 - Exclusão de TB - Contas a pagar"
     },
     {
-      "ticket": "2026042126000071",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026031726000287",
+      "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-21T13:48:10",
+      "atendente": "Tiago Silva",
+      "criado": "2026-03-17T12:12:20",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 14,
-      "assunto": "Erro e perdendo a conexão."
+      "idade_dias": 49,
+      "assunto": "CIAP - loja 150"
     },
     {
-      "ticket": "2026042826000344",
+      "ticket": "2026042826000335",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:58:03",
+      "criado": "2026-04-28T13:54:03",
       "modificado": "2026-05-05T05:00:21",
       "idade_dias": 7,
-      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
-      "ticket": "2026042826000157",
+      "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T09:18:12",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:27:00",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 7,
-      "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
+      "idade_dias": 12,
+      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026042326000282",
@@ -937,16 +949,16 @@
       "assunto": "Configurar Programa"
     },
     {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
+      "ticket": "2026040126000251",
+      "cliente": "FADEL",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-01T12:19:14",
       "modificado": "2026-05-05T05:00:21",
-      "idade_dias": 7,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+      "idade_dias": 34,
+      "assunto": "Implantação de um PE"
     },
     {
       "ticket": "2026042826000611",
@@ -961,18 +973,6 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026021226000207",
-      "cliente": "FADEL",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-02-12T14:31:46",
-      "modificado": "2026-05-05T05:00:20",
-      "idade_dias": 82,
-      "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
-    },
-    {
       "ticket": "2026010826000262",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -983,6 +983,18 @@
       "modificado": "2026-05-05T05:00:20",
       "idade_dias": 117,
       "assunto": "Atualização tabela Imposto de Renda - 2026"
+    },
+    {
+      "ticket": "2026021226000207",
+      "cliente": "FADEL",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-02-12T14:31:46",
+      "modificado": "2026-05-05T05:00:20",
+      "idade_dias": 82,
+      "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
     },
     {
       "ticket": "2026042226000622",
@@ -1533,7 +1545,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:25:10",
       "modificado": "2026-04-30T09:16:37",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Implementação ELK - GWMS - DIGNA"
     },
     {
@@ -1737,7 +1749,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-03-30T16:24:29",
       "modificado": "2026-04-27T10:42:13",
-      "idade_dias": 35,
+      "idade_dias": 36,
       "assunto": "Derrubar usuários no ToTvs"
     },
     {
