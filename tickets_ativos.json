@@ -1,6 +1,6 @@
 {
-  "generated_at": 1777994441,
-  "generated_at_iso": "2026-05-05T15:20:41Z",
+  "generated_at": 1777995086,
+  "generated_at_iso": "2026-05-05T15:31:26Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000244",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T11:50:48",
+      "modificado": "2026-05-05T12:25:09",
+      "idade_dias": 1,
+      "assunto": "Erro ao tentar reimportar nota - programa"
+    },
     {
       "ticket": "2026050526000242",
       "cliente": "PECVAL",
@@ -107,18 +119,6 @@
       "modificado": "2026-05-05T11:45:25",
       "idade_dias": 6,
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
-    },
-    {
-      "ticket": "2026050426000244",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "MELHORIA",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T11:50:48",
-      "modificado": "2026-05-05T11:43:19",
-      "idade_dias": 1,
-      "assunto": "Erro ao tentar reimportar nota - programa"
     },
     {
       "ticket": "2026042926000128",
@@ -2073,7 +2073,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-08T12:24:13",
       "modificado": "2026-04-13T14:16:32",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Verificar agendamentos de atualização dos gráficos"
     },
     {
