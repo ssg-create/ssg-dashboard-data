@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778004033,
-  "generated_at_iso": "2026-05-05T18:00:33Z",
+  "generated_at": 1778004629,
+  "generated_at_iso": "2026-05-05T18:10:29Z",
   "count": 175,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000181",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-05T10:15:12",
+      "modificado": "2026-05-05T15:08:26",
+      "idade_dias": 0,
+      "assunto": "Incluir Firewalls Monitoramento"
+    },
+    {
+      "ticket": "2026042226000168",
+      "cliente": "guilherme.jonck@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-22T10:00:21",
+      "modificado": "2026-05-05T15:05:00",
+      "idade_dias": 13,
+      "assunto": "Desenvolvimento do gw/v2"
+    },
     {
       "ticket": "2026050526000091",
       "cliente": "ivan.claudio@totvs.com.br",
@@ -107,18 +131,6 @@
       "modificado": "2026-05-05T14:36:33",
       "idade_dias": 0,
       "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
-    },
-    {
-      "ticket": "2026050526000181",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-05T10:15:12",
-      "modificado": "2026-05-05T14:18:04",
-      "idade_dias": 0,
-      "assunto": "Incluir Firewalls Monitoramento"
     },
     {
       "ticket": "2026012126000095",
@@ -261,7 +273,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-05-04T15:10:07",
       "modificado": "2026-05-05T12:02:39",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Alerta - 26050414254238"
     },
     {
@@ -453,7 +465,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-12-11T15:00:57",
       "modificado": "2026-05-05T09:46:10",
-      "idade_dias": 144,
+      "idade_dias": 145,
       "assunto": "PRE DANFE"
     },
     {
@@ -537,7 +549,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-04-01T15:07:29",
       "modificado": "2026-05-05T08:22:50",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "V2- workflow de aprovação para lançamento contábil manual."
     },
     {
@@ -1053,7 +1065,7 @@
       "atendente": "Jonathan Oliveira",
       "criado": "2026-04-29T15:10:07",
       "modificado": "2026-05-04T15:51:18",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Ticket para verificar problema com abertura de tela no GWMS"
     },
     {
@@ -1701,7 +1713,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T15:05:15",
       "modificado": "2026-04-27T15:45:51",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Your message could not be delivered"
     },
     {
@@ -1739,18 +1751,6 @@
       "modificado": "2026-04-27T09:42:55",
       "idade_dias": 13,
       "assunto": "Ajuste no plugin de monitoramento gw_check_oracle.py, modo:autoextend_disabled"
-    },
-    {
-      "ticket": "2026042226000168",
-      "cliente": "guilherme.jonck@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-22T10:00:21",
-      "modificado": "2026-04-24T18:04:36",
-      "idade_dias": 13,
-      "assunto": "Desenvolvimento do gw/v2"
     },
     {
       "ticket": "2026041526000207",
