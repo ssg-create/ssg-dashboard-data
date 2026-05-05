@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778007024,
-  "generated_at_iso": "2026-05-05T18:50:24Z",
-  "count": 2330,
+  "generated_at": 1778007635,
+  "generated_at_iso": "2026-05-05T19:00:35Z",
+  "count": 2331,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050526000331",
+      "assunto": "Erro Protheus",
+      "criado": "2026-05-05T15:50:18",
+      "modificado": "2026-05-05T15:51:52",
+      "fila": "DBA",
+      "estado": "open",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "primeiro_nome": "Enzo",
+      "ultimo_nome": "Fucitalo",
+      "cli_id": "enzo.fucitalo@groundwork.com.br",
+      "cli_user": "enzo.fucitalo@groundwork.com.br",
+      "servico": "Banco de Horas::Banco de Dados",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000313",
       "assunto": "Implantação novo Servidor de Banco",
@@ -39916,9 +39936,9 @@
       "num": "2026012126000095",
       "assunto": "Contabilização offline dos titulos gerados por planilha",
       "criado": "2026-01-21T11:05:47",
-      "modificado": "2026-05-05T14:15:04",
+      "modificado": "2026-05-05T15:57:48",
       "fila": "SSG-MELHORIAS",
-      "estado": "retorno cliente",
+      "estado": "resolvido",
       "prioridade": "5 very high",
       "atendente": "Tiago Silva",
       "primeiro_nome": "Tiago",
@@ -39926,10 +39946,10 @@
       "cli_id": "NSX",
       "cli_user": "suelen.rocha@nsx.bet",
       "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
-      "fechado": "2026-05-05T09:45:04",
+      "fechado": "2026-05-05T15:57:48",
       "resp_min_raw": 3,
-      "sol_min_raw": 149679,
-      "sol_min_bh": 39879,
+      "sol_min_raw": 150052,
+      "sol_min_bh": 40191,
       "resp_min_bh": 3
     },
     {
