@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778010027,
-  "generated_at_iso": "2026-05-05T19:40:27Z",
+  "generated_at": 1778010440,
+  "generated_at_iso": "2026-05-05T19:47:20Z",
   "count": 174,
   "filas": [
     "DATASUL",
@@ -13,14 +13,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000341",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Jose Mario Rodrigues",
+      "criado": "2026-05-05T16:00:27",
+      "modificado": "2026-05-05T16:45:58",
+      "idade_dias": 0,
+      "assunto": "PECVAL - GWMS-Server - Time - 26050515580767"
+    },
+    {
       "ticket": "2026050526000368",
       "cliente": "servicedesk@teletex.com",
       "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
       "criado": "2026-05-05T16:35:04",
-      "modificado": "2026-05-05T16:39:04",
+      "modificado": "2026-05-05T16:42:47",
       "idade_dias": 0,
       "assunto": "Unimed Curitiba - adastrar equipamentos"
     },
@@ -107,18 +119,6 @@
       "modificado": "2026-05-05T16:25:26",
       "idade_dias": 0,
       "assunto": "Incluir Firewalls Monitoramento"
-    },
-    {
-      "ticket": "2026050526000341",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T16:00:27",
-      "modificado": "2026-05-05T16:16:31",
-      "idade_dias": 0,
-      "assunto": "PECVAL - GWMS-Server - Time - 26050515580767"
     },
     {
       "ticket": "2026041526000216",
@@ -1293,7 +1293,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-27T16:44:15",
       "modificado": "2026-05-04T09:56:47",
-      "idade_dias": 97,
+      "idade_dias": 98,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
     },
     {
@@ -1521,7 +1521,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T16:45:15",
       "modificado": "2026-04-30T10:05:14",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Troca de impressora Zebra - Programa OLRE0011"
     },
     {
