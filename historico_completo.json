@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778005226,
-  "generated_at_iso": "2026-05-05T18:20:26Z",
+  "generated_at": 1778005833,
+  "generated_at_iso": "2026-05-05T18:30:33Z",
   "count": 2331,
   "filas": [
     "DATASUL",
@@ -96,7 +96,7 @@
       "num": "2026050526000242",
       "assunto": "Falha na importação de Pedidos de Vendas",
       "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-05T14:51:13",
+      "modificado": "2026-05-05T15:28:29",
       "fila": "DATASUL",
       "estado": "aguardando cliente",
       "prioridade": "5 very high",
@@ -676,9 +676,9 @@
       "num": "2026050426000235",
       "assunto": "Ticket Recorrência Mensal AUTOZONE",
       "criado": "2026-05-04T11:40:20",
-      "modificado": "2026-05-04T11:50:22",
+      "modificado": "2026-05-05T15:28:08",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Eduardo Candido",
       "primeiro_nome": "Eduardo",
@@ -686,11 +686,11 @@
       "cli_id": "eduardo.candido@groundwork.com.br",
       "cli_user": "eduardo.candido@groundwork.com.br",
       "servico": "Banco de Horas::Banco de Dados",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-05-05T15:28:08",
+      "resp_min_raw": 1667,
+      "sol_min_raw": 1667,
+      "sol_min_bh": 707,
+      "resp_min_bh": 706
     },
     {
       "num": "2026050426000226",
