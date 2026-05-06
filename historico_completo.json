@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778053232,
-  "generated_at_iso": "2026-05-06T07:40:32Z",
-  "count": 2347,
+  "generated_at": 1778053827,
+  "generated_at_iso": "2026-05-06T07:50:27Z",
+  "count": 2348,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000062",
+      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050604385834",
+      "criado": "2026-05-06T04:40:14",
+      "modificado": "2026-05-06T04:49:39",
+      "fila": "DBA",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050626000053",
       "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Ram - 26050603460852",
@@ -596,9 +616,9 @@
       "num": "2026050526000242",
       "assunto": "Falha na importação de Pedidos de Vendas",
       "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T01:27:43",
+      "modificado": "2026-05-06T04:45:20",
       "fila": "DATASUL",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "5 very high",
       "atendente": "Guilherme Rosa",
       "primeiro_nome": "Guilherme",
