@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778073627,
-  "generated_at_iso": "2026-05-06T13:20:27Z",
-  "count": 2334,
+  "generated_at": 1778074234,
+  "generated_at_iso": "2026-05-06T13:30:34Z",
+  "count": 2333,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000161",
+      "assunto": "Dashboard sem retornar dados ATITUS",
+      "criado": "2026-05-06T10:15:23",
+      "modificado": "2026-05-06T10:26:00",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "primeiro_nome": "Bruno",
+      "ultimo_nome": "Fagundes",
+      "cli_id": "enzo.fucitalo@groundwork.com.br",
+      "cli_user": "enzo.fucitalo@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050626000151",
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050609491861",
@@ -1173,26 +1193,6 @@
       "resp_min_bh": 37
     },
     {
-      "num": "2026050426000173",
-      "assunto": "GROUNDWORK - GROUNDWORK_AZ-SRV-APP-01 - Memory Swap - 26050410434029",
-      "criado": "2026-05-04T10:45:14",
-      "modificado": "2026-05-04T13:47:04",
-      "fila": "GWMS",
-      "estado": "open",
-      "prioridade": "1 very low",
-      "atendente": "Adriano Luiz",
-      "primeiro_nome": "Adriano",
-      "ultimo_nome": "Luiz",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 181,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 120
-    },
-    {
       "num": "2026050426000164",
       "assunto": "Ajustes Integrada - monitoramento logs QLIK",
       "criado": "2026-05-04T10:40:13",
@@ -2276,9 +2276,9 @@
       "num": "2026042926000128",
       "assunto": "Movimentações Itaú 03/2026.",
       "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-06T07:18:05",
+      "modificado": "2026-05-06T10:20:26",
       "fila": "SSG",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "3 normal",
       "atendente": "Tiago Silva",
       "primeiro_nome": "Tiago",
@@ -46671,26 +46671,6 @@
       "sol_min_raw": 4510,
       "sol_min_bh": 1749,
       "resp_min_bh": 80
-    },
-    {
-      "num": "2026010626000168",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26010610273070",
-      "criado": "2026-01-06T10:30:06",
-      "modificado": "2026-01-09T13:45:13",
-      "fila": "DBA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "primeiro_nome": "Enzo",
-      "ultimo_nome": "Fucitalo",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Banco de Horas::Banco de Dados",
-      "fechado": "2026-01-09T13:45:13",
-      "resp_min_raw": 84,
-      "sol_min_raw": 4515,
-      "sol_min_bh": 1754,
-      "resp_min_bh": 84
     }
   ],
   "janela_meses": 4,
