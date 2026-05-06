@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778076044,
-  "generated_at_iso": "2026-05-06T14:00:44Z",
-  "count": 2333,
+  "generated_at": 1778076630,
+  "generated_at_iso": "2026-05-06T14:10:30Z",
+  "count": 2334,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000188",
+      "assunto": "Novo espelhamento USGAAP - PD09",
+      "criado": "2026-05-06T11:02:01",
+      "modificado": "2026-05-06T11:10:10",
+      "fila": "SSG",
+      "estado": "retorno cliente",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "primeiro_nome": "Debora",
+      "ultimo_nome": "Gomes",
+      "cli_id": "AUTOZONE",
+      "cli_user": "antonio.neto@autozone.com",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "fechado": null,
+      "resp_min_raw": 2,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 2
+    },
     {
       "num": "2026050626000179",
       "assunto": "Atendimento Zurich - CS0016767",
@@ -76,7 +96,7 @@
       "num": "2026050626000142",
       "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)",
       "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-06T10:42:30",
+      "modificado": "2026-05-06T11:09:42",
       "fila": "GWMS",
       "estado": "Em atendimento",
       "prioridade": "1 very low",
@@ -436,7 +456,7 @@
       "num": "2026050526000331",
       "assunto": "Erro Protheus",
       "criado": "2026-05-05T15:50:18",
-      "modificado": "2026-05-05T15:51:52",
+      "modificado": "2026-05-06T11:01:44",
       "fila": "DBA",
       "estado": "open",
       "prioridade": "3 normal",
@@ -447,10 +467,10 @@
       "cli_user": "enzo.fucitalo@groundwork.com.br",
       "servico": "Banco de Horas::Banco de Dados",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 1151,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 310
     },
     {
       "num": "2026050526000313",
@@ -1076,9 +1096,9 @@
       "num": "2026050426000244",
       "assunto": "Erro ao tentar reimportar nota - programa",
       "criado": "2026-05-04T11:50:48",
-      "modificado": "2026-05-05T14:50:14",
+      "modificado": "2026-05-06T11:02:42",
       "fila": "DATASUL",
-      "estado": "retorno cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Guilherme Rosa",
       "primeiro_nome": "Guilherme",
@@ -1086,10 +1106,10 @@
       "cli_id": "PECVAL",
       "cli_user": "gabriel.lima@pecval-tg.com.br",
       "servico": "Serviço de Sustentação Groundwork::ERP Datasul",
-      "fechado": null,
+      "fechado": "2026-05-06T11:02:41",
       "resp_min_raw": 1432,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 2831,
+      "sol_min_bh": 1031,
       "resp_min_bh": 531
     },
     {
@@ -3076,7 +3096,7 @@
       "num": "2026042826000371",
       "assunto": "Criação de nova visualização",
       "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-06T11:00:19",
+      "modificado": "2026-05-06T11:05:33",
       "fila": "GWMS",
       "estado": "aguardando cliente",
       "prioridade": "1 very low",
