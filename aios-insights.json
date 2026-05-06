@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-06T20:01:42.309737",
+  "generated_at": "2026-05-06T20:05:34.042744",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A operação apresenta <strong>taxa de conclusão de 79%</strong>, com margem para melhoria.<br><br>O volume de <strong>93 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (39.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 61.0h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.<br><br>O módulo <strong>Banco de Dados</strong> concentra <strong>24% dos chamados</strong> — avaliar capacitação técnica ou documentação de auto-atendimento.",
+    "narrativa": "A operação apresenta <strong>taxa de conclusão de 79%</strong>, com margem para melhoria.<br><br>O volume de <strong>97 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (37.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 93.7h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.<br><br>O módulo <strong>Banco de Dados</strong> concentra <strong>24% dos chamados</strong> — avaliar capacitação técnica ou documentação de auto-atendimento.",
     "kpis": [
       {
         "label": "Score Operacional",
-        "value": "59",
+        "value": "54",
         "sub": "crítico · meta: >80",
         "color": "var(--danger)"
       },
       {
         "label": "Risco de SLA",
         "value": "Médio",
-        "sub": "1ª resposta: 39.0 min",
+        "sub": "1ª resposta: 37.0 min",
         "color": "var(--warn)"
       },
       {
@@ -25,13 +25,13 @@
       },
       {
         "label": "Previsão 7 dias",
-        "value": "~220/semana",
+        "value": "~245/semana",
         "sub": "pico: terça-feira 9h",
         "color": "var(--purple)"
       }
     ],
     "risco_principal": {
-      "label": "25 chamados +30 dias",
+      "label": "36 chamados +30 dias",
       "desc": "Chamados críticos sem resolução"
     },
     "oportunidade": {
@@ -39,25 +39,25 @@
       "desc": "Foco no módulo Banco de Dados pode reduzir reincidências"
     },
     "previsao": {
-      "label": "~44/dia",
+      "label": "~49/dia",
       "desc": "pico: terça-feira 9h"
     }
   },
   "riscos_operacionais": [
     {
       "titulo": "Tempo de primeira resposta acima da meta",
-      "desc": "Mediana de 39.0 min contra meta de 30 min. Tendência de deterioração se não houver intervenção.",
+      "desc": "Mediana de 37.0 min contra meta de 30 min. Tendência de deterioração se não houver intervenção.",
       "nivel": "medium",
       "confianca": 78
     },
     {
       "titulo": "Volume crítico de chamados bloqueados",
-      "desc": "93 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
+      "desc": "97 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
       "nivel": "high",
       "confianca": 92
     },
     {
-      "titulo": "25 chamados abertos há mais de 30 dias",
+      "titulo": "36 chamados abertos há mais de 30 dias",
       "desc": "Chamados com aging superior a 30 dias representam risco de escalonamento pelo cliente e impacto direto no health score da conta.",
       "nivel": "high",
       "confianca": 95
@@ -71,12 +71,36 @@
   ],
   "riscos_clientes": [
     {
-      "cliente": "FADEL",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 300 chamados (13% do total). O módulo <strong>VDI</strong> concentra 42% dos chamados desta conta — possível reincidência.",
+      "cliente": "AUTOZONE",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 371 chamados (14% do total). <strong>9 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. <strong>56% dos chamados com prioridade crítica</strong> — padrão acima do normal.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "300 chamados (13% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "371 chamados (14% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "nivel": "medium",
+          "confianca": 78
+        },
+        {
+          "titulo": "9 chamado(s) com aging crítico (+30 dias)",
+          "desc": "Chamados acumulados sem resolução representam risco direto de insatisfação e possível escalonamento para a gestão do cliente.",
+          "nivel": "high",
+          "confianca": 93
+        },
+        {
+          "titulo": "Alto percentual de prioridade Muito Alta (56%)",
+          "desc": "Pode indicar instabilidade no ambiente do cliente ou processo de abertura de chamados com triagem inadequada.",
+          "nivel": "medium",
+          "confianca": 70
+        }
+      ]
+    },
+    {
+      "cliente": "FADEL",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 308 chamados (12% do total). O módulo <strong>VDI</strong> concentra 42% dos chamados desta conta — possível reincidência.",
+      "riscos": [
+        {
+          "titulo": "Volume acima da média do período",
+          "desc": "308 chamados (12% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -89,42 +113,12 @@
       ]
     },
     {
-      "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 298 chamados (13% do total). <strong>7 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. <strong>57% dos chamados com prioridade crítica</strong> — padrão acima do normal. O módulo <strong>Contabilidade</strong> concentra 43% dos chamados desta conta — possível reincidência.",
-      "riscos": [
-        {
-          "titulo": "Volume acima da média do período",
-          "desc": "298 chamados (13% do total). Verificar se há problema sistêmico ou sazonalidade.",
-          "nivel": "medium",
-          "confianca": 78
-        },
-        {
-          "titulo": "7 chamado(s) com aging crítico (+30 dias)",
-          "desc": "Chamados acumulados sem resolução representam risco direto de insatisfação e possível escalonamento para a gestão do cliente.",
-          "nivel": "high",
-          "confianca": 93
-        },
-        {
-          "titulo": "Alto percentual de prioridade Muito Alta (57%)",
-          "desc": "Pode indicar instabilidade no ambiente do cliente ou processo de abertura de chamados com triagem inadequada.",
-          "nivel": "medium",
-          "confianca": 70
-        },
-        {
-          "titulo": "Reincidência no módulo Contabilidade",
-          "desc": "43% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
-          "nivel": "medium",
-          "confianca": 75
-        }
-      ]
-    },
-    {
       "cliente": "ALMEIDA JR",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 194 chamados (8% do total). <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>ERP Protheus</strong> concentra 95% dos chamados desta conta — possível reincidência.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 231 chamados (9% do total). <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>ERP Protheus</strong> concentra 95% dos chamados desta conta — possível reincidência.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "194 chamados (8% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "231 chamados (9% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -144,61 +138,67 @@
     },
     {
       "cliente": "GRUPO_METALNOX",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 118 chamados (5% do total). O módulo <strong>Serviço de Sustentação Groundwork</strong> concentra 79% dos chamados desta conta — possível reincidência.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 133 chamados (5% do total). O módulo <strong>Serviço de Sustentação Groundwork</strong> concentra 70% dos chamados desta conta — possível reincidência.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "118 chamados (5% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "133 chamados (5% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
         {
           "titulo": "Reincidência no módulo Serviço de Sustentação Groundwork",
-          "desc": "79% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
+          "desc": "70% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
           "nivel": "medium",
           "confianca": 75
         }
       ]
     },
     {
-      "cliente": "suporte@strati.com.br",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 70 chamados (3% do total). O módulo <strong>Banco de Dados</strong> concentra 99% dos chamados desta conta — possível reincidência.",
+      "cliente": "NSX",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 73 chamados (3% do total). <strong>6 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 3 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada. <strong>71% dos chamados com prioridade crítica</strong> — padrão acima do normal.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "70 chamados (3% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "73 chamados (3% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
         {
-          "titulo": "SLA de resposta fora do contrato (111.0 min)",
-          "desc": "Mediana de primeira resposta nesta conta: 111.0 min. Acima da meta contratual de 30 min.",
+          "titulo": "6 chamado(s) com aging crítico (+30 dias)",
+          "desc": "Chamados acumulados sem resolução representam risco direto de insatisfação e possível escalonamento para a gestão do cliente.",
           "nivel": "high",
-          "confianca": 85
+          "confianca": 93
         },
         {
-          "titulo": "Reincidência no módulo Banco de Dados",
-          "desc": "99% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
+          "titulo": "3 chamados próximos do limite de aging",
+          "desc": "Chamados entre 15–30 dias que podem virar críticos. Priorização nos próximos 2 dias evita escalonamento.",
           "nivel": "medium",
-          "confianca": 75
+          "confianca": 80
+        },
+        {
+          "titulo": "Alto percentual de prioridade Muito Alta (71%)",
+          "desc": "Pode indicar instabilidade no ambiente do cliente ou processo de abertura de chamados com triagem inadequada.",
+          "nivel": "medium",
+          "confianca": 70
         }
       ]
     }
   ],
   "cs_insights": [
     {
+      "cliente": "AUTOZONE",
+      "narrativa": "Conta com <strong>9 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.",
+      "proximo_contato": "em até 2 dias úteis",
+      "tom_sugerido": "proativo · urgente",
+      "prioridade": "alta"
+    },
+    {
       "cliente": "FADEL",
       "narrativa": "O módulo <strong>VDI</strong> representa 42% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.",
       "proximo_contato": "nos próximos 7 dias",
       "tom_sugerido": "consultivo",
       "prioridade": "média"
-    },
-    {
-      "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>7 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O módulo <strong>Contabilidade</strong> representa 43% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.",
-      "proximo_contato": "em até 2 dias úteis",
-      "tom_sugerido": "proativo · urgente",
-      "prioridade": "alta"
     },
     {
       "cliente": "ALMEIDA JR",
