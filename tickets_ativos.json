@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778099393,
-  "generated_at_iso": "2026-05-06T20:29:53Z",
+  "generated_at": 1778099423,
+  "generated_at_iso": "2026-05-06T20:30:23Z",
   "count": 177,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T17:30:21",
+      "idade_dias": 1,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026050626000401",
       "cliente": "ALMEIDA JR",
@@ -205,18 +217,6 @@
       "assunto": "Criação de nova visualização"
     },
     {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO AGENTES EXTERNOS",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T16:38:33",
-      "idade_dias": 1,
-      "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
       "ticket": "2026050626000339",
       "cliente": "AUMOVIO",
       "fila": "DATASUL",
@@ -237,7 +237,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-05T17:30:11",
       "modificado": "2026-05-06T16:32:02",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Dashboard sem retornar dados"
     },
     {
