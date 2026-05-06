@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778102431,
-  "generated_at_iso": "2026-05-06T21:20:31Z",
-  "count": 182,
+  "generated_at": 1778103022,
+  "generated_at_iso": "2026-05-06T21:30:22Z",
+  "count": 181,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-06T18:29:56",
+      "idade_dias": 7,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2026050626000517",
       "cliente": "monitoramento@groundwork.com.br",
@@ -167,18 +179,6 @@
       "modificado": "2026-05-06T17:41:48",
       "idade_dias": 0,
       "assunto": "Inclusão do Mateus ao disparo de relatorio BH - Aumovio"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-06T17:30:26",
-      "idade_dias": 7,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026050526000242",
@@ -1113,7 +1113,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 96,
+      "idade_dias": 97,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
@@ -1475,18 +1475,6 @@
       "modificado": "2026-05-05T09:18:09",
       "idade_dias": 1,
       "assunto": "Contabilização Aplicação - Gesplan"
-    },
-    {
-      "ticket": "2026042726000453",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-27T17:59:57",
-      "modificado": "2026-05-05T08:50:15",
-      "idade_dias": 9,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
       "ticket": "2026040226000044",
