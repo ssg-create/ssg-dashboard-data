@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778073026,
-  "generated_at_iso": "2026-05-06T13:10:26Z",
-  "count": 167,
+  "generated_at": 1778073401,
+  "generated_at_iso": "2026-05-06T13:16:41Z",
+  "count": 168,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000513",
+      "cliente": "vinicius.eroico@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-04-28T16:25:10",
+      "modificado": "2026-05-06T10:13:54",
+      "idade_dias": 7,
+      "assunto": "Implementação ELK - GWMS - DIGNA"
+    },
+    {
+      "ticket": "2026050526000466",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:49:47",
+      "modificado": "2026-05-06T10:12:46",
+      "idade_dias": 0,
+      "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
+    },
+    {
+      "ticket": "2026050626000151",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-06T10:00:24",
+      "modificado": "2026-05-06T10:12:02",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050609491861"
+    },
     {
       "ticket": "2026042826000648",
       "cliente": "GroundWork",
@@ -59,18 +95,6 @@
       "modificado": "2026-05-06T09:56:58",
       "idade_dias": 0,
       "assunto": "Dashboard sem retornar dados"
-    },
-    {
-      "ticket": "2026042826000513",
-      "cliente": "vinicius.eroico@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-04-28T16:25:10",
-      "modificado": "2026-05-06T09:56:25",
-      "idade_dias": 7,
-      "assunto": "Implementação ELK - GWMS - DIGNA"
     },
     {
       "ticket": "2026050526000144",
@@ -249,7 +273,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-05T10:15:12",
       "modificado": "2026-05-06T08:26:39",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Incluir Firewalls Monitoramento"
     },
     {
@@ -397,18 +421,6 @@
       "assunto": "Rollback exclusão de NF"
     },
     {
-      "ticket": "2026050426000182",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T11:00:18",
-      "modificado": "2026-05-06T05:00:08",
-      "idade_dias": 1,
-      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
-    },
-    {
       "ticket": "2026050426000271",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -433,16 +445,16 @@
       "assunto": "Acessos Aline e Franciele"
     },
     {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
+      "ticket": "2026050426000182",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-04T11:00:18",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 1,
+      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
     },
     {
       "ticket": "2026042826000344",
@@ -469,18 +481,6 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -491,6 +491,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 13,
       "assunto": "ROBÔ DACTE DE COMPRA"
+    },
+    {
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026042326000246",
@@ -541,18 +553,6 @@
       "assunto": "excluir sc 006111 - NR"
     },
     {
-      "ticket": "2026042826000335",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
-    },
-    {
       "ticket": "2026042926000342",
       "cliente": "servicedesk@teletex.com",
       "fila": "GWMS",
@@ -563,6 +563,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 6,
       "assunto": "Unimed Curitiva - Adicionar monitoramento"
+    },
+    {
+      "ticket": "2026042826000335",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:54:03",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
       "ticket": "2026020226000164",
@@ -613,16 +625,28 @@
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
-      "ticket": "2025091826000356",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "5 very high",
-      "atendente": "Vilante Marques Alves",
-      "criado": "2025-09-18T17:09:56",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026012926000455",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 229,
-      "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
+      "idade_dias": 96,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026040126000439",
@@ -637,16 +661,16 @@
       "assunto": "Configurar Compilador"
     },
     {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
+      "ticket": "2025091826000356",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
+      "prioridade": "5 very high",
+      "atendente": "Vilante Marques Alves",
+      "criado": "2025-09-18T17:09:56",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 96,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+      "idade_dias": 229,
+      "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
     },
     {
       "ticket": "2026042826000237",
@@ -757,18 +781,6 @@
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
-      "ticket": "2026050526000466",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T17:49:47",
-      "modificado": "2026-05-05T17:55:20",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
-    },
-    {
       "ticket": "2026050526000457",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -837,7 +849,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-28T10:15:22",
       "modificado": "2026-05-05T16:49:23",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Atualização - Certificado Groundwork"
     },
     {
