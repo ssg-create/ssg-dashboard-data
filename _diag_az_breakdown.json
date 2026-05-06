@@ -1,0 +1,77 @@
+{
+  "generated_at": 1778098903,
+  "generated_at_iso": "2026-05-06T20:21:43Z",
+  "count": 10,
+  "filas": [
+    "DATASUL",
+    "DBA",
+    "GWMS",
+    "INFRAESTUTURA",
+    "PROTHEUS",
+    "SSG",
+    "SSG-MELHORIAS"
+  ],
+  "rows": [
+    {
+      "estado": "fechado sem êxito (auto)",
+      "total": 28,
+      "criados_abr": 20,
+      "mod_abr": 25
+    },
+    {
+      "estado": "closed successful",
+      "total": 27,
+      "criados_abr": 19,
+      "mod_abr": 26
+    },
+    {
+      "estado": "resolvido",
+      "total": 4,
+      "criados_abr": 4,
+      "mod_abr": 2
+    },
+    {
+      "estado": "aguardando cliente",
+      "total": 4,
+      "criados_abr": 2,
+      "mod_abr": 0
+    },
+    {
+      "estado": "aguardando atendente (interno)",
+      "total": 3,
+      "criados_abr": 1,
+      "mod_abr": 0
+    },
+    {
+      "estado": "retorno cliente",
+      "total": 3,
+      "criados_abr": 1,
+      "mod_abr": 0
+    },
+    {
+      "estado": "Em atendimento",
+      "total": 2,
+      "criados_abr": 0,
+      "mod_abr": 0
+    },
+    {
+      "estado": "cancelado",
+      "total": 1,
+      "criados_abr": 1,
+      "mod_abr": 1
+    },
+    {
+      "estado": "gmud",
+      "total": 1,
+      "criados_abr": 0,
+      "mod_abr": 0
+    },
+    {
+      "estado": "open",
+      "total": 1,
+      "criados_abr": 0,
+      "mod_abr": 0
+    }
+  ],
+  "obs": "diag: AutoZone abr breakdown por estado (paridade OTRS Report)"
+}
