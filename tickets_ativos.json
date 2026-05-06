@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778091027,
-  "generated_at_iso": "2026-05-06T18:10:27Z",
+  "generated_at": 1778091624,
+  "generated_at_iso": "2026-05-06T18:20:24Z",
   "count": 169,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-06T15:19:25",
+      "idade_dias": 8,
+      "assunto": "Alteração Dashboard Logmein"
+    },
+    {
+      "ticket": "2026042226000168",
+      "cliente": "guilherme.jonck@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-22T10:00:21",
+      "modificado": "2026-05-06T15:18:03",
+      "idade_dias": 14,
+      "assunto": "Desenvolvimento do gw/v2"
+    },
     {
       "ticket": "2026050626000295",
       "cliente": "ALMEIDA JR",
@@ -601,18 +625,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
     },
     {
-      "ticket": "2026042226000168",
-      "cliente": "guilherme.jonck@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-22T10:00:21",
-      "modificado": "2026-05-06T08:08:21",
-      "idade_dias": 14,
-      "assunto": "Desenvolvimento do gw/v2"
-    },
-    {
       "ticket": "2026043026000287",
       "cliente": "carlos.fernandes@groundwork.com.br",
       "fila": "DBA",
@@ -673,18 +685,6 @@
       "assunto": "Rollback exclusão de NF"
     },
     {
-      "ticket": "2026050426000271",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T12:55:10",
-      "modificado": "2026-05-06T05:00:08",
-      "idade_dias": 2,
-      "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
-    },
-    {
       "ticket": "2026043026000278",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -709,16 +709,16 @@
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
     },
     {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
+      "ticket": "2026050426000271",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-04T12:55:10",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 2,
+      "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
       "ticket": "2026042826000344",
@@ -745,18 +745,6 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 8,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -767,6 +755,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 13,
       "assunto": "ROBÔ DACTE DE COMPRA"
+    },
+    {
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 8,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
       "ticket": "2026042326000246",
@@ -817,18 +817,6 @@
       "assunto": "excluir sc 006111 - NR"
     },
     {
-      "ticket": "2026042826000335",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 8,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
-    },
-    {
       "ticket": "2026042926000342",
       "cliente": "servicedesk@teletex.com",
       "fila": "GWMS",
@@ -839,6 +827,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 6,
       "assunto": "Unimed Curitiva - Adicionar monitoramento"
+    },
+    {
+      "ticket": "2026042826000335",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:54:03",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 8,
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
       "ticket": "2026042426000342",
@@ -875,6 +875,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 20,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
+    },
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026040126000439",
@@ -1153,18 +1165,6 @@
       "assunto": "Acesso Fabricio - Novo colaborador marketing"
     },
     {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-05T14:41:02",
-      "idade_dias": 8,
-      "assunto": "Alteração Dashboard Logmein"
-    },
-    {
       "ticket": "2026050526000251",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1197,7 +1197,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-20T15:15:20",
       "modificado": "2026-05-05T13:15:45",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Solicitação de controle de  fila de impressão"
     },
     {
@@ -1965,7 +1965,7 @@
       "atendente": "Vinicius Eroico",
       "criado": "2025-12-01T15:15:09",
       "modificado": "2026-04-14T09:01:33",
-      "idade_dias": 155,
+      "idade_dias": 156,
       "assunto": "Avaliar Monitor de Notas"
     },
     {
