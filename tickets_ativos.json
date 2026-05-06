@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778077835,
-  "generated_at_iso": "2026-05-06T14:30:35Z",
+  "generated_at": 1778078435,
+  "generated_at_iso": "2026-05-06T14:40:35Z",
   "count": 171,
   "filas": [
     "DATASUL",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026042826000371",
+      "cliente": "cesar.fernandes@arcoeducacao.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-28T14:25:16",
+      "modificado": "2026-05-06T11:35:15",
+      "idade_dias": 7,
+      "assunto": "Criação de nova visualização"
+    },
+    {
+      "ticket": "2026050626000204",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-06T11:14:02",
+      "modificado": "2026-05-06T11:35:14",
+      "idade_dias": 0,
+      "assunto": "ATIBUIÇÃO DE USUÁRIO"
+    },
+    {
       "ticket": "2026050626000188",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -23,18 +47,6 @@
       "modificado": "2026-05-06T11:29:31",
       "idade_dias": 0,
       "assunto": "Novo espelhamento USGAAP - PD09"
-    },
-    {
-      "ticket": "2026050626000204",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-06T11:14:02",
-      "modificado": "2026-05-06T11:29:02",
-      "idade_dias": 0,
-      "assunto": "ATIBUIÇÃO DE USUÁRIO"
     },
     {
       "ticket": "2026050626000197",
@@ -85,18 +97,6 @@
       "assunto": "Implantação GWMS cliente Digna"
     },
     {
-      "ticket": "2026042826000371",
-      "cliente": "cesar.fernandes@arcoeducacao.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-06T11:05:33",
-      "idade_dias": 7,
-      "assunto": "Criação de nova visualização"
-    },
-    {
       "ticket": "2026050526000331",
       "cliente": "enzo.fucitalo@groundwork.com.br",
       "fila": "DBA",
@@ -117,7 +117,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-04-08T11:40:17",
       "modificado": "2026-05-06T11:00:19",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Ticket de teste"
     },
     {
@@ -897,7 +897,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-04T11:34:20",
       "modificado": "2026-05-05T19:32:31",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Configurar Compilador"
     },
     {
@@ -1905,7 +1905,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-03-13T11:35:16",
       "modificado": "2026-04-21T11:58:34",
-      "idade_dias": 53,
+      "idade_dias": 54,
       "assunto": "Solicitação de Ponto de Entrada - Permissão Automática em Contratos (SIGAGCT)"
     },
     {
@@ -2001,7 +2001,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-03T11:35:09",
       "modificado": "2026-04-13T18:12:57",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Mapa Links"
     },
     {
