@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778058815,
-  "generated_at_iso": "2026-05-06T09:13:35Z",
+  "generated_at": 1778059216,
+  "generated_at_iso": "2026-05-06T09:20:16Z",
   "count": 8,
   "filas": [
     "DATASUL",
@@ -25,6 +25,18 @@
       "assunto": "Solicitação de controle de  fila de impressão"
     },
     {
+      "ticket": "2026041526000181",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado_atual": "GMUD",
+      "prioridade": "5 very high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-04-15T09:31:44",
+      "modificado": "2026-05-06T06:14:21",
+      "vezes_fechado": 1,
+      "assunto": "Rollback exclusão de NF"
+    },
+    {
       "ticket": "2026041726000311",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -47,18 +59,6 @@
       "modificado": "2026-05-05T13:59:05",
       "vezes_fechado": 1,
       "assunto": "acesso ao ambeinte do servidor"
-    },
-    {
-      "ticket": "2026041526000181",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado_atual": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-04-15T09:31:44",
-      "modificado": "2026-05-05T09:31:41",
-      "vezes_fechado": 1,
-      "assunto": "Rollback exclusão de NF"
     },
     {
       "ticket": "2026040226000044",
