@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778100320,
-  "generated_at_iso": "2026-05-06T20:45:20Z",
-  "count": 177,
+  "generated_at": 1778100625,
+  "generated_at_iso": "2026-05-06T20:50:25Z",
+  "count": 180,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000491",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T17:45:21",
+      "modificado": "2026-05-06T17:47:30",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-INF01 - Influxdb Check Writes - 26050617443232"
+    },
+    {
+      "ticket": "2026050626000482",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T17:40:20",
+      "modificado": "2026-05-06T17:46:44",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-INF01 - Influxdb Check Writes - 26050617384824"
+    },
+    {
+      "ticket": "2026050626000473",
+      "cliente": "enzo.fucitalo@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T17:35:21",
+      "modificado": "2026-05-06T17:45:49",
+      "idade_dias": 0,
+      "assunto": "Alterar threshold alertas ATITUS"
+    },
     {
       "ticket": "2026050626000419",
       "cliente": "vinicius.eroico@groundwork.com.br",
@@ -141,7 +177,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T17:49:47",
       "modificado": "2026-05-06T17:24:39",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
     },
     {
@@ -381,7 +417,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-30T17:50:21",
       "modificado": "2026-05-06T15:59:06",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
     },
     {
