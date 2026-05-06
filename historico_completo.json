@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778091628,
-  "generated_at_iso": "2026-05-06T18:20:28Z",
-  "count": 2329,
+  "generated_at": 1778092232,
+  "generated_at_iso": "2026-05-06T18:30:32Z",
+  "count": 2328,
   "filas": [
     "DATASUL",
     "DBA",
@@ -6213,26 +6213,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-06T08:12:27",
-      "fila": "DBA",
-      "estado": "aguardando atendente (interno)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -6251,6 +6231,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-06T08:12:27",
+      "fila": "DBA",
+      "estado": "aguardando atendente (interno)",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
@@ -46571,26 +46571,6 @@
       "sol_min_raw": 8870,
       "sol_min_bh": 2284,
       "resp_min_bh": 16
-    },
-    {
-      "num": "2026010626000373",
-      "assunto": "Cadastro de Linha de Produtos (CSRT)",
-      "criado": "2026-01-06T15:30:09",
-      "modificado": "2026-01-12T15:45:06",
-      "fila": "SSG",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "primeiro_nome": "Dyalef",
-      "ultimo_nome": "Abreu Santos",
-      "cli_id": "dyalef.santos@groundwork.com.br",
-      "cli_user": "dyalef.santos@groundwork.com.br",
-      "servico": "Serviço de Sustentação Groundwork",
-      "fechado": "2026-01-12T15:45:06",
-      "resp_min_raw": 1438,
-      "sol_min_raw": 8654,
-      "sol_min_bh": 2174,
-      "resp_min_bh": 537
     }
   ],
   "janela_meses": 4,
