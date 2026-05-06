@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778101233,
-  "generated_at_iso": "2026-05-06T21:00:33Z",
+  "generated_at": 1778101823,
+  "generated_at_iso": "2026-05-06T21:10:23Z",
   "count": 180,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-06T18:09:09",
+      "idade_dias": 9,
+      "assunto": "Alteração Dashboard Logmein"
+    },
+    {
+      "ticket": "2026042326000013",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-06T18:05:25",
+      "idade_dias": 13,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
+    },
+    {
+      "ticket": "2026050626000188",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-06T11:02:01",
+      "modificado": "2026-05-06T18:00:38",
+      "idade_dias": 0,
+      "assunto": "Novo espelhamento USGAAP - PD09"
+    },
     {
       "ticket": "2026050526000215",
       "cliente": "bruno.fagundes@groundwork.com.br",
@@ -109,18 +145,6 @@
       "assunto": "Inclusão do Mateus ao disparo de relatorio BH - Aumovio"
     },
     {
-      "ticket": "2026042326000013",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-06T17:30:26",
-      "idade_dias": 13,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
-    },
-    {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
       "fila": "SSG",
@@ -167,18 +191,6 @@
       "modificado": "2026-05-06T17:25:17",
       "idade_dias": 0,
       "assunto": "Cadastro novo usuário Luiz Gustavo"
-    },
-    {
-      "ticket": "2026050626000188",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-06T11:02:01",
-      "modificado": "2026-05-06T17:24:55",
-      "idade_dias": 0,
-      "assunto": "Novo espelhamento USGAAP - PD09"
     },
     {
       "ticket": "2026050526000466",
@@ -431,18 +443,6 @@
       "modificado": "2026-05-06T15:43:15",
       "idade_dias": 0,
       "assunto": "Incluir UPTIME Switchs"
-    },
-    {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-06T15:19:25",
-      "idade_dias": 9,
-      "assunto": "Alteração Dashboard Logmein"
     },
     {
       "ticket": "2026042226000168",
@@ -1233,7 +1233,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-27T18:05:17",
       "modificado": "2026-05-05T16:25:38",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
@@ -1317,7 +1317,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-05-04T18:05:12",
       "modificado": "2026-05-05T15:32:13",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
