@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778097692,
-  "generated_at_iso": "2026-05-06T20:01:32Z",
+  "generated_at": 1778097923,
+  "generated_at_iso": "2026-05-06T20:05:23Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000419",
+      "cliente": "vinicius.eroico@groundwork.com.br",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-06T16:40:14",
+      "modificado": "2026-05-06T17:02:58",
+      "idade_dias": 0,
+      "assunto": "Criação conta de e-mail TalentHub"
+    },
+    {
+      "ticket": "2026050526000215",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-05T11:00:20",
+      "modificado": "2026-05-06T17:01:53",
+      "idade_dias": 1,
+      "assunto": "Comparação do Grafana atual e novo Totvs"
+    },
+    {
       "ticket": "2026050626000428",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -23,18 +47,6 @@
       "modificado": "2026-05-06T17:01:12",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050616474421"
-    },
-    {
-      "ticket": "2026050626000419",
-      "cliente": "vinicius.eroico@groundwork.com.br",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-06T16:40:14",
-      "modificado": "2026-05-06T17:00:28",
-      "idade_dias": 0,
-      "assunto": "Criação conta de e-mail TalentHub"
     },
     {
       "ticket": "2026050626000384",
@@ -251,18 +263,6 @@
       "modificado": "2026-05-06T16:06:56",
       "idade_dias": 0,
       "assunto": "Erro 748 ao acessar o totvs"
-    },
-    {
-      "ticket": "2026050526000215",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-05T11:00:20",
-      "modificado": "2026-05-06T16:00:42",
-      "idade_dias": 1,
-      "assunto": "Comparação do Grafana atual e novo Totvs"
     },
     {
       "ticket": "2026043026000331",
