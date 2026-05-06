@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778069426,
-  "generated_at_iso": "2026-05-06T12:10:26Z",
+  "generated_at": 1778070032,
+  "generated_at_iso": "2026-05-06T12:20:32Z",
   "count": 171,
   "filas": [
     "DATASUL",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000115",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T09:05:12",
+      "modificado": "2026-05-06T09:20:01",
+      "idade_dias": 0,
+      "assunto": "BRAVEO - GWMS-Server - Notif Groups Relations - 26050608595561"
+    },
+    {
+      "ticket": "2026050526000215",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-05T11:00:20",
+      "modificado": "2026-05-06T09:19:16",
+      "idade_dias": 0,
+      "assunto": "Comparação do Grafana atual e novo Totvs"
+    },
+    {
+      "ticket": "2026050526000528",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-05T19:53:08",
+      "modificado": "2026-05-06T09:15:08",
+      "idade_dias": 0,
+      "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT"
+    },
     {
       "ticket": "2026050526000073",
       "cliente": "TJBA",
@@ -59,18 +95,6 @@
       "modificado": "2026-05-06T08:57:45",
       "idade_dias": 43,
       "assunto": "Baixa Automática de Pagamento Grupo 80"
-    },
-    {
-      "ticket": "2026050526000519",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "4 high",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-05-05T19:10:23",
-      "modificado": "2026-05-06T08:56:12",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/ - 26050519091133"
     },
     {
       "ticket": "2026050426000342",
@@ -129,7 +153,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-10-20T09:11:43",
       "modificado": "2026-05-06T08:25:35",
-      "idade_dias": 197,
+      "idade_dias": 198,
       "assunto": "RPA - Para Arquivos de DDA"
     },
     {
@@ -179,18 +203,6 @@
       "modificado": "2026-05-06T08:12:27",
       "idade_dias": 13,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
-    },
-    {
-      "ticket": "2026050526000528",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "4 high",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-05T19:53:08",
-      "modificado": "2026-05-06T08:12:01",
-      "idade_dias": 0,
-      "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT"
     },
     {
       "ticket": "2026042226000168",
@@ -381,7 +393,7 @@
       "atendente": "Gesiel Silva",
       "criado": "2026-04-16T09:20:09",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
@@ -393,7 +405,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-13T09:10:28",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 22,
+      "idade_dias": 23,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -671,18 +683,6 @@
       "modificado": "2026-05-05T18:04:47",
       "idade_dias": 1,
       "assunto": "Monitoramento de links SD-WAN no Sophos"
-    },
-    {
-      "ticket": "2026050526000215",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-05T11:00:20",
-      "modificado": "2026-05-05T17:58:37",
-      "idade_dias": 0,
-      "assunto": "Comparação do Grafana atual e novo Totvs"
     },
     {
       "ticket": "2026050526000466",
@@ -1509,7 +1509,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-12T09:15:14",
       "modificado": "2026-04-30T15:17:08",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
@@ -1713,7 +1713,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-24T09:15:21",
       "modificado": "2026-04-27T18:49:20",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26042409115520"
     },
     {
@@ -2037,7 +2037,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-09T09:15:10",
       "modificado": "2026-04-13T10:23:20",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Solicitação de Ajuste - WebService WEBA016 (Inclusão de PA)"
     },
     {
@@ -2049,7 +2049,7 @@
       "atendente": "George Eivazian",
       "criado": "2026-04-01T09:14:12",
       "modificado": "2026-04-08T10:32:44",
-      "idade_dias": 34,
+      "idade_dias": 35,
       "assunto": "inconsistencia no Rateio"
     },
     {
