@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778092227,
-  "generated_at_iso": "2026-05-06T18:30:27Z",
-  "count": 169,
+  "generated_at": 1778092833,
+  "generated_at_iso": "2026-05-06T18:40:33Z",
+  "count": 170,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000311",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-06T15:39:49",
+      "modificado": "2026-05-06T15:39:50",
+      "idade_dias": 0,
+      "assunto": "Erro 748 ao acessar o totvs"
+    },
+    {
+      "ticket": "2026050426000333",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T14:54:50",
+      "modificado": "2026-05-06T15:35:05",
+      "idade_dias": 2,
+      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
+    },
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T15:31:17",
+      "idade_dias": 1,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
@@ -167,18 +203,6 @@
       "modificado": "2026-05-06T14:10:17",
       "idade_dias": 6,
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
-    },
-    {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T14:10:17",
-      "idade_dias": 1,
-      "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
       "ticket": "2026050526000144",
@@ -685,6 +709,18 @@
       "assunto": "Rollback exclusão de NF"
     },
     {
+      "ticket": "2026043026000278",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-30T15:20:27",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 6,
+      "assunto": "Acessos Aline e Franciele"
+    },
+    {
       "ticket": "2026050426000182",
       "cliente": "monitoramento-noc@groundwork.com.br",
       "fila": "GWMS",
@@ -709,16 +745,64 @@
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
-      "ticket": "2026043026000278",
+      "ticket": "2026043026000171",
+      "cliente": "beatriz.blaska@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-04-30T11:25:22",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "Notificação de indisponibilidade TI Fluig"
+    },
+    {
+      "ticket": "2026041326000121",
+      "cliente": "joao.oliveira@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-13T09:10:28",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 23,
+      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
+    },
+    {
+      "ticket": "2026042926000333",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-29T16:49:35",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "excluir sc 006111 - NR"
+    },
+    {
+      "ticket": "2026042826000335",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-30T15:20:27",
-      "modificado": "2026-05-06T05:00:08",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:54:03",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 8,
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+    },
+    {
+      "ticket": "2026042926000342",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-29T16:50:18",
+      "modificado": "2026-05-06T05:00:07",
       "idade_dias": 6,
-      "assunto": "Acessos Aline e Franciele"
+      "assunto": "Unimed Curitiva - Adicionar monitoramento"
     },
     {
       "ticket": "2026042426000342",
@@ -827,66 +911,6 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 13,
       "assunto": "Monitoramento X10"
-    },
-    {
-      "ticket": "2026043026000171",
-      "cliente": "beatriz.blaska@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-04-30T11:25:22",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Notificação de indisponibilidade TI Fluig"
-    },
-    {
-      "ticket": "2026041326000121",
-      "cliente": "joao.oliveira@almeidajunior.com.br",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-13T09:10:28",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 23,
-      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
-    },
-    {
-      "ticket": "2026042926000333",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T16:49:35",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "excluir sc 006111 - NR"
-    },
-    {
-      "ticket": "2026042926000342",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-29T16:50:18",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Unimed Curitiva - Adicionar monitoramento"
-    },
-    {
-      "ticket": "2026042826000335",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 8,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
       "ticket": "2026040126000439",
@@ -1225,18 +1249,6 @@
       "assunto": "Pedido de compra não está saindo com informações corretas"
     },
     {
-      "ticket": "2026050426000333",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "MELHORIA",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T14:54:50",
-      "modificado": "2026-05-05T11:24:54",
-      "idade_dias": 2,
-      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
       "ticket": "2026050426000379",
       "cliente": "psouza@bentonit.com.br",
       "fila": "DBA",
@@ -1269,7 +1281,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-04-08T15:30:31",
       "modificado": "2026-05-05T10:17:48",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Relatorio de Ativo Customizado"
     },
     {
