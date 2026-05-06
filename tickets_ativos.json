@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778074830,
-  "generated_at_iso": "2026-05-06T13:40:30Z",
+  "generated_at": 1778075439,
+  "generated_at_iso": "2026-05-06T13:50:39Z",
   "count": 168,
   "filas": [
     "DATASUL",
@@ -12,6 +12,54 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026030426000301",
+      "cliente": "sergio.glovatinski@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-03-04T14:30:09",
+      "modificado": "2026-05-06T10:50:01",
+      "idade_dias": 62,
+      "assunto": "Criar dados para ambiente demo Protheus"
+    },
+    {
+      "ticket": "2026050626000179",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T10:25:04",
+      "modificado": "2026-05-06T10:43:18",
+      "idade_dias": 0,
+      "assunto": "Atendimento Zurich - CS0016767"
+    },
+    {
+      "ticket": "2026050626000142",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-06T10:42:30",
+      "idade_dias": 0,
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
+    },
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T10:41:32",
+      "idade_dias": 0,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026050526000501",
       "cliente": "AUTOZONE",
@@ -119,18 +167,6 @@
       "modificado": "2026-05-06T10:10:03",
       "idade_dias": 7,
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
-    },
-    {
-      "ticket": "2026050626000142",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-06T10:09:07",
-      "idade_dias": 0,
-      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
     },
     {
       "ticket": "2026041726000034",
@@ -285,7 +321,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-28T10:45:20",
       "modificado": "2026-05-06T08:59:02",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "INSERT/ SELECT - TIPO 9"
     },
     {
@@ -311,18 +347,6 @@
       "modificado": "2026-05-06T08:47:17",
       "idade_dias": 19,
       "assunto": "Apontamentos de horas Guima - Abril 2024"
-    },
-    {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T08:45:12",
-      "idade_dias": 0,
-      "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
       "ticket": "2026050526000181",
@@ -493,6 +517,54 @@
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
+      "ticket": "2026042426000342",
+      "cliente": "carolina.schvambach@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T16:50:19",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 11,
+      "assunto": "SCP NS - ERRO EFD REINF"
+    },
+    {
+      "ticket": "2026042226000159",
+      "cliente": "bucci.luana@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-04-22T09:30:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 14,
+      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
+    },
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+    },
+    {
+      "ticket": "2026041326000121",
+      "cliente": "joao.oliveira@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-13T09:10:28",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 23,
+      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
+    },
+    {
       "ticket": "2026042826000344",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -517,18 +589,6 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026042826000362",
-      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-28T14:20:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
-      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
-    },
-    {
       "ticket": "2026042326000041",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -541,6 +601,18 @@
       "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
+      "ticket": "2026042826000362",
+      "cliente": "valdeson.silva.ma@riopiranhas.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-28T14:20:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
+    },
+    {
       "ticket": "2026042326000246",
       "cliente": "wildirson.pires@totvs.com.br",
       "fila": "GWMS",
@@ -549,7 +621,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-23T10:45:12",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Monitoramento X10"
     },
     {
@@ -565,16 +637,28 @@
       "assunto": "Notificação de indisponibilidade TI Fluig"
     },
     {
-      "ticket": "2026041326000121",
-      "cliente": "joao.oliveira@almeidajunior.com.br",
+      "ticket": "2026020226000164",
+      "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
+      "prioridade": "5 very high",
       "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-13T09:10:28",
+      "criado": "2026-02-02T10:00:27",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 23,
-      "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
+      "idade_dias": 93,
+      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
+    {
+      "ticket": "2026041626000198",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Gesiel Silva",
+      "criado": "2026-04-16T09:20:09",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 20,
+      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
       "ticket": "2026042926000333",
@@ -613,76 +697,16 @@
       "assunto": "Unimed Curitiva - Adicionar monitoramento"
     },
     {
-      "ticket": "2026020226000164",
+      "ticket": "2026012926000455",
       "cliente": "AUTOZONE",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 93,
-      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
-    },
-    {
-      "ticket": "2026042426000342",
-      "cliente": "carolina.schvambach@almeidajunior.com.br",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T16:50:19",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 11,
-      "assunto": "SCP NS - ERRO EFD REINF"
-    },
-    {
-      "ticket": "2026041626000198",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Gesiel Silva",
-      "criado": "2026-04-16T09:20:09",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 20,
-      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
-    },
-    {
-      "ticket": "2026042226000159",
-      "cliente": "bucci.luana@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-04-22T09:30:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 14,
-      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
-    },
-    {
-      "ticket": "2025091826000356",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Vilante Marques Alves",
-      "criado": "2025-09-18T17:09:56",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 229,
-      "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
+      "idade_dias": 96,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026040126000439",
@@ -697,16 +721,16 @@
       "assunto": "Configurar Compilador"
     },
     {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
+      "ticket": "2025091826000356",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
+      "prioridade": "5 very high",
+      "atendente": "Vilante Marques Alves",
+      "criado": "2025-09-18T17:09:56",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 96,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+      "idade_dias": 229,
+      "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
     },
     {
       "ticket": "2026042826000237",
@@ -717,7 +741,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-28T10:41:14",
       "modificado": "2026-05-05T22:06:22",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
@@ -791,18 +815,6 @@
       "modificado": "2026-05-05T19:31:35",
       "idade_dias": 1,
       "assunto": "Validar configuraciones"
-    },
-    {
-      "ticket": "2026041726000311",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-17T15:55:10",
-      "modificado": "2026-05-05T18:25:19",
-      "idade_dias": 18,
-      "assunto": "AutoZone - Correção de Tipo 9 - 17.04 - PD09 FY26"
     },
     {
       "ticket": "2026050426000422",
@@ -1895,18 +1907,6 @@
       "modificado": "2026-04-20T14:54:45",
       "idade_dias": 21,
       "assunto": "Atualização de Windows UPdate - Apenas maquinas virtuais"
-    },
-    {
-      "ticket": "2026030426000301",
-      "cliente": "sergio.glovatinski@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "MELHORIA",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-03-04T14:30:09",
-      "modificado": "2026-04-20T13:36:06",
-      "idade_dias": 62,
-      "assunto": "Criar dados para ambiente demo Protheus"
     },
     {
       "ticket": "2026020926000133",
