@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778087718,
-  "generated_at_iso": "2026-05-06T17:15:18Z",
-  "count": 168,
+  "generated_at": 1778088021,
+  "generated_at_iso": "2026-05-06T17:20:21Z",
+  "count": 169,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,16 +13,16 @@
   ],
   "rows": [
     {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
+      "ticket": "2026041326000443",
+      "cliente": "nicole.g@grupometalnox.com.br",
+      "fila": "SSG",
       "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T14:10:17",
-      "idade_dias": 1,
-      "assunto": "Falha na importação de Pedidos de Vendas"
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-13T16:30:24",
+      "modificado": "2026-05-06T14:17:03",
+      "idade_dias": 22,
+      "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
       "ticket": "2026043026000269",
@@ -35,6 +35,18 @@
       "modificado": "2026-05-06T14:10:17",
       "idade_dias": 5,
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
+    },
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T14:10:17",
+      "idade_dias": 1,
+      "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
       "ticket": "2026050526000144",
@@ -625,18 +637,6 @@
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
-      "ticket": "2026043026000278",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-30T15:20:27",
-      "modificado": "2026-05-06T05:00:08",
-      "idade_dias": 5,
-      "assunto": "Acessos Aline e Franciele"
-    },
-    {
       "ticket": "2026050426000182",
       "cliente": "monitoramento-noc@groundwork.com.br",
       "fila": "GWMS",
@@ -647,6 +647,18 @@
       "modificado": "2026-05-06T05:00:08",
       "idade_dias": 2,
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
+    },
+    {
+      "ticket": "2026043026000278",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-30T15:20:27",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 5,
+      "assunto": "Acessos Aline e Franciele"
     },
     {
       "ticket": "2026041326000121",
@@ -661,16 +673,28 @@
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
-      "ticket": "2026042826000344",
+      "ticket": "2026042926000333",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-29T16:49:35",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "excluir sc 006111 - NR"
+    },
+    {
+      "ticket": "2026042826000335",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:58:03",
+      "criado": "2026-04-28T13:54:03",
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 8,
-      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
       "ticket": "2026042826000611",
@@ -685,18 +709,6 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026042326000041",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:27:00",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 13,
-      "assunto": "ROBÔ DACTE DE COMPRA"
-    },
-    {
       "ticket": "2026042826000362",
       "cliente": "valdeson.silva.ma@riopiranhas.com.br",
       "fila": "GWMS",
@@ -705,7 +717,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-28T14:20:16",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
@@ -745,6 +757,18 @@
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
+      "ticket": "2026042426000342",
+      "cliente": "carolina.schvambach@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T16:50:19",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 11,
+      "assunto": "SCP NS - ERRO EFD REINF"
+    },
+    {
       "ticket": "2026041626000198",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -757,16 +781,16 @@
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
-      "ticket": "2026042926000333",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T16:49:35",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "excluir sc 006111 - NR"
+      "idade_dias": 7,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026042926000342",
@@ -781,28 +805,28 @@
       "assunto": "Unimed Curitiva - Adicionar monitoramento"
     },
     {
-      "ticket": "2026042826000335",
+      "ticket": "2026042826000344",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
       "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
+      "criado": "2026-04-28T13:58:03",
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 8,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+      "assunto": "Numero de caracteres do Funções Contas a Pagar"
     },
     {
-      "ticket": "2026042426000342",
-      "cliente": "carolina.schvambach@almeidajunior.com.br",
+      "ticket": "2026042326000041",
+      "cliente": "GDBR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T16:50:19",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:27:00",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 11,
-      "assunto": "SCP NS - ERRO EFD REINF"
+      "idade_dias": 13,
+      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026042226000159",
@@ -817,16 +841,16 @@
       "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
     },
     {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-06T05:00:06",
+      "idade_dias": 34,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026012926000455",
@@ -839,18 +863,6 @@
       "modificado": "2026-05-06T05:00:06",
       "idade_dias": 96,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
-    },
-    {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 34,
-      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2025091826000356",
@@ -1617,7 +1629,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-28T14:19:11",
       "modificado": "2026-04-29T09:21:46",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
