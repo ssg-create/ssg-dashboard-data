@@ -1,0 +1,377 @@
+{
+  "generated_at": 1778099404,
+  "generated_at_iso": "2026-05-06T20:30:04Z",
+  "count": 45,
+  "filas": [
+    "DATASUL",
+    "DBA",
+    "GWMS",
+    "INFRAESTUTURA",
+    "PROTHEUS",
+    "SSG",
+    "SSG-MELHORIAS"
+  ],
+  "rows": [
+    {
+      "id": 14,
+      "name": "FatorHora",
+      "label": "Fator de hora",
+      "field_type": "Dropdown",
+      "object_type": "Article",
+      "values_count": 75545
+    },
+    {
+      "id": 3,
+      "name": "gwclientes",
+      "label": "C_Cliente",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 49545
+    },
+    {
+      "id": 19,
+      "name": "gwclassificacao",
+      "label": "C_Classificacao",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 27384
+    },
+    {
+      "id": 15,
+      "name": "ContadorNot",
+      "label": "ContadorNot",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 15777
+    },
+    {
+      "id": 17,
+      "name": "EnviarNot",
+      "label": "Notificar cliente?",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 14429
+    },
+    {
+      "id": 4,
+      "name": "gwestados",
+      "label": "C_Estados",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 4692
+    },
+    {
+      "id": 39,
+      "name": "ChamadoResolvido",
+      "label": "ChamadoResolvido",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 2080
+    },
+    {
+      "id": 45,
+      "name": "PositionOnKanbanBoard",
+      "label": "Posição no kanban",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 2045
+    },
+    {
+      "id": 43,
+      "name": "CustomerCC",
+      "label": "E-mail's em cópia (Para adicionar mais de um endereço de e-mail, pressione a tecla ‘Enter’ após cada e-mail adicionado)",
+      "field_type": "CustomerCC",
+      "object_type": "Ticket",
+      "values_count": 1249
+    },
+    {
+      "id": 25,
+      "name": "MovideskActionCount",
+      "label": "MovideskActionCount",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1247
+    },
+    {
+      "id": 26,
+      "name": "MovideskActionAttachment",
+      "label": "MovideskActionAttachment",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1246
+    },
+    {
+      "id": 28,
+      "name": "IDAnyDesk",
+      "label": "ID AnyDesk",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1245
+    },
+    {
+      "id": 24,
+      "name": "IDMovidesk",
+      "label": "Número Chamado Almeida JR",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1241
+    },
+    {
+      "id": 34,
+      "name": "EmailAlmeidaJunior",
+      "label": "Email Almeida Junior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1233
+    },
+    {
+      "id": 35,
+      "name": "OwnerTeamAlmeidaJunior",
+      "label": "Owner Team AlmeidaJunior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1233
+    },
+    {
+      "id": 33,
+      "name": "SolicitanteAlmeidaJunior",
+      "label": "Solicitante Almeida Junior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1233
+    },
+    {
+      "id": 13,
+      "name": "TimeAccounted",
+      "label": "TimeAccounted",
+      "field_type": "TimeAccounted",
+      "object_type": "Article",
+      "values_count": 750
+    },
+    {
+      "id": 12,
+      "name": "ShowTicketsCompany",
+      "label": "Visualiza chamados da empresa?",
+      "field_type": "Dropdown",
+      "object_type": "CustomerUser",
+      "values_count": 328
+    },
+    {
+      "id": 41,
+      "name": "ChamadoAbertoEmail",
+      "label": "Chamado aberto por e-mail",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 284
+    },
+    {
+      "id": 5,
+      "name": "CustomerContract",
+      "label": "Contract",
+      "field_type": "Contract",
+      "object_type": "Ticket",
+      "values_count": 207
+    },
+    {
+      "id": 18,
+      "name": "EnviarLembrete",
+      "label": "Enviar Lembrete",
+      "field_type": "Multiselect",
+      "object_type": "Ticket",
+      "values_count": 159
+    },
+    {
+      "id": 36,
+      "name": "MovideskAttachmentID",
+      "label": "MovideskAttachmentID",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 66
+    },
+    {
+      "id": 44,
+      "name": "ResolvidoJustificativa",
+      "label": "Justificativa",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 52
+    },
+    {
+      "id": 27,
+      "name": "ContatoAlmeidaJunior",
+      "label": "Contato Almeida Junior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 10
+    },
+    {
+      "id": 6,
+      "name": "ConsumptionNotification",
+      "label": "Notificação de consumo",
+      "field_type": "Multiselect",
+      "object_type": "Contract",
+      "values_count": 9
+    },
+    {
+      "id": 40,
+      "name": "EmailsCC",
+      "label": "Emails em cópia",
+      "field_type": "CC",
+      "object_type": "Ticket",
+      "values_count": 2
+    },
+    {
+      "id": 48,
+      "name": "TicketMensal",
+      "label": "Tickets por mês",
+      "field_type": "Text",
+      "object_type": "CustomerCompany",
+      "values_count": 2
+    },
+    {
+      "id": 37,
+      "name": "gwemails",
+      "label": "C_Emails",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 16,
+      "name": "ATDGNotifcation",
+      "label": "ATDGNotifcation",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 31,
+      "name": "MinConfidenceScore",
+      "label": "Minimum confidence score",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 10,
+      "name": "ButtonColor2",
+      "label": "ButtonColor2",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 7,
+      "name": "ButtonText1",
+      "label": "ButtonText1",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 22,
+      "name": "gwmodulosprotheus",
+      "label": "C_ProtheusModulos",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 38,
+      "name": "testeform",
+      "label": "testeform",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 1,
+      "name": "ProcessManagementProcessID",
+      "label": "Process",
+      "field_type": "ProcessID",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 32,
+      "name": "CustomerFeedbackFAQ",
+      "label": "Customer return to autoresponder",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 11,
+      "name": "ImpactOperation",
+      "label": "Esse incidente impacta diretamente na operação?",
+      "field_type": "Checkbox",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 29,
+      "name": "FAQAnswer",
+      "label": "FAQAnswer",
+      "field_type": "TextArea",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 8,
+      "name": "ButtonColor1",
+      "label": "ButtonColor1",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 42,
+      "name": "NovoChamado",
+      "label": "NovoChamado",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 23,
+      "name": "teste",
+      "label": "teste",
+      "field_type": "Dropdown",
+      "object_type": "CustomerCompany",
+      "values_count": 0
+    },
+    {
+      "id": 2,
+      "name": "ProcessManagementActivityID",
+      "label": "Activity",
+      "field_type": "ActivityID",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 46,
+      "name": "TagsOfKanban",
+      "label": "TagsOfKanban",
+      "field_type": "Multiselect",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 30,
+      "name": "FAQSendAnswer",
+      "label": "FAQSendAnswer",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 9,
+      "name": "ButtonText2",
+      "label": "ButtonText2",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    }
+  ],
+  "obs": "diag: lista todos os dynamic fields do OTRS"
+}
