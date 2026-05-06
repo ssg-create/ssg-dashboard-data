@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778108458,
-  "generated_at_iso": "2026-05-06T23:00:58Z",
+  "generated_at": 1778109055,
+  "generated_at_iso": "2026-05-06T23:10:55Z",
   "count": 45,
   "filas": [
     "DATASUL",
@@ -18,7 +18,7 @@
       "label": "Fator de hora",
       "field_type": "Dropdown",
       "object_type": "Article",
-      "values_count": 75555
+      "values_count": 75557
     },
     {
       "id": 3,
@@ -66,7 +66,7 @@
       "label": "ChamadoResolvido",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 2080
+      "values_count": 2081
     },
     {
       "id": 45,
@@ -117,6 +117,14 @@
       "values_count": 1242
     },
     {
+      "id": 35,
+      "name": "OwnerTeamAlmeidaJunior",
+      "label": "Owner Team AlmeidaJunior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1234
+    },
+    {
       "id": 33,
       "name": "SolicitanteAlmeidaJunior",
       "label": "Solicitante Almeida Junior",
@@ -128,14 +136,6 @@
       "id": 34,
       "name": "EmailAlmeidaJunior",
       "label": "Email Almeida Junior",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 1234
-    },
-    {
-      "id": 35,
-      "name": "OwnerTeamAlmeidaJunior",
-      "label": "Owner Team AlmeidaJunior",
       "field_type": "Text",
       "object_type": "Ticket",
       "values_count": 1234
@@ -229,70 +229,6 @@
       "values_count": 2
     },
     {
-      "id": 23,
-      "name": "teste",
-      "label": "teste",
-      "field_type": "Dropdown",
-      "object_type": "CustomerCompany",
-      "values_count": 0
-    },
-    {
-      "id": 2,
-      "name": "ProcessManagementActivityID",
-      "label": "Activity",
-      "field_type": "ActivityID",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 46,
-      "name": "TagsOfKanban",
-      "label": "TagsOfKanban",
-      "field_type": "Multiselect",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 30,
-      "name": "FAQSendAnswer",
-      "label": "FAQSendAnswer",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 9,
-      "name": "ButtonText2",
-      "label": "ButtonText2",
-      "field_type": "Text",
-      "object_type": "FAQ",
-      "values_count": 0
-    },
-    {
-      "id": 37,
-      "name": "gwemails",
-      "label": "C_Emails",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 16,
-      "name": "ATDGNotifcation",
-      "label": "ATDGNotifcation",
-      "field_type": "Dropdown",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 31,
-      "name": "MinConfidenceScore",
-      "label": "Minimum confidence score",
-      "field_type": "Text",
-      "object_type": "FAQ",
-      "values_count": 0
-    },
-    {
       "id": 10,
       "name": "ButtonColor2",
       "label": "ButtonColor2",
@@ -309,18 +245,18 @@
       "values_count": 0
     },
     {
-      "id": 22,
-      "name": "gwmodulosprotheus",
-      "label": "C_ProtheusModulos",
-      "field_type": "Dropdown",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 38,
       "name": "testeform",
       "label": "testeform",
       "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 22,
+      "name": "gwmodulosprotheus",
+      "label": "C_ProtheusModulos",
+      "field_type": "Dropdown",
       "object_type": "Ticket",
       "values_count": 0
     },
@@ -370,6 +306,70 @@
       "label": "NovoChamado",
       "field_type": "Dropdown",
       "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 23,
+      "name": "teste",
+      "label": "teste",
+      "field_type": "Dropdown",
+      "object_type": "CustomerCompany",
+      "values_count": 0
+    },
+    {
+      "id": 2,
+      "name": "ProcessManagementActivityID",
+      "label": "Activity",
+      "field_type": "ActivityID",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 30,
+      "name": "FAQSendAnswer",
+      "label": "FAQSendAnswer",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 46,
+      "name": "TagsOfKanban",
+      "label": "TagsOfKanban",
+      "field_type": "Multiselect",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 9,
+      "name": "ButtonText2",
+      "label": "ButtonText2",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 37,
+      "name": "gwemails",
+      "label": "C_Emails",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 16,
+      "name": "ATDGNotifcation",
+      "label": "ATDGNotifcation",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 31,
+      "name": "MinConfidenceScore",
+      "label": "Minimum confidence score",
+      "field_type": "Text",
+      "object_type": "FAQ",
       "values_count": 0
     }
   ],
