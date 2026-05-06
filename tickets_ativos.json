@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778101823,
-  "generated_at_iso": "2026-05-06T21:10:23Z",
-  "count": 180,
+  "generated_at": 1778102431,
+  "generated_at_iso": "2026-05-06T21:20:31Z",
+  "count": 182,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000517",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T18:15:06",
+      "modificado": "2026-05-06T18:19:49",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050618125422"
+    },
+    {
+      "ticket": "2026050626000508",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T18:02:47",
+      "modificado": "2026-05-06T18:18:57",
+      "idade_dias": 0,
+      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
+    },
+    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
@@ -20,7 +44,7 @@
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-06T18:09:09",
+      "modificado": "2026-05-06T18:10:38",
       "idade_dias": 9,
       "assunto": "Alteração Dashboard Logmein"
     },
@@ -237,7 +261,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T18:18:44",
       "modificado": "2026-05-06T17:23:34",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
     },
     {
@@ -1641,7 +1665,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-15T18:11:21",
       "modificado": "2026-05-03T07:39:59",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Descoberta de Topologia automática"
     },
     {
@@ -1845,7 +1869,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-17T18:17:04",
       "modificado": "2026-04-28T08:44:10",
-      "idade_dias": 139,
+      "idade_dias": 140,
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
