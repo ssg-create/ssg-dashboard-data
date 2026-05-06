@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778100629,
-  "generated_at_iso": "2026-05-06T20:50:29Z",
+  "generated_at": 1778101237,
+  "generated_at_iso": "2026-05-06T21:00:37Z",
   "count": 2586,
   "filas": [
     "DATASUL",
@@ -1016,7 +1016,7 @@
       "num": "2026050526000215",
       "assunto": "Comparação do Grafana atual e novo Totvs",
       "criado": "2026-05-05T11:00:20",
-      "modificado": "2026-05-06T17:01:53",
+      "modificado": "2026-05-06T18:00:09",
       "fila": "GWMS",
       "estado": "Em atendimento",
       "prioridade": "1 very low",
@@ -6533,26 +6533,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000013",
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-06T17:30:26",
-      "fila": "DBA",
-      "estado": "retorno cliente",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "primeiro_nome": "Eduardo",
-      "ultimo_nome": "Candido",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": 570,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 105
-    },
-    {
       "num": "2026042326000022",
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
       "criado": "2026-04-23T00:15:09",
@@ -6571,6 +6551,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 51
+    },
+    {
+      "num": "2026042326000013",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-06T17:30:26",
+      "fila": "DBA",
+      "estado": "retorno cliente",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "primeiro_nome": "Eduardo",
+      "ultimo_nome": "Candido",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": 570,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 105
     },
     {
       "num": "2026042226000631",
