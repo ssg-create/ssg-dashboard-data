@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778106037,
-  "generated_at_iso": "2026-05-06T22:20:37Z",
+  "generated_at": 1778106635,
+  "generated_at_iso": "2026-05-06T22:30:35Z",
   "count": 45,
   "filas": [
     "DATASUL",
@@ -18,7 +18,7 @@
       "label": "Fator de hora",
       "field_type": "Dropdown",
       "object_type": "Article",
-      "values_count": 75553
+      "values_count": 75554
     },
     {
       "id": 3,
@@ -245,18 +245,18 @@
       "values_count": 0
     },
     {
-      "id": 30,
-      "name": "FAQSendAnswer",
-      "label": "FAQSendAnswer",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 46,
       "name": "TagsOfKanban",
       "label": "TagsOfKanban",
       "field_type": "Multiselect",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 30,
+      "name": "FAQSendAnswer",
+      "label": "FAQSendAnswer",
+      "field_type": "Text",
       "object_type": "Ticket",
       "values_count": 0
     },
@@ -309,18 +309,18 @@
       "values_count": 0
     },
     {
-      "id": 38,
-      "name": "testeform",
-      "label": "testeform",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 22,
       "name": "gwmodulosprotheus",
       "label": "C_ProtheusModulos",
       "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 38,
+      "name": "testeform",
+      "label": "testeform",
+      "field_type": "Text",
       "object_type": "Ticket",
       "values_count": 0
     },
