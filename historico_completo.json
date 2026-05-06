@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778095238,
-  "generated_at_iso": "2026-05-06T19:20:38Z",
-  "count": 2332,
+  "generated_at": 1778095836,
+  "generated_at_iso": "2026-05-06T19:30:36Z",
+  "count": 2333,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000375",
+      "assunto": "Desativar tags de desligamento do servidores HML da AUTOZONE",
+      "criado": "2026-05-06T16:15:10",
+      "modificado": "2026-05-06T16:28:27",
+      "fila": "INFRAESTUTURA",
+      "estado": "aguardando cliente",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "primeiro_nome": "Fabiano",
+      "ultimo_nome": "Souza",
+      "cli_id": "eduardo.candido@groundwork.com.br",
+      "cli_user": "eduardo.candido@groundwork.com.br",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "fechado": null,
+      "resp_min_raw": 12,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 12
+    },
     {
       "num": "2026050626000366",
       "assunto": "inclusão de Andreia no disparo do relatório mensal do BH- Integrada.",
@@ -3316,9 +3336,9 @@
       "num": "2026042826000371",
       "assunto": "Criação de nova visualização",
       "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-06T15:00:42",
+      "modificado": "2026-05-06T16:30:16",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "1 very low",
       "atendente": "Pedro Luiz",
       "primeiro_nome": "Pedro",
@@ -6356,7 +6376,7 @@
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-06T08:12:27",
+      "modificado": "2026-05-06T16:26:10",
       "fila": "DBA",
       "estado": "aguardando atendente (interno)",
       "prioridade": "3 normal",
