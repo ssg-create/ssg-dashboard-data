@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778077840,
-  "generated_at_iso": "2026-05-06T14:30:40Z",
+  "generated_at": 1778078439,
+  "generated_at_iso": "2026-05-06T14:40:39Z",
   "count": 2334,
   "filas": [
     "DATASUL",
@@ -16,9 +16,9 @@
       "num": "2026050626000204",
       "assunto": "ATIBUIÇÃO DE USUÁRIO",
       "criado": "2026-05-06T11:14:02",
-      "modificado": "2026-05-06T11:29:02",
+      "modificado": "2026-05-06T11:35:14",
       "fila": "INFRAESTUTURA",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "3 normal",
       "atendente": "Vinicius Vedove",
       "primeiro_nome": "Vinicius",
@@ -27,10 +27,10 @@
       "cli_user": "yuri.oliveira@fadeltransportes.com.br",
       "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 21,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 21
     },
     {
       "num": "2026050626000197",
@@ -3136,9 +3136,9 @@
       "num": "2026042826000371",
       "assunto": "Criação de nova visualização",
       "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-06T11:05:33",
+      "modificado": "2026-05-06T11:35:15",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "1 very low",
       "atendente": "Pedro Luiz",
       "primeiro_nome": "Pedro",
