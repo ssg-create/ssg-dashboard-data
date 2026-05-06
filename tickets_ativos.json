@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778103022,
-  "generated_at_iso": "2026-05-06T21:30:22Z",
-  "count": 181,
+  "generated_at": 1778103620,
+  "generated_at_iso": "2026-05-06T21:40:20Z",
+  "count": 179,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000191",
+      "cliente": "sergio.glovatinski@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-04T11:15:18",
+      "modificado": "2026-05-06T18:36:01",
+      "idade_dias": 2,
+      "assunto": "Chamado para apontamento de horas."
+    },
+    {
+      "ticket": "2026042826000513",
+      "cliente": "vinicius.eroico@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-04-28T16:25:10",
+      "modificado": "2026-05-06T18:34:24",
+      "idade_dias": 8,
+      "assunto": "Implementação ELK - GWMS - DIGNA"
+    },
+    {
+      "ticket": "2026041726000034",
+      "cliente": "weskley.silva@groundwork.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-17T07:50:21",
+      "modificado": "2026-05-06T18:30:47",
+      "idade_dias": 19,
+      "assunto": "Re: 30.000 documentos em fila de processamento"
+    },
     {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
@@ -577,30 +613,6 @@
       "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
     },
     {
-      "ticket": "2026050626000277",
-      "cliente": "cloud-admin@ess.cloud.elastic.co",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-05-06T12:50:23",
-      "modificado": "2026-05-06T13:35:38",
-      "idade_dias": 0,
-      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory"
-    },
-    {
-      "ticket": "2026050626000286",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-05-06T12:55:23",
-      "modificado": "2026-05-06T13:03:20",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050612512950"
-    },
-    {
       "ticket": "2026050626000197",
       "cliente": "rodrigo.cuani@groundwork.com.br",
       "fila": "GWMS",
@@ -697,18 +709,6 @@
       "assunto": "Unimed Curitiba - adastrar equipamentos"
     },
     {
-      "ticket": "2026042826000513",
-      "cliente": "vinicius.eroico@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-04-28T16:25:10",
-      "modificado": "2026-05-06T10:13:54",
-      "idade_dias": 8,
-      "assunto": "Implementação ELK - GWMS - DIGNA"
-    },
-    {
       "ticket": "2026042826000648",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -717,20 +717,8 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-04-28T18:35:08",
       "modificado": "2026-05-06T10:10:03",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
-    },
-    {
-      "ticket": "2026041726000034",
-      "cliente": "weskley.silva@groundwork.com.br",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-17T07:50:21",
-      "modificado": "2026-05-06T10:00:26",
-      "idade_dias": 19,
-      "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
       "ticket": "2026050526000304",
@@ -1209,7 +1197,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-04T18:40:14",
       "modificado": "2026-05-05T18:04:47",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
@@ -1295,18 +1283,6 @@
       "modificado": "2026-05-05T16:03:51",
       "idade_dias": 141,
       "assunto": "RES: RES: [EXTERNAL] Re: LIVRO FISCAL"
-    },
-    {
-      "ticket": "2026050426000191",
-      "cliente": "sergio.glovatinski@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-05-04T11:15:18",
-      "modificado": "2026-05-05T16:01:51",
-      "idade_dias": 2,
-      "assunto": "Chamado para apontamento de horas."
     },
     {
       "ticket": "2026042826000602",
@@ -1737,7 +1713,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-29T18:40:13",
       "modificado": "2026-04-30T08:25:51",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Alterar threshold o alerta Agrosul"
     },
     {
@@ -1773,7 +1749,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-10T18:35:22",
       "modificado": "2026-04-29T16:09:09",
-      "idade_dias": 25,
+      "idade_dias": 26,
       "assunto": "BUG reload/restart centreon"
     },
     {
