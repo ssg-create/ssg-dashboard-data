@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778095831,
-  "generated_at_iso": "2026-05-06T19:30:31Z",
+  "generated_at": 1778096299,
+  "generated_at_iso": "2026-05-06T19:38:19Z",
   "count": 175,
   "filas": [
     "DATASUL",
@@ -12,6 +12,66 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000339",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-06T15:54:47",
+      "modificado": "2026-05-06T16:35:58",
+      "idade_dias": 0,
+      "assunto": "Problemas no acesso ao programa FT0909 - User uik04514"
+    },
+    {
+      "ticket": "2026050626000401",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T16:31:17",
+      "modificado": "2026-05-06T16:33:25",
+      "idade_dias": 0,
+      "assunto": "Civil BS - Tìtulo da Paytrack que não contabiliza com C Custo e Item Cont"
+    },
+    {
+      "ticket": "2026050526000421",
+      "cliente": "enzo.fucitalo@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-05T17:30:11",
+      "modificado": "2026-05-06T16:32:02",
+      "idade_dias": 0,
+      "assunto": "Dashboard sem retornar dados"
+    },
+    {
+      "ticket": "2026050626000393",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T16:30:11",
+      "modificado": "2026-05-06T16:31:28",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050616262732"
+    },
+    {
+      "ticket": "2026050626000384",
+      "cliente": "wiglas.reis@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-06T16:20:11",
+      "modificado": "2026-05-06T16:30:35",
+      "idade_dias": 0,
+      "assunto": "IDRAC GWMS - DKT"
+    },
     {
       "ticket": "2026042826000371",
       "cliente": "cesar.fernandes@arcoeducacao.com.br",
@@ -109,18 +169,6 @@
       "assunto": "Cadastro de cliente"
     },
     {
-      "ticket": "2026050626000339",
-      "cliente": "AUMOVIO",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-06T15:54:47",
-      "modificado": "2026-05-06T16:12:39",
-      "idade_dias": 0,
-      "assunto": "Problemas no acesso ao programa FT0909 - User uik04514"
-    },
-    {
       "ticket": "2026050626000321",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -143,18 +191,6 @@
       "modificado": "2026-05-06T16:06:56",
       "idade_dias": 0,
       "assunto": "Erro 748 ao acessar o totvs"
-    },
-    {
-      "ticket": "2026050526000421",
-      "cliente": "enzo.fucitalo@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-05T17:30:11",
-      "modificado": "2026-05-06T16:01:21",
-      "idade_dias": 0,
-      "assunto": "Dashboard sem retornar dados"
     },
     {
       "ticket": "2026050526000215",
@@ -525,7 +561,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-05T16:35:04",
       "modificado": "2026-05-06T10:16:44",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Unimed Curitiba - adastrar equipamentos"
     },
     {
@@ -551,18 +587,6 @@
       "modificado": "2026-05-06T10:12:46",
       "idade_dias": 0,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
-    },
-    {
-      "ticket": "2026050626000151",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-06T10:00:24",
-      "modificado": "2026-05-06T10:12:02",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050609491861"
     },
     {
       "ticket": "2026042826000648",
@@ -647,18 +671,6 @@
       "modificado": "2026-05-06T09:23:44",
       "idade_dias": 0,
       "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT"
-    },
-    {
-      "ticket": "2026050626000124",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-06T09:15:13",
-      "modificado": "2026-05-06T09:21:36",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050609132617"
     },
     {
       "ticket": "2026050526000073",
@@ -829,18 +841,6 @@
       "assunto": "excluir sc 006111 - NR"
     },
     {
-      "ticket": "2026042926000342",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-29T16:50:18",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Unimed Curitiva - Adicionar monitoramento"
-    },
-    {
       "ticket": "2026042826000335",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -851,6 +851,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 8,
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+    },
+    {
+      "ticket": "2026042926000342",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-29T16:50:18",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "Unimed Curitiva - Adicionar monitoramento"
     },
     {
       "ticket": "2026042426000342",
@@ -865,18 +877,6 @@
       "assunto": "SCP NS - ERRO EFD REINF"
     },
     {
-      "ticket": "2026042226000159",
-      "cliente": "bucci.luana@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-04-22T09:30:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 14,
-      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
-    },
-    {
       "ticket": "2026041626000198",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -887,6 +887,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 20,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
+    },
+    {
+      "ticket": "2026042226000159",
+      "cliente": "bucci.luana@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-04-22T09:30:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 14,
+      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
     },
     {
       "ticket": "2026042926000235",
@@ -901,6 +913,18 @@
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
+      "ticket": "2026042826000344",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:58:03",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 8,
+      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+    },
+    {
       "ticket": "2026042826000611",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -913,16 +937,16 @@
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
-      "ticket": "2026042826000344",
-      "cliente": "ALMEIDA JR",
+      "ticket": "2026042326000041",
+      "cliente": "GDBR",
       "fila": "SSG",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:58:03",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-23T00:27:00",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 8,
-      "assunto": "Numero de caracteres do Funções Contas a Pagar"
+      "idade_dias": 13,
+      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026042826000362",
@@ -947,18 +971,6 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 13,
       "assunto": "Monitoramento X10"
-    },
-    {
-      "ticket": "2026042326000041",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-23T00:27:00",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 13,
-      "assunto": "ROBÔ DACTE DE COMPRA"
     },
     {
       "ticket": "2026043026000171",
@@ -997,18 +1009,6 @@
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 34,
-      "assunto": "Configurar Compilador"
-    },
-    {
       "ticket": "2025091826000356",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1019,6 +1019,18 @@
       "modificado": "2026-05-06T05:00:06",
       "idade_dias": 229,
       "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
+    },
+    {
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-06T05:00:06",
+      "idade_dias": 34,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026042326000022",
@@ -1271,18 +1283,6 @@
       "modificado": "2026-05-05T14:36:33",
       "idade_dias": 1,
       "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
-    },
-    {
-      "ticket": "2026050526000261",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-05T13:50:19",
-      "modificado": "2026-05-05T13:51:07",
-      "idade_dias": 1,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Disk:F: - 26050513455162"
     },
     {
       "ticket": "2026042026000199",
@@ -1989,7 +1989,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:31:58",
       "modificado": "2026-04-20T14:54:45",
-      "idade_dias": 21,
+      "idade_dias": 22,
       "assunto": "Atualização de Windows UPdate - Apenas maquinas virtuais"
     },
     {
@@ -2013,7 +2013,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:35:28",
       "modificado": "2026-04-14T17:09:42",
-      "idade_dias": 21,
+      "idade_dias": 22,
       "assunto": "Segurança - Microsoft 365"
     },
     {
