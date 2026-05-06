@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778100625,
-  "generated_at_iso": "2026-05-06T20:50:25Z",
+  "generated_at": 1778101233,
+  "generated_at_iso": "2026-05-06T21:00:33Z",
   "count": 180,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000215",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-05T11:00:20",
+      "modificado": "2026-05-06T18:00:09",
+      "idade_dias": 1,
+      "assunto": "Comparação do Grafana atual e novo Totvs"
+    },
     {
       "ticket": "2026050626000491",
       "cliente": "monitoramento@groundwork.com.br",
@@ -227,18 +239,6 @@
       "modificado": "2026-05-06T17:09:18",
       "idade_dias": 8,
       "assunto": "INSERT/ SELECT - TIPO 9"
-    },
-    {
-      "ticket": "2026050526000215",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-05T11:00:20",
-      "modificado": "2026-05-06T17:01:53",
-      "idade_dias": 1,
-      "assunto": "Comparação do Grafana atual e novo Totvs"
     },
     {
       "ticket": "2026050626000384",
@@ -1005,7 +1005,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-28T18:00:25",
       "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
@@ -1293,7 +1293,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-28T18:00:24",
       "modificado": "2026-05-05T15:44:45",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
     },
     {
@@ -1401,7 +1401,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-05-05T10:53:58",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
@@ -1461,7 +1461,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-27T17:59:57",
       "modificado": "2026-05-05T08:50:15",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
@@ -1677,7 +1677,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-04-30T13:18:08",
-      "idade_dias": 74,
+      "idade_dias": 75,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
