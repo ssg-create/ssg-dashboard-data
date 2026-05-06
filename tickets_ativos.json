@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778041218,
-  "generated_at_iso": "2026-05-06T04:20:18Z",
+  "generated_at": 1778041821,
+  "generated_at_iso": "2026-05-06T04:30:21Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T01:27:43",
+      "idade_dias": 0,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026042826000237",
       "cliente": "GDBR",
@@ -251,18 +263,6 @@
       "modificado": "2026-05-05T17:55:20",
       "idade_dias": 0,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
-    },
-    {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-05T17:55:20",
-      "idade_dias": 0,
-      "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
       "ticket": "2026050526000457",
