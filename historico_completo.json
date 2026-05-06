@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778072440,
-  "generated_at_iso": "2026-05-06T13:00:40Z",
+  "generated_at": 1778073030,
+  "generated_at_iso": "2026-05-06T13:10:30Z",
   "count": 2333,
   "filas": [
     "DATASUL",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000142",
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-06T10:09:07",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "primeiro_nome": "Luciano",
+      "ultimo_nome": "Katsumi Shiraishi",
+      "cli_id": "GroundWork",
+      "cli_user": "marcio.guimaraes@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050626000133",
       "assunto": "Solicitações de Trade Marketing - Verificar se a alteração de Status dispara e-mails avisando os envolvidos",
@@ -1313,26 +1333,6 @@
       "resp_min_bh": 540
     },
     {
-      "num": "2026050126000099",
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:tdn.totvs.com - 26050107242755",
-      "criado": "2026-05-01T07:35:04",
-      "modificado": "2026-05-01T10:46:23",
-      "fila": "GWMS",
-      "estado": "open",
-      "prioridade": "1 very low",
-      "atendente": "Adriano Luiz",
-      "primeiro_nome": "Adriano",
-      "ultimo_nome": "Luiz",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
-    },
-    {
       "num": "2026050126000044",
       "assunto": "AUTOZONE - SRV-JUMP-PRD - Memory Ram - 26050104194040",
       "criado": "2026-05-01T04:25:19",
@@ -2536,7 +2536,7 @@
       "num": "2026042826000648",
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade",
       "criado": "2026-04-28T18:35:08",
-      "modificado": "2026-05-04T09:57:53",
+      "modificado": "2026-05-06T10:10:03",
       "fila": "GWMS",
       "estado": "open",
       "prioridade": "3 normal",
@@ -6053,26 +6053,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-05T20:27:30",
-      "fila": "SSG",
-      "estado": "Em atendimento",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -6091,6 +6071,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-05T20:27:30",
+      "fila": "SSG",
+      "estado": "Em atendimento",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
