@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778062221,
-  "generated_at_iso": "2026-05-06T10:10:21Z",
+  "generated_at": 1778062825,
+  "generated_at_iso": "2026-05-06T10:20:25Z",
   "count": 187,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-06T07:18:05",
+      "idade_dias": 6,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
     {
       "ticket": "2026032626000288",
       "cliente": "NSX",
@@ -767,18 +779,6 @@
       "modificado": "2026-05-05T17:40:54",
       "idade_dias": 0,
       "assunto": "Incluir Uptime de equipamento"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-05T17:35:21",
-      "idade_dias": 6,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026043026000321",
