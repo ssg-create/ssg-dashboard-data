@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778098894,
-  "generated_at_iso": "2026-05-06T20:21:34Z",
+  "generated_at": 1778099393,
+  "generated_at_iso": "2026-05-06T20:29:53Z",
   "count": 177,
   "filas": [
     "DATASUL",
@@ -12,6 +12,90 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000401",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T16:31:17",
+      "modificado": "2026-05-06T17:25:47",
+      "idade_dias": 0,
+      "assunto": "Civil BS - Tìtulo da Paytrack que não contabiliza com C Custo e Item Cont"
+    },
+    {
+      "ticket": "2026050626000295",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T14:38:18",
+      "modificado": "2026-05-06T17:25:17",
+      "idade_dias": 0,
+      "assunto": "Cadastro novo usuário Luiz Gustavo"
+    },
+    {
+      "ticket": "2026050626000188",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-06T11:02:01",
+      "modificado": "2026-05-06T17:24:55",
+      "idade_dias": 0,
+      "assunto": "Novo espelhamento USGAAP - PD09"
+    },
+    {
+      "ticket": "2026050526000466",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:49:47",
+      "modificado": "2026-05-06T17:24:39",
+      "idade_dias": 0,
+      "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
+    },
+    {
+      "ticket": "2026050526000457",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:36:29",
+      "modificado": "2026-05-06T17:24:16",
+      "idade_dias": 0,
+      "assunto": "CERTIFICADO - TAF"
+    },
+    {
+      "ticket": "2026050526000411",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-05T17:19:36",
+      "modificado": "2026-05-06T17:24:03",
+      "idade_dias": 1,
+      "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
+    },
+    {
+      "ticket": "2026050526000501",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T18:18:44",
+      "modificado": "2026-05-06T17:23:34",
+      "idade_dias": 0,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
+    },
     {
       "ticket": "2026050626000437",
       "cliente": "monitoramento@groundwork.com.br",
@@ -143,18 +227,6 @@
       "modificado": "2026-05-06T16:35:58",
       "idade_dias": 0,
       "assunto": "Problemas no acesso ao programa FT0909 - User uik04514"
-    },
-    {
-      "ticket": "2026050626000401",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-06T16:31:17",
-      "modificado": "2026-05-06T16:33:25",
-      "idade_dias": 0,
-      "assunto": "Civil BS - Tìtulo da Paytrack que não contabiliza com C Custo e Item Cont"
     },
     {
       "ticket": "2026050526000421",
@@ -337,18 +409,6 @@
       "assunto": "Desenvolvimento do gw/v2"
     },
     {
-      "ticket": "2026050626000295",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-06T14:38:18",
-      "modificado": "2026-05-06T15:02:49",
-      "idade_dias": 0,
-      "assunto": "Cadastro novo usuário Luiz Gustavo"
-    },
-    {
       "ticket": "2026050626000179",
       "cliente": "servicedesk@teletex.com",
       "fila": "DBA",
@@ -373,18 +433,6 @@
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
-      "ticket": "2026050526000411",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-05T17:19:36",
-      "modificado": "2026-05-06T14:36:48",
-      "idade_dias": 1,
-      "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
-    },
-    {
       "ticket": "2026042726000444",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -395,18 +443,6 @@
       "modificado": "2026-05-06T14:35:41",
       "idade_dias": 8,
       "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
-    },
-    {
-      "ticket": "2026050526000457",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T17:36:29",
-      "modificado": "2026-05-06T14:34:21",
-      "idade_dias": 0,
-      "assunto": "CERTIFICADO - TAF"
     },
     {
       "ticket": "2026041326000443",
@@ -493,18 +529,6 @@
       "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050612512950"
     },
     {
-      "ticket": "2026050626000188",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-06T11:02:01",
-      "modificado": "2026-05-06T11:29:31",
-      "idade_dias": 0,
-      "assunto": "Novo espelhamento USGAAP - PD09"
-    },
-    {
       "ticket": "2026050626000197",
       "cliente": "rodrigo.cuani@groundwork.com.br",
       "fila": "GWMS",
@@ -589,18 +613,6 @@
       "assunto": "Criar dados para ambiente demo Protheus"
     },
     {
-      "ticket": "2026050526000501",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T18:18:44",
-      "modificado": "2026-05-06T10:39:52",
-      "idade_dias": 0,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
-    },
-    {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
       "fila": "SSG",
@@ -635,18 +647,6 @@
       "modificado": "2026-05-06T10:13:54",
       "idade_dias": 8,
       "assunto": "Implementação ELK - GWMS - DIGNA"
-    },
-    {
-      "ticket": "2026050526000466",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T17:49:47",
-      "modificado": "2026-05-06T10:12:46",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
     },
     {
       "ticket": "2026042826000648",
