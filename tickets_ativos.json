@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778088636,
-  "generated_at_iso": "2026-05-06T17:30:36Z",
-  "count": 169,
+  "generated_at": 1778089230,
+  "generated_at_iso": "2026-05-06T17:40:30Z",
+  "count": 170,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,78 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026020226000164",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-02-02T10:00:27",
+      "modificado": "2026-05-06T14:40:19",
+      "idade_dias": 93,
+      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
+    {
+      "ticket": "2026050626000295",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "2 low",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-06T14:38:18",
+      "modificado": "2026-05-06T14:38:21",
+      "idade_dias": 0,
+      "assunto": "Cadastro novo usuário Luiz Gustavo"
+    },
+    {
+      "ticket": "2026050526000411",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-05T17:19:36",
+      "modificado": "2026-05-06T14:36:48",
+      "idade_dias": 0,
+      "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
+    },
+    {
+      "ticket": "2026042726000444",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:45:18",
+      "modificado": "2026-05-06T14:35:41",
+      "idade_dias": 8,
+      "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
+    },
+    {
+      "ticket": "2026050526000457",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:36:29",
+      "modificado": "2026-05-06T14:34:21",
+      "idade_dias": 0,
+      "assunto": "CERTIFICADO - TAF"
+    },
+    {
+      "ticket": "2026050626000179",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "DBA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-06T10:25:04",
+      "modificado": "2026-05-06T14:32:35",
+      "idade_dias": 0,
+      "assunto": "Atendimento Zurich - CS0016767"
+    },
     {
       "ticket": "2026041326000443",
       "cliente": "nicole.g@grupometalnox.com.br",
@@ -131,18 +203,6 @@
       "modificado": "2026-05-06T13:03:20",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050612512950"
-    },
-    {
-      "ticket": "2026050626000179",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-06T10:25:04",
-      "modificado": "2026-05-06T12:57:50",
-      "idade_dias": 0,
-      "assunto": "Atendimento Zurich - CS0016767"
     },
     {
       "ticket": "2026042826000246",
@@ -393,7 +453,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T14:34:16",
       "modificado": "2026-05-06T09:52:29",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Contabilização de Estorno de Resgate"
     },
     {
@@ -529,18 +589,6 @@
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
-      "ticket": "2026042726000444",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-27T17:45:18",
-      "modificado": "2026-05-06T08:15:43",
-      "idade_dias": 8,
-      "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
-    },
-    {
       "ticket": "2026042326000013",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "DBA",
@@ -625,6 +673,18 @@
       "assunto": "Rollback exclusão de NF"
     },
     {
+      "ticket": "2026043026000278",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-30T15:20:27",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 5,
+      "assunto": "Acessos Aline e Franciele"
+    },
+    {
       "ticket": "2026050426000271",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -647,18 +707,6 @@
       "modificado": "2026-05-06T05:00:08",
       "idade_dias": 2,
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
-    },
-    {
-      "ticket": "2026043026000278",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-30T15:20:27",
-      "modificado": "2026-05-06T05:00:08",
-      "idade_dias": 5,
-      "assunto": "Acessos Aline e Franciele"
     },
     {
       "ticket": "2026041326000121",
@@ -743,18 +791,6 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 6,
       "assunto": "Notificação de indisponibilidade TI Fluig"
-    },
-    {
-      "ticket": "2026020226000164",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 93,
-      "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
       "ticket": "2026042426000342",
@@ -949,18 +985,6 @@
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
-      "ticket": "2026050526000457",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-05T17:36:29",
-      "modificado": "2026-05-05T17:46:03",
-      "idade_dias": 0,
-      "assunto": "CERTIFICADO - TAF"
-    },
-    {
       "ticket": "2026043026000321",
       "cliente": "filipe.meier@totvs.com.br",
       "fila": "GWMS",
@@ -971,18 +995,6 @@
       "modificado": "2026-05-05T17:27:54",
       "idade_dias": 5,
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
-    },
-    {
-      "ticket": "2026050526000411",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-05T17:19:36",
-      "modificado": "2026-05-05T17:23:54",
-      "idade_dias": 0,
-      "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
     },
     {
       "ticket": "2026042826000219",
