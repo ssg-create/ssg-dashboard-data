@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778098904,
-  "generated_at_iso": "2026-05-06T20:21:44Z",
+  "generated_at": 1778099405,
+  "generated_at_iso": "2026-05-06T20:30:05Z",
   "counts": {
     "crit": 1,
     "warn": 5,
@@ -27,25 +27,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Jean_Pierre_Rocha",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 10 tickets",
-      "summary": "Jean Pierre Rocha tem 10 tickets ativos sob sua responsabilidade: 3 em atendimento + 7 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Jean Pierre Rocha",
-          "carga_real": 10,
-          "em_atendimento": 3,
-          "abertos": 7,
-          "aguardando_terceiros": 0,
-          "ativos_total": 10
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Debora_Gomes",
       "severity": "warn",
       "category": "capacidade",
@@ -58,6 +39,25 @@
           "em_atendimento": 2,
           "abertos": 3,
           "aguardando_terceiros": 5,
+          "ativos_total": 10
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Jean_Pierre_Rocha",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Jean Pierre Rocha com carga real de 10 tickets",
+      "summary": "Jean Pierre Rocha tem 10 tickets ativos sob sua responsabilidade: 3 em atendimento + 7 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Jean Pierre Rocha",
+          "carga_real": 10,
+          "em_atendimento": 3,
+          "abertos": 7,
+          "aguardando_terceiros": 0,
           "ativos_total": 10
         }
       ],
