@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778066604,
-  "generated_at_iso": "2026-05-06T11:23:24Z",
+  "generated_at": 1778067024,
+  "generated_at_iso": "2026-05-06T11:30:24Z",
   "count": 187,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000181",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-05T10:15:12",
+      "modificado": "2026-05-06T08:26:39",
+      "idade_dias": 0,
+      "assunto": "Incluir Firewalls Monitoramento"
+    },
+    {
+      "ticket": "2025102026000125",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "atendente": "Diego Carvalho",
+      "criado": "2025-10-20T09:11:43",
+      "modificado": "2026-05-06T08:25:35",
+      "idade_dias": 197,
+      "assunto": "RPA - Para Arquivos de DDA"
+    },
     {
       "ticket": "2026043026000091",
       "cliente": "rafael.dealmeida@teletex.com",
@@ -829,18 +853,6 @@
       "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
     },
     {
-      "ticket": "2026050526000181",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-05T10:15:12",
-      "modificado": "2026-05-05T17:20:12",
-      "idade_dias": 0,
-      "assunto": "Incluir Firewalls Monitoramento"
-    },
-    {
       "ticket": "2026050526000402",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -1057,18 +1069,6 @@
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
-      "ticket": "2025102026000125",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2025-10-20T09:11:43",
-      "modificado": "2026-05-05T15:30:12",
-      "idade_dias": 197,
-      "assunto": "RPA - Para Arquivos de DDA"
-    },
-    {
       "ticket": "2026050526000091",
       "cliente": "ivan.claudio@totvs.com.br",
       "fila": "GWMS",
@@ -1077,7 +1077,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-05T08:30:19",
       "modificado": "2026-05-05T15:00:20",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Fwd: #TOTVS-SERVERS - SGTC_X_JAMF - SGTC X JAMF - Total Mac Computers - 26050309322921"
     },
     {
