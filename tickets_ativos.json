@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778089230,
-  "generated_at_iso": "2026-05-06T17:40:30Z",
+  "generated_at": 1778089851,
+  "generated_at_iso": "2026-05-06T17:50:51Z",
   "count": 170,
   "filas": [
     "DATASUL",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000179",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-06T10:25:04",
+      "modificado": "2026-05-06T14:48:38",
+      "idade_dias": 0,
+      "assunto": "Atendimento Zurich - CS0016767"
+    },
+    {
+      "ticket": "2026050626000295",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "2 low",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-06T14:38:18",
+      "modificado": "2026-05-06T14:42:21",
+      "idade_dias": 0,
+      "assunto": "Cadastro novo usuário Luiz Gustavo"
+    },
+    {
       "ticket": "2026020226000164",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -23,18 +47,6 @@
       "modificado": "2026-05-06T14:40:19",
       "idade_dias": 93,
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
-    },
-    {
-      "ticket": "2026050626000295",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "2 low",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-06T14:38:18",
-      "modificado": "2026-05-06T14:38:21",
-      "idade_dias": 0,
-      "assunto": "Cadastro novo usuário Luiz Gustavo"
     },
     {
       "ticket": "2026050526000411",
@@ -71,18 +83,6 @@
       "modificado": "2026-05-06T14:34:21",
       "idade_dias": 0,
       "assunto": "CERTIFICADO - TAF"
-    },
-    {
-      "ticket": "2026050626000179",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "DBA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-06T10:25:04",
-      "modificado": "2026-05-06T14:32:35",
-      "idade_dias": 0,
-      "assunto": "Atendimento Zurich - CS0016767"
     },
     {
       "ticket": "2026041326000443",
@@ -129,7 +129,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-30T14:49:16",
       "modificado": "2026-05-06T14:10:17",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
     },
     {
@@ -645,7 +645,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-03-26T14:45:52",
       "modificado": "2026-05-06T06:16:49",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "V3 NETLEX"
     },
     {
@@ -1137,7 +1137,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-05T14:50:15",
       "modificado": "2026-05-05T14:56:38",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Implantação novo Servidor de Banco"
     },
     {
@@ -1917,7 +1917,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-06-24T14:45:09",
       "modificado": "2026-04-20T16:24:29",
-      "idade_dias": 315,
+      "idade_dias": 316,
       "assunto": "Novo Processo Compras"
     },
     {
