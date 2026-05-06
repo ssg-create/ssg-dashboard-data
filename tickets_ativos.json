@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778080238,
-  "generated_at_iso": "2026-05-06T15:10:38Z",
+  "generated_at": 1778080831,
+  "generated_at_iso": "2026-05-06T15:20:31Z",
   "count": 170,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-06T12:15:21",
+      "idade_dias": 1,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
     {
       "ticket": "2026050626000241",
       "cliente": "monitoramento@groundwork.com.br",
@@ -193,18 +205,6 @@
       "assunto": "Atendimento Zurich - CS0016767"
     },
     {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T10:41:32",
-      "idade_dias": 0,
-      "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
       "ticket": "2026050526000501",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -369,7 +369,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-27T12:20:10",
       "modificado": "2026-05-06T09:48:26",
-      "idade_dias": 39,
+      "idade_dias": 40,
       "assunto": "Ajuste Monitoria Grupo AD"
     },
     {
@@ -561,7 +561,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-03-17T12:12:20",
       "modificado": "2026-05-06T07:30:15",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "CIAP - loja 150"
     },
     {
