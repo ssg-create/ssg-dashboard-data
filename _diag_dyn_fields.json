@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778100029,
-  "generated_at_iso": "2026-05-06T20:40:29Z",
+  "generated_at": 1778100329,
+  "generated_at_iso": "2026-05-06T20:45:29Z",
   "count": 45,
   "filas": [
     "DATASUL",
@@ -18,7 +18,7 @@
       "label": "Fator de hora",
       "field_type": "Dropdown",
       "object_type": "Article",
-      "values_count": 75545
+      "values_count": 75547
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "label": "C_Cliente",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 49545
+      "values_count": 49548
     },
     {
       "id": 19,
@@ -34,7 +34,7 @@
       "label": "C_Classificacao",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 27384
+      "values_count": 27387
     },
     {
       "id": 15,
@@ -42,7 +42,7 @@
       "label": "ContadorNot",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 15777
+      "values_count": 15780
     },
     {
       "id": 17,
@@ -50,7 +50,7 @@
       "label": "Notificar cliente?",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 14429
+      "values_count": 14430
     },
     {
       "id": 4,
@@ -229,46 +229,6 @@
       "values_count": 2
     },
     {
-      "id": 32,
-      "name": "CustomerFeedbackFAQ",
-      "label": "Customer return to autoresponder",
-      "field_type": "Dropdown",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 11,
-      "name": "ImpactOperation",
-      "label": "Esse incidente impacta diretamente na operação?",
-      "field_type": "Checkbox",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 29,
-      "name": "FAQAnswer",
-      "label": "FAQAnswer",
-      "field_type": "TextArea",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 8,
-      "name": "ButtonColor1",
-      "label": "ButtonColor1",
-      "field_type": "Text",
-      "object_type": "FAQ",
-      "values_count": 0
-    },
-    {
-      "id": 42,
-      "name": "NovoChamado",
-      "label": "NovoChamado",
-      "field_type": "Dropdown",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 23,
       "name": "teste",
       "label": "teste",
@@ -285,18 +245,18 @@
       "values_count": 0
     },
     {
-      "id": 46,
-      "name": "TagsOfKanban",
-      "label": "TagsOfKanban",
-      "field_type": "Multiselect",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 30,
       "name": "FAQSendAnswer",
       "label": "FAQSendAnswer",
       "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 46,
+      "name": "TagsOfKanban",
+      "label": "TagsOfKanban",
+      "field_type": "Multiselect",
       "object_type": "Ticket",
       "values_count": 0
     },
@@ -369,6 +329,46 @@
       "name": "ProcessManagementProcessID",
       "label": "Process",
       "field_type": "ProcessID",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 32,
+      "name": "CustomerFeedbackFAQ",
+      "label": "Customer return to autoresponder",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 29,
+      "name": "FAQAnswer",
+      "label": "FAQAnswer",
+      "field_type": "TextArea",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 11,
+      "name": "ImpactOperation",
+      "label": "Esse incidente impacta diretamente na operação?",
+      "field_type": "Checkbox",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 8,
+      "name": "ButtonColor1",
+      "label": "ButtonColor1",
+      "field_type": "Text",
+      "object_type": "FAQ",
+      "values_count": 0
+    },
+    {
+      "id": 42,
+      "name": "NovoChamado",
+      "label": "NovoChamado",
+      "field_type": "Dropdown",
       "object_type": "Ticket",
       "values_count": 0
     }
