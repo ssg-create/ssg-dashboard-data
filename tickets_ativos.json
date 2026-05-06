@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778097923,
-  "generated_at_iso": "2026-05-06T20:05:23Z",
+  "generated_at": 1778098226,
+  "generated_at_iso": "2026-05-06T20:10:26Z",
   "count": 176,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000246",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-28T10:45:20",
+      "modificado": "2026-05-06T17:09:18",
+      "idade_dias": 8,
+      "assunto": "INSERT/ SELECT - TIPO 9"
+    },
     {
       "ticket": "2026050626000419",
       "cliente": "vinicius.eroico@groundwork.com.br",
@@ -467,18 +479,6 @@
       "modificado": "2026-05-06T13:03:20",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050612512950"
-    },
-    {
-      "ticket": "2026042826000246",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-28T10:45:20",
-      "modificado": "2026-05-06T12:30:23",
-      "idade_dias": 8,
-      "assunto": "INSERT/ SELECT - TIPO 9"
     },
     {
       "ticket": "2026050626000188",
@@ -1065,7 +1065,7 @@
       "atendente": "Vilante Marques Alves",
       "criado": "2025-09-18T17:09:56",
       "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
     },
     {
