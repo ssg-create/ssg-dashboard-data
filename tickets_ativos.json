@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778099423,
-  "generated_at_iso": "2026-05-06T20:30:23Z",
-  "count": 177,
+  "generated_at": 1778100022,
+  "generated_at_iso": "2026-05-06T20:40:22Z",
+  "count": 175,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,42 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000455",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-06T17:33:50",
+      "modificado": "2026-05-06T17:33:54",
+      "idade_dias": 0,
+      "assunto": "Eliminar Resíduo SC Gerada Para Inclusão de Contrato"
+    },
+    {
+      "ticket": "2026042326000013",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-06T17:30:26",
+      "idade_dias": 13,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-06T17:30:26",
+      "idade_dias": 7,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
+    {
       "ticket": "2026050526000242",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -20,7 +56,7 @@
       "prioridade": "5 very high",
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T17:30:21",
+      "modificado": "2026-05-06T17:30:25",
       "idade_dias": 1,
       "assunto": "Falha na importação de Pedidos de Vendas"
     },
@@ -81,7 +117,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T17:36:29",
       "modificado": "2026-05-06T17:24:16",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "CERTIFICADO - TAF"
     },
     {
@@ -107,18 +143,6 @@
       "modificado": "2026-05-06T17:23:34",
       "idade_dias": 0,
       "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
-    },
-    {
-      "ticket": "2026050626000437",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T17:10:16",
-      "modificado": "2026-05-06T17:17:19",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Daemon ces_x_gwms: check config hostgroups CL_ - 26050617063657"
     },
     {
       "ticket": "2026042826000246",
@@ -155,18 +179,6 @@
       "modificado": "2026-05-06T17:01:53",
       "idade_dias": 1,
       "assunto": "Comparação do Grafana atual e novo Totvs"
-    },
-    {
-      "ticket": "2026050626000428",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T16:50:14",
-      "modificado": "2026-05-06T17:01:12",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050616474421"
     },
     {
       "ticket": "2026050626000384",
@@ -241,18 +253,6 @@
       "assunto": "Dashboard sem retornar dados"
     },
     {
-      "ticket": "2026050626000393",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T16:30:11",
-      "modificado": "2026-05-06T16:31:28",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050616262732"
-    },
-    {
       "ticket": "2026050626000375",
       "cliente": "eduardo.candido@groundwork.com.br",
       "fila": "INFRAESTUTURA",
@@ -263,18 +263,6 @@
       "modificado": "2026-05-06T16:28:27",
       "idade_dias": 0,
       "assunto": "Desativar tags de desligamento do servidores HML da AUTOZONE"
-    },
-    {
-      "ticket": "2026042326000013",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-06T16:26:10",
-      "idade_dias": 13,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
     },
     {
       "ticket": "2026050426000333",
@@ -611,18 +599,6 @@
       "modificado": "2026-05-06T10:50:01",
       "idade_dias": 63,
       "assunto": "Criar dados para ambiente demo Protheus"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-06T10:20:26",
-      "idade_dias": 7,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026050526000368",
@@ -1989,7 +1965,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T17:35:23",
       "modificado": "2026-04-20T18:13:02",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Alteração de senha AD"
     },
     {
