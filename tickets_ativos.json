@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778100022,
-  "generated_at_iso": "2026-05-06T20:40:22Z",
-  "count": 175,
+  "generated_at": 1778100320,
+  "generated_at_iso": "2026-05-06T20:45:20Z",
+  "count": 177,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,16 +13,52 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000419",
+      "cliente": "vinicius.eroico@groundwork.com.br",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-06T16:40:14",
+      "modificado": "2026-05-06T17:45:20",
+      "idade_dias": 0,
+      "assunto": "Criação conta de e-mail TalentHub"
+    },
+    {
+      "ticket": "2026050626000464",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-06T17:35:19",
+      "modificado": "2026-05-06T17:44:44",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_InfluxDB-Server - Influxdb Check Writes - 26050617324981"
+    },
+    {
       "ticket": "2026050626000455",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "AlmeidaJR Integração Movidesk",
+      "atendente": "Debora Gomes",
       "criado": "2026-05-06T17:33:50",
-      "modificado": "2026-05-06T17:33:54",
+      "modificado": "2026-05-06T17:44:14",
       "idade_dias": 0,
       "assunto": "Eliminar Resíduo SC Gerada Para Inclusão de Contrato"
+    },
+    {
+      "ticket": "2026050626000446",
+      "cliente": "rodrigo.pinheiro@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-06T17:25:19",
+      "modificado": "2026-05-06T17:41:48",
+      "idade_dias": 0,
+      "assunto": "Inclusão do Mateus ao disparo de relatorio BH - Aumovio"
     },
     {
       "ticket": "2026042326000013",
@@ -155,18 +191,6 @@
       "modificado": "2026-05-06T17:09:18",
       "idade_dias": 8,
       "assunto": "INSERT/ SELECT - TIPO 9"
-    },
-    {
-      "ticket": "2026050626000419",
-      "cliente": "vinicius.eroico@groundwork.com.br",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-06T16:40:14",
-      "modificado": "2026-05-06T17:02:58",
-      "idade_dias": 0,
-      "assunto": "Criação conta de e-mail TalentHub"
     },
     {
       "ticket": "2026050526000215",
@@ -429,7 +453,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T17:45:18",
       "modificado": "2026-05-06T14:35:41",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
     },
     {
@@ -1137,7 +1161,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-30T17:45:15",
       "modificado": "2026-05-05T17:27:54",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
     },
     {
