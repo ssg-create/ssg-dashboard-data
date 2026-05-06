@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778096422,
-  "generated_at_iso": "2026-05-06T19:40:22Z",
-  "count": 175,
+  "generated_at": 1778097027,
+  "generated_at_iso": "2026-05-06T19:50:27Z",
+  "count": 174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000313",
+      "cliente": "SAYERLACK",
+      "fila": "DATASUL",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-05T14:50:15",
+      "modificado": "2026-05-06T16:43:47",
+      "idade_dias": 1,
+      "assunto": "Implantação novo Servidor de Banco"
+    },
     {
       "ticket": "2026042826000371",
       "cliente": "cesar.fernandes@arcoeducacao.com.br",
@@ -393,7 +405,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-05T16:45:05",
       "modificado": "2026-05-06T13:50:57",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
     },
     {
@@ -793,18 +805,6 @@
       "assunto": "Rollback exclusão de NF"
     },
     {
-      "ticket": "2026050426000182",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T11:00:18",
-      "modificado": "2026-05-06T05:00:08",
-      "idade_dias": 2,
-      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
-    },
-    {
       "ticket": "2026050426000271",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -829,52 +829,16 @@
       "assunto": "Acessos Aline e Franciele"
     },
     {
-      "ticket": "2026042926000333",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-29T16:49:35",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "excluir sc 006111 - NR"
-    },
-    {
-      "ticket": "2026042826000335",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-04-28T13:54:03",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 8,
-      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
-    },
-    {
-      "ticket": "2026042926000342",
-      "cliente": "servicedesk@teletex.com",
+      "ticket": "2026050426000182",
+      "cliente": "monitoramento-noc@groundwork.com.br",
       "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
-      "criado": "2026-04-29T16:50:18",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Unimed Curitiva - Adicionar monitoramento"
-    },
-    {
-      "ticket": "2026042426000342",
-      "cliente": "carolina.schvambach@almeidajunior.com.br",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T16:50:19",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 11,
-      "assunto": "SCP NS - ERRO EFD REINF"
+      "criado": "2026-05-04T11:00:18",
+      "modificado": "2026-05-06T05:00:08",
+      "idade_dias": 2,
+      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
     },
     {
       "ticket": "2026041626000198",
@@ -997,6 +961,66 @@
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
+      "ticket": "2026042926000333",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-29T16:49:35",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "excluir sc 006111 - NR"
+    },
+    {
+      "ticket": "2026042826000335",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-04-28T13:54:03",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 8,
+      "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
+    },
+    {
+      "ticket": "2026042926000342",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-29T16:50:18",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 7,
+      "assunto": "Unimed Curitiva - Adicionar monitoramento"
+    },
+    {
+      "ticket": "2026042426000342",
+      "cliente": "carolina.schvambach@almeidajunior.com.br",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-24T16:50:19",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 12,
+      "assunto": "SCP NS - ERRO EFD REINF"
+    },
+    {
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-06T05:00:06",
+      "idade_dias": 34,
+      "assunto": "Configurar Compilador"
+    },
+    {
       "ticket": "2026012926000455",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1019,18 +1043,6 @@
       "modificado": "2026-05-06T05:00:06",
       "idade_dias": 229,
       "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
-    },
-    {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 34,
-      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2026042326000022",
@@ -1089,7 +1101,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-04T16:47:56",
       "modificado": "2026-05-05T19:31:35",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Validar configuraciones"
     },
     {
@@ -1247,18 +1259,6 @@
       "modificado": "2026-05-05T15:00:20",
       "idade_dias": 1,
       "assunto": "Fwd: #TOTVS-SERVERS - SGTC_X_JAMF - SGTC X JAMF - Total Mac Computers - 26050309322921"
-    },
-    {
-      "ticket": "2026050526000313",
-      "cliente": "SAYERLACK",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-05-05T14:50:15",
-      "modificado": "2026-05-05T14:56:38",
-      "idade_dias": 1,
-      "assunto": "Implantação novo Servidor de Banco"
     },
     {
       "ticket": "2026050526000206",
@@ -1485,7 +1485,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-27T16:44:15",
       "modificado": "2026-05-04T09:56:47",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
     },
     {
@@ -1617,7 +1617,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T16:45:15",
       "modificado": "2026-04-30T10:05:14",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Troca de impressora Zebra - Programa OLRE0011"
     },
     {
@@ -1777,18 +1777,6 @@
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
-      "ticket": "2026042426000101",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-04-24T09:15:21",
-      "modificado": "2026-04-27T18:49:20",
-      "idade_dias": 12,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26042409115520"
-    },
-    {
       "ticket": "2026042726000346",
       "cliente": "postmaster@autozone.com",
       "fila": "SSG",
@@ -1929,7 +1917,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-06T16:50:22",
       "modificado": "2026-04-21T11:59:28",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Acesso de Visualização GCT - Banco de Conhecimento"
     },
     {
