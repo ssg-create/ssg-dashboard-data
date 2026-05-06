@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778076040,
-  "generated_at_iso": "2026-05-06T14:00:40Z",
+  "generated_at": 1778076626,
+  "generated_at_iso": "2026-05-06T14:10:26Z",
   "count": 169,
   "filas": [
     "DATASUL",
@@ -13,6 +13,54 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000188",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T11:02:01",
+      "modificado": "2026-05-06T11:10:10",
+      "idade_dias": 0,
+      "assunto": "Novo espelhamento USGAAP - PD09"
+    },
+    {
+      "ticket": "2026050626000142",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-06T11:09:42",
+      "idade_dias": 0,
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
+    },
+    {
+      "ticket": "2026042826000371",
+      "cliente": "cesar.fernandes@arcoeducacao.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-28T14:25:16",
+      "modificado": "2026-05-06T11:05:33",
+      "idade_dias": 7,
+      "assunto": "Criação de nova visualização"
+    },
+    {
+      "ticket": "2026050526000331",
+      "cliente": "enzo.fucitalo@groundwork.com.br",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-05-05T15:50:18",
+      "modificado": "2026-05-06T11:01:44",
+      "idade_dias": 0,
+      "assunto": "Erro Protheus"
+    },
+    {
       "ticket": "2026040826000202",
       "cliente": "enzo.fucitalo@groundwork.com.br",
       "fila": "DBA",
@@ -23,18 +71,6 @@
       "modificado": "2026-05-06T11:00:19",
       "idade_dias": 27,
       "assunto": "Ticket de teste"
-    },
-    {
-      "ticket": "2026042826000371",
-      "cliente": "cesar.fernandes@arcoeducacao.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-28T14:25:16",
-      "modificado": "2026-05-06T11:00:19",
-      "idade_dias": 7,
-      "assunto": "Criação de nova visualização"
     },
     {
       "ticket": "2026042826000246",
@@ -83,18 +119,6 @@
       "modificado": "2026-05-06T10:43:18",
       "idade_dias": 0,
       "assunto": "Atendimento Zurich - CS0016767"
-    },
-    {
-      "ticket": "2026050626000142",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-06T10:42:30",
-      "idade_dias": 0,
-      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
     },
     {
       "ticket": "2026050526000242",
@@ -553,30 +577,6 @@
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
-      "ticket": "2026042226000159",
-      "cliente": "bucci.luana@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-04-22T09:30:16",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 14,
-      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
-    },
-    {
-      "ticket": "2026042926000235",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-29T14:19:25",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 6,
-      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
-    },
-    {
       "ticket": "2026041326000121",
       "cliente": "joao.oliveira@almeidajunior.com.br",
       "fila": "SSG",
@@ -661,18 +661,6 @@
       "assunto": "Notificação de indisponibilidade TI Fluig"
     },
     {
-      "ticket": "2026041626000198",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Gesiel Silva",
-      "criado": "2026-04-16T09:20:09",
-      "modificado": "2026-05-06T05:00:07",
-      "idade_dias": 20,
-      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
-    },
-    {
       "ticket": "2026020226000164",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -683,6 +671,18 @@
       "modificado": "2026-05-06T05:00:07",
       "idade_dias": 93,
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
+    {
+      "ticket": "2026041626000198",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Gesiel Silva",
+      "criado": "2026-04-16T09:20:09",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 20,
+      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
       "ticket": "2026042926000333",
@@ -733,16 +733,28 @@
       "assunto": "SCP NS - ERRO EFD REINF"
     },
     {
-      "ticket": "2026040126000439",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
+      "ticket": "2026042226000159",
+      "cliente": "bucci.luana@totvs.com.br",
+      "fila": "GWMS",
       "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-01T20:02:59",
-      "modificado": "2026-05-06T05:00:06",
-      "idade_dias": 34,
-      "assunto": "Configurar Compilador"
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-04-22T09:30:16",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 14,
+      "assunto": "Inclusão monitoramento das maquinas - Portal de cliente"
+    },
+    {
+      "ticket": "2026042926000235",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-29T14:19:25",
+      "modificado": "2026-05-06T05:00:07",
+      "idade_dias": 6,
+      "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
       "ticket": "2026012926000455",
@@ -755,6 +767,18 @@
       "modificado": "2026-05-06T05:00:06",
       "idade_dias": 96,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+    },
+    {
+      "ticket": "2026040126000439",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-01T20:02:59",
+      "modificado": "2026-05-06T05:00:06",
+      "idade_dias": 34,
+      "assunto": "Configurar Compilador"
     },
     {
       "ticket": "2025091826000356",
@@ -997,18 +1021,6 @@
       "assunto": "Chamado para apontamento de horas."
     },
     {
-      "ticket": "2026050526000331",
-      "cliente": "enzo.fucitalo@groundwork.com.br",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-05T15:50:18",
-      "modificado": "2026-05-05T15:51:52",
-      "idade_dias": 0,
-      "assunto": "Erro Protheus"
-    },
-    {
       "ticket": "2026042826000602",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -1067,18 +1079,6 @@
       "modificado": "2026-05-05T14:56:38",
       "idade_dias": 0,
       "assunto": "Implantação novo Servidor de Banco"
-    },
-    {
-      "ticket": "2026050426000244",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T11:50:48",
-      "modificado": "2026-05-05T14:50:14",
-      "idade_dias": 1,
-      "assunto": "Erro ao tentar reimportar nota - programa"
     },
     {
       "ticket": "2026050526000206",
