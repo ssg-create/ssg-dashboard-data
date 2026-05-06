@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778068837,
-  "generated_at_iso": "2026-05-06T12:00:37Z",
-  "count": 2335,
+  "generated_at": 1778069430,
+  "generated_at_iso": "2026-05-06T12:10:30Z",
+  "count": 2336,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050626000106",
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26050608594114",
+      "criado": "2026-05-06T09:00:12",
+      "modificado": "2026-05-06T09:04:42",
+      "fila": "GWMS",
+      "estado": "open",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "primeiro_nome": "Marcio",
+      "ultimo_nome": "Guimaraes",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050526000528",
       "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT",
@@ -616,9 +636,9 @@
       "num": "2026050526000073",
       "assunto": "Verificação de configuração",
       "criado": "2026-05-05T08:03:45",
-      "modificado": "2026-05-05T13:53:42",
+      "modificado": "2026-05-06T09:09:43",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "5 very high",
       "atendente": "Thiago Trufelli",
       "primeiro_nome": "Thiago",
@@ -627,10 +647,10 @@
       "cli_user": "lucas.sales@teletex.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 1505,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 604
     },
     {
       "num": "2026050526000064",
@@ -6013,26 +6033,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-05T20:27:30",
-      "fila": "SSG",
-      "estado": "Em atendimento",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -6051,6 +6051,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-05T20:27:30",
+      "fila": "SSG",
+      "estado": "Em atendimento",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
