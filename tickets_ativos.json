@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778155831,
-  "generated_at_iso": "2026-05-07T12:10:31Z",
-  "count": 174,
+  "generated_at": 1778156425,
+  "generated_at_iso": "2026-05-07T12:20:25Z",
+  "count": 173,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,14 +13,38 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000457",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:36:29",
+      "modificado": "2026-05-07T09:20:09",
+      "idade_dias": 1,
+      "assunto": "CERTIFICADO - TAF"
+    },
+    {
+      "ticket": "2026050726000113",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-07T09:02:50",
+      "modificado": "2026-05-07T09:18:28",
+      "idade_dias": 0,
+      "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
+    },
+    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-07T09:08:29",
+      "modificado": "2026-05-07T09:13:41",
       "idade_dias": 9,
       "assunto": "Alteração Dashboard Logmein"
     },
@@ -59,18 +83,6 @@
       "modificado": "2026-05-07T09:04:46",
       "idade_dias": 0,
       "assunto": "verificação de certificado"
-    },
-    {
-      "ticket": "2026050726000113",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-07T09:02:50",
-      "modificado": "2026-05-07T09:04:38",
-      "idade_dias": 0,
-      "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
     },
     {
       "ticket": "2026050726000061",
@@ -143,18 +155,6 @@
       "modificado": "2026-05-07T08:40:16",
       "idade_dias": 0,
       "assunto": "Cadastro novo usuário Luiz Gustavo"
-    },
-    {
-      "ticket": "2026050526000457",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T17:36:29",
-      "modificado": "2026-05-07T08:39:11",
-      "idade_dias": 1,
-      "assunto": "CERTIFICADO - TAF"
     },
     {
       "ticket": "2026050726000088",
@@ -489,7 +489,7 @@
       "atendente": "Gesiel Silva",
       "criado": "2026-04-16T09:20:09",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
@@ -925,18 +925,6 @@
       "assunto": "Dashboard sem retornar dados ATITUS"
     },
     {
-      "ticket": "2026050626000348",
-      "cliente": "rodrigo.cuani@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-06T16:05:09",
-      "modificado": "2026-05-06T16:13:44",
-      "idade_dias": 0,
-      "assunto": "Cadastro de cliente"
-    },
-    {
       "ticket": "2026050626000311",
       "cliente": "AUMOVIO",
       "fila": "DATASUL",
@@ -1221,7 +1209,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-10-20T09:11:43",
       "modificado": "2026-05-06T08:25:35",
-      "idade_dias": 198,
+      "idade_dias": 199,
       "assunto": "RPA - Para Arquivos de DDA"
     },
     {
@@ -1605,7 +1593,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-12T09:15:14",
       "modificado": "2026-04-30T15:17:08",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
@@ -2073,7 +2061,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-09T09:15:10",
       "modificado": "2026-04-13T10:23:20",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Solicitação de Ajuste - WebService WEBA016 (Inclusão de PA)"
     },
     {
@@ -2085,7 +2073,7 @@
       "atendente": "George Eivazian",
       "criado": "2026-04-01T09:14:12",
       "modificado": "2026-04-08T10:32:44",
-      "idade_dias": 35,
+      "idade_dias": 36,
       "assunto": "inconsistencia no Rateio"
     },
     {
