@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778151644,
-  "generated_at_iso": "2026-05-07T11:00:44Z",
+  "generated_at": 1778152235,
+  "generated_at_iso": "2026-05-07T11:10:35Z",
   "count": 45,
   "filas": [
     "DATASUL",
@@ -26,7 +26,7 @@
       "label": "C_Cliente",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 49554
+      "values_count": 49561
     },
     {
       "id": 19,
@@ -34,7 +34,7 @@
       "label": "C_Classificacao",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 27393
+      "values_count": 27400
     },
     {
       "id": 15,
@@ -42,7 +42,7 @@
       "label": "ContadorNot",
       "field_type": "Dropdown",
       "object_type": "Ticket",
-      "values_count": 15787
+      "values_count": 15794
     },
     {
       "id": 17,
@@ -117,6 +117,14 @@
       "values_count": 1242
     },
     {
+      "id": 35,
+      "name": "OwnerTeamAlmeidaJunior",
+      "label": "Owner Team AlmeidaJunior",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 1234
+    },
+    {
       "id": 33,
       "name": "SolicitanteAlmeidaJunior",
       "label": "Solicitante Almeida Junior",
@@ -128,14 +136,6 @@
       "id": 34,
       "name": "EmailAlmeidaJunior",
       "label": "Email Almeida Junior",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 1234
-    },
-    {
-      "id": 35,
-      "name": "OwnerTeamAlmeidaJunior",
-      "label": "Owner Team AlmeidaJunior",
       "field_type": "Text",
       "object_type": "Ticket",
       "values_count": 1234
@@ -229,6 +229,30 @@
       "values_count": 2
     },
     {
+      "id": 38,
+      "name": "testeform",
+      "label": "testeform",
+      "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 22,
+      "name": "gwmodulosprotheus",
+      "label": "C_ProtheusModulos",
+      "field_type": "Dropdown",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 1,
+      "name": "ProcessManagementProcessID",
+      "label": "Process",
+      "field_type": "ProcessID",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
       "id": 32,
       "name": "CustomerFeedbackFAQ",
       "label": "Customer return to autoresponder",
@@ -285,18 +309,18 @@
       "values_count": 0
     },
     {
-      "id": 46,
-      "name": "TagsOfKanban",
-      "label": "TagsOfKanban",
-      "field_type": "Multiselect",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
       "id": 30,
       "name": "FAQSendAnswer",
       "label": "FAQSendAnswer",
       "field_type": "Text",
+      "object_type": "Ticket",
+      "values_count": 0
+    },
+    {
+      "id": 46,
+      "name": "TagsOfKanban",
+      "label": "TagsOfKanban",
+      "field_type": "Multiselect",
       "object_type": "Ticket",
       "values_count": 0
     },
@@ -346,30 +370,6 @@
       "label": "ButtonText1",
       "field_type": "Text",
       "object_type": "FAQ",
-      "values_count": 0
-    },
-    {
-      "id": 22,
-      "name": "gwmodulosprotheus",
-      "label": "C_ProtheusModulos",
-      "field_type": "Dropdown",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 38,
-      "name": "testeform",
-      "label": "testeform",
-      "field_type": "Text",
-      "object_type": "Ticket",
-      "values_count": 0
-    },
-    {
-      "id": 1,
-      "name": "ProcessManagementProcessID",
-      "label": "Process",
-      "field_type": "ProcessID",
-      "object_type": "Ticket",
       "values_count": 0
     }
   ],
