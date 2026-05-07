@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778192421,
-  "generated_at_iso": "2026-05-07T22:20:21Z",
+  "generated_at": 1778193027,
+  "generated_at_iso": "2026-05-07T22:30:27Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000175",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T09:41:21",
+      "modificado": "2026-05-07T19:28:02",
+      "idade_dias": 9,
+      "assunto": "SIGACOM :: Auxilio com novo fluxo de compras"
+    },
+    {
+      "ticket": "2026041326000443",
+      "cliente": "GRUPO_METALNOX",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-13T16:30:24",
+      "modificado": "2026-05-07T19:23:30",
+      "idade_dias": 24,
+      "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
+    },
     {
       "ticket": "2025121126000371",
       "cliente": "AUTOZONE",
@@ -278,18 +302,6 @@
       "modificado": "2026-05-07T13:57:17",
       "idade_dias": 3,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
-      "ticket": "2026041326000443",
-      "cliente": "GRUPO_METALNOX",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-13T16:30:24",
-      "modificado": "2026-05-07T13:50:26",
-      "idade_dias": 24,
-      "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
       "ticket": "2026042826000246",
@@ -566,18 +578,6 @@
       "modificado": "2026-05-07T12:19:55",
       "idade_dias": 76,
       "assunto": "Atualização Moeda RON não está acontecendo"
-    },
-    {
-      "ticket": "2026042826000175",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T09:41:21",
-      "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 9,
-      "assunto": "SIGACOM :: Auxilio com novo fluxo de compras"
     },
     {
       "ticket": "2026042826000237",
@@ -4944,7 +4944,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-12T19:25:23",
       "modificado": "2026-03-21T05:00:33",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26031219155646"
     },
     {
@@ -15444,7 +15444,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-05T19:28:40",
       "modificado": "2025-07-26T05:00:08",
-      "idade_dias": 335,
+      "idade_dias": 336,
       "assunto": "AZ - Verificar a diferença no campo custo nas transferências no USGAAP após espelhamento."
     },
     {
@@ -22776,7 +22776,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-02-21T19:20:23",
       "modificado": "2025-02-21T19:23:01",
-      "idade_dias": 439,
+      "idade_dias": 440,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 25022119170194"
     },
     {
