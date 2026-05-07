@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778140310,
-  "generated_at_iso": "2026-05-07T07:51:50Z",
+  "generated_at": 1778140829,
+  "generated_at_iso": "2026-05-07T08:00:29Z",
   "count": 7,
   "filas": [
     "DATASUL",
@@ -20,9 +20,21 @@
       "prioridade": "1 very low",
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-20T15:15:20",
-      "modificado": "2026-05-05T13:15:45",
+      "modificado": "2026-05-07T05:00:18",
       "vezes_fechado": 2,
       "assunto": "Solicitação de controle de  fila de impressão"
+    },
+    {
+      "ticket": "2026040226000044",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado_atual": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-02T08:35:38",
+      "modificado": "2026-05-07T05:00:18",
+      "vezes_fechado": 1,
+      "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
       "ticket": "2026031726000287",
@@ -47,18 +59,6 @@
       "modificado": "2026-05-06T06:14:21",
       "vezes_fechado": 1,
       "assunto": "Rollback exclusão de NF"
-    },
-    {
-      "ticket": "2026040226000044",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado_atual": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-02T08:35:38",
-      "modificado": "2026-05-05T08:13:00",
-      "vezes_fechado": 1,
-      "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
       "ticket": "2026041226000043",
