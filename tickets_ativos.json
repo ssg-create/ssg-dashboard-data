@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778193842,
-  "generated_at_iso": "2026-05-07T22:44:02Z",
-  "count": 2391,
+  "generated_at": 1778194225,
+  "generated_at_iso": "2026-05-07T22:50:25Z",
+  "count": 2388,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000144",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Wiglas Reis",
+      "criado": "2026-05-05T09:30:07",
+      "modificado": "2026-05-07T19:50:08",
+      "idade_dias": 2,
+      "assunto": "Comunicação entre 10.210.10.4, 10.210.10.5 e 10.105.2.44 "
+    },
     {
       "ticket": "2026032326000221",
       "cliente": "ALMEIDA JR",
@@ -1708,18 +1720,6 @@
       "assunto": "Atendimento Zurich - CS0016767"
     },
     {
-      "ticket": "2026050526000144",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Wiglas Reis",
-      "criado": "2026-05-05T09:30:07",
-      "modificado": "2026-05-06T14:02:01",
-      "idade_dias": 2,
-      "assunto": "Comunicação entre 10.210.10.4, 10.210.10.5 e 10.105.2.44 "
-    },
-    {
       "ticket": "2026050526000377",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -2440,18 +2440,6 @@
       "assunto": "Liberação de tabelas"
     },
     {
-      "ticket": "2026050326000013",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-03T00:15:11",
-      "modificado": "2026-05-04T21:01:31",
-      "idade_dias": 4,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26050300140370"
-    },
-    {
       "ticket": "2026050226000079",
       "cliente": "AUTOZONE",
       "fila": "DBA",
@@ -2462,30 +2450,6 @@
       "modificado": "2026-05-04T20:59:42",
       "idade_dias": 5,
       "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
-    },
-    {
-      "ticket": "2026050426000208",
-      "cliente": "SERVENG",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-04T11:15:20",
-      "modificado": "2026-05-04T20:42:25",
-      "idade_dias": 3,
-      "assunto": "Aplicação de boletim - PROJETO e UNO"
-    },
-    {
-      "ticket": "2026050426000306",
-      "cliente": "TELETEX",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-04T14:15:20",
-      "modificado": "2026-05-04T17:48:26",
-      "idade_dias": 3,
-      "assunto": "Acesso a banco de dados"
     },
     {
       "ticket": "2026042926000262",
@@ -3768,7 +3732,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-07T19:44:37",
       "modificado": "2026-04-16T05:00:17",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Select - Combo rules"
     },
     {
@@ -15336,7 +15300,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-05-30T19:50:08",
       "modificado": "2025-08-01T05:00:21",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "Re: Ajuste de Saldos TOTVS – Conciliação Bancária"
     },
     {
@@ -17004,7 +16968,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-12T19:50:07",
       "modificado": "2025-06-21T05:00:18",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "Inclusão Monitoria"
     },
     {
