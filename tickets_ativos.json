@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778155236,
-  "generated_at_iso": "2026-05-07T12:00:36Z",
-  "count": 180,
+  "generated_at": 1778155831,
+  "generated_at_iso": "2026-05-07T12:10:31Z",
+  "count": 174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,90 @@
   ],
   "rows": [
     {
+      "ticket": "2026042726000382",
+      "cliente": "rafael.tavares@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-07T09:08:29",
+      "idade_dias": 9,
+      "assunto": "Alteração Dashboard Logmein"
+    },
+    {
+      "ticket": "2026050626000321",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T15:50:21",
+      "modificado": "2026-05-07T09:05:10",
+      "idade_dias": 0,
+      "assunto": "Consórcio CS - Contabilização Inclusão Lançamentos"
+    },
+    {
+      "ticket": "2026050626000508",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-06T18:02:47",
+      "modificado": "2026-05-07T09:04:59",
+      "idade_dias": 0,
+      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
+    },
+    {
+      "ticket": "2026050726000104",
+      "cliente": "TJBA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-07T08:52:45",
+      "modificado": "2026-05-07T09:04:46",
+      "idade_dias": 0,
+      "assunto": "verificação de certificado"
+    },
+    {
+      "ticket": "2026050726000113",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-07T09:02:50",
+      "modificado": "2026-05-07T09:04:38",
+      "idade_dias": 0,
+      "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
+    },
+    {
+      "ticket": "2026050726000061",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-07T07:35:06",
+      "modificado": "2026-05-07T09:04:19",
+      "idade_dias": 0,
+      "assunto": "Berneck - alterar o monitoramento"
+    },
+    {
+      "ticket": "2026050626000473",
+      "cliente": "enzo.fucitalo@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-06T17:35:21",
+      "modificado": "2026-05-07T09:03:31",
+      "idade_dias": 0,
+      "assunto": "Alterar threshold alertas ATITUS"
+    },
+    {
       "ticket": "2026050626000302",
       "cliente": "filipe.meier@totvs.com.br",
       "fila": "GWMS",
@@ -23,18 +107,6 @@
       "modificado": "2026-05-07T08:54:26",
       "idade_dias": 0,
       "assunto": "Incluir UPTIME Switchs"
-    },
-    {
-      "ticket": "2026050726000097",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T08:50:23",
-      "modificado": "2026-05-07T08:52:08",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26050708480530"
     },
     {
       "ticket": "2026050426000281",
@@ -109,30 +181,6 @@
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
-      "ticket": "2026042726000382",
-      "cliente": "rafael.tavares@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-07T08:16:21",
-      "idade_dias": 9,
-      "assunto": "Alteração Dashboard Logmein"
-    },
-    {
-      "ticket": "2026050626000535",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T20:35:22",
-      "modificado": "2026-05-07T08:06:51",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050620305699"
-    },
-    {
       "ticket": "2026050726000015",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -167,30 +215,6 @@
       "modificado": "2026-05-07T08:04:29",
       "idade_dias": 0,
       "assunto": "[Elasticsearch Service] You now have sufficient storage space"
-    },
-    {
-      "ticket": "2026050726000051",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T05:00:07",
-      "modificado": "2026-05-07T08:03:00",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050704573420"
-    },
-    {
-      "ticket": "2026050726000061",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T07:35:06",
-      "modificado": "2026-05-07T08:02:07",
-      "idade_dias": 0,
-      "assunto": "Berneck - alterar o monitoramento"
     },
     {
       "ticket": "2026050726000079",
@@ -525,7 +549,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-13T09:10:28",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -685,30 +709,6 @@
       "assunto": "Movimentações Itaú 03/2026."
     },
     {
-      "ticket": "2026050626000517",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T18:15:06",
-      "modificado": "2026-05-06T18:19:49",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26050618125422"
-    },
-    {
-      "ticket": "2026050626000508",
-      "cliente": "TJBA",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T18:02:47",
-      "modificado": "2026-05-06T18:18:57",
-      "idade_dias": 0,
-      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
-    },
-    {
       "ticket": "2026042326000013",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "DBA",
@@ -733,42 +733,6 @@
       "assunto": "Comparação do Grafana atual e novo Totvs"
     },
     {
-      "ticket": "2026050626000491",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T17:45:21",
-      "modificado": "2026-05-06T17:47:30",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-INF01 - Influxdb Check Writes - 26050617443232"
-    },
-    {
-      "ticket": "2026050626000482",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T17:40:20",
-      "modificado": "2026-05-06T17:46:44",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-INF01 - Influxdb Check Writes - 26050617384824"
-    },
-    {
-      "ticket": "2026050626000473",
-      "cliente": "enzo.fucitalo@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T17:35:21",
-      "modificado": "2026-05-06T17:45:49",
-      "idade_dias": 0,
-      "assunto": "Alterar threshold alertas ATITUS"
-    },
-    {
       "ticket": "2026050626000419",
       "cliente": "vinicius.eroico@groundwork.com.br",
       "fila": "INFRAESTUTURA",
@@ -781,18 +745,6 @@
       "assunto": "Criação conta de e-mail TalentHub"
     },
     {
-      "ticket": "2026050626000464",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T17:35:19",
-      "modificado": "2026-05-06T17:44:44",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_InfluxDB-Server - Influxdb Check Writes - 26050617324981"
-    },
-    {
       "ticket": "2026050626000455",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -803,18 +755,6 @@
       "modificado": "2026-05-06T17:44:14",
       "idade_dias": 0,
       "assunto": "Eliminar Resíduo SC Gerada Para Inclusão de Contrato"
-    },
-    {
-      "ticket": "2026050626000446",
-      "cliente": "rodrigo.pinheiro@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-06T17:25:19",
-      "modificado": "2026-05-06T17:41:48",
-      "idade_dias": 0,
-      "assunto": "Inclusão do Mateus ao disparo de relatorio BH - Aumovio"
     },
     {
       "ticket": "2026050626000401",
@@ -995,18 +935,6 @@
       "modificado": "2026-05-06T16:13:44",
       "idade_dias": 0,
       "assunto": "Cadastro de cliente"
-    },
-    {
-      "ticket": "2026050626000321",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-06T15:50:21",
-      "modificado": "2026-05-06T16:11:46",
-      "idade_dias": 0,
-      "assunto": "Consórcio CS - Contabilização Inclusão Lançamentos"
     },
     {
       "ticket": "2026050626000311",
@@ -1497,7 +1425,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-05-05T09:01:37",
       "modificado": "2026-05-05T09:18:09",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Contabilização Aplicação - Gesplan"
     },
     {
