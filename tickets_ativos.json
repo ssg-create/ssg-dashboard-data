@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778141422,
-  "generated_at_iso": "2026-05-07T08:10:22Z",
-  "count": 176,
+  "generated_at": 1778142020,
+  "generated_at_iso": "2026-05-07T08:20:20Z",
+  "count": 178,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000033",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-07T03:20:15",
+      "modificado": "2026-05-07T05:18:19",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] You now have sufficient storage space"
+    },
+    {
+      "ticket": "2026050726000051",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-07T05:00:07",
+      "modificado": "2026-05-07T05:18:12",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26050704573420"
+    },
     {
       "ticket": "2026050426000182",
       "cliente": "monitoramento-noc@groundwork.com.br",
