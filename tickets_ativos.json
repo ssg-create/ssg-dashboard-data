@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778158210,
-  "generated_at_iso": "2026-05-07T12:50:10Z",
-  "count": 2396,
+  "generated_at": 1778158225,
+  "generated_at_iso": "2026-05-07T12:50:25Z",
+  "count": 2398,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000122",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-07T09:50:13",
+      "modificado": "2026-05-07T09:50:17",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] You now have sufficient storage space"
+    },
+    {
+      "ticket": "2026050726000131",
+      "cliente": "thiago.trufelli@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-07T09:50:14",
+      "modificado": "2026-05-07T09:50:17",
+      "idade_dias": 0,
+      "assunto": "Problemas dashboard cliente Cobian"
+    },
+    {
+      "ticket": "2026050426000281",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-07T09:50:17",
+      "idade_dias": 2,
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
+    },
     {
       "ticket": "2026043026000189",
       "cliente": "SECONCI",
@@ -302,18 +338,6 @@
       "modificado": "2026-05-07T08:50:40",
       "idade_dias": 14,
       "assunto": "Revisão dashboards Admin OTRS"
-    },
-    {
-      "ticket": "2026050426000281",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-04T14:08:45",
-      "modificado": "2026-05-07T08:50:26",
-      "idade_dias": 2,
-      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
     },
     {
       "ticket": "2026050526000181",
@@ -3312,7 +3336,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-04-14T09:50:12",
       "modificado": "2026-04-22T05:00:35",
-      "idade_dias": 22,
+      "idade_dias": 23,
       "assunto": "Solicitação urgente – GPO para controle de versão do Edge"
     },
     {
@@ -4260,7 +4284,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-27T09:50:09",
       "modificado": "2026-04-08T05:00:13",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "Cliente Fadel - INCLUIR NO MONITORAMENTO"
     },
     {
@@ -7680,7 +7704,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-22T09:50:21",
       "modificado": "2026-01-30T05:00:33",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "Integração NF"
     },
     {
@@ -14736,7 +14760,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-24T09:50:18",
       "modificado": "2025-08-15T05:00:27",
-      "idade_dias": 286,
+      "idade_dias": 287,
       "assunto": "RES: Validação de Monitoramento Hosts Hyper-V + Saúde de Hardware via IPMI"
     },
     {
@@ -14904,7 +14928,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-11T09:50:16",
       "modificado": "2025-08-11T09:50:18",
-      "idade_dias": 268,
+      "idade_dias": 269,
       "assunto": "NF não encontrada no modulo Financeiro"
     },
     {
@@ -21696,7 +21720,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-14T09:50:19",
       "modificado": "2025-03-22T05:00:12",
-      "idade_dias": 418,
+      "idade_dias": 419,
       "assunto": "Criação monitoramento ZTNA CloudFlare"
     },
     {
@@ -22776,7 +22800,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-01-06T09:50:21",
       "modificado": "2025-02-23T05:00:12",
-      "idade_dias": 485,
+      "idade_dias": 486,
       "assunto": "Apoio Quantidade campos CEF"
     },
     {
@@ -23208,7 +23232,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-02-04T09:50:17",
       "modificado": "2025-02-12T05:00:14",
-      "idade_dias": 456,
+      "idade_dias": 457,
       "assunto": "Verificação monitoramentos"
     },
     {
