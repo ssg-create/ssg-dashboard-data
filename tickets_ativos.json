@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778197227,
-  "generated_at_iso": "2026-05-07T23:40:27Z",
+  "generated_at": 1778197821,
+  "generated_at_iso": "2026-05-07T23:50:21Z",
   "count": 2389,
   "filas": [
     "DATASUL",
@@ -16,14 +16,38 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000501",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T18:18:44",
+      "modificado": "2026-05-07T20:43:11",
+      "idade_dias": 2,
+      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
+    },
+    {
+      "ticket": "2026050726000551",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-07T16:42:18",
+      "modificado": "2026-05-07T20:42:21",
+      "idade_dias": 0,
+      "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
+    },
+    {
       "ticket": "2026050726000597",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-07T20:40:14",
-      "modificado": "2026-05-07T20:40:15",
+      "modificado": "2026-05-07T20:42:12",
       "idade_dias": 0,
       "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
     },
@@ -122,18 +146,6 @@
       "modificado": "2026-05-07T18:52:08",
       "idade_dias": 147,
       "assunto": "PRE DANFE"
-    },
-    {
-      "ticket": "2026050726000551",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-07T16:42:18",
-      "modificado": "2026-05-07T17:55:46",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
     },
     {
       "ticket": "2026050426000422",
@@ -734,18 +746,6 @@
       "modificado": "2026-05-07T12:19:55",
       "idade_dias": 2,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
-    },
-    {
-      "ticket": "2026050526000501",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T18:18:44",
-      "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 2,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
     },
     {
       "ticket": "2026050626000188",
@@ -19092,7 +19092,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-29T20:44:07",
       "modificado": "2025-05-13T05:00:22",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "AZ -  Erro na Baixa de Títulos no TOTVS – Cheque Vinculado"
     },
     {
@@ -24996,7 +24996,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-16T20:45:13",
       "modificado": "2024-12-25T12:00:05",
-      "idade_dias": 506,
+      "idade_dias": 507,
       "assunto": "RE: ARCO - Alertas CRITICAL - 24121620270256"
     },
     {
