@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778112635,
-  "generated_at_iso": "2026-05-07T00:10:35Z",
+  "generated_at": 1778113232,
+  "generated_at_iso": "2026-05-07T00:20:32Z",
   "count": 2586,
   "filas": [
     "DATASUL",
@@ -436,7 +436,7 @@
       "num": "2026050626000188",
       "assunto": "Novo espelhamento USGAAP - PD09",
       "criado": "2026-05-06T11:02:01",
-      "modificado": "2026-05-06T18:00:38",
+      "modificado": "2026-05-06T21:16:18",
       "fila": "SSG",
       "estado": "aguardando cliente",
       "prioridade": "5 very high",
@@ -6533,26 +6533,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-05T20:27:30",
-      "fila": "SSG",
-      "estado": "Em atendimento",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -6571,6 +6551,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-05T20:27:30",
+      "fila": "SSG",
+      "estado": "Em atendimento",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
