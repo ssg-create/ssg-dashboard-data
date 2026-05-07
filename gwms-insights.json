@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778152830,
-  "generated_at_iso": "2026-05-07T11:20:30Z",
+  "generated_at": 1778153441,
+  "generated_at_iso": "2026-05-07T11:30:41Z",
   "counts": {
     "crit": 2,
     "warn": 5,
@@ -49,16 +49,16 @@
       "id": "sobrecarga_Debora_Gomes",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Debora Gomes com carga real de 6 tickets",
-      "summary": "Debora Gomes tem 6 tickets ativos sob sua responsabilidade: 2 em atendimento + 4 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Debora Gomes com carga real de 7 tickets",
+      "summary": "Debora Gomes tem 7 tickets ativos sob sua responsabilidade: 2 em atendimento + 5 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Debora Gomes",
-          "carga_real": 6,
+          "carga_real": 7,
           "em_atendimento": 2,
-          "abertos": 4,
+          "abertos": 5,
           "aguardando_terceiros": 5,
-          "ativos_total": 11
+          "ativos_total": 12
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
