@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778154631,
-  "generated_at_iso": "2026-05-07T11:50:31Z",
-  "count": 182,
+  "generated_at": 1778155236,
+  "generated_at_iso": "2026-05-07T12:00:36Z",
+  "count": 180,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000302",
+      "cliente": "filipe.meier@totvs.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-06T15:15:21",
+      "modificado": "2026-05-07T08:54:26",
+      "idade_dias": 0,
+      "assunto": "Incluir UPTIME Switchs"
+    },
+    {
+      "ticket": "2026050726000097",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-07T08:50:23",
+      "modificado": "2026-05-07T08:52:08",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26050708480530"
+    },
     {
       "ticket": "2026050426000281",
       "cliente": "GDBR",
@@ -961,18 +985,6 @@
       "assunto": "Dashboard sem retornar dados ATITUS"
     },
     {
-      "ticket": "2026050626000366",
-      "cliente": "rodrigo.pinheiro@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-06T16:05:12",
-      "modificado": "2026-05-06T16:15:33",
-      "idade_dias": 0,
-      "assunto": "inclusão de Andreia no disparo do relatório mensal do BH- Integrada."
-    },
-    {
       "ticket": "2026050626000348",
       "cliente": "rodrigo.cuani@groundwork.com.br",
       "fila": "GWMS",
@@ -1019,18 +1031,6 @@
       "modificado": "2026-05-06T15:59:06",
       "idade_dias": 6,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
-    },
-    {
-      "ticket": "2026050626000302",
-      "cliente": "filipe.meier@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-06T15:15:21",
-      "modificado": "2026-05-06T15:43:15",
-      "idade_dias": 0,
-      "assunto": "Incluir UPTIME Switchs"
     },
     {
       "ticket": "2026042226000168",
@@ -1127,18 +1127,6 @@
       "modificado": "2026-05-06T13:50:57",
       "idade_dias": 1,
       "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
-    },
-    {
-      "ticket": "2026050626000197",
-      "cliente": "rodrigo.cuani@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-06T11:05:11",
-      "modificado": "2026-05-06T11:27:59",
-      "idade_dias": 0,
-      "assunto": "Apagar projeto - Apontamentos"
     },
     {
       "ticket": "2026050626000142",
@@ -1761,7 +1749,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-22T08:55:10",
       "modificado": "2026-04-29T20:46:20",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Projeto - Topologia automática"
     },
     {
@@ -1943,18 +1931,6 @@
       "modificado": "2026-04-24T10:53:35",
       "idade_dias": 139,
       "assunto": "Cadastro de Cliente - Não está salvando o arquivo no servidor do ERP"
-    },
-    {
-      "ticket": "2026042226000195",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-04-22T10:40:04",
-      "modificado": "2026-04-22T11:20:33",
-      "idade_dias": 14,
-      "assunto": "Revisão dashboards Admin OTRS"
     },
     {
       "ticket": "2025111126000042",
