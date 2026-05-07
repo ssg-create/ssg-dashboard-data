@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778156499,
-  "generated_at_iso": "2026-05-07T12:21:39Z",
+  "generated_at": 1778156985,
+  "generated_at_iso": "2026-05-07T12:29:45Z",
   "count": 2581,
   "filas": [
     "DATASUL",
@@ -6633,26 +6633,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-05T20:27:30",
-      "fila": "SSG",
-      "estado": "Em atendimento",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -6671,6 +6651,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-05T20:27:30",
+      "fila": "SSG",
+      "estado": "Em atendimento",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
@@ -11216,9 +11216,9 @@
       "num": "2026041326000443",
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio",
       "criado": "2026-04-13T16:30:24",
-      "modificado": "2026-05-07T08:25:14",
+      "modificado": "2026-05-07T09:23:53",
       "fila": "SSG",
-      "estado": "retorno cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Diego Cardoso",
       "primeiro_nome": "Diego",
@@ -11226,10 +11226,10 @@
       "cli_id": "nicole.g@grupometalnox.com.br",
       "cli_user": "nicole.g@grupometalnox.com.br",
       "servico": "Banco de Horas::ERP Protheus",
-      "fechado": "2026-05-06T20:26:52",
+      "fechado": "2026-05-07T09:23:53",
       "resp_min_raw": 1066,
-      "sol_min_raw": 33356,
-      "sol_min_bh": 9269,
+      "sol_min_raw": 34133,
+      "sol_min_bh": 9352,
       "resp_min_bh": 225
     },
     {
