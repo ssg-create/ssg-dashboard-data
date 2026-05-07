@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778151030,
-  "generated_at_iso": "2026-05-07T10:50:30Z",
+  "generated_at": 1778151635,
+  "generated_at_iso": "2026-05-07T11:00:35Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -13,6 +13,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026050726000042",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-07T03:35:16",
+      "modificado": "2026-05-07T07:55:18",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] Your storage space is running low"
+    },
+    {
       "ticket": "2026041326000443",
       "cliente": "nicole.g@grupometalnox.com.br",
       "fila": "SSG",
@@ -23,18 +35,6 @@
       "modificado": "2026-05-07T07:40:13",
       "idade_dias": 23,
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
-    },
-    {
-      "ticket": "2026050726000042",
-      "cliente": "cloud-admin@ess.cloud.elastic.co",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-07T03:35:16",
-      "modificado": "2026-05-07T05:21:16",
-      "idade_dias": 0,
-      "assunto": "[Elasticsearch Service] Your storage space is running low"
     },
     {
       "ticket": "2026050726000024",
