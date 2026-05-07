@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778153432,
-  "generated_at_iso": "2026-05-07T11:30:32Z",
-  "count": 181,
+  "generated_at": 1778154036,
+  "generated_at_iso": "2026-05-07T11:40:36Z",
+  "count": 182,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,42 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000295",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-06T14:38:18",
+      "modificado": "2026-05-07T08:40:16",
+      "idade_dias": 0,
+      "assunto": "Cadastro novo usuário Luiz Gustavo"
+    },
+    {
+      "ticket": "2026050526000457",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-05T17:36:29",
+      "modificado": "2026-05-07T08:39:11",
+      "idade_dias": 1,
+      "assunto": "CERTIFICADO - TAF"
+    },
+    {
+      "ticket": "2026050426000281",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-07T08:35:06",
+      "idade_dias": 2,
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
+    },
     {
       "ticket": "2026050726000088",
       "cliente": "ALMEIDA JR",
@@ -321,7 +357,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-04T08:40:17",
       "modificado": "2026-05-07T05:00:19",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Entendimento de alertas"
     },
     {
@@ -417,7 +453,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-02T08:35:38",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 34,
+      "idade_dias": 35,
       "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
@@ -769,18 +805,6 @@
       "assunto": "Civil BS - Tìtulo da Paytrack que não contabiliza com C Custo e Item Cont"
     },
     {
-      "ticket": "2026050626000295",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-06T14:38:18",
-      "modificado": "2026-05-06T17:25:17",
-      "idade_dias": 0,
-      "assunto": "Cadastro novo usuário Luiz Gustavo"
-    },
-    {
       "ticket": "2026050526000466",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -791,18 +815,6 @@
       "modificado": "2026-05-06T17:24:39",
       "idade_dias": 1,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
-    },
-    {
-      "ticket": "2026050526000457",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-05T17:36:29",
-      "modificado": "2026-05-06T17:24:16",
-      "idade_dias": 1,
-      "assunto": "CERTIFICADO - TAF"
     },
     {
       "ticket": "2026050526000411",
@@ -1977,7 +1989,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T08:31:48",
       "modificado": "2026-04-22T09:14:40",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "E-mails do portal não estão disparando"
     },
     {
