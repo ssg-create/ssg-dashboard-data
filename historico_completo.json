@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778160030,
-  "generated_at_iso": "2026-05-07T13:20:30Z",
-  "count": 5177,
+  "generated_at": 1778160637,
+  "generated_at_iso": "2026-05-07T13:30:37Z",
+  "count": 5178,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050726000177",
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26050710231126",
+      "criado": "2026-05-07T10:25:15",
+      "modificado": "2026-05-07T10:25:17",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050726000168",
       "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory",
@@ -959,9 +979,9 @@
       "num": "2026050526000457",
       "assunto": "CERTIFICADO - TAF",
       "criado": "2026-05-05T17:36:29",
-      "modificado": "2026-05-07T10:09:32",
+      "modificado": "2026-05-07T10:30:18",
       "fila": "SSG",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "5 very high",
       "atendente": "Robert Rodrigues dos Santos",
       "primeiro_nome": "Robert",
