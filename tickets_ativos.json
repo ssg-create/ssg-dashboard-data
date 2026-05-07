@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778112627,
-  "generated_at_iso": "2026-05-07T00:10:27Z",
+  "generated_at": 1778113226,
+  "generated_at_iso": "2026-05-07T00:20:26Z",
   "count": 178,
   "filas": [
     "DATASUL",
@@ -12,6 +12,18 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000188",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-06T11:02:01",
+      "modificado": "2026-05-06T21:16:18",
+      "idade_dias": 0,
+      "assunto": "Novo espelhamento USGAAP - PD09"
+    },
     {
       "ticket": "2026042826000237",
       "cliente": "GDBR",
@@ -155,18 +167,6 @@
       "modificado": "2026-05-06T18:05:25",
       "idade_dias": 13,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514"
-    },
-    {
-      "ticket": "2026050626000188",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-06T11:02:01",
-      "modificado": "2026-05-06T18:00:38",
-      "idade_dias": 0,
-      "assunto": "Novo espelhamento USGAAP - PD09"
     },
     {
       "ticket": "2026050526000215",
