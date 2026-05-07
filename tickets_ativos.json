@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778187020,
-  "generated_at_iso": "2026-05-07T20:50:20Z",
-  "count": 2394,
+  "generated_at": 1778187632,
+  "generated_at_iso": "2026-05-07T21:00:32Z",
+  "count": 2391,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,40 @@
   ],
   "rows": [
     {
-      "ticket": "2026050726000588",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-07T17:50:12",
-      "modificado": "2026-05-07T17:50:15",
+      "ticket": "2026050726000551",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-07T16:42:18",
+      "modificado": "2026-05-07T17:55:46",
       "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Daemon ces_x_gwms: check config hostgroups CL_ - 26050717472537"
+      "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
+    },
+    {
+      "ticket": "2026050426000422",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-04T18:40:14",
+      "modificado": "2026-05-07T17:54:18",
+      "idade_dias": 2,
+      "assunto": "Monitoramento de links SD-WAN no Sophos"
+    },
+    {
+      "ticket": "2026050626000508",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-06T18:02:47",
+      "modificado": "2026-05-07T17:51:13",
+      "idade_dias": 0,
+      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
     {
       "ticket": "2026042226000104",
@@ -38,42 +62,6 @@
       "modificado": "2026-05-07T17:40:06",
       "idade_dias": 15,
       "assunto": "Projeto - Topologia automática"
-    },
-    {
-      "ticket": "2026050726000579",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T17:10:07",
-      "modificado": "2026-05-07T17:19:26",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Perfdata Size - 26050717050890"
-    },
-    {
-      "ticket": "2026050726000561",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T17:00:06",
-      "modificado": "2026-05-07T17:18:45",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_InfluxDB-Server - Influxdb Check Writes - 26050716584062"
-    },
-    {
-      "ticket": "2026050726000551",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-07T16:42:18",
-      "modificado": "2026-05-07T17:17:34",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
     },
     {
       "ticket": "2026050726000542",
@@ -348,7 +336,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-27T17:59:57",
       "modificado": "2026-05-07T13:11:06",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
@@ -576,7 +564,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 75,
+      "idade_dias": 76,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
@@ -1144,18 +1132,6 @@
       "assunto": "#TOTVS-NETWORK - SP_TOTVS-SP3-IPN-1 - Interface:Eth1-52 - 26050509544782"
     },
     {
-      "ticket": "2026050626000508",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-06T18:02:47",
-      "modificado": "2026-05-07T09:04:59",
-      "idade_dias": 0,
-      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
-    },
-    {
       "ticket": "2026050726000061",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -1312,18 +1288,6 @@
       "assunto": "Unimed Curitiba - CS0016635"
     },
     {
-      "ticket": "2026050426000422",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-04T18:40:14",
-      "modificado": "2026-05-07T05:00:20",
-      "idade_dias": 2,
-      "assunto": "Monitoramento de links SD-WAN no Sophos"
-    },
-    {
       "ticket": "2026050426000057",
       "cliente": "AUTOZONE",
       "fila": "NOC",
@@ -1416,7 +1380,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-28T18:00:24",
       "modificado": "2026-05-07T05:00:19",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
     },
     {
@@ -1464,7 +1428,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
@@ -1476,7 +1440,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-28T18:00:25",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
@@ -1716,7 +1680,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-30T17:50:21",
       "modificado": "2026-05-06T15:59:06",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
     },
     {
@@ -3696,7 +3660,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-08T17:55:08",
       "modificado": "2026-04-17T05:00:14",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "ENC: #TOTVS-SERVERS - CHECK_EMAIL - Google Workspace Alert - Smart host failure - 26040813082858"
     },
     {
@@ -4056,7 +4020,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-02T17:54:50",
       "modificado": "2026-04-10T05:00:18",
-      "idade_dias": 34,
+      "idade_dias": 35,
       "assunto": "LIEBRAÇÃO/CADASTRO NO PROTHEUS"
     },
     {
@@ -4872,7 +4836,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-13T17:54:26",
       "modificado": "2026-03-24T05:00:23",
-      "idade_dias": 54,
+      "idade_dias": 55,
       "assunto": "Rotina de refaz saldos de PD6 em USGAAP"
     },
     {
@@ -5592,7 +5556,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-05T17:59:22",
       "modificado": "2026-03-17T05:00:20",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "Contabilização Offiline"
     },
     {
@@ -5748,7 +5712,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2026-01-19T17:59:18",
       "modificado": "2026-03-13T05:00:23",
-      "idade_dias": 107,
+      "idade_dias": 108,
       "assunto": "Gráfico Home - Valor faturado está zerado"
     },
     {
@@ -5772,7 +5736,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2025-12-17T17:56:03",
       "modificado": "2026-03-13T05:00:14",
-      "idade_dias": 140,
+      "idade_dias": 141,
       "assunto": "Incluir Código do Vendedor e Nome do Vendedor na consulta de Pedidos"
     },
     {
@@ -7464,7 +7428,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-05T17:54:52",
       "modificado": "2026-02-05T05:00:18",
-      "idade_dias": 121,
+      "idade_dias": 122,
       "assunto": "AZ | Contabilização das Compras - LP 650 Seq. 001, 002, 012 e 020"
     },
     {
@@ -8376,7 +8340,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-05T17:50:33",
       "modificado": "2026-01-16T05:00:16",
-      "idade_dias": 121,
+      "idade_dias": 122,
       "assunto": "Acesso consultor 18 ao servidor Pfin"
     },
     {
@@ -8676,7 +8640,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-07T18:00:11",
       "modificado": "2026-01-07T18:00:14",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "Erro Abertura PO - Jessica Souza"
     },
     {
@@ -8688,7 +8652,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-29T17:51:33",
       "modificado": "2026-01-07T05:00:30",
-      "idade_dias": 128,
+      "idade_dias": 129,
       "assunto": "Acesso ao sistema Compras"
     },
     {
@@ -9036,7 +9000,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-17T18:00:16",
       "modificado": "2025-12-27T05:00:23",
-      "idade_dias": 140,
+      "idade_dias": 141,
       "assunto": "Acesso OTRS Consultor Fabio Lentini"
     },
     {
@@ -11220,7 +11184,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-26T17:55:12",
       "modificado": "2025-10-21T05:00:28",
-      "idade_dias": 222,
+      "idade_dias": 223,
       "assunto": "AZ - CUSTOS - GTGEN047 TaxId"
     },
     {
@@ -12408,7 +12372,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-17T18:00:14",
       "modificado": "2025-09-26T05:00:22",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "RE: Select_17.09 - Contas 40100"
     },
     {
@@ -12936,7 +12900,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-08-08T17:55:41",
       "modificado": "2025-09-19T05:00:22",
-      "idade_dias": 271,
+      "idade_dias": 272,
       "assunto": "Ativo Imobilizado com crédito CIAP"
     },
     {
@@ -14028,7 +13992,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-11T17:55:07",
       "modificado": "2025-08-27T18:24:06",
-      "idade_dias": 268,
+      "idade_dias": 269,
       "assunto": "COPEL | Verificação de alarme"
     },
     {
@@ -15216,7 +15180,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-27T18:00:12",
       "modificado": "2025-08-05T05:00:29",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Discos I e P - Servidor SRV-SQL-PRD - 10.228.128.68 - AUTOZONE"
     },
     {
@@ -17388,7 +17352,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-29T18:00:14",
       "modificado": "2025-06-14T05:00:14",
-      "idade_dias": 342,
+      "idade_dias": 343,
       "assunto": "AZ - Erro de Notas de Entradas - Cancelamentos"
     },
     {
@@ -18120,7 +18084,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-19T18:00:11",
       "modificado": "2025-05-28T05:00:31",
-      "idade_dias": 352,
+      "idade_dias": 353,
       "assunto": "Adicionar Host na Monitoria"
     },
     {
@@ -19236,7 +19200,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-03-06T18:00:10",
       "modificado": "2025-05-12T05:00:17",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "AZ - Exception ao processar o SINC"
     },
     {
@@ -19536,7 +19500,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-17T17:53:49",
       "modificado": "2025-05-06T05:00:20",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "Erro no Item Conta"
     },
     {
@@ -20244,7 +20208,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-14T17:55:09",
       "modificado": "2025-04-23T05:00:23",
-      "idade_dias": 387,
+      "idade_dias": 388,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -21732,7 +21696,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-12T17:56:47",
       "modificado": "2025-03-21T05:00:07",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "CAMPO OBSERVAÇÕES"
     },
     {
@@ -22212,7 +22176,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-21T17:55:12",
       "modificado": "2025-03-11T05:00:08",
-      "idade_dias": 439,
+      "idade_dias": 440,
       "assunto": "BBP - Solicitação de Análise GW – XMLs Não Recebidos no FTP"
     },
     {
@@ -22992,7 +22956,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2025-01-28T17:55:16",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 463,
+      "idade_dias": 464,
       "assunto": "RE: #TOTVS-NETWORK - SP_BRSPDCSWCORE2-SALAWAN - Interface:Gi2-0-6 - ALGAR 2 - 25012817324461"
     },
     {
@@ -23196,7 +23160,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-02-03T17:50:21",
       "modificado": "2025-02-12T05:00:13",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "Monitoramento Identity"
     },
     {
@@ -23400,7 +23364,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-21T18:00:25",
       "modificado": "2025-02-10T05:00:07",
-      "idade_dias": 470,
+      "idade_dias": 471,
       "assunto": "RE: #TOTVS-SERVERS - SP_SEG-NETSKOPE - HOST DOWN - 25012115011683"
     },
     {
@@ -24792,7 +24756,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-11T17:56:36",
       "modificado": "2025-01-02T10:00:11",
-      "idade_dias": 511,
+      "idade_dias": 512,
       "assunto": "NF CANCELADA COM STATUS AUTORIZADA"
     },
     {
@@ -25344,7 +25308,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-11T17:58:53",
       "modificado": "2024-12-19T10:30:17",
-      "idade_dias": 511,
+      "idade_dias": 512,
       "assunto": "notas de terceiro como emissão propria"
     },
     {
@@ -25620,7 +25584,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-27T18:00:12",
       "modificado": "2024-12-10T09:30:07",
-      "idade_dias": 525,
+      "idade_dias": 526,
       "assunto": "AZ - Arquivo PO X SAP não integrando - P03 - FY2025P03"
     },
     {
@@ -26700,7 +26664,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-10-23T18:00:05",
       "modificado": "2024-11-11T11:30:03",
-      "idade_dias": 560,
+      "idade_dias": 561,
       "assunto": "Atualiação Dash"
     },
     {
@@ -27876,7 +27840,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-25T17:53:34",
       "modificado": "2024-10-03T11:30:03",
-      "idade_dias": 588,
+      "idade_dias": 589,
       "assunto": "DEPRECIAÇÃO"
     },
     {
