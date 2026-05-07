@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778152231,
-  "generated_at_iso": "2026-05-07T11:10:31Z",
-  "count": 2585,
+  "generated_at": 1778152826,
+  "generated_at_iso": "2026-05-07T11:20:26Z",
+  "count": 2586,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,26 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "num": "2026050726000088",
+      "assunto": "EXCLUSÃO DE TITULO A PAGAR",
+      "criado": "2026-05-07T08:13:00",
+      "modificado": "2026-05-07T08:14:44",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "2 low",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "primeiro_nome": "AlmeidaJR",
+      "ultimo_nome": "Integração Movidesk",
+      "cli_id": "ALMEIDA JR",
+      "cli_user": "integracao.almeidajunior",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050726000079",
       "assunto": "AD Redefinir senha da conta rodrigo.nascimento",
@@ -4636,9 +4656,9 @@
       "num": "2026042726000382",
       "assunto": "Alteração Dashboard Logmein",
       "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-06T18:10:38",
+      "modificado": "2026-05-07T08:16:21",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
@@ -6693,26 +6713,6 @@
       "resp_min_bh": 12
     },
     {
-      "num": "2026042326000022",
-      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
-      "criado": "2026-04-23T00:15:09",
-      "modificado": "2026-05-05T20:27:30",
-      "fila": "SSG",
-      "estado": "Em atendimento",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "primeiro_nome": "Diego",
-      "ultimo_nome": "Cardoso",
-      "cli_id": "GDBR",
-      "cli_user": "erwins.almeida@gdbr-tg.com.br",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
-      "resp_min_raw": 516,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": 51
-    },
-    {
       "num": "2026042326000013",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26042300134514",
       "criado": "2026-04-23T00:15:09",
@@ -6731,6 +6731,26 @@
       "sol_min_raw": null,
       "sol_min_bh": null,
       "resp_min_bh": 105
+    },
+    {
+      "num": "2026042326000022",
+      "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR",
+      "criado": "2026-04-23T00:15:09",
+      "modificado": "2026-05-05T20:27:30",
+      "fila": "SSG",
+      "estado": "Em atendimento",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "primeiro_nome": "Diego",
+      "ultimo_nome": "Cardoso",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 516,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 51
     },
     {
       "num": "2026042226000631",
