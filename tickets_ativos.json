@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778152822,
-  "generated_at_iso": "2026-05-07T11:20:22Z",
-  "count": 184,
+  "generated_at": 1778153432,
+  "generated_at_iso": "2026-05-07T11:30:32Z",
+  "count": 181,
   "filas": [
     "DATASUL",
     "DBA",
@@ -13,6 +13,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050726000088",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-07T08:13:00",
+      "modificado": "2026-05-07T08:30:01",
+      "idade_dias": 0,
+      "assunto": "EXCLUSÃO DE TITULO A PAGAR"
+    },
+    {
+      "ticket": "2026041326000443",
+      "cliente": "nicole.g@grupometalnox.com.br",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-13T16:30:24",
+      "modificado": "2026-05-07T08:25:14",
+      "idade_dias": 23,
+      "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
+    },
+    {
       "ticket": "2026042726000382",
       "cliente": "rafael.tavares@totvs.com.br",
       "fila": "GWMS",
@@ -23,18 +47,6 @@
       "modificado": "2026-05-07T08:16:21",
       "idade_dias": 9,
       "assunto": "Alteração Dashboard Logmein"
-    },
-    {
-      "ticket": "2026050726000088",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "2 low",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-07T08:13:00",
-      "modificado": "2026-05-07T08:14:44",
-      "idade_dias": 0,
-      "assunto": "EXCLUSÃO DE TITULO A PAGAR"
     },
     {
       "ticket": "2026050626000535",
@@ -133,30 +145,6 @@
       "assunto": "[Elasticsearch Service] Your storage space is running low"
     },
     {
-      "ticket": "2026041326000443",
-      "cliente": "nicole.g@grupometalnox.com.br",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-13T16:30:24",
-      "modificado": "2026-05-07T07:40:13",
-      "idade_dias": 23,
-      "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
-    },
-    {
-      "ticket": "2026050426000182",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T11:00:18",
-      "modificado": "2026-05-07T05:00:21",
-      "idade_dias": 2,
-      "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
-    },
-    {
       "ticket": "2026050426000271",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -179,18 +167,6 @@
       "modificado": "2026-05-07T05:00:20",
       "idade_dias": 2,
       "assunto": "Monitoramento de links SD-WAN no Sophos"
-    },
-    {
-      "ticket": "2026050526000091",
-      "cliente": "ivan.claudio@totvs.com.br",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-05T08:30:19",
-      "modificado": "2026-05-07T05:00:20",
-      "idade_dias": 1,
-      "assunto": "Fwd: #TOTVS-SERVERS - SGTC_X_JAMF - SGTC X JAMF - Total Mac Computers - 26050309322921"
     },
     {
       "ticket": "2026050526000135",
@@ -275,18 +251,6 @@
       "modificado": "2026-05-07T05:00:19",
       "idade_dias": 7,
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
-    },
-    {
-      "ticket": "2026042926000342",
-      "cliente": "servicedesk@teletex.com",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-29T16:50:18",
-      "modificado": "2026-05-07T05:00:19",
-      "idade_dias": 7,
-      "assunto": "Unimed Curitiva - Adicionar monitoramento"
     },
     {
       "ticket": "2026042426000342",
@@ -1341,7 +1305,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-30T08:30:27",
       "modificado": "2026-05-06T08:17:27",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
