@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778154036,
-  "generated_at_iso": "2026-05-07T11:40:36Z",
+  "generated_at": 1778154631,
+  "generated_at_iso": "2026-05-07T11:50:31Z",
   "count": 182,
   "filas": [
     "DATASUL",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000281",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-07T08:50:26",
+      "idade_dias": 2,
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
+    },
+    {
+      "ticket": "2026050526000181",
+      "cliente": "ayko.ubirajara@braveo.com.br",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-05T10:15:12",
+      "modificado": "2026-05-07T08:46:42",
+      "idade_dias": 1,
+      "assunto": "Incluir Firewalls Monitoramento"
+    },
     {
       "ticket": "2026050626000295",
       "cliente": "ALMEIDA JR",
@@ -35,18 +59,6 @@
       "modificado": "2026-05-07T08:39:11",
       "idade_dias": 1,
       "assunto": "CERTIFICADO - TAF"
-    },
-    {
-      "ticket": "2026050426000281",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-04T14:08:45",
-      "modificado": "2026-05-07T08:35:06",
-      "idade_dias": 2,
-      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
     },
     {
       "ticket": "2026050726000088",
@@ -537,7 +549,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-04-22T08:41:58",
       "modificado": "2026-05-07T05:00:18",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "RES:"
     },
     {
@@ -599,18 +611,6 @@
       "modificado": "2026-05-06T19:27:06",
       "idade_dias": 1,
       "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
-    },
-    {
-      "ticket": "2026050526000181",
-      "cliente": "ayko.ubirajara@braveo.com.br",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-05T10:15:12",
-      "modificado": "2026-05-06T19:10:13",
-      "idade_dias": 1,
-      "assunto": "Incluir Firewalls Monitoramento"
     },
     {
       "ticket": "2026050426000191",
@@ -1161,7 +1161,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-17T08:45:09",
       "modificado": "2026-05-06T11:16:53",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Implantação GWMS cliente Digna"
     },
     {
