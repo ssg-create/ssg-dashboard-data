@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778157030,
-  "generated_at_iso": "2026-05-07T12:30:30Z",
-  "count": 172,
+  "generated_at": 1778157629,
+  "generated_at_iso": "2026-05-07T12:40:29Z",
+  "count": 171,
   "filas": [
     "DATASUL",
     "DBA",
@@ -12,6 +12,30 @@
     "SSG-MELHORIAS"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000242",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T12:20:08",
+      "modificado": "2026-05-07T09:40:15",
+      "idade_dias": 1,
+      "assunto": "Falha na importação de Pedidos de Vendas"
+    },
+    {
+      "ticket": "2025121126000371",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2025-12-11T15:00:57",
+      "modificado": "2026-05-07T09:34:20",
+      "idade_dias": 146,
+      "assunto": "PRE DANFE"
+    },
     {
       "ticket": "2026050526000457",
       "cliente": "AUTOZONE",
@@ -589,18 +613,6 @@
       "assunto": "RES:"
     },
     {
-      "ticket": "2026050526000242",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T12:20:08",
-      "modificado": "2026-05-06T23:05:08",
-      "idade_dias": 1,
-      "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
       "ticket": "2026050626000188",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -973,18 +985,6 @@
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
-      "ticket": "2026042726000444",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:45:18",
-      "modificado": "2026-05-06T14:35:41",
-      "idade_dias": 9,
-      "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
-    },
-    {
       "ticket": "2026042226000613",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1041,7 +1041,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-06T09:40:18",
       "modificado": "2026-05-06T11:19:04",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
     },
     {
@@ -1149,7 +1149,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-05-06T09:34:42",
       "modificado": "2026-05-06T09:38:27",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Solicitações de Trade Marketing - Verificar se a alteração de Status dispara e-mails avisando os envolvidos"
     },
     {
@@ -1257,7 +1257,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-04-15T09:31:44",
       "modificado": "2026-05-06T06:14:21",
-      "idade_dias": 21,
+      "idade_dias": 22,
       "assunto": "Rollback exclusão de NF"
     },
     {
@@ -1379,18 +1379,6 @@
       "modificado": "2026-05-05T10:17:48",
       "idade_dias": 28,
       "assunto": "Relatorio de Ativo Customizado"
-    },
-    {
-      "ticket": "2025121126000371",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "GMUD",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2025-12-11T15:00:57",
-      "modificado": "2026-05-05T09:46:10",
-      "idade_dias": 146,
-      "assunto": "PRE DANFE"
     },
     {
       "ticket": "2026050526000108",
@@ -1617,7 +1605,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-30T09:40:09",
       "modificado": "2026-04-30T09:59:57",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "TKT-555192-2026 - Seu novo chamado foi aberto. Neogrid0880268819"
     },
     {
@@ -1965,7 +1953,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-02-09T09:39:02",
       "modificado": "2026-04-20T11:18:25",
-      "idade_dias": 86,
+      "idade_dias": 87,
       "assunto": "URGENTEEEE- Centro de custos x ativos e passivos"
     },
     {
