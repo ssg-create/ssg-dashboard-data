@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778273428,
-  "generated_at_iso": "2026-05-08T20:50:28Z",
-  "count": 5167,
+  "generated_at": 1778274037,
+  "generated_at_iso": "2026-05-08T21:00:37Z",
+  "count": 5166,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,26 +15,6 @@
     "TECNOLOGIA"
   ],
   "rows": [
-    {
-      "num": "2026050826000282",
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050817382791",
-      "criado": "2026-05-08T17:40:14",
-      "modificado": "2026-05-08T17:43:47",
-      "fila": "GWMS",
-      "estado": "open",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "primeiro_nome": "Marcio",
-      "ultimo_nome": "Guimaraes",
-      "cli_id": "TOTVS",
-      "cli_user": "monitoramento@groundwork.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
-    },
     {
       "num": "2026050826000273",
       "assunto": "Remover TAG desligamento Servidor SQL HML - AUTOZONE - 10.228.128.39",
@@ -3879,9 +3859,9 @@
       "num": "2026042926000128",
       "assunto": "Movimentações Itaú 03/2026.",
       "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-08T09:27:06",
+      "modificado": "2026-05-08T17:52:08",
       "fila": "SSG",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Tiago Silva",
       "primeiro_nome": "Tiago",
@@ -3889,10 +3869,10 @@
       "cli_id": "FINPEC",
       "cli_user": "filipe.souza@finpec.com",
       "servico": "Serviço de Sustentação Groundwork",
-      "fechado": null,
+      "fechado": "2026-05-08T17:52:08",
       "resp_min_raw": 6,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 13442,
+      "sol_min_bh": 4201,
       "resp_min_bh": 6
     },
     {
