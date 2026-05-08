@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778247032,
-  "generated_at_iso": "2026-05-08T13:30:32Z",
+  "generated_at": 1778247625,
+  "generated_at_iso": "2026-05-08T13:40:25Z",
   "count": 2395,
   "filas": [
     "DATASUL",
@@ -15,6 +15,54 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000597",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-07T20:40:14",
+      "modificado": "2026-05-08T10:39:42",
+      "idade_dias": 0,
+      "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
+    },
+    {
+      "ticket": "2026050826000111",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-08T09:45:13",
+      "modificado": "2026-05-08T10:34:46",
+      "idade_dias": 0,
+      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
+    },
+    {
+      "ticket": "2026050826000077",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-08T09:05:08",
+      "modificado": "2026-05-08T10:34:30",
+      "idade_dias": 0,
+      "assunto": "Calibragem de monitoramento"
+    },
+    {
+      "ticket": "2026050826000121",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-08T09:47:32",
+      "modificado": "2026-05-08T10:33:46",
+      "idade_dias": 0,
+      "assunto": "Desativação de alertas severidade UNKNOWN"
+    },
     {
       "ticket": "2026050526000377",
       "cliente": "TELETEX",
@@ -40,18 +88,6 @@
       "assunto": "EXCLUSÃO DE TITULO A PAGAR"
     },
     {
-      "ticket": "2026050726000597",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "RESOLVIDO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-07T20:40:14",
-      "modificado": "2026-05-08T10:19:33",
-      "idade_dias": 0,
-      "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
-    },
-    {
       "ticket": "2026050826000139",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -74,30 +110,6 @@
       "modificado": "2026-05-08T10:10:19",
       "idade_dias": 0,
       "assunto": "Desativação de Monitoramento VM SPOSRVPSADBPRD1"
-    },
-    {
-      "ticket": "2026050826000121",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-08T09:47:32",
-      "modificado": "2026-05-08T10:05:14",
-      "idade_dias": 0,
-      "assunto": "Desativação de alertas severidade UNKNOWN"
-    },
-    {
-      "ticket": "2026050826000111",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-08T09:45:13",
-      "modificado": "2026-05-08T10:04:34",
-      "idade_dias": 0,
-      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
     },
     {
       "ticket": "2026050826000086",
@@ -146,18 +158,6 @@
       "modificado": "2026-05-08T09:36:48",
       "idade_dias": 2,
       "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT"
-    },
-    {
-      "ticket": "2026050826000077",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-08T09:05:08",
-      "modificado": "2026-05-08T09:30:57",
-      "idade_dias": 0,
-      "assunto": "Calibragem de monitoramento"
     },
     {
       "ticket": "2026042926000128",
@@ -1620,7 +1620,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-04-22T10:40:04",
       "modificado": "2026-05-07T08:50:40",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Revisão dashboards Admin OTRS"
     },
     {
@@ -2580,7 +2580,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-07-30T10:35:20",
       "modificado": "2026-05-04T09:00:18",
-      "idade_dias": 281,
+      "idade_dias": 282,
       "assunto": "Organizar cód Fontes"
     },
     {
@@ -2952,7 +2952,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-04-17T10:35:07",
       "modificado": "2026-04-28T05:00:22",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Compartilhamento documentos One Drive"
     },
     {
@@ -2976,7 +2976,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-08T10:40:08",
       "modificado": "2026-04-28T05:00:18",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Zeramento 12/2025."
     },
     {
@@ -3420,7 +3420,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-02-24T10:35:15",
       "modificado": "2026-04-21T12:00:04",
-      "idade_dias": 72,
+      "idade_dias": 73,
       "assunto": "Apoio Implantação: Conciliação Bancária Automática (Bradesco) - Protheus"
     },
     {
@@ -4584,7 +4584,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-19T10:40:09",
       "modificado": "2026-03-31T05:00:30",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Revisão e recalibração do monitoramento – Ambiente Buntech (GWMS)"
     },
     {
@@ -4836,7 +4836,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-12T10:40:14",
       "modificado": "2026-03-25T05:00:22",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "ARCO - AP_08ANDAR-AP1 - HOST DOWN - 26031210260749"
     },
     {
@@ -6336,7 +6336,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-20T10:35:19",
       "modificado": "2026-03-03T05:00:19",
-      "idade_dias": 76,
+      "idade_dias": 77,
       "assunto": "Filiais Monte Aprazível/SP e Tietê/SP."
     },
     {
@@ -7740,7 +7740,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-21T10:30:54",
       "modificado": "2026-01-29T05:00:33",
-      "idade_dias": 106,
+      "idade_dias": 107,
       "assunto": "ACESSO AO GRUPO 40"
     },
     {
@@ -7968,7 +7968,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T10:31:31",
       "modificado": "2026-01-28T05:00:31",
-      "idade_dias": 113,
+      "idade_dias": 114,
       "assunto": "Configurar transmissão de notas de faturamento de aluguel nas 6 empresas do grupo 30"
     },
     {
@@ -8508,7 +8508,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-05T10:37:25",
       "modificado": "2026-01-13T05:00:43",
-      "idade_dias": 122,
+      "idade_dias": 123,
       "assunto": "Férias - Substituição de Aprovador"
     },
     {
@@ -8580,7 +8580,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-12-12T10:30:47",
       "modificado": "2026-01-13T05:00:35",
-      "idade_dias": 146,
+      "idade_dias": 147,
       "assunto": "Alerta de Trafego de Rede"
     },
     {
@@ -9780,7 +9780,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-28T10:40:13",
       "modificado": "2025-12-09T05:00:27",
-      "idade_dias": 160,
+      "idade_dias": 161,
       "assunto": "[TOTVS] - Alteração Monitoramento - Maringá"
     },
     {
@@ -10440,7 +10440,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-11-16T10:40:10",
       "modificado": "2025-11-16T14:00:49",
-      "idade_dias": 172,
+      "idade_dias": 173,
       "assunto": "ARCO - PSD_CWB023CTX506 - HOST DOWN - 25111610341874"
     },
     {
@@ -11292,7 +11292,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-09T10:32:48",
       "modificado": "2025-10-18T05:00:19",
-      "idade_dias": 210,
+      "idade_dias": 211,
       "assunto": "ERRO ACORDO - GP 30 / FILIAL 302001"
     },
     {
@@ -11784,7 +11784,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-01T10:30:49",
       "modificado": "2025-10-09T05:00:27",
-      "idade_dias": 218,
+      "idade_dias": 219,
       "assunto": "NK_SOLICITAÇÃO DE ACESSO"
     },
     {
@@ -12336,7 +12336,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-16T10:40:12",
       "modificado": "2025-09-29T05:00:05",
-      "idade_dias": 233,
+      "idade_dias": 234,
       "assunto": "1142973 - Sistema Protheus"
     },
     {
@@ -13380,7 +13380,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-04T10:32:51",
       "modificado": "2025-09-12T05:00:33",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Protheus com erro"
     },
     {
@@ -14004,7 +14004,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-12T10:34:31",
       "modificado": "2025-08-28T05:00:15",
-      "idade_dias": 268,
+      "idade_dias": 269,
       "assunto": "Vencimento de Condição"
     },
     {
@@ -14748,7 +14748,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-08-06T10:33:15",
       "modificado": "2025-08-14T05:00:28",
-      "idade_dias": 274,
+      "idade_dias": 275,
       "assunto": "Certificado SSL - proxy"
     },
     {
@@ -14760,7 +14760,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-08-01T10:35:18",
       "modificado": "2025-08-14T05:00:26",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "RES: Revisão monitoramento URL(s)"
     },
     {
@@ -14976,7 +14976,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-07-23T10:31:48",
       "modificado": "2025-08-09T05:00:14",
-      "idade_dias": 288,
+      "idade_dias": 289,
       "assunto": "Extrato Bancário"
     },
     {
@@ -15000,7 +15000,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-07-31T10:40:12",
       "modificado": "2025-08-08T05:00:19",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "Integração de Contatos - Monitor"
     },
     {
@@ -15504,7 +15504,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-06-24T10:33:36",
       "modificado": "2025-07-25T05:00:09",
-      "idade_dias": 317,
+      "idade_dias": 318,
       "assunto": "BERNECK - CURITIBANOS | Incluir switches no monitoramento"
     },
     {
@@ -16512,7 +16512,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-06-10T10:35:05",
       "modificado": "2025-07-03T05:00:10",
-      "idade_dias": 331,
+      "idade_dias": 332,
       "assunto": "Certificado SSL Godaddy - CNN"
     },
     {
@@ -17484,7 +17484,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-29T10:31:01",
       "modificado": "2025-06-12T05:00:14",
-      "idade_dias": 343,
+      "idade_dias": 344,
       "assunto": "ZURICH | configuração do monitoramento das instâncias do MSSQL do cliente Zurich."
     },
     {
@@ -17580,7 +17580,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-02T10:35:08",
       "modificado": "2025-06-10T05:00:27",
-      "idade_dias": 339,
+      "idade_dias": 340,
       "assunto": "Incluir VPNs no monitoramento FOR e SP"
     },
     {
@@ -17700,7 +17700,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-05-28T10:40:08",
       "modificado": "2025-06-06T05:00:29",
-      "idade_dias": 344,
+      "idade_dias": 345,
       "assunto": "Criação de usuário"
     },
     {
@@ -18312,7 +18312,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-15T10:36:47",
       "modificado": "2025-05-27T05:00:24",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "fluxo de aprovação no protheus"
     },
     {
@@ -19632,7 +19632,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T10:40:22",
       "modificado": "2025-05-03T05:00:25",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "Customização diário auditoria - Tempo para gerar"
     },
     {
@@ -20052,7 +20052,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-04-25T10:40:07",
       "modificado": "2025-04-25T10:40:09",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "Fluig (Código de Barras x Valor Total)"
     },
     {
@@ -20268,7 +20268,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-15T10:40:09",
       "modificado": "2025-04-23T05:00:23",
-      "idade_dias": 387,
+      "idade_dias": 388,
       "assunto": "AZSQL:master:opstatus - AZURE_renovebr2.database.windows.net"
     },
     {
@@ -20364,7 +20364,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-14T10:39:04",
       "modificado": "2025-04-22T05:00:25",
-      "idade_dias": 388,
+      "idade_dias": 389,
       "assunto": "CASTROLANDA | Implementar monitoramento em forma de cascata"
     },
     {
@@ -23460,7 +23460,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-01-30T10:40:04",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Remover banco de dados DW do monitoramento do GWMS da Autozone"
     },
     {
@@ -23952,7 +23952,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-01-14T10:40:07",
       "modificado": "2025-01-21T12:00:06",
-      "idade_dias": 478,
+      "idade_dias": 479,
       "assunto": "Monitoramento Jira Produção - Licenças"
     },
     {
@@ -24648,7 +24648,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-12-24T10:32:17",
       "modificado": "2025-01-06T09:00:04",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "Compensação de títulos - baixa de PA - Condomínio Nações"
     },
     {
@@ -24972,7 +24972,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-19T10:40:21",
       "modificado": "2024-12-26T16:00:05",
-      "idade_dias": 504,
+      "idade_dias": 505,
       "assunto": "Mudança de IPs - Ponto de WIFI - APs ARCO CURITIBA"
     },
     {
@@ -25620,7 +25620,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-03T10:40:04",
       "modificado": "2024-12-10T15:30:05",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "RES: BRAVEO - FW_PULMER - Interface:em0 - Banda Larga - Ifnet - 24120223335710"
     },
     {
@@ -25740,7 +25740,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-11-25T10:40:13",
       "modificado": "2024-12-09T09:30:09",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "Re: #TOTVS-SERVERS - Alertas UNKNOWN - 24112508565823"
     },
     {
@@ -26820,7 +26820,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-10-28T10:40:21",
       "modificado": "2024-11-04T13:30:04",
-      "idade_dias": 556,
+      "idade_dias": 557,
       "assunto": "Magento PSD / Monitoramento Integracoes Contratos"
     },
     {
@@ -27144,7 +27144,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-14T10:35:18",
       "modificado": "2024-10-24T14:00:09",
-      "idade_dias": 570,
+      "idade_dias": 571,
       "assunto": "Re: BBP | TaxID AZ - Solicitação de Alteração de NCM para Análise de Sincronização"
     },
     {
@@ -27528,7 +27528,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-02T10:35:40",
       "modificado": "2024-10-17T22:00:02",
-      "idade_dias": 582,
+      "idade_dias": 583,
       "assunto": "Documentos TAX-ID"
     },
     {
@@ -27564,7 +27564,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-10T10:40:15",
       "modificado": "2024-10-17T15:00:02",
-      "idade_dias": 574,
+      "idade_dias": 575,
       "assunto": "ARCO - ARCO_APP_ARCO_ATENDE - Disk:/opt/znuny/var/article - 24101010294012"
     },
     {
@@ -27744,7 +27744,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-21T10:35:14",
       "modificado": "2024-10-09T19:30:03",
-      "idade_dias": 624,
+      "idade_dias": 625,
       "assunto": "RES: RES: RES: RES: RES: Solicitação Recebida"
     },
     {
@@ -28272,7 +28272,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-16T10:40:23",
       "modificado": "2024-09-25T12:00:09",
-      "idade_dias": 598,
+      "idade_dias": 599,
       "assunto": "Liberar Periodo - Mês 06-2024"
     },
     {
@@ -28380,7 +28380,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-08-29T10:37:54",
       "modificado": "2024-09-23T11:00:02",
-      "idade_dias": 616,
+      "idade_dias": 617,
       "assunto": "Inclusão XMLs emitidos fora do Protheus"
     },
     {
