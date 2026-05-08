@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778266230,
-  "generated_at_iso": "2026-05-08T18:50:30Z",
-  "count": 2396,
+  "generated_at": 1778266825,
+  "generated_at_iso": "2026-05-08T19:00:25Z",
+  "count": 2397,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,54 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000142",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-08T15:59:09",
+      "idade_dias": 2,
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
+    },
+    {
+      "ticket": "2026050826000264",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-08T15:55:22",
+      "modificado": "2026-05-08T15:58:51",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050815511820"
+    },
+    {
+      "ticket": "2026050826000255",
+      "cliente": "SERVENG",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-08T15:35:19",
+      "modificado": "2026-05-08T15:57:58",
+      "idade_dias": 0,
+      "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
+    },
+    {
+      "ticket": "2026050826000077",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-08T09:05:08",
+      "modificado": "2026-05-08T15:57:20",
+      "idade_dias": 0,
+      "assunto": "Calibragem de monitoramento"
+    },
     {
       "ticket": "2026042826000219",
       "cliente": "GroundWork",
@@ -38,18 +86,6 @@
       "modificado": "2026-05-08T15:36:34",
       "idade_dias": 3,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
-    },
-    {
-      "ticket": "2026050826000255",
-      "cliente": "SERVENG",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T15:35:19",
-      "modificado": "2026-05-08T15:35:21",
-      "idade_dias": 0,
-      "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
     },
     {
       "ticket": "2026050826000246",
@@ -422,18 +458,6 @@
       "modificado": "2026-05-08T10:34:46",
       "idade_dias": 0,
       "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
-    },
-    {
-      "ticket": "2026050826000077",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-08T09:05:08",
-      "modificado": "2026-05-08T10:34:30",
-      "idade_dias": 0,
-      "assunto": "Calibragem de monitoramento"
     },
     {
       "ticket": "2026050526000377",
@@ -1224,7 +1248,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-17T15:55:10",
       "modificado": "2026-05-07T13:11:06",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "AutoZone - Correção de Tipo 9 - 17.04 - PD09 FY26"
     },
     {
@@ -2054,18 +2078,6 @@
       "modificado": "2026-05-06T11:31:02",
       "idade_dias": 3,
       "assunto": "ARCO - OCI_ARCO1051005 - Disk:D: - 26050508032817"
-    },
-    {
-      "ticket": "2026050626000142",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-06T11:19:04",
-      "idade_dias": 2,
-      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
     },
     {
       "ticket": "2026041726000061",
@@ -3756,7 +3768,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-08T15:52:21",
       "modificado": "2026-04-16T05:00:24",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Select - delete - 08.04.2026"
     },
     {
@@ -3924,7 +3936,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-01T16:00:07",
       "modificado": "2026-04-15T05:00:24",
-      "idade_dias": 36,
+      "idade_dias": 37,
       "assunto": "Migração Dashboards Grafana p/ GWMS"
     },
     {
@@ -4332,7 +4344,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-26T15:55:03",
       "modificado": "2026-04-07T05:00:15",
-      "idade_dias": 42,
+      "idade_dias": 43,
       "assunto": "Trifrost - adicionar a métrica/serviço email.fila"
     },
     {
@@ -5484,7 +5496,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-09T15:53:20",
       "modificado": "2026-03-18T05:00:26",
-      "idade_dias": 59,
+      "idade_dias": 60,
       "assunto": "Select - Combo rules - 09.03.2026 - W4 - PD7"
     },
     {
@@ -6372,7 +6384,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-20T15:54:54",
       "modificado": "2026-02-28T05:00:32",
-      "idade_dias": 76,
+      "idade_dias": 77,
       "assunto": "Problema ao Criar Título com fornecedor 007591."
     },
     {
@@ -7056,7 +7068,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-05T16:00:06",
       "modificado": "2026-02-13T05:00:35",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "AZ | Criação de Tabela Customizada no ERP Protheus via Configurador - PRODUÇÃO"
     },
     {
@@ -8088,7 +8100,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T15:52:48",
       "modificado": "2026-01-23T05:00:33",
-      "idade_dias": 113,
+      "idade_dias": 114,
       "assunto": "PROBLEMAS COM O CÓDIGO DE BARRAS NA HORA DO LANCAMENTO"
     },
     {
@@ -8160,7 +8172,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-13T15:53:31",
       "modificado": "2026-01-22T05:00:34",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "PAINEL REINF - ERRO ACESSO"
     },
     {
@@ -9384,7 +9396,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-10T16:00:19",
       "modificado": "2025-12-19T05:00:23",
-      "idade_dias": 148,
+      "idade_dias": 149,
       "assunto": "Re: METALFRIO - JEANGREY - HOST DOWN - 25121011163472"
     },
     {
@@ -11352,7 +11364,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-09T16:00:14",
       "modificado": "2025-10-17T05:00:41",
-      "idade_dias": 210,
+      "idade_dias": 211,
       "assunto": "AZ | Liberação de Abertura de Tickets GW"
     },
     {
@@ -12000,7 +12012,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-03T15:52:15",
       "modificado": "2025-10-03T05:00:16",
-      "idade_dias": 246,
+      "idade_dias": 247,
       "assunto": "AZ - CTB - Ajuste da LP LP 650-02"
     },
     {
@@ -14916,7 +14928,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-01T15:53:47",
       "modificado": "2025-08-09T05:00:23",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "Erro de carregamento do extrato bancário"
     },
     {
@@ -15132,7 +15144,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-28T15:51:43",
       "modificado": "2025-08-06T09:54:03",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "AZ - CTB - PD12 AJUSTE DE BENS - BR (ZO) E US (ZP)"
     },
     {
@@ -15288,7 +15300,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-25T15:54:54",
       "modificado": "2025-08-02T05:00:26",
-      "idade_dias": 286,
+      "idade_dias": 287,
       "assunto": "Exclusão de Títulos | Financeiro"
     },
     {
@@ -15312,7 +15324,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-22T15:55:22",
       "modificado": "2025-08-02T05:00:23",
-      "idade_dias": 289,
+      "idade_dias": 290,
       "assunto": "[Nobreak] Problema na comunicação GWMS"
     },
     {
@@ -15540,7 +15552,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-24T16:00:19",
       "modificado": "2025-07-24T16:00:21",
-      "idade_dias": 287,
+      "idade_dias": 288,
       "assunto": "Chamados - Fluig"
     },
     {
@@ -15552,7 +15564,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-16T15:55:47",
       "modificado": "2025-07-24T05:00:15",
-      "idade_dias": 295,
+      "idade_dias": 296,
       "assunto": "Inclusão da opção \"Incluir Conhecimento\" na rotina de Funções - Contas a Pagar"
     },
     {
@@ -17004,7 +17016,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-11T15:59:17",
       "modificado": "2025-06-24T05:00:26",
-      "idade_dias": 330,
+      "idade_dias": 331,
       "assunto": "Erro Recalculo de Saldo"
     },
     {
@@ -17544,7 +17556,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-31T16:00:15",
       "modificado": "2025-06-11T05:00:27",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "RE: #TOTVS-SERVERS - Alertas CRITICAL - 25053115433818"
     },
     {
@@ -17628,7 +17640,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-28T16:00:09",
       "modificado": "2025-06-10T05:00:24",
-      "idade_dias": 344,
+      "idade_dias": 345,
       "assunto": "Razão em CSV- BrGaap- Jan a Mar 24"
     },
     {
@@ -19008,7 +19020,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-05T15:51:46",
       "modificado": "2025-05-14T05:00:17",
-      "idade_dias": 367,
+      "idade_dias": 368,
       "assunto": "AZ - Falha na criação de PO (pedido de compras) - NOAMARRA01"
     },
     {
@@ -19728,7 +19740,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T15:53:35",
       "modificado": "2025-05-02T05:00:23",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "Filial 0169 - Lançamento manual"
     },
     {
@@ -20256,7 +20268,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-14T15:55:14",
       "modificado": "2025-04-23T05:00:23",
-      "idade_dias": 388,
+      "idade_dias": 389,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -20964,7 +20976,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-04-01T16:00:12",
       "modificado": "2025-04-10T05:00:15",
-      "idade_dias": 401,
+      "idade_dias": 402,
       "assunto": "Troca de domínio"
     },
     {
@@ -21228,7 +21240,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-25T15:56:41",
       "modificado": "2025-04-05T05:00:08",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "[UNIMED] ATUALIZAÇÃO MONIORACAO CENTREON - TESTES DE ADSL"
     },
     {
@@ -21456,7 +21468,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-19T15:52:50",
       "modificado": "2025-03-27T05:00:11",
-      "idade_dias": 414,
+      "idade_dias": 415,
       "assunto": "CADASTRO CONTABILISTA - SPED CONTÁBIL"
     },
     {
@@ -22272,7 +22284,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-27T15:59:17",
       "modificado": "2025-03-08T05:00:18",
-      "idade_dias": 434,
+      "idade_dias": 435,
       "assunto": "Cadastro Empresas - Protheus"
     },
     {
@@ -22440,7 +22452,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-24T16:00:09",
       "modificado": "2025-03-05T05:00:22",
-      "idade_dias": 437,
+      "idade_dias": 438,
       "assunto": "Acesso OTRS - FILA SSG"
     },
     {
@@ -22500,7 +22512,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-02-24T16:00:08",
       "modificado": "2025-03-04T05:00:06",
-      "idade_dias": 437,
+      "idade_dias": 438,
       "assunto": "PD07 Select em 24.02"
     },
     {
@@ -22692,7 +22704,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-02-26T15:55:17",
       "modificado": "2025-02-26T15:55:20",
-      "idade_dias": 435,
+      "idade_dias": 436,
       "assunto": "COMPENSAÇÃO ENTRE CARTEIRAS"
     },
     {
@@ -23136,7 +23148,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-04T15:55:37",
       "modificado": "2025-02-13T05:00:15",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "AZ - Analise de registros com contabilização pendente na SE5"
     },
     {
@@ -23148,7 +23160,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-02-04T15:55:19",
       "modificado": "2025-02-13T05:00:14",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "PD06 - Select em 04.02"
     },
     {
@@ -23400,7 +23412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-27T15:59:17",
       "modificado": "2025-02-10T05:00:08",
-      "idade_dias": 465,
+      "idade_dias": 466,
       "assunto": "ERRO DE PRIVACIDADE AO TENTAR ACESSAR O PROTHEUS WEB"
     },
     {
@@ -23580,7 +23592,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-28T15:59:41",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 464,
+      "idade_dias": 465,
       "assunto": "AZ - Erro ao acessar WORKFLOW de compras"
     },
     {
@@ -25932,7 +25944,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-28T15:59:23",
       "modificado": "2024-12-02T19:30:10",
-      "idade_dias": 556,
+      "idade_dias": 557,
       "assunto": "Monitor - Totvs Transmite"
     },
     {
@@ -25956,7 +25968,7 @@
       "atendente": "Vinicius Eroico",
       "criado": "2024-11-06T15:55:11",
       "modificado": "2024-12-02T10:30:03",
-      "idade_dias": 547,
+      "idade_dias": 548,
       "assunto": "Relatório Portal RH"
     },
     {
@@ -26568,7 +26580,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-08T15:57:58",
       "modificado": "2024-11-14T10:30:11",
-      "idade_dias": 576,
+      "idade_dias": 577,
       "assunto": "Arquivo fopag- filial"
     },
     {
@@ -27048,7 +27060,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-15T15:55:10",
       "modificado": "2024-10-28T11:00:06",
-      "idade_dias": 569,
+      "idade_dias": 570,
       "assunto": "Solicitação de Automatização no Processamento de Custos e Espelhamento de Notas Fiscais"
     },
     {
@@ -27132,7 +27144,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-07T15:51:41",
       "modificado": "2024-10-24T15:00:12",
-      "idade_dias": 577,
+      "idade_dias": 578,
       "assunto": "NOTAS CANCELADAS - LOJA 126"
     },
     {
@@ -27780,7 +27792,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-01T16:00:10",
       "modificado": "2024-10-08T18:30:07",
-      "idade_dias": 583,
+      "idade_dias": 584,
       "assunto": "Remover do Monitoramento - vpn3.totvs.com.br"
     },
     {
@@ -28044,7 +28056,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-19T16:00:17",
       "modificado": "2024-10-01T10:00:09",
-      "idade_dias": 595,
+      "idade_dias": 596,
       "assunto": "NF DE DEVOLUÇÃO - TIPO NCC"
     },
     {
@@ -28440,7 +28452,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2024-09-12T15:55:18",
       "modificado": "2024-09-20T15:13:24",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "teste adriano 1"
     },
     {
