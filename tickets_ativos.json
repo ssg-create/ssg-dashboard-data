@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778277627,
-  "generated_at_iso": "2026-05-08T22:00:27Z",
+  "generated_at": 1778278231,
+  "generated_at_iso": "2026-05-08T22:10:31Z",
   "count": 2397,
   "filas": [
     "DATASUL",
@@ -16,16 +16,52 @@
   ],
   "rows": [
     {
+      "ticket": "2026050626000142",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-08T19:06:52",
+      "idade_dias": 2,
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
+    },
+    {
+      "ticket": "2026050826000317",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-08T18:40:22",
+      "modificado": "2026-05-08T19:05:28",
+      "idade_dias": 0,
+      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
+    },
+    {
       "ticket": "2026050826000326",
       "cliente": "robert.santos@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-08T18:55:04",
-      "modificado": "2026-05-08T18:55:06",
+      "modificado": "2026-05-08T19:05:18",
       "idade_dias": 0,
       "assunto": "CORRECAO DE STATUS CHAMADOS - AUTOZONE"
+    },
+    {
+      "ticket": "2026050726000061",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-07T07:35:06",
+      "modificado": "2026-05-08T19:00:41",
+      "idade_dias": 1,
+      "assunto": "Berneck - alterar o monitoramento"
     },
     {
       "ticket": "2026050826000086",
@@ -38,18 +74,6 @@
       "modificado": "2026-05-08T18:47:54",
       "idade_dias": 0,
       "assunto": "Tss Finpec - Caindo"
-    },
-    {
-      "ticket": "2026050826000317",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T18:40:22",
-      "modificado": "2026-05-08T18:40:25",
-      "idade_dias": 0,
-      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
     },
     {
       "ticket": "2026050826000291",
@@ -206,18 +230,6 @@
       "modificado": "2026-05-08T16:10:55",
       "idade_dias": 8,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
-    },
-    {
-      "ticket": "2026050626000142",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-08T15:59:09",
-      "idade_dias": 2,
-      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)"
     },
     {
       "ticket": "2026050826000255",
@@ -1768,18 +1780,6 @@
       "assunto": "#TOTVS-NETWORK - SP_TOTVS-SP3-IPN-1 - Interface:Eth1-52 - 26050509544782"
     },
     {
-      "ticket": "2026050726000061",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-07T07:35:06",
-      "modificado": "2026-05-07T09:04:19",
-      "idade_dias": 1,
-      "assunto": "Berneck - alterar o monitoramento"
-    },
-    {
       "ticket": "2026050626000197",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -2244,7 +2244,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-05-05T19:10:23",
       "modificado": "2026-05-06T09:21:06",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/ - 26050519091133"
     },
     {
@@ -5472,7 +5472,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-09T19:05:12",
       "modificado": "2026-03-18T05:00:28",
-      "idade_dias": 59,
+      "idade_dias": 60,
       "assunto": "Ajuste de Thresholds dos Servidores ARCO61014 e ARCO61015 - ARCO"
     },
     {
@@ -7248,7 +7248,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-30T19:03:48",
       "modificado": "2026-02-10T05:00:24",
-      "idade_dias": 97,
+      "idade_dias": 98,
       "assunto": "Select - Combo rules"
     },
     {
@@ -12372,7 +12372,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-09-19T19:10:16",
       "modificado": "2025-09-28T05:00:24",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 25091919042942"
     },
     {
@@ -14976,7 +14976,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-07-30T19:10:23",
       "modificado": "2025-08-09T05:00:17",
-      "idade_dias": 281,
+      "idade_dias": 282,
       "assunto": "Monitorar Agente SSM"
     },
     {
@@ -24876,7 +24876,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-16T19:06:45",
       "modificado": "2024-12-30T16:30:03",
-      "idade_dias": 507,
+      "idade_dias": 508,
       "assunto": "AZ - Integração Tax ID represado"
     },
     {
@@ -28212,7 +28212,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-12T19:05:14",
       "modificado": "2024-09-27T17:00:07",
-      "idade_dias": 633,
+      "idade_dias": 634,
       "assunto": "Erro SPED FISCAL - CIAP - Filial 0151"
     },
     {
