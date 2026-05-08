@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778261428,
-  "generated_at_iso": "2026-05-08T17:30:28Z",
+  "generated_at": 1778262027,
+  "generated_at_iso": "2026-05-08T17:40:27Z",
   "count": 2392,
   "filas": [
     "DATASUL",
@@ -23,9 +23,21 @@
       "prioridade": "5 very high",
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-05-08T14:30:14",
+      "modificado": "2026-05-08T14:40:14",
       "idade_dias": 95,
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
+    },
+    {
+      "ticket": "2026050426000422",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-04T18:40:14",
+      "modificado": "2026-05-08T14:32:00",
+      "idade_dias": 3,
+      "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
       "ticket": "2026050826000193",
@@ -398,18 +410,6 @@
       "modificado": "2026-05-08T08:43:47",
       "idade_dias": 1,
       "assunto": "Adicionar descrição dos servidores"
-    },
-    {
-      "ticket": "2026050426000422",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-04T18:40:14",
-      "modificado": "2026-05-08T08:00:17",
-      "idade_dias": 3,
-      "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
       "ticket": "2026050626000455",
@@ -1296,7 +1296,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T14:34:16",
       "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Contabilização de Estorno de Resgate"
     },
     {
@@ -1368,7 +1368,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-06T14:38:18",
       "modificado": "2026-05-07T12:19:54",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Cadastro novo usuário Luiz Gustavo"
     },
     {
@@ -2352,7 +2352,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-12T14:31:46",
       "modificado": "2026-05-06T05:00:14",
-      "idade_dias": 84,
+      "idade_dias": 85,
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
     },
     {
@@ -3732,7 +3732,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-08T14:36:53",
       "modificado": "2026-04-16T05:00:22",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Select - Combo rules"
     },
     {
@@ -7728,7 +7728,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-20T14:40:14",
       "modificado": "2026-01-29T05:00:32",
-      "idade_dias": 107,
+      "idade_dias": 108,
       "assunto": "ENC: [#1171241] - Política de segurança: restrição de uso de dispositivos USB"
     },
     {
@@ -8928,7 +8928,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-29T14:35:12",
       "modificado": "2025-12-29T14:35:14",
-      "idade_dias": 129,
+      "idade_dias": 130,
       "assunto": "RE: [AutoZone] | Abertura de chamado GW"
     },
     {
@@ -9960,7 +9960,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-11-17T14:31:24",
       "modificado": "2025-12-03T05:00:21",
-      "idade_dias": 171,
+      "idade_dias": 172,
       "assunto": "Configuração Oauth2 para o e-mail nfe"
     },
     {
@@ -10632,7 +10632,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-28T14:40:19",
       "modificado": "2025-11-08T05:00:34",
-      "idade_dias": 191,
+      "idade_dias": 192,
       "assunto": "Adicionar servidores no GWMS"
     },
     {
@@ -10920,7 +10920,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-22T14:40:05",
       "modificado": "2025-10-31T05:00:23",
-      "idade_dias": 197,
+      "idade_dias": 198,
       "assunto": "[TJBA] Centreon -  Ajuste de incidentes"
     },
     {
@@ -11652,7 +11652,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-30T14:40:07",
       "modificado": "2025-10-11T05:00:22",
-      "idade_dias": 219,
+      "idade_dias": 220,
       "assunto": "Monitoramento Maquina Gesplan"
     },
     {
@@ -11784,7 +11784,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-29T14:32:22",
       "modificado": "2025-10-08T05:00:23",
-      "idade_dias": 220,
+      "idade_dias": 221,
       "assunto": "Acesso Importador - AJ Midia Filial 2"
     },
     {
@@ -11988,7 +11988,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-10-02T14:40:17",
       "modificado": "2025-10-02T14:40:22",
-      "idade_dias": 217,
+      "idade_dias": 218,
       "assunto": "Recall: Diferença de saldo - Balancete 1° trimestre 2025 (BRGAAP)"
     },
     {
@@ -12432,7 +12432,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-17T14:40:06",
       "modificado": "2025-09-25T05:00:19",
-      "idade_dias": 232,
+      "idade_dias": 233,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25091714384936"
     },
     {
@@ -12444,7 +12444,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-17T14:40:05",
       "modificado": "2025-09-25T05:00:18",
-      "idade_dias": 232,
+      "idade_dias": 233,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25091714352590"
     },
     {
@@ -12540,7 +12540,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-15T14:40:10",
       "modificado": "2025-09-24T05:00:34",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "Programa OLRE0012"
     },
     {
@@ -13104,7 +13104,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-04T14:35:15",
       "modificado": "2025-09-17T05:00:37",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Não conseguindo registrar funcionários - FP1500"
     },
     {
@@ -14124,7 +14124,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-08-14T14:40:21",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 266,
+      "idade_dias": 267,
       "assunto": "Inclusão no alerta de monitoramento APs"
     },
     {
@@ -16284,7 +16284,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-27T14:40:18",
       "modificado": "2025-07-08T05:00:15",
-      "idade_dias": 314,
+      "idade_dias": 315,
       "assunto": "Liberação ambiente 57"
     },
     {
@@ -16296,7 +16296,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-27T14:40:16",
       "modificado": "2025-07-08T05:00:13",
-      "idade_dias": 314,
+      "idade_dias": 315,
       "assunto": "Sem acesso ao GWMS"
     },
     {
@@ -17376,7 +17376,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-05-29T14:37:11",
       "modificado": "2025-06-14T05:00:13",
-      "idade_dias": 343,
+      "idade_dias": 344,
       "assunto": "[BERNECK] Alteração no Dashboard"
     },
     {
@@ -17712,7 +17712,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-28T14:40:18",
       "modificado": "2025-06-05T05:00:24",
-      "idade_dias": 344,
+      "idade_dias": 345,
       "assunto": "RES: #TOTVS-SERVERS - Alertas CRITICAL - 25030711313420"
     },
     {
@@ -17784,7 +17784,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-23T14:37:04",
       "modificado": "2025-06-04T05:00:14",
-      "idade_dias": 349,
+      "idade_dias": 350,
       "assunto": "ESTOQUE BLOQUEADO"
     },
     {
@@ -18144,7 +18144,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-19T14:35:52",
       "modificado": "2025-05-28T05:00:26",
-      "idade_dias": 414,
+      "idade_dias": 415,
       "assunto": "AZ - Correção de erros do ambiente Protheus"
     },
     {
@@ -21324,7 +21324,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-01-30T14:30:38",
       "modificado": "2025-03-31T05:00:21",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Melhoria na Emissão de NF"
     },
     {
@@ -21900,7 +21900,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-07T14:35:47",
       "modificado": "2025-03-18T05:00:11",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "Acesso Protheus"
     },
     {
@@ -23052,7 +23052,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-03T14:33:21",
       "modificado": "2025-02-15T05:00:23",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "Saldos bancários DEZ/2024"
     },
     {
@@ -23436,7 +23436,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-30T14:32:24",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Aumento de Caracteres na NF"
     },
     {
@@ -24180,7 +24180,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-02T14:32:00",
       "modificado": "2025-01-15T18:30:16",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "Numero de nota sumiu no relatório de erros de integração"
     },
     {
@@ -24360,7 +24360,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-02T14:32:28",
       "modificado": "2025-01-13T08:30:08",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "TITULO NÃO ENCONTRADO NO TOTVS - NF 101335"
     },
     {
@@ -24528,7 +24528,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-30T14:37:17",
       "modificado": "2025-01-06T16:00:05",
-      "idade_dias": 493,
+      "idade_dias": 494,
       "assunto": "NR - Acesso aos pedidos de compra"
     },
     {
@@ -24852,7 +24852,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-09T14:34:23",
       "modificado": "2024-12-30T11:30:07",
-      "idade_dias": 514,
+      "idade_dias": 515,
       "assunto": "erro ao gerar acordo - empresa 305001"
     },
     {
@@ -25728,7 +25728,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-11-28T14:30:53",
       "modificado": "2024-12-07T11:30:02",
-      "idade_dias": 525,
+      "idade_dias": 526,
       "assunto": "TELETEX | Erro ao adicionar Vcenter"
     },
     {
@@ -26292,7 +26292,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-11T14:38:16",
       "modificado": "2024-11-18T15:30:14",
-      "idade_dias": 542,
+      "idade_dias": 543,
       "assunto": "Superintendência interina - NR (aprovações)"
     },
     {
@@ -26340,7 +26340,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-05T14:39:24",
       "modificado": "2024-11-18T09:00:15",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Inconsistência nos Valores de Estoque após Processamento de Custo e Virada de Saldos - USGAAP"
     },
     {
@@ -26424,7 +26424,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-24T14:31:18",
       "modificado": "2024-11-15T08:00:11",
-      "idade_dias": 590,
+      "idade_dias": 591,
       "assunto": "CONTABILIZAÇÃO DIFERENCIAL DE ALIQUOTA"
     },
     {
@@ -27144,7 +27144,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-16T14:35:08",
       "modificado": "2024-10-23T17:30:13",
-      "idade_dias": 568,
+      "idade_dias": 569,
       "assunto": "RES: Alteração no monitoramento e inclusão de usuários."
     },
     {
@@ -27612,7 +27612,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-10T14:35:22",
       "modificado": "2024-10-11T16:00:05",
-      "idade_dias": 604,
+      "idade_dias": 605,
       "assunto": "WILLY - Centreon-Server - Monitoring License - 24091014302080"
     },
     {
