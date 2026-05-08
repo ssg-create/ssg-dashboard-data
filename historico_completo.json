@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778262032,
-  "generated_at_iso": "2026-05-08T17:40:32Z",
-  "count": 5176,
+  "generated_at": 1778262633,
+  "generated_at_iso": "2026-05-08T17:50:33Z",
+  "count": 5177,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050826000219",
+      "assunto": "Civil BS - Lançamentos não contabilizaram o IC e o C custo",
+      "criado": "2026-05-08T14:45:26",
+      "modificado": "2026-05-08T14:49:49",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "primeiro_nome": "Debora",
+      "ultimo_nome": "Gomes",
+      "cli_id": "ALMEIDA JR",
+      "cli_user": "integracao.almeidajunior",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": 4,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 4
+    },
     {
       "num": "2026050826000201",
       "assunto": "FISA131",
@@ -49279,9 +49299,9 @@
       "num": "2026020226000164",
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada",
       "criado": "2026-02-02T10:00:27",
-      "modificado": "2026-05-08T14:40:14",
+      "modificado": "2026-05-08T14:46:23",
       "fila": "SSG",
-      "estado": "retorno cliente",
+      "estado": "aguardando cliente",
       "prioridade": "5 very high",
       "atendente": "Robert Rodrigues dos Santos",
       "primeiro_nome": "Robert",
