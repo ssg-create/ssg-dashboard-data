@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778262626,
-  "generated_at_iso": "2026-05-08T17:50:26Z",
-  "count": 2393,
+  "generated_at": 1778263233,
+  "generated_at_iso": "2026-05-08T18:00:33Z",
+  "count": 2394,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,14 +16,62 @@
   ],
   "rows": [
     {
+      "ticket": "2026042226000631",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-22T22:43:28",
+      "modificado": "2026-05-08T15:00:15",
+      "idade_dias": 15,
+      "assunto": "CASAS DECIMAIS IMPOSTO DE PIS E COFINS - NOTAS FISCAIS SAIDAS."
+    },
+    {
+      "ticket": "2026050826000193",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-08T13:45:34",
+      "modificado": "2026-05-08T14:56:03",
+      "idade_dias": 0,
+      "assunto": "Contabilização de Adiantamento Conta Incorreta na SCP"
+    },
+    {
+      "ticket": "2026050826000228",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-08T14:55:14",
+      "modificado": "2026-05-08T14:55:16",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050814500639"
+    },
+    {
+      "ticket": "2026050826000201",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "4 high",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-08T13:52:02",
+      "modificado": "2026-05-08T14:52:46",
+      "idade_dias": 0,
+      "assunto": "FISA131"
+    },
+    {
       "ticket": "2026050826000219",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
-      "estado": "OPEN",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "2 low",
       "atendente": "Debora Gomes",
       "criado": "2026-05-08T14:45:26",
-      "modificado": "2026-05-08T14:49:49",
+      "modificado": "2026-05-08T14:52:09",
       "idade_dias": 0,
       "assunto": "Civil BS - Lançamentos não contabilizaram o IC e o C custo"
     },
@@ -50,18 +98,6 @@
       "modificado": "2026-05-08T14:32:00",
       "idade_dias": 3,
       "assunto": "Monitoramento de links SD-WAN no Sophos"
-    },
-    {
-      "ticket": "2026050826000193",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-08T13:45:34",
-      "modificado": "2026-05-08T14:29:09",
-      "idade_dias": 0,
-      "assunto": "Contabilização de Adiantamento Conta Incorreta na SCP"
     },
     {
       "ticket": "2026050626000508",
@@ -98,18 +134,6 @@
       "modificado": "2026-05-08T14:26:28",
       "idade_dias": 1,
       "assunto": "Incluir UPTIME Switchs"
-    },
-    {
-      "ticket": "2026050826000201",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-08T13:52:02",
-      "modificado": "2026-05-08T13:56:37",
-      "idade_dias": 0,
-      "assunto": "FISA131"
     },
     {
       "ticket": "2026042826000237",
@@ -1104,7 +1128,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-04T14:54:50",
       "modificado": "2026-05-07T13:57:17",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
@@ -1190,18 +1214,6 @@
       "modificado": "2026-05-07T12:19:57",
       "idade_dias": 109,
       "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
-    },
-    {
-      "ticket": "2026042226000631",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-22T22:43:28",
-      "modificado": "2026-05-07T12:19:57",
-      "idade_dias": 15,
-      "assunto": "CASAS DECIMAIS IMPOSTO DE PIS E COFINS - NOTAS FISCAIS SAIDAS."
     },
     {
       "ticket": "2026012726000468",
@@ -2628,7 +2640,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-16T15:00:06",
       "modificado": "2026-05-02T05:00:33",
-      "idade_dias": 21,
+      "idade_dias": 22,
       "assunto": "RE: Agent GWMS"
     },
     {
@@ -2688,7 +2700,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-07T14:54:52",
       "modificado": "2026-05-01T05:00:28",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "Liberar Modo Financeiro"
     },
     {
@@ -3204,7 +3216,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-14T14:56:04",
       "modificado": "2026-04-23T05:00:22",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "IMPORTAÇÃO DE APLICAÇÃO AUTOMATICA GESPLAN X PROTHEUS"
     },
     {
@@ -3624,7 +3636,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-04-10T15:00:13",
       "modificado": "2026-04-18T05:00:16",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Re: link de aprovação TOTVS"
     },
     {
@@ -3732,7 +3744,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-08T14:54:41",
       "modificado": "2026-04-16T05:00:23",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Erro Protheus - Donna Miro e Senhor Garibaldi, titulos 161190 e 161109"
     },
     {
@@ -3840,7 +3852,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-06T14:55:28",
       "modificado": "2026-04-15T05:00:30",
-      "idade_dias": 31,
+      "idade_dias": 32,
       "assunto": "Select - Combo rules - W4 - PD8 - 06.04.2026"
     },
     {
@@ -4212,7 +4224,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-30T14:55:41",
       "modificado": "2026-04-08T05:00:16",
-      "idade_dias": 38,
+      "idade_dias": 39,
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.03"
     },
     {
@@ -4260,7 +4272,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-30T14:53:55",
       "modificado": "2026-04-07T05:00:17",
-      "idade_dias": 38,
+      "idade_dias": 39,
       "assunto": "Novo espelhamento USGAAP - PD07 (JÁ RESOLVIDO)"
     },
     {
@@ -4608,7 +4620,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-17T14:50:46",
       "modificado": "2026-03-28T05:00:19",
-      "idade_dias": 51,
+      "idade_dias": 52,
       "assunto": "protheus com falha"
     },
     {
@@ -5172,7 +5184,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-12-19T14:55:21",
       "modificado": "2026-03-20T05:00:24",
-      "idade_dias": 139,
+      "idade_dias": 140,
       "assunto": "Customização para mudar a forma de considerar o PCC para data de entrada- V2 da Geração do Reinf e Mit"
     },
     {
@@ -5268,7 +5280,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-03-10T14:55:12",
       "modificado": "2026-03-19T05:00:35",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "Correção - Apontamentos - Relatório Financeiro"
     },
     {
@@ -5304,7 +5316,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-05T14:51:23",
       "modificado": "2026-03-19T05:00:31",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Solicito Causa Raiz de Evento"
     },
     {
@@ -6828,7 +6840,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-01-28T14:55:24",
       "modificado": "2026-02-18T05:00:20",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "ACESSO NOTE TESTES"
     },
     {
@@ -7380,7 +7392,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-27T14:59:13",
       "modificado": "2026-02-05T05:00:26",
-      "idade_dias": 100,
+      "idade_dias": 101,
       "assunto": "Licença bloqueada"
     },
     {
@@ -7872,7 +7884,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-19T14:52:22",
       "modificado": "2026-01-28T05:00:38",
-      "idade_dias": 108,
+      "idade_dias": 109,
       "assunto": "Novo espelhamento USGAAP - PD05"
     },
     {
@@ -8220,7 +8232,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-12T14:57:48",
       "modificado": "2026-01-20T05:00:19",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "Alteração de Aprovadores"
     },
     {
@@ -8256,7 +8268,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-10-01T14:55:15",
       "modificado": "2026-01-19T05:00:15",
-      "idade_dias": 218,
+      "idade_dias": 219,
       "assunto": "AZ - CUSTOS - Parametrização LP's Lote 008840 (LP641-001)"
     },
     {
@@ -8472,7 +8484,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-01-05T14:53:46",
       "modificado": "2026-01-13T05:00:44",
-      "idade_dias": 122,
+      "idade_dias": 123,
       "assunto": "AZ | Instabilidade os Serviços ERP Protheus - PRODUÇÃO"
     },
     {
@@ -9156,7 +9168,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-15T15:00:01",
       "modificado": "2025-12-23T05:00:26",
-      "idade_dias": 143,
+      "idade_dias": 144,
       "assunto": "PAINEL REINF - NAÇÕES"
     },
     {
@@ -9564,7 +9576,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-11-28T14:55:08",
       "modificado": "2025-12-12T05:00:31",
-      "idade_dias": 160,
+      "idade_dias": 161,
       "assunto": "Inclui no monitoramento"
     },
     {
@@ -10020,7 +10032,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-21T14:51:02",
       "modificado": "2025-12-02T05:00:18",
-      "idade_dias": 167,
+      "idade_dias": 168,
       "assunto": "Relatorio de disponibilidade do portal GWMS"
     },
     {
@@ -10116,7 +10128,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-19T14:55:20",
       "modificado": "2025-11-27T05:00:31",
-      "idade_dias": 169,
+      "idade_dias": 170,
       "assunto": "Remover da Monitora"
     },
     {
@@ -10272,7 +10284,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-13T15:00:14",
       "modificado": "2025-11-22T05:00:20",
-      "idade_dias": 175,
+      "idade_dias": 176,
       "assunto": "Fwd: #TOTVS-SERVERS - URLS_ZENDESK - Troca de Arquivos - 25111314194668"
     },
     {
@@ -10308,7 +10320,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-04T14:55:19",
       "modificado": "2025-11-22T05:00:17",
-      "idade_dias": 184,
+      "idade_dias": 185,
       "assunto": "Certificado - ssoidentity.totvs.com.br"
     },
     {
@@ -10368,7 +10380,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-11T14:57:27",
       "modificado": "2025-11-18T05:00:21",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "PAINEL REINF - NAÇÕES"
     },
     {
@@ -10488,7 +10500,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-27T15:00:13",
       "modificado": "2025-11-15T05:00:18",
-      "idade_dias": 192,
+      "idade_dias": 193,
       "assunto": "ENC: Notificações do GWMS"
     },
     {
@@ -10776,7 +10788,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-13T15:00:12",
       "modificado": "2025-11-05T05:00:10",
-      "idade_dias": 206,
+      "idade_dias": 207,
       "assunto": "RES: Atualização Biuld Windows"
     },
     {
@@ -11028,7 +11040,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-17T14:55:15",
       "modificado": "2025-10-29T05:00:24",
-      "idade_dias": 202,
+      "idade_dias": 203,
       "assunto": "Investigação sobre múltiplos alertas críticos no monitoramento"
     },
     {
@@ -12588,7 +12600,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-08T14:55:21",
       "modificado": "2025-09-24T05:00:31",
-      "idade_dias": 241,
+      "idade_dias": 242,
       "assunto": "RES: Instalação GWMS novo contrato Laticinios Porto Alegre"
     },
     {
@@ -12792,7 +12804,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-11T15:00:11",
       "modificado": "2025-09-20T05:00:30",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "#TOTVS-NETWORK - Alertas UNKNOWN - 25091114523676"
     },
     {
@@ -13188,7 +13200,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-08T15:00:21",
       "modificado": "2025-09-16T05:00:30",
-      "idade_dias": 241,
+      "idade_dias": 242,
       "assunto": "RE: Select 08.09 - Exclusão de Lançamentos SPED AZ "
     },
     {
@@ -13476,7 +13488,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-08-21T14:55:24",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 259,
+      "idade_dias": 260,
       "assunto": "RES: [EXT] BERNOULLI - BNLSRVPROTH01 - AppServer:.TOTVS - Appserver 12 PRD SLAVE4 - 25082009450499"
     },
     {
@@ -14148,7 +14160,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-14T14:55:21",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 266,
+      "idade_dias": 267,
       "assunto": "Fwd: #TOTVS-SERVERS - JIRA_CHECKS - JIRA License - 25081409075929"
     },
     {
@@ -14232,7 +14244,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-11T14:50:48",
       "modificado": "2025-08-26T05:00:09",
-      "idade_dias": 269,
+      "idade_dias": 270,
       "assunto": "Erro ao gerar acordo - gp 30 e filial 306001"
     },
     {
@@ -15756,7 +15768,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-07-07T14:56:52",
       "modificado": "2025-07-19T05:00:28",
-      "idade_dias": 304,
+      "idade_dias": 305,
       "assunto": "Sped Fiscal"
     },
     {
@@ -15924,7 +15936,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-15T15:00:24",
       "modificado": "2025-07-15T15:00:27",
-      "idade_dias": 296,
+      "idade_dias": 297,
       "assunto": "Cancelado: Alinhamento chamado 2025070726000461"
     },
     {
@@ -16440,7 +16452,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-26T15:00:22",
       "modificado": "2025-07-04T05:00:17",
-      "idade_dias": 315,
+      "idade_dias": 316,
       "assunto": "SELECT - Fretes - Conta 54750"
     },
     {
@@ -16704,7 +16716,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-18T15:00:09",
       "modificado": "2025-06-28T05:00:22",
-      "idade_dias": 323,
+      "idade_dias": 324,
       "assunto": "Monitoramento novo Device"
     },
     {
@@ -17076,7 +17088,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-12T14:56:19",
       "modificado": "2025-06-20T05:00:34",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "Ajustar o dashboard do servidor PCFACTORY - BUNTECH"
     },
     {
@@ -17532,7 +17544,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-29T14:54:01",
       "modificado": "2025-06-11T05:00:25",
-      "idade_dias": 343,
+      "idade_dias": 344,
       "assunto": "AZ - Ajustar configuração do diretório local no perfil Protheus."
     },
     {
@@ -18168,7 +18180,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-02-13T14:55:06",
       "modificado": "2025-05-28T05:00:24",
-      "idade_dias": 448,
+      "idade_dias": 449,
       "assunto": "Re: Nova Versão Fluig"
     },
     {
@@ -19716,7 +19728,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-23T14:55:19",
       "modificado": "2025-05-02T05:00:22",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "ECD - AZ"
     },
     {
@@ -19872,7 +19884,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-15T14:59:49",
       "modificado": "2025-05-01T05:00:21",
-      "idade_dias": 387,
+      "idade_dias": 388,
       "assunto": "[TUPER] Monitoramento de Certificado"
     },
     {
@@ -21036,7 +21048,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-03-13T15:00:24",
       "modificado": "2025-04-09T05:00:11",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "RES: RES: [EXTERNAL] Ticket Aguardando Retorno"
     },
     {
@@ -21612,7 +21624,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-14T15:00:13",
       "modificado": "2025-03-22T05:00:14",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "[EXTERNAL] Re: AZ - Error log ao importar arquivo CSV no programa ZOCOM002"
     },
     {
@@ -22332,7 +22344,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-26T14:55:08",
       "modificado": "2025-03-06T05:00:05",
-      "idade_dias": 435,
+      "idade_dias": 436,
       "assunto": "Alerta teste - MSS oplium"
     },
     {
@@ -22992,7 +23004,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-03T14:57:18",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "DIRF"
     },
     {
@@ -23028,7 +23040,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-27T14:55:14",
       "modificado": "2025-02-17T05:00:07",
-      "idade_dias": 465,
+      "idade_dias": 466,
       "assunto": "Cálculo do DIFAL NF entrada - Validação"
     },
     {
@@ -24036,7 +24048,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-10T14:52:32",
       "modificado": "2025-01-17T16:30:16",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "Erro transmissão nota fiscal - NFe Sefaz - Filial 0149"
     },
     {
@@ -24924,7 +24936,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-29T15:00:23",
       "modificado": "2024-12-26T18:00:11",
-      "idade_dias": 524,
+      "idade_dias": 525,
       "assunto": "Cálculo do DIFAL NF entrada"
     },
     {
@@ -25128,7 +25140,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-16T15:00:12",
       "modificado": "2024-12-23T18:30:02",
-      "idade_dias": 507,
+      "idade_dias": 508,
       "assunto": "PD04 - Select"
     },
     {
@@ -25764,7 +25776,7 @@
       "atendente": "Vinicius Eroico",
       "criado": "2024-11-26T15:00:13",
       "modificado": "2024-12-06T11:00:12",
-      "idade_dias": 527,
+      "idade_dias": 528,
       "assunto": "AZ - Database Access Alexandre Menezes"
     },
     {
@@ -26136,7 +26148,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-13T14:55:20",
       "modificado": "2024-11-20T19:00:18",
-      "idade_dias": 540,
+      "idade_dias": 541,
       "assunto": "Atualização Infos Dash"
     },
     {
@@ -26148,7 +26160,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-13T14:55:22",
       "modificado": "2024-11-20T19:00:18",
-      "idade_dias": 540,
+      "idade_dias": 541,
       "assunto": "Atualização Infos Dash 2"
     },
     {
@@ -26712,7 +26724,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-16T14:55:08",
       "modificado": "2024-11-07T10:30:11",
-      "idade_dias": 598,
+      "idade_dias": 599,
       "assunto": "Validação de campos SE2 - Inserir cod de barras"
     },
     {
@@ -27144,7 +27156,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-16T15:00:11",
       "modificado": "2024-10-24T09:30:17",
-      "idade_dias": 568,
+      "idade_dias": 569,
       "assunto": "Portal Groundwork para abertura de chamado - Metalnox"
     },
     {
@@ -27456,7 +27468,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-08T14:59:38",
       "modificado": "2024-10-18T09:30:12",
-      "idade_dias": 576,
+      "idade_dias": 577,
       "assunto": "Conciliação CD SAP X Posição de Estoque CD (USGAAP) TOTVS"
     },
     {
@@ -28200,7 +28212,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-18T14:51:08",
       "modificado": "2024-09-27T14:30:00",
-      "idade_dias": 596,
+      "idade_dias": 597,
       "assunto": "ERRO NO SPED"
     },
     {
