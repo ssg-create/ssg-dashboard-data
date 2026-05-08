@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778269226,
-  "generated_at_iso": "2026-05-08T19:40:26Z",
+  "generated_at": 1778269459,
+  "generated_at_iso": "2026-05-08T19:44:19Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -16,6 +16,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026042226000168",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-22T10:00:21",
+      "modificado": "2026-05-08T16:43:50",
+      "idade_dias": 16,
+      "assunto": "Desenvolvimento do gw/v2"
+    },
+    {
       "ticket": "2026050626000508",
       "cliente": "TJBA (TELETEX)",
       "fila": "GWMS",
@@ -23,7 +35,7 @@
       "prioridade": "3 normal",
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-06T18:02:47",
-      "modificado": "2026-05-08T16:39:16",
+      "modificado": "2026-05-08T16:43:10",
       "idade_dias": 1,
       "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
@@ -480,7 +492,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-07T16:42:18",
       "modificado": "2026-05-08T09:47:42",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
     },
     {
@@ -1296,7 +1308,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-27T16:44:15",
       "modificado": "2026-05-07T12:19:57",
-      "idade_dias": 100,
+      "idade_dias": 101,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
     },
     {
@@ -1970,18 +1982,6 @@
       "modificado": "2026-05-06T16:06:41",
       "idade_dias": 2,
       "assunto": "BRAVEO - GWMS-Server - Notif Groups Relations - 26050608595561"
-    },
-    {
-      "ticket": "2026042226000168",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-22T10:00:21",
-      "modificado": "2026-05-06T15:18:03",
-      "idade_dias": 16,
-      "assunto": "Desenvolvimento do gw/v2"
     },
     {
       "ticket": "2026040826000202",
@@ -5340,7 +5340,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-13T16:40:31",
       "modificado": "2026-03-19T05:00:28",
-      "idade_dias": 83,
+      "idade_dias": 84,
       "assunto": "Erro - Títulos não sendo exibidos no relatório de comissão - Vendedor VD0041"
     },
     {
@@ -12792,7 +12792,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T16:41:56",
       "modificado": "2025-09-20T05:00:33",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "Protheus Contigencia"
     },
     {
@@ -22008,7 +22008,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-06T16:42:53",
       "modificado": "2025-03-15T05:00:23",
-      "idade_dias": 427,
+      "idade_dias": 428,
       "assunto": "ERRO PODER DE TERCEIROS."
     },
     {
@@ -24156,7 +24156,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-07T16:42:01",
       "modificado": "2025-01-16T15:00:16",
-      "idade_dias": 485,
+      "idade_dias": 486,
       "assunto": "AZ - Documentos antigos pendentes no TAX-ID"
     },
     {
