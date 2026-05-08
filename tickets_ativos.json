@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778268624,
-  "generated_at_iso": "2026-05-08T19:30:24Z",
+  "generated_at": 1778269226,
+  "generated_at_iso": "2026-05-08T19:40:26Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000508",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-06T18:02:47",
+      "modificado": "2026-05-08T16:39:16",
+      "idade_dias": 1,
+      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
+    },
     {
       "ticket": "2026050526000377",
       "cliente": "TELETEX",
@@ -220,18 +232,6 @@
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
-      "ticket": "2026050626000508",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-06T18:02:47",
-      "modificado": "2026-05-08T14:28:36",
-      "idade_dias": 1,
-      "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
-    },
-    {
       "ticket": "2026050626000401",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -240,7 +240,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-06T16:31:17",
       "modificado": "2026-05-08T14:26:49",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Civil BS - Tìtulo da Paytrack que não contabiliza com C Custo e Item Cont"
     },
     {
@@ -420,7 +420,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-06T16:40:14",
       "modificado": "2026-05-08T10:52:01",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Criação conta de e-mail TalentHub"
     },
     {
@@ -1032,7 +1032,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-13T16:30:24",
       "modificado": "2026-05-07T19:23:30",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
@@ -1068,7 +1068,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-07T16:40:23",
       "modificado": "2026-05-07T17:15:46",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Remover servidor do monitoramento"
     },
     {
@@ -3552,7 +3552,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:31:58",
       "modificado": "2026-04-20T14:54:45",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Atualização de Windows UPdate - Apenas maquinas virtuais"
     },
     {
@@ -3684,7 +3684,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-09T16:33:03",
       "modificado": "2026-04-17T05:00:15",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "Problema em reemitir o boleto"
     },
     {
@@ -3924,7 +3924,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:35:28",
       "modificado": "2026-04-14T17:09:42",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Segurança - Microsoft 365"
     },
     {
@@ -4944,7 +4944,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-13T16:39:40",
       "modificado": "2026-03-21T05:00:36",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Select - Combo rules - 13.03.2026 - W4 - PD7"
     },
     {
@@ -5100,7 +5100,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-11T16:40:09",
       "modificado": "2026-03-20T05:00:34",
-      "idade_dias": 57,
+      "idade_dias": 58,
       "assunto": "Habilitar Fornecedor Norberto"
     },
     {
@@ -6228,7 +6228,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-23T16:35:14",
       "modificado": "2026-03-04T05:00:22",
-      "idade_dias": 73,
+      "idade_dias": 74,
       "assunto": "Acesso ao portal do cliente OTRS"
     },
     {
@@ -6684,7 +6684,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-05T16:35:09",
       "modificado": "2026-02-20T05:00:35",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "Re: Abertura de nova empresa FINPEC FARM sistema Protheus"
     },
     {
@@ -7524,7 +7524,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-11-25T16:32:02",
       "modificado": "2026-02-04T05:00:12",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "Parametrização empréstimos - Continuação chamado c Aplicacao"
     },
     {
@@ -7944,7 +7944,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-16T16:33:11",
       "modificado": "2026-01-28T05:00:32",
-      "idade_dias": 111,
+      "idade_dias": 112,
       "assunto": "integração xml  novembro"
     },
     {
@@ -8544,7 +8544,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-01-02T16:40:24",
       "modificado": "2026-01-13T05:00:37",
-      "idade_dias": 125,
+      "idade_dias": 126,
       "assunto": "RES: Acessos"
     },
     {
@@ -8640,7 +8640,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-12-26T16:35:16",
       "modificado": "2026-01-09T05:00:09",
-      "idade_dias": 132,
+      "idade_dias": 133,
       "assunto": "Integração Contábil - Offline"
     },
     {
@@ -8880,7 +8880,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-12-22T16:40:05",
       "modificado": "2025-12-31T05:00:20",
-      "idade_dias": 136,
+      "idade_dias": 137,
       "assunto": "RE: #TOTVS-SERVERS - SP_SPO-VCENTER01 - Datastore_SP:DS_SPO_PRD15 - 25122212284679"
     },
     {
@@ -9588,7 +9588,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-11-21T16:40:09",
       "modificado": "2025-12-12T05:00:30",
-      "idade_dias": 167,
+      "idade_dias": 168,
       "assunto": "AZ - GWMS - Alterar painel \"Totvs Transmite\""
     },
     {
@@ -9624,7 +9624,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-27T16:39:45",
       "modificado": "2025-12-11T05:00:21",
-      "idade_dias": 161,
+      "idade_dias": 162,
       "assunto": "Relatório de Pedido de Compras _ Abas Inclusas"
     },
     {
@@ -9804,7 +9804,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-28T16:35:21",
       "modificado": "2025-12-06T05:00:22",
-      "idade_dias": 160,
+      "idade_dias": 161,
       "assunto": "[MONITORAMENTO] Plataformas Digitais / Notificações - Event-Hub"
     },
     {
@@ -10248,7 +10248,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-11-11T16:35:22",
       "modificado": "2025-11-25T05:00:28",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "AD - HD EXTERNO 192.168.120.101 - desligado"
     },
     {
@@ -10620,7 +10620,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-29T16:40:15",
       "modificado": "2025-11-12T05:00:18",
-      "idade_dias": 190,
+      "idade_dias": 191,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 25102916352253"
     },
     {
@@ -11532,7 +11532,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-02T16:40:10",
       "modificado": "2025-10-16T05:00:21",
-      "idade_dias": 217,
+      "idade_dias": 218,
       "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 25100216325040"
     },
     {
@@ -11748,7 +11748,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-23T16:40:23",
       "modificado": "2025-10-10T05:00:12",
-      "idade_dias": 226,
+      "idade_dias": 227,
       "assunto": " [TJBA] Criação do Dashboard de Acionamento"
     },
     {
@@ -12372,7 +12372,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-17T16:40:22",
       "modificado": "2025-09-27T05:00:29",
-      "idade_dias": 232,
+      "idade_dias": 233,
       "assunto": "Incluir ativo no monitoramento"
     },
     {
@@ -12660,7 +12660,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-15T16:35:06",
       "modificado": "2025-09-23T05:00:26",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "AZ - PO Module Project Phase 3"
     },
     {
@@ -13212,7 +13212,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-03T16:40:24",
       "modificado": "2025-09-16T05:00:29",
-      "idade_dias": 246,
+      "idade_dias": 247,
       "assunto": "Monitoramento GroundWork' via Segurança da Informação Corporativa - TI"
     },
     {
@@ -13644,7 +13644,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-01T16:32:16",
       "modificado": "2025-09-09T05:00:26",
-      "idade_dias": 248,
+      "idade_dias": 249,
       "assunto": "AZ - ACESSO - Criar o usuário - Sabrina Guilherme"
     },
     {
@@ -16164,7 +16164,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-01T16:40:09",
       "modificado": "2025-07-11T05:00:24",
-      "idade_dias": 310,
+      "idade_dias": 311,
       "assunto": "Monitoramento Central do Cliente"
     },
     {
@@ -16680,7 +16680,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-20T16:35:13",
       "modificado": "2025-06-28T05:00:27",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "Re: METALFRIO - GROOT - Memory Ram - 25062016252887"
     },
     {
@@ -17292,7 +17292,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-06T16:31:47",
       "modificado": "2025-06-17T05:00:25",
-      "idade_dias": 335,
+      "idade_dias": 336,
       "assunto": "NK_MELHORIA EM MOVIMENTAÇÃO MÚLTIPLA"
     },
     {
@@ -17304,7 +17304,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-04T16:40:10",
       "modificado": "2025-06-17T05:00:24",
-      "idade_dias": 337,
+      "idade_dias": 338,
       "assunto": "Abertura Chamado para Gestão de Logs do Protheus no GWMS para AUTOZONE"
     },
     {
@@ -19176,7 +19176,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-04-04T16:35:10",
       "modificado": "2025-05-13T05:00:21",
-      "idade_dias": 398,
+      "idade_dias": 399,
       "assunto": "BBP - TaxID Autozone - Inconsistência na Atualização do Campo B1_XTAXDTM - Integração Enterprise x Protheus x TaxID"
     },
     {
@@ -19992,7 +19992,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-02-14T16:40:09",
       "modificado": "2025-04-29T05:00:12",
-      "idade_dias": 447,
+      "idade_dias": 448,
       "assunto": "RES: Novo Poller GWMS - TOTVS"
     },
     {
@@ -20208,7 +20208,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-15T16:40:11",
       "modificado": "2025-04-24T05:00:04",
-      "idade_dias": 387,
+      "idade_dias": 388,
       "assunto": "Monitoramento alteração de arquivo"
     },
     {
@@ -21744,7 +21744,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-03-10T16:40:16",
       "modificado": "2025-03-21T05:00:06",
-      "idade_dias": 423,
+      "idade_dias": 424,
       "assunto": " Gerar e Executar Arquivo Diferencial - Thunders - HOMOLOGAÇÂO"
     },
     {
@@ -22020,7 +22020,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-03-06T16:35:20",
       "modificado": "2025-03-15T05:00:22",
-      "idade_dias": 427,
+      "idade_dias": 428,
       "assunto": "Bloqueio automático de contas"
     },
     {
@@ -22392,7 +22392,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-25T16:40:07",
       "modificado": "2025-03-05T05:00:24",
-      "idade_dias": 436,
+      "idade_dias": 437,
       "assunto": "RES: Monitoramento - Novo Painel de Operações Negócios Digitais"
     },
     {
@@ -23064,7 +23064,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-02-04T16:40:07",
       "modificado": "2025-02-15T05:00:24",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "Erro ao carregar dados"
     },
     {
@@ -23796,7 +23796,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-24T16:35:34",
       "modificado": "2025-02-09T05:00:08",
-      "idade_dias": 560,
+      "idade_dias": 561,
       "assunto": "Levantamento de Querys"
     },
     {
@@ -24000,7 +24000,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-08T16:31:52",
       "modificado": "2025-01-20T08:30:14",
-      "idade_dias": 545,
+      "idade_dias": 546,
       "assunto": "Orientação Gestão Limite de Crédito"
     },
     {
@@ -24828,7 +24828,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-18T16:36:29",
       "modificado": "2024-12-30T16:30:03",
-      "idade_dias": 505,
+      "idade_dias": 506,
       "assunto": "AZ - Fluxos não encerrados TAX-ID"
     },
     {
@@ -28152,7 +28152,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-20T16:39:42",
       "modificado": "2024-09-30T09:00:12",
-      "idade_dias": 594,
+      "idade_dias": 595,
       "assunto": "Recebi e-mials de workflow para aprovação mas, ao clicar"
     },
     {
