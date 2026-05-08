@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778250626,
-  "generated_at_iso": "2026-05-08T14:30:26Z",
-  "count": 2395,
+  "generated_at": 1778251233,
+  "generated_at_iso": "2026-05-08T14:40:33Z",
+  "count": 2397,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,66 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050826000175",
+      "cliente": "bruno.fagundes@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-08T11:40:09",
+      "modificado": "2026-05-08T11:40:11",
+      "idade_dias": 0,
+      "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
+    },
+    {
+      "ticket": "2026050726000462",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-07T13:20:19",
+      "modificado": "2026-05-08T11:40:00",
+      "idade_dias": 0,
+      "assunto": "Ajuste DNS"
+    },
+    {
+      "ticket": "2026050826000166",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-08T11:38:06",
+      "modificado": "2026-05-08T11:38:09",
+      "idade_dias": 0,
+      "assunto": "BAIXA REALIZADA POR EQUIVOCO NO MES DE MARÇO"
+    },
+    {
+      "ticket": "2026050826000031",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-08T08:21:33",
+      "modificado": "2026-05-08T11:37:51",
+      "idade_dias": 0,
+      "assunto": "Progress OpenEdge - Vulnerabilidade"
+    },
+    {
+      "ticket": "2026050826000157",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-08T11:15:06",
+      "modificado": "2026-05-08T11:33:24",
+      "idade_dias": 0,
+      "assunto": "Projeto - LUA centreon X gwms"
+    },
     {
       "ticket": "2026050526000144",
       "cliente": "FADEL",
@@ -38,18 +98,6 @@
       "modificado": "2026-05-08T11:17:46",
       "idade_dias": 2,
       "assunto": "Falha na importação de Pedidos de Vendas"
-    },
-    {
-      "ticket": "2026050826000157",
-      "cliente": "GroundWork",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T11:15:06",
-      "modificado": "2026-05-08T11:15:08",
-      "idade_dias": 0,
-      "assunto": "Projeto - LUA centreon X gwms"
     },
     {
       "ticket": "2026050726000088",
@@ -280,18 +328,6 @@
       "assunto": "Adicionar descrição dos servidores"
     },
     {
-      "ticket": "2026050826000031",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-08T08:21:33",
-      "modificado": "2026-05-08T08:24:47",
-      "idade_dias": 0,
-      "assunto": "Progress OpenEdge - Vulnerabilidade"
-    },
-    {
       "ticket": "2026050426000422",
       "cliente": "BRAVEO",
       "fila": "GWMS",
@@ -432,7 +468,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-04T11:34:20",
       "modificado": "2026-05-08T05:00:23",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Configurar Compilador"
     },
     {
@@ -998,18 +1034,6 @@
       "modificado": "2026-05-07T14:35:39",
       "idade_dias": 0,
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa"
-    },
-    {
-      "ticket": "2026050726000462",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-07T13:20:19",
-      "modificado": "2026-05-07T14:24:48",
-      "idade_dias": 0,
-      "assunto": "Ajuste DNS"
     },
     {
       "ticket": "2026042726000382",
@@ -1896,7 +1920,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-04-08T11:40:17",
       "modificado": "2026-05-06T13:36:29",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Ticket de teste"
     },
     {
@@ -2076,7 +2100,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-30T11:40:06",
       "modificado": "2026-05-06T09:29:28",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Acesso - az-srv-app-01 - OTRS - Agente de IA"
     },
     {
@@ -2160,7 +2184,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-04T11:32:40",
       "modificado": "2026-05-06T08:07:01",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "acesso ao ambeinte do servidor"
     },
     {
@@ -2400,7 +2424,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-04T11:40:20",
       "modificado": "2026-05-05T15:28:08",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Ticket Recorrência Mensal AUTOZONE"
     },
     {
@@ -3456,7 +3480,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-03-13T11:35:16",
       "modificado": "2026-04-21T11:58:34",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Solicitação de Ponto de Entrada - Permissão Automática em Contratos (SIGAGCT)"
     },
     {
@@ -4008,7 +4032,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-03T11:35:09",
       "modificado": "2026-04-13T18:12:57",
-      "idade_dias": 65,
+      "idade_dias": 66,
       "assunto": "Mapa Links"
     },
     {
@@ -4740,7 +4764,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-13T11:37:25",
       "modificado": "2026-03-26T05:00:20",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Contabilização Offiline"
     },
     {
@@ -6132,7 +6156,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-24T11:40:23",
       "modificado": "2026-03-05T05:00:32",
-      "idade_dias": 72,
+      "idade_dias": 73,
       "assunto": "Filial São João da Ponte/MG - Fazenda Ponte Nova."
     },
     {
@@ -6504,7 +6528,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-13T11:38:35",
       "modificado": "2026-02-21T05:00:30",
-      "idade_dias": 83,
+      "idade_dias": 84,
       "assunto": "EXCLUSÃO DE CANCELAMENTO DE BAIXA"
     },
     {
@@ -6996,7 +7020,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-02T11:36:49",
       "modificado": "2026-02-14T05:00:22",
-      "idade_dias": 94,
+      "idade_dias": 95,
       "assunto": "AZ | Criar Visão GWMS - Notas de Entrada Contábil"
     },
     {
@@ -7356,7 +7380,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-01-22T11:35:16",
       "modificado": "2026-02-06T05:00:20",
-      "idade_dias": 105,
+      "idade_dias": 106,
       "assunto": "Projeto Atualização Protheus Release - 2510"
     },
     {
@@ -8064,7 +8088,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-09T11:38:01",
       "modificado": "2026-01-24T05:00:11",
-      "idade_dias": 118,
+      "idade_dias": 119,
       "assunto": "Titulo VST sumiu do Cond nos dias 30 e 31 - NS"
     },
     {
@@ -8604,7 +8628,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-05T11:32:25",
       "modificado": "2026-01-13T05:00:32",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "RELATÓRIO DE OBRA SEM IPI"
     },
     {
@@ -8916,7 +8940,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-22T11:36:40",
       "modificado": "2025-12-31T05:00:18",
-      "idade_dias": 136,
+      "idade_dias": 137,
       "assunto": "Substituição aprovador do FPP do BS"
     },
     {
@@ -9120,7 +9144,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2025-12-16T11:35:09",
       "modificado": "2025-12-25T05:00:20",
-      "idade_dias": 142,
+      "idade_dias": 143,
       "assunto": "Downtime -  #TOTVS-NETWORK - Alertas HOST DOWN - 25121610032283"
     },
     {
@@ -9144,7 +9168,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2025-12-16T11:35:10",
       "modificado": "2025-12-24T05:00:21",
-      "idade_dias": 142,
+      "idade_dias": 143,
       "assunto": "Downtime -  #TOTVS-NETWORK - SP_BRSPSNC78-PAV2B-SL2 - Power Supply - 25121611140157"
     },
     {
@@ -9684,7 +9708,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-02T11:39:05",
       "modificado": "2025-12-10T05:00:16",
-      "idade_dias": 156,
+      "idade_dias": 157,
       "assunto": "Acesso Protheus MacBook"
     },
     {
@@ -10212,7 +10236,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-17T11:40:15",
       "modificado": "2025-11-26T05:00:29",
-      "idade_dias": 171,
+      "idade_dias": 172,
       "assunto": "RES: #TOTVS-SERVERS - Alertas HOST DOWN - 25111423403361"
     },
     {
@@ -10944,7 +10968,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-23T11:32:47",
       "modificado": "2025-10-31T05:00:24",
-      "idade_dias": 196,
+      "idade_dias": 197,
       "assunto": "NK_ Substituição de Aprovador Financeiro"
     },
     {
@@ -11076,7 +11100,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-27T11:40:11",
       "modificado": "2025-10-29T05:00:20",
-      "idade_dias": 253,
+      "idade_dias": 254,
       "assunto": "RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -12708,7 +12732,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-11T11:40:06",
       "modificado": "2025-09-23T05:00:22",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "TJBA - Visão geral dos equipamentos"
     },
     {
@@ -12972,7 +12996,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-10T11:32:50",
       "modificado": "2025-09-18T05:00:24",
-      "idade_dias": 239,
+      "idade_dias": 240,
       "assunto": "EFD REFIND - COND CIVIL BS - NF 7882"
     },
     {
@@ -14568,7 +14592,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-07-28T11:31:02",
       "modificado": "2025-08-19T05:00:11",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "PODER DE TERCEIROS - CLIENTE LG"
     },
     {
@@ -14964,7 +14988,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-30T11:35:09",
       "modificado": "2025-08-09T05:00:15",
-      "idade_dias": 281,
+      "idade_dias": 282,
       "assunto": "RES: ARCO - URLS_SAS - SAS_Educacao - 25073003061165"
     },
     {
@@ -15732,7 +15756,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-11T11:40:25",
       "modificado": "2025-07-19T05:00:33",
-      "idade_dias": 300,
+      "idade_dias": 301,
       "assunto": "AZ - Corrigir Alçada de Aprovação da Hebe"
     },
     {
@@ -15864,7 +15888,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-07-09T11:40:18",
       "modificado": "2025-07-17T05:00:22",
-      "idade_dias": 302,
+      "idade_dias": 303,
       "assunto": "Alteração monitoramento GWMS  - JOBS SQL - AUTOZONE"
     },
     {
@@ -16068,7 +16092,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-04T11:33:51",
       "modificado": "2025-07-12T05:00:25",
-      "idade_dias": 307,
+      "idade_dias": 308,
       "assunto": "Emissão de NF-e Transferência Saldo Credor - Filial 0083"
     },
     {
@@ -16248,7 +16272,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-07-01T11:39:46",
       "modificado": "2025-07-09T05:00:20",
-      "idade_dias": 310,
+      "idade_dias": 311,
       "assunto": "Licence Serve - Base Teste"
     },
     {
@@ -16836,7 +16860,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-17T11:35:07",
       "modificado": "2025-06-26T05:00:20",
-      "idade_dias": 324,
+      "idade_dias": 325,
       "assunto": "Revisão do monitoramento GDBR"
     },
     {
@@ -17508,7 +17532,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-10T11:35:07",
       "modificado": "2025-06-12T05:00:07",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "Lista de Hosts para inclusão no GWMS - Copel"
     },
     {
@@ -17772,7 +17796,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-27T11:35:29",
       "modificado": "2025-06-05T05:00:23",
-      "idade_dias": 345,
+      "idade_dias": 346,
       "assunto": "Orçado não esta batendo valores com Previsto."
     },
     {
@@ -19236,7 +19260,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-17T11:35:08",
       "modificado": "2025-05-12T05:00:18",
-      "idade_dias": 385,
+      "idade_dias": 386,
       "assunto": "RES: [EXTERNAL] Re: Lp 532 - Compra de Mercadoria (21030)"
     },
     {
@@ -19608,7 +19632,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-24T11:40:26",
       "modificado": "2025-05-03T05:00:26",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "RES: #TOTVS-SERVERS - SP_ZEN-APP03 - Mountpoint:/mnt/protheus - 25042411244436"
     },
     {
@@ -19944,7 +19968,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-22T11:35:50",
       "modificado": "2025-04-30T05:00:17",
-      "idade_dias": 380,
+      "idade_dias": 381,
       "assunto": "AJ Realty CS - Alterar data de depreciação"
     },
     {
@@ -20496,7 +20520,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-24T11:40:22",
       "modificado": "2025-04-22T05:00:20",
-      "idade_dias": 409,
+      "idade_dias": 410,
       "assunto": "Revisão LP 655-02"
     },
     {
@@ -21456,7 +21480,7 @@
       "atendente": "Thiago Sebek",
       "criado": "2025-03-19T11:31:50",
       "modificado": "2025-03-27T05:00:11",
-      "idade_dias": 414,
+      "idade_dias": 415,
       "assunto": "Crear nuevo acceso Datasul"
     },
     {
@@ -21540,7 +21564,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-01-23T11:36:38",
       "modificado": "2025-03-26T05:00:05",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "AZ - Diferenças de valores nas notas de transferências FY2025 P05"
     },
     {
@@ -21732,7 +21756,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-13T11:35:21",
       "modificado": "2025-03-21T05:00:07",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "Servidor fora do monitoramento."
     },
     {
@@ -22440,7 +22464,7 @@
       "atendente": "Geyson Albano",
       "criado": "2025-02-13T11:40:20",
       "modificado": "2025-03-05T05:00:21",
-      "idade_dias": 448,
+      "idade_dias": 449,
       "assunto": "Receita Recorrente - Ajustes"
     },
     {
@@ -22944,7 +22968,7 @@
       "atendente": "Alisson Silva",
       "criado": "2025-01-29T11:40:01",
       "modificado": "2025-02-20T05:00:23",
-      "idade_dias": 463,
+      "idade_dias": 464,
       "assunto": "AZ - Notas de devolução pendentes na integração"
     },
     {
@@ -23352,7 +23376,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-01-31T11:40:06",
       "modificado": "2025-02-11T05:00:10",
-      "idade_dias": 461,
+      "idade_dias": 462,
       "assunto": "Encerramento automatico - OTRS"
     },
     {
@@ -23724,7 +23748,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-20T11:34:54",
       "modificado": "2025-02-09T05:00:12",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "Regra de Fluxo de Caixa"
     },
     {
@@ -23892,7 +23916,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-01-10T11:35:21",
       "modificado": "2025-01-22T15:00:02",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "RE: FeedBack sobe desempenho do Banco"
     },
     {
@@ -24816,7 +24840,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-12-24T11:39:48",
       "modificado": "2024-12-31T13:00:01",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "PROTHEUS"
     },
     {
@@ -25104,7 +25128,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-16T11:40:08",
       "modificado": "2024-12-24T16:30:07",
-      "idade_dias": 507,
+      "idade_dias": 508,
       "assunto": "Remoção de VMs do monitoramento."
     },
     {
@@ -25908,7 +25932,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-11T11:31:40",
       "modificado": "2024-12-02T20:00:11",
-      "idade_dias": 542,
+      "idade_dias": 543,
       "assunto": "Campo demanda - Relatório Ficha técnica"
     },
     {
@@ -26508,7 +26532,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-06T11:40:22",
       "modificado": "2024-11-14T17:00:10",
-      "idade_dias": 547,
+      "idade_dias": 548,
       "assunto": "Monitoramento novo host"
     },
     {
@@ -28080,7 +28104,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-09-20T11:40:07",
       "modificado": "2024-09-30T15:30:02",
-      "idade_dias": 594,
+      "idade_dias": 595,
       "assunto": "Atualização dos Hostname Painel Infra Core TI / Infra LDS"
     },
     {
@@ -28104,7 +28128,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-18T11:37:36",
       "modificado": "2024-09-30T12:00:00",
-      "idade_dias": 596,
+      "idade_dias": 597,
       "assunto": "RETORNO TAXID"
     },
     {
@@ -28344,7 +28368,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-13T11:35:12",
       "modificado": "2024-09-24T12:30:09",
-      "idade_dias": 601,
+      "idade_dias": 602,
       "assunto": "INCLUSÃO DE MONITORAMENTO"
     },
     {
