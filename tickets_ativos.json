@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778246426,
-  "generated_at_iso": "2026-05-08T13:20:26Z",
-  "count": 2396,
+  "generated_at": 1778247032,
+  "generated_at_iso": "2026-05-08T13:30:32Z",
+  "count": 2395,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026050526000377",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-05T16:45:05",
+      "modificado": "2026-05-08T10:21:43",
+      "idade_dias": 2,
+      "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
+    },
+    {
+      "ticket": "2026050726000088",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-07T08:13:00",
+      "modificado": "2026-05-08T10:21:30",
+      "idade_dias": 1,
+      "assunto": "EXCLUSÃO DE TITULO A PAGAR"
+    },
+    {
       "ticket": "2026050726000597",
       "cliente": "ARCO",
       "fila": "GWMS",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-08T10:19:33",
       "idade_dias": 0,
       "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
-    },
-    {
-      "ticket": "2026050726000088",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-07T08:13:00",
-      "modificado": "2026-05-08T10:14:59",
-      "idade_dias": 1,
-      "assunto": "EXCLUSÃO DE TITULO A PAGAR"
     },
     {
       "ticket": "2026050826000139",
@@ -98,18 +110,6 @@
       "modificado": "2026-05-08T10:03:28",
       "idade_dias": 0,
       "assunto": "Tss Finpec - Caindo"
-    },
-    {
-      "ticket": "2026050526000377",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-05T16:45:05",
-      "modificado": "2026-05-08T10:01:58",
-      "idade_dias": 2,
-      "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
     },
     {
       "ticket": "2026042826000237",
@@ -564,7 +564,7 @@
       "atendente": "Bruno Montenegro",
       "criado": "2026-05-06T10:25:04",
       "modificado": "2026-05-08T05:00:22",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Atendimento Zurich - CS0016767"
     },
     {
@@ -744,7 +744,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-03-23T10:26:08",
       "modificado": "2026-05-07T19:38:57",
-      "idade_dias": 45,
+      "idade_dias": 46,
       "assunto": "Baixa Automática de Pagamento Grupo 80"
     },
     {
@@ -2008,18 +2008,6 @@
       "assunto": "Criar dados para ambiente demo Protheus"
     },
     {
-      "ticket": "2026050526000368",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-05T16:35:04",
-      "modificado": "2026-05-06T10:16:44",
-      "idade_dias": 2,
-      "assunto": "Unimed Curitiba - adastrar equipamentos"
-    },
-    {
       "ticket": "2026042826000648",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -2244,7 +2232,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-28T10:25:25",
       "modificado": "2026-05-06T05:00:23",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Analise de alertas FW-ESCRITORIO-FORTALEZA"
     },
     {
@@ -2604,7 +2592,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-03-27T10:30:13",
       "modificado": "2026-05-04T08:50:22",
-      "idade_dias": 41,
+      "idade_dias": 42,
       "assunto": "Solicitação de API REST – Integração Protheus/ Inventário Físico"
     },
     {
@@ -3216,7 +3204,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-13T10:25:08",
       "modificado": "2026-04-24T05:00:18",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Revisão de alertas FADEL"
     },
     {
@@ -3456,7 +3444,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-06T10:25:14",
       "modificado": "2026-04-21T11:58:58",
-      "idade_dias": 31,
+      "idade_dias": 32,
       "assunto": "Retomada de Testes: Integração Contratos (Fluig x Protheus)"
     },
     {
@@ -4932,7 +4920,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-05T10:28:38",
       "modificado": "2026-03-24T05:00:19",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "SPED CONTRIBUICOES"
     },
     {
@@ -4980,7 +4968,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-13T10:25:10",
       "modificado": "2026-03-21T05:00:35",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Revisão de alertas Buntech e Autozone"
     },
     {
@@ -5424,7 +5412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T10:24:43",
       "modificado": "2026-03-18T05:00:30",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "CAMPO B1_CONV"
     },
     {
@@ -6504,7 +6492,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-02-16T10:30:03",
       "modificado": "2026-02-24T05:00:15",
-      "idade_dias": 80,
+      "idade_dias": 81,
       "assunto": "RE: PD06 - Energia Elétrica"
     },
     {
@@ -6672,7 +6660,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-02-09T10:27:17",
       "modificado": "2026-02-20T05:00:38",
-      "idade_dias": 87,
+      "idade_dias": 88,
       "assunto": "SAIDA DA PORTA 443 - SERVIDOR 10.105.2.50"
     },
     {
@@ -7716,7 +7704,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-20T10:30:16",
       "modificado": "2026-01-30T05:00:29",
-      "idade_dias": 107,
+      "idade_dias": 108,
       "assunto": " Inclusão GWMS"
     },
     {
@@ -8112,7 +8100,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-12T10:25:07",
       "modificado": "2026-01-23T05:00:31",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "Re: Pacotes Atualização - Protheus"
     },
     {
@@ -8196,7 +8184,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-12T10:25:11",
       "modificado": "2026-01-22T05:00:30",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -8376,7 +8364,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-12-12T10:25:29",
       "modificado": "2026-01-17T05:00:12",
-      "idade_dias": 146,
+      "idade_dias": 147,
       "assunto": "Módulo do Ativo - Campo ICMS"
     },
     {
@@ -8412,7 +8400,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-12-30T10:30:17",
       "modificado": "2026-01-16T05:00:15",
-      "idade_dias": 128,
+      "idade_dias": 129,
       "assunto": "Monitoramento GroundWork' via Segurança da Informação Corporativa - TI"
     },
     {
@@ -8640,7 +8628,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-12T10:25:08",
       "modificado": "2026-01-12T10:25:17",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "Conferencia parametrização Filial 178"
     },
     {
@@ -9408,7 +9396,7 @@
       "atendente": "Felipe Cardoso Pessoa",
       "criado": "2025-12-10T10:30:11",
       "modificado": "2025-12-19T05:00:21",
-      "idade_dias": 148,
+      "idade_dias": 149,
       "assunto": "LIBERAÇÂO SITE"
     },
     {
@@ -9636,7 +9624,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T10:25:41",
       "modificado": "2025-12-11T05:00:22",
-      "idade_dias": 157,
+      "idade_dias": 158,
       "assunto": "Planilha Produtos -  Mercadorias para revenda"
     },
     {
@@ -9972,7 +9960,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-25T10:28:45",
       "modificado": "2025-12-03T05:00:26",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "Erro no Relatório de Projeção de Depreciação"
     },
     {
@@ -10872,7 +10860,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-23T10:30:07",
       "modificado": "2025-11-01T05:00:19",
-      "idade_dias": 196,
+      "idade_dias": 197,
       "assunto": "Re: #TOTVS-SERVERS - CERTIFICADOS_TOTVS - Validade - visitante.totvs.com.br - Plugin Forescou - 25102306101692"
     },
     {
@@ -13008,7 +12996,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-10T10:26:29",
       "modificado": "2025-09-18T05:00:21",
-      "idade_dias": 239,
+      "idade_dias": 240,
       "assunto": "AZ - ACESSO - Criar novo usuário Protheus"
     },
     {
@@ -13404,7 +13392,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-04T10:23:58",
       "modificado": "2025-09-12T05:00:30",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Liberação pendente"
     },
     {
@@ -14640,7 +14628,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-07-29T10:20:43",
       "modificado": "2025-08-16T05:00:24",
-      "idade_dias": 282,
+      "idade_dias": 283,
       "assunto": "Inconsistências CAT"
     },
     {
@@ -14844,7 +14832,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-31T10:23:55",
       "modificado": "2025-08-12T05:00:21",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "Acesso a cadastro de fornecedor - lista de usuários"
     },
     {
@@ -15072,7 +15060,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-07T10:29:30",
       "modificado": "2025-08-07T10:29:32",
-      "idade_dias": 273,
+      "idade_dias": 274,
       "assunto": "AZ - TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE TESTE"
     },
     {
@@ -16140,7 +16128,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-14T10:30:25",
       "modificado": "2025-07-12T05:00:18",
-      "idade_dias": 358,
+      "idade_dias": 359,
       "assunto": "Arquivo fopag- filial"
     },
     {
@@ -16176,7 +16164,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-02T10:30:12",
       "modificado": "2025-07-11T05:00:25",
-      "idade_dias": 309,
+      "idade_dias": 310,
       "assunto": "Solicitação de Atualização no Monitoramento de VMs"
     },
     {
@@ -18384,7 +18372,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-16T10:30:23",
       "modificado": "2025-05-24T05:00:28",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "Lentidão no Processo de Baixa de Boletos – Urgente"
     },
     {
@@ -18624,7 +18612,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-13T10:30:10",
       "modificado": "2025-05-21T05:00:38",
-      "idade_dias": 359,
+      "idade_dias": 360,
       "assunto": "Liberação de acessos aos Dashboard"
     },
     {
@@ -19536,7 +19524,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-28T10:25:15",
       "modificado": "2025-05-06T05:00:22",
-      "idade_dias": 374,
+      "idade_dias": 375,
       "assunto": "RES: #TOTVS-SERVERS - CORE_SERVICES - PROD-SISTEMA_VMWARE - 25042809393457"
     },
     {
@@ -21708,7 +21696,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-14T10:25:23",
       "modificado": "2025-03-22T05:00:12",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "Incluir Monitoramento Firewall Argentina e POA"
     },
     {
@@ -22584,7 +22572,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-02-12T10:26:07",
       "modificado": "2025-03-02T05:00:09",
-      "idade_dias": 449,
+      "idade_dias": 450,
       "assunto": "ANALISE DE/EM PODER DE TERCEIROS"
     },
     {
@@ -24348,7 +24336,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-03T10:27:22",
       "modificado": "2025-01-13T21:30:05",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "Consórcio CS - Titulo a receber 000138479"
     },
     {
@@ -25008,7 +24996,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-19T10:20:48",
       "modificado": "2024-12-26T15:00:03",
-      "idade_dias": 504,
+      "idade_dias": 505,
       "assunto": "Liberação acesso Protheus"
     },
     {
@@ -25044,7 +25032,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-17T10:25:14",
       "modificado": "2024-12-26T09:00:04",
-      "idade_dias": 506,
+      "idade_dias": 507,
       "assunto": "Alteração no dash validade-garantia"
     },
     {
@@ -25140,7 +25128,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-09T10:29:41",
       "modificado": "2024-12-24T15:30:04",
-      "idade_dias": 605,
+      "idade_dias": 606,
       "assunto": "Retorno de Saldo"
     },
     {
@@ -25728,7 +25716,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-02T10:25:09",
       "modificado": "2024-12-09T15:30:16",
-      "idade_dias": 521,
+      "idade_dias": 522,
       "assunto": "AZ - GWMS - Liberação de acessos Dashboard AZ"
     },
     {
@@ -26400,7 +26388,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-10-18T10:21:36",
       "modificado": "2024-11-18T08:30:13",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "Alteração de legislação - Estados RS fora do protocolo de ICMS ST"
     },
     {
@@ -27216,7 +27204,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-16T10:24:00",
       "modificado": "2024-10-23T15:30:07",
-      "idade_dias": 568,
+      "idade_dias": 569,
       "assunto": "Notas TAXID"
     },
     {
@@ -27588,7 +27576,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-10-09T10:30:10",
       "modificado": "2024-10-16T16:00:07",
-      "idade_dias": 575,
+      "idade_dias": 576,
       "assunto": "Relatotrio de indisponibilidade link VIVO CVFOR"
     },
     {
@@ -27996,7 +27984,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-25T10:30:08",
       "modificado": "2024-10-02T12:30:04",
-      "idade_dias": 589,
+      "idade_dias": 590,
       "assunto": "RES: Remover do Monitoramento novamente - sp-vcenter02.sp01.local"
     },
     {
@@ -28416,7 +28404,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2024-08-27T10:25:21",
       "modificado": "2024-09-23T08:30:16",
-      "idade_dias": 618,
+      "idade_dias": 619,
       "assunto": "[TOTVS] - Solicitação Monitoramento"
     },
     {
@@ -28644,7 +28632,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-27T10:27:28",
       "modificado": "2024-09-16T11:00:15",
-      "idade_dias": 618,
+      "idade_dias": 619,
       "assunto": "LP PA revisão"
     },
     {
