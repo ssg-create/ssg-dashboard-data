@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778252496,
-  "generated_at_iso": "2026-05-08T15:01:36Z",
+  "generated_at": 1778253034,
+  "generated_at_iso": "2026-05-08T15:10:34Z",
   "count": 5181,
   "filas": [
     "DATASUL",
@@ -19,9 +19,9 @@
       "num": "2026050826000175",
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2",
       "criado": "2026-05-08T11:40:09",
-      "modificado": "2026-05-08T11:47:36",
+      "modificado": "2026-05-08T12:02:39",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -30,10 +30,10 @@
       "cli_user": "bruno.fagundes@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 21,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 19
     },
     {
       "num": "2026050826000166",
@@ -79,9 +79,9 @@
       "num": "2026050826000148",
       "assunto": "Desativação de Monitoramento VM SPOSRVPSADBPRD1",
       "criado": "2026-05-08T10:10:16",
-      "modificado": "2026-05-08T10:59:29",
+      "modificado": "2026-05-08T12:03:30",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
