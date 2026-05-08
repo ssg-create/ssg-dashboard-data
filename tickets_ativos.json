@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778245241,
-  "generated_at_iso": "2026-05-08T13:00:41Z",
-  "count": 2395,
+  "generated_at": 1778245825,
+  "generated_at_iso": "2026-05-08T13:10:25Z",
+  "count": 2396,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,90 @@
   ],
   "rows": [
     {
+      "ticket": "2026050826000148",
+      "cliente": "pedro.garcia@totvs.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-08T10:10:16",
+      "modificado": "2026-05-08T10:10:19",
+      "idade_dias": 0,
+      "assunto": "Desativação de Monitoramento VM SPOSRVPSADBPRD1"
+    },
+    {
+      "ticket": "2026050826000139",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-08T09:47:57",
+      "modificado": "2026-05-08T10:05:55",
+      "idade_dias": 0,
+      "assunto": "ATIBUIÇÃO DE USUÁRIO"
+    },
+    {
+      "ticket": "2026050726000597",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-07T20:40:14",
+      "modificado": "2026-05-08T10:05:42",
+      "idade_dias": 0,
+      "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
+    },
+    {
+      "ticket": "2026050826000121",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-08T09:47:32",
+      "modificado": "2026-05-08T10:05:14",
+      "idade_dias": 0,
+      "assunto": "Desativação de alertas severidade UNKNOWN"
+    },
+    {
+      "ticket": "2026050826000111",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-08T09:45:13",
+      "modificado": "2026-05-08T10:04:34",
+      "idade_dias": 0,
+      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
+    },
+    {
+      "ticket": "2026050826000086",
+      "cliente": "FINPEC",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-05-08T09:10:09",
+      "modificado": "2026-05-08T10:03:28",
+      "idade_dias": 0,
+      "assunto": "Tss Finpec - Caindo"
+    },
+    {
+      "ticket": "2026050526000377",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-05T16:45:05",
+      "modificado": "2026-05-08T10:01:58",
+      "idade_dias": 2,
+      "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
+    },
+    {
       "ticket": "2026042826000237",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -28,30 +112,6 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
-      "ticket": "2026050826000086",
-      "cliente": "FINPEC",
-      "fila": "DBA",
-      "estado": "CLASSIFICADO",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-08T09:10:09",
-      "modificado": "2026-05-08T09:56:28",
-      "idade_dias": 0,
-      "assunto": "Tss Finpec - Caindo"
-    },
-    {
-      "ticket": "2026050826000139",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T09:47:57",
-      "modificado": "2026-05-08T09:47:59",
-      "idade_dias": 0,
-      "assunto": "ATIBUIÇÃO DE USUÁRIO"
-    },
-    {
       "ticket": "2026050726000551",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -62,30 +122,6 @@
       "modificado": "2026-05-08T09:47:42",
       "idade_dias": 0,
       "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
-    },
-    {
-      "ticket": "2026050826000121",
-      "cliente": "TJBA",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "4 high",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T09:47:32",
-      "modificado": "2026-05-08T09:47:34",
-      "idade_dias": 0,
-      "assunto": "Desativação de alertas severidade UNKNOWN"
-    },
-    {
-      "ticket": "2026050826000111",
-      "cliente": "fabio.jesus@totvs.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T09:45:13",
-      "modificado": "2026-05-08T09:45:16",
-      "idade_dias": 0,
-      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
     },
     {
       "ticket": "2026050526000528",
@@ -230,18 +266,6 @@
       "modificado": "2026-05-08T08:07:56",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL03 - UX:ZENDESK-GESTAO - 26050721410535"
-    },
-    {
-      "ticket": "2026050726000597",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-07T20:40:14",
-      "modificado": "2026-05-08T08:06:33",
-      "idade_dias": 0,
-      "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
     },
     {
       "ticket": "2026050426000422",
@@ -936,7 +960,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-07T10:05:13",
       "modificado": "2026-05-07T15:12:35",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Criação de usuário parceiro"
     },
     {
@@ -1500,7 +1524,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-07T10:05:15",
       "modificado": "2026-05-07T10:18:58",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Disk:C: - 26050710022057"
     },
     {
@@ -1716,7 +1740,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-05T10:05:11",
       "modificado": "2026-05-06T19:39:26",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "RE: Coiban/Coife"
     },
     {
@@ -1862,18 +1886,6 @@
       "modificado": "2026-05-06T15:18:03",
       "idade_dias": 16,
       "assunto": "Desenvolvimento do gw/v2"
-    },
-    {
-      "ticket": "2026050526000377",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-05T16:45:05",
-      "modificado": "2026-05-06T13:50:57",
-      "idade_dias": 2,
-      "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
     },
     {
       "ticket": "2026040826000202",
@@ -2916,7 +2928,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-27T10:05:14",
       "modificado": "2026-04-28T15:51:17",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042709595386"
     },
     {
@@ -3252,7 +3264,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-10T10:05:12",
       "modificado": "2026-04-23T05:00:19",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Criação de nova visualização"
     },
     {
@@ -3300,7 +3312,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-14T10:07:35",
       "modificado": "2026-04-22T05:00:36",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Select - Combo rules"
     },
     {
@@ -3672,7 +3684,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-10T10:10:18",
       "modificado": "2026-04-18T05:00:12",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Alteração regra combo rules - Conta 44768 - Segmento 1000"
     },
     {
@@ -3792,7 +3804,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-08T10:01:43",
       "modificado": "2026-04-16T05:00:20",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "TITULO VSS BAIXADO CONSTANDO COMO ABERTO"
     },
     {
@@ -4680,7 +4692,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-19T10:10:24",
       "modificado": "2026-03-27T05:00:27",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Report GWMS"
     },
     {
@@ -4776,7 +4788,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-16T10:05:21",
       "modificado": "2026-03-25T05:00:29",
-      "idade_dias": 52,
+      "idade_dias": 53,
       "assunto": "RPO Homologação - URGENTE"
     },
     {
@@ -10404,7 +10416,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-11-07T10:10:09",
       "modificado": "2025-11-17T05:00:23",
-      "idade_dias": 181,
+      "idade_dias": 182,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -11484,7 +11496,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-27T10:04:42",
       "modificado": "2025-10-17T05:00:28",
-      "idade_dias": 253,
+      "idade_dias": 254,
       "assunto": "INTEGRAÇÃO CANCELADOS - LOJAS 0093-0094-0121"
     },
     {
@@ -12276,7 +12288,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-09-19T10:10:20",
       "modificado": "2025-09-30T05:00:26",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "Servidor de arquivos - Erro ao copiar arquivos"
     },
     {
@@ -12288,7 +12300,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-18T10:10:12",
       "modificado": "2025-09-30T05:00:23",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "Ajustes dashboards visão gerencial/unidades - ARCO "
     },
     {
@@ -13236,7 +13248,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-03T10:10:12",
       "modificado": "2025-09-16T05:00:26",
-      "idade_dias": 246,
+      "idade_dias": 247,
       "assunto": "Inserção de certificado em monitoramento."
     },
     {
@@ -15036,7 +15048,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-07-09T10:10:15",
       "modificado": "2025-08-08T05:00:11",
-      "idade_dias": 302,
+      "idade_dias": 303,
       "assunto": "CASTROLANDA | Criar serviço de registro de reboot"
     },
     {
@@ -15216,7 +15228,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-07-28T10:05:38",
       "modificado": "2025-08-05T05:00:30",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Erro no Protheus"
     },
     {
@@ -15840,7 +15852,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-07T10:05:12",
       "modificado": "2025-07-18T05:00:24",
-      "idade_dias": 304,
+      "idade_dias": 305,
       "assunto": ""
     },
     {
@@ -16044,7 +16056,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-05-14T10:05:18",
       "modificado": "2025-07-14T19:05:08",
-      "idade_dias": 358,
+      "idade_dias": 359,
       "assunto": "RES: Monitoramento - URLs do Protheus e certificado"
     },
     {
@@ -16500,7 +16512,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-06-17T10:05:18",
       "modificado": "2025-07-03T05:00:11",
-      "idade_dias": 324,
+      "idade_dias": 325,
       "assunto": "AZ - Renovar certificado no serviço App Meu Protheus - HML - Autozone"
     },
     {
@@ -17220,7 +17232,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-10T10:06:48",
       "modificado": "2025-06-18T05:00:18",
-      "idade_dias": 331,
+      "idade_dias": 332,
       "assunto": "Erro no estorno da aglutinação"
     },
     {
@@ -17364,7 +17376,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-06T10:05:13",
       "modificado": "2025-06-14T05:00:19",
-      "idade_dias": 335,
+      "idade_dias": 336,
       "assunto": "RES: Adição de Servidores - Monitoramento"
     },
     {
@@ -17952,7 +17964,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-15T10:05:15",
       "modificado": "2025-05-31T05:00:29",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "GWMS - Ambiente Pecval (Atualização)"
     },
     {
@@ -18252,7 +18264,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-19T10:05:14",
       "modificado": "2025-05-27T05:00:29",
-      "idade_dias": 353,
+      "idade_dias": 354,
       "assunto": "Monitoramento - BH-eng-dast.sp01.local"
     },
     {
@@ -18480,7 +18492,7 @@
       "atendente": "Felipe Cardoso Pessoa",
       "criado": "2025-05-14T10:10:21",
       "modificado": "2025-05-22T05:00:24",
-      "idade_dias": 358,
+      "idade_dias": 359,
       "assunto": "AZ - Liberar o acesso para conexão da VPN AZURE via Linux. "
     },
     {
@@ -19092,7 +19104,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-05-04T10:05:09",
       "modificado": "2025-05-13T05:00:24",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "AUTOZONE - SRV-PBI-PRD - Disk:C: - 25050409582035"
     },
     {
@@ -19812,7 +19824,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T10:03:48",
       "modificado": "2025-05-01T05:00:24",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "AZ - Liberar acesso A120COMP (incluir pedido de compra) - Karen Nogueira."
     },
     {
@@ -20196,7 +20208,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-16T10:05:13",
       "modificado": "2025-04-24T05:00:05",
-      "idade_dias": 386,
+      "idade_dias": 387,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -22692,7 +22704,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-02-18T10:10:18",
       "modificado": "2025-02-26T05:00:07",
-      "idade_dias": 443,
+      "idade_dias": 444,
       "assunto": "Monitoramento Jira Produção - Health Jira / Reindex Jira"
     },
     {
@@ -23040,7 +23052,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-01-22T10:01:59",
       "modificado": "2025-02-17T05:00:07",
-      "idade_dias": 470,
+      "idade_dias": 471,
       "assunto": "FRAPORT | Monitoramento dos shares SMB dos Servidores do Sistema Digifort POA e FOR"
     },
     {
@@ -23760,7 +23772,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-07T10:05:53",
       "modificado": "2025-02-09T05:00:10",
-      "idade_dias": 485,
+      "idade_dias": 486,
       "assunto": "Verificar possibilidade de mudanças no processo de inventário"
     },
     {
@@ -24420,7 +24432,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-01-10T10:10:12",
       "modificado": "2025-01-10T10:10:14",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "Cadastro de Cliente - ERRO TOTVS"
     },
     {
@@ -24456,7 +24468,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-01-02T10:03:52",
       "modificado": "2025-01-09T18:00:02",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "Ajuste nos contratos"
     },
     {
@@ -26436,7 +26448,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-01T10:06:12",
       "modificado": "2024-11-15T10:00:16",
-      "idade_dias": 583,
+      "idade_dias": 584,
       "assunto": "ERRO PARTNUMBER"
     },
     {
@@ -28332,7 +28344,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2024-09-09T10:05:11",
       "modificado": "2024-09-24T15:30:17",
-      "idade_dias": 605,
+      "idade_dias": 606,
       "assunto": "RES: [URGENTE] Novo CD Fortaleza"
     },
     {
@@ -28368,7 +28380,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-16T10:05:14",
       "modificado": "2024-09-23T12:30:06",
-      "idade_dias": 598,
+      "idade_dias": 599,
       "assunto": "Adicionar Monitoramento"
     },
     {
@@ -28692,7 +28704,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-06T10:07:48",
       "modificado": "2024-09-13T16:00:14",
-      "idade_dias": 608,
+      "idade_dias": 609,
       "assunto": "APROPRIAÇÃO CIAP - Livro zerado"
     },
     {
