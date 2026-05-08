@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778263837,
-  "generated_at_iso": "2026-05-08T18:10:37Z",
-  "count": 5179,
+  "generated_at": 1778264432,
+  "generated_at_iso": "2026-05-08T18:20:32Z",
+  "count": 5180,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050826000246",
+      "assunto": "AWS- Acesso seguro a uma instancia via SSH",
+      "criado": "2026-05-08T15:10:40",
+      "modificado": "2026-05-08T15:10:41",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "DKT",
+      "cli_user": "fuezu@dkt.com.br",
+      "servico": "Banco de Horas::Infraestrutura e Cloud",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050826000237",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_influxdb_gwms-stream-connector - ERROR - 26050815040599",
@@ -99,9 +119,9 @@
       "num": "2026050826000193",
       "assunto": "Contabilização de Adiantamento Conta Incorreta na SCP",
       "criado": "2026-05-08T13:45:34",
-      "modificado": "2026-05-08T15:08:41",
+      "modificado": "2026-05-08T15:11:54",
       "fila": "SSG",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "5 very high",
       "atendente": "Debora Gomes",
       "primeiro_nome": "Debora",
@@ -109,10 +129,10 @@
       "cli_id": "ALMEIDA JR",
       "cli_user": "integracao.almeidajunior",
       "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
+      "fechado": "2026-05-08T15:11:54",
       "resp_min_raw": 9,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 86,
+      "sol_min_bh": 86,
       "resp_min_bh": 9
     },
     {
