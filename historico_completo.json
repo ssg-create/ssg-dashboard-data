@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778200829,
-  "generated_at_iso": "2026-05-08T00:40:29Z",
+  "generated_at": 1778201423,
+  "generated_at_iso": "2026-05-08T00:50:23Z",
   "count": 5186,
   "filas": [
     "DATASUL",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050726000604",
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL03 - UX:ZENDESK-GESTAO - 26050721410535",
+      "criado": "2026-05-07T21:45:21",
+      "modificado": "2026-05-07T21:45:24",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050726000597",
       "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693",
@@ -66354,26 +66374,6 @@
       "sol_min_raw": 10060,
       "sol_min_bh": 2679,
       "resp_min_bh": 1033
-    },
-    {
-      "num": "2025123126000191",
-      "assunto": "AZ | Redução servidor banco",
-      "criado": "2025-12-31T16:20:06",
-      "modificado": "2026-01-07T21:45:16",
-      "fila": "INFRAESTUTURA",
-      "estado": "closed successful",
-      "prioridade": "3 normal",
-      "atendente": "Wiglas Reis",
-      "primeiro_nome": "Wiglas",
-      "ultimo_nome": "Reis",
-      "cli_id": "AUTOZONE",
-      "cli_user": "henriq.wagner@groundwork.com.br",
-      "servico": "Banco de Horas::Banco de Dados",
-      "fechado": "2026-01-07T21:45:16",
-      "resp_min_raw": 8885,
-      "sol_min_raw": 10405,
-      "sol_min_bh": 2799,
-      "resp_min_bh": 2259
     },
     {
       "num": "2025123126000164",
