@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778239222,
-  "generated_at_iso": "2026-05-08T11:20:22Z",
-  "count": 2393,
+  "generated_at": 1778239835,
+  "generated_at_iso": "2026-05-08T11:30:35Z",
+  "count": 2395,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,54 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050826000041",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-08T08:30:23",
+      "modificado": "2026-05-08T08:30:26",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Perfdata Size - 26050808282292"
+    },
+    {
+      "ticket": "2026050626000419",
+      "cliente": "GroundWork",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-06T16:40:14",
+      "modificado": "2026-05-08T08:30:22",
+      "idade_dias": 1,
+      "assunto": "Criação conta de e-mail TalentHub"
+    },
+    {
+      "ticket": "2026050426000137",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-04T09:25:51",
+      "modificado": "2026-05-08T08:26:50",
+      "idade_dias": 3,
+      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
+    },
+    {
+      "ticket": "2026050826000031",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-08T08:21:33",
+      "modificado": "2026-05-08T08:24:47",
+      "idade_dias": 0,
+      "assunto": "Progress OpenEdge - Vulnerabilidade"
+    },
     {
       "ticket": "2026050726000604",
       "cliente": "TOTVS",
@@ -444,7 +492,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-30T08:30:27",
       "modificado": "2026-05-08T05:00:21",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
@@ -904,18 +952,6 @@
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação"
     },
     {
-      "ticket": "2026050426000137",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-04T09:25:51",
-      "modificado": "2026-05-07T13:11:06",
-      "idade_dias": 3,
-      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
-    },
-    {
       "ticket": "2026050526000224",
       "cliente": null,
       "fila": "SSG",
@@ -1372,18 +1408,6 @@
       "assunto": "Correção Pipeline generate_wikia_documentation_apis"
     },
     {
-      "ticket": "2026050626000419",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-06T16:40:14",
-      "modificado": "2026-05-07T10:55:35",
-      "idade_dias": 1,
-      "assunto": "Criação conta de e-mail TalentHub"
-    },
-    {
       "ticket": "2026042826000362",
       "cliente": "BRAVEO",
       "fila": "GWMS",
@@ -1548,7 +1572,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-05T08:30:19",
       "modificado": "2026-05-07T08:29:12",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Fwd: #TOTVS-SERVERS - SGTC_X_JAMF - SGTC X JAMF - Total Mac Computers - 26050309322921"
     },
     {
@@ -2208,7 +2232,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-27T08:26:47",
       "modificado": "2026-05-06T05:00:20",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Erro de  -L no servidor"
     },
     {
@@ -2436,7 +2460,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2026-04-29T08:25:14",
       "modificado": "2026-05-05T09:47:36",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "#TOTVS-NETWORK - JOI_BRJOISW01-PV4B - Power Supply - 26042908233891"
     },
     {
@@ -4548,7 +4572,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-23T08:30:09",
       "modificado": "2026-03-31T05:00:31",
-      "idade_dias": 45,
+      "idade_dias": 46,
       "assunto": "Acesso ao OTRS"
     },
     {
@@ -5796,7 +5820,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-03T08:30:05",
       "modificado": "2026-03-12T05:00:26",
-      "idade_dias": 65,
+      "idade_dias": 66,
       "assunto": "Re: #TOTVS-SERVERS - Alertas UNKNOWN - 26030306494210"
     },
     {
@@ -6444,7 +6468,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-18T08:30:15",
       "modificado": "2026-02-26T05:00:14",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Certificado digital Lucas do Rio Verde - CNPJ 29.886.187/0052-02"
     },
     {
@@ -9876,7 +9900,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-11-24T08:28:32",
       "modificado": "2025-12-05T05:00:32",
-      "idade_dias": 164,
+      "idade_dias": 165,
       "assunto": "INTEGRAÇÃO SIENGE X PROTHEUS (CONTRATO VENDAS)"
     },
     {
@@ -13008,7 +13032,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-04T08:26:33",
       "modificado": "2025-09-18T05:00:17",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Data de Vencimento dos Impostos"
     },
     {
@@ -13380,7 +13404,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-09-04T08:30:13",
       "modificado": "2025-09-12T05:00:28",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Poder de Terceiros Yamaha / Solicitação de Reunião - Melhor Entendimento da Demanda"
     },
     {
@@ -13500,7 +13524,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-26T08:25:09",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 254,
+      "idade_dias": 255,
       "assunto": "Validação de Monitoramento Hosts Hyper-V + Saúde de Hardware via IPMI"
     },
     {
@@ -15168,7 +15192,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T08:30:23",
       "modificado": "2025-08-06T05:00:26",
-      "idade_dias": 295,
+      "idade_dias": 296,
       "assunto": "PD12 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -15852,7 +15876,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-16T08:20:24",
       "modificado": "2025-07-16T08:20:27",
-      "idade_dias": 295,
+      "idade_dias": 296,
       "assunto": "ERRO - IMPORTAÇÃO ARQUIVO RETORNO SITEF"
     },
     {
@@ -16860,7 +16884,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-17T08:23:17",
       "modificado": "2025-06-25T05:00:17",
-      "idade_dias": 324,
+      "idade_dias": 325,
       "assunto": "Novo usuário Emmanuel Silvano"
     },
     {
@@ -19464,7 +19488,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-06T08:30:10",
       "modificado": "2025-05-06T08:30:13",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "Alteração de Data "
     },
     {
@@ -19668,7 +19692,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-04-24T08:30:25",
       "modificado": "2025-05-02T05:00:24",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "AutoZone | Robô inoperante"
     },
     {
@@ -22056,7 +22080,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-03-13T08:30:16",
       "modificado": "2025-03-13T08:30:19",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "Configuração Protheus "
     },
     {
@@ -23568,7 +23592,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-01-27T08:30:13",
       "modificado": "2025-02-09T05:00:17",
-      "idade_dias": 465,
+      "idade_dias": 466,
       "assunto": "Monitoramento externo links"
     },
     {
@@ -24300,7 +24324,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-01-14T08:30:11",
       "modificado": "2025-01-14T08:30:15",
-      "idade_dias": 478,
+      "idade_dias": 479,
       "assunto": "Erro Rotina de Depreciação US"
     },
     {
@@ -26604,7 +26628,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-11-05T08:28:49",
       "modificado": "2024-11-13T06:30:01",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Alteração de favorecido"
     },
     {
@@ -28116,7 +28140,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-16T08:20:22",
       "modificado": "2024-09-30T10:00:16",
-      "idade_dias": 598,
+      "idade_dias": 599,
       "assunto": "Monitoramento de atividade de VM (ping)"
     },
     {
@@ -28584,7 +28608,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-23T08:25:16",
       "modificado": "2024-09-16T14:00:02",
-      "idade_dias": 622,
+      "idade_dias": 623,
       "assunto": "MONITORAMENTO NOTAS DE REVENDA - TAX ID"
     },
     {
@@ -28704,7 +28728,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2024-09-05T08:25:21",
       "modificado": "2024-09-13T09:00:16",
-      "idade_dias": 609,
+      "idade_dias": 610,
       "assunto": "jirasqlserverxqefunq5nxru2.database.windows.net"
     },
     {
