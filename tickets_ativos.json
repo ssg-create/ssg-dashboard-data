@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778251233,
-  "generated_at_iso": "2026-05-08T14:40:33Z",
-  "count": 2397,
+  "generated_at": 1778251824,
+  "generated_at_iso": "2026-05-08T14:50:24Z",
+  "count": 2393,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,64 @@
   ],
   "rows": [
     {
+      "ticket": "2026050826000031",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-08T08:21:33",
+      "modificado": "2026-05-08T11:48:19",
+      "idade_dias": 0,
+      "assunto": "Progress OpenEdge - Vulnerabilidade"
+    },
+    {
       "ticket": "2026050826000175",
-      "cliente": "bruno.fagundes@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
       "criado": "2026-05-08T11:40:09",
-      "modificado": "2026-05-08T11:40:11",
+      "modificado": "2026-05-08T11:47:36",
       "idade_dias": 0,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
+    },
+    {
+      "ticket": "2026050526000206",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-05T10:54:15",
+      "modificado": "2026-05-08T11:46:51",
+      "idade_dias": 3,
+      "assunto": "Acesso Fabricio - Novo colaborador marketing"
+    },
+    {
+      "ticket": "2026050826000166",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-08T11:38:06",
+      "modificado": "2026-05-08T11:46:46",
+      "idade_dias": 0,
+      "assunto": "BAIXA REALIZADA POR EQUIVOCO NO MES DE MARÇO"
+    },
+    {
+      "ticket": "2026050626000302",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-06T15:15:21",
+      "modificado": "2026-05-08T11:40:55",
+      "idade_dias": 1,
+      "assunto": "Incluir UPTIME Switchs"
     },
     {
       "ticket": "2026050726000462",
@@ -38,30 +86,6 @@
       "modificado": "2026-05-08T11:40:00",
       "idade_dias": 0,
       "assunto": "Ajuste DNS"
-    },
-    {
-      "ticket": "2026050826000166",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "5 very high",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-08T11:38:06",
-      "modificado": "2026-05-08T11:38:09",
-      "idade_dias": 0,
-      "assunto": "BAIXA REALIZADA POR EQUIVOCO NO MES DE MARÇO"
-    },
-    {
-      "ticket": "2026050826000031",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-08T08:21:33",
-      "modificado": "2026-05-08T11:37:51",
-      "idade_dias": 0,
-      "assunto": "Progress OpenEdge - Vulnerabilidade"
     },
     {
       "ticket": "2026050826000157",
@@ -290,18 +314,6 @@
       "modificado": "2026-05-08T08:59:29",
       "idade_dias": 0,
       "assunto": "Alto consumo de CPU -  TAPP"
-    },
-    {
-      "ticket": "2026050626000302",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-06T15:15:21",
-      "modificado": "2026-05-08T08:58:28",
-      "idade_dias": 1,
-      "assunto": "Incluir UPTIME Switchs"
     },
     {
       "ticket": "2026050826000059",
@@ -600,7 +612,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-30T11:41:06",
       "modificado": "2026-05-08T05:00:22",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
     },
     {
@@ -1116,7 +1128,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-05-05T11:44:44",
       "modificado": "2026-05-07T13:11:06",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "[CHAMADO TESTE BOT] ERRO NO CIAP AZ"
     },
     {
@@ -1334,18 +1346,6 @@
       "modificado": "2026-05-07T12:19:54",
       "idade_dias": 9,
       "assunto": "Trava para exclusão de títulos importados não baixado"
-    },
-    {
-      "ticket": "2026050526000206",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-05T10:54:15",
-      "modificado": "2026-05-07T12:19:54",
-      "idade_dias": 3,
-      "assunto": "Acesso Fabricio - Novo colaborador marketing"
     },
     {
       "ticket": "2026050626000295",
@@ -2244,7 +2244,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T11:50:17",
       "modificado": "2026-05-06T05:00:24",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Error. \"Instance Failed to Load\""
     },
     {
@@ -2452,18 +2452,6 @@
       "assunto": "Alteração na consulta via Monitoramento Central de cliente"
     },
     {
-      "ticket": "2026050526000117",
-      "cliente": "FINPEC",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-05T09:10:23",
-      "modificado": "2026-05-05T11:19:16",
-      "idade_dias": 3,
-      "assunto": "Subir serviço de HML da Finpec"
-    },
-    {
       "ticket": "2026050426000379",
       "cliente": "BUNTECH",
       "fila": "DBA",
@@ -2486,42 +2474,6 @@
       "modificado": "2026-05-05T10:17:48",
       "idade_dias": 29,
       "assunto": "Relatorio de Ativo Customizado"
-    },
-    {
-      "ticket": "2026050426000388",
-      "cliente": "FINPEC",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-04T17:20:04",
-      "modificado": "2026-05-05T10:08:19",
-      "idade_dias": 3,
-      "assunto": "Liberar o acesso ao banco de dados FINPEC"
-    },
-    {
-      "ticket": "2026050426000413",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-05-04T18:20:11",
-      "modificado": "2026-05-05T10:05:18",
-      "idade_dias": 3,
-      "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 26050418124926"
-    },
-    {
-      "ticket": "2026042926000084",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-04-29T08:25:14",
-      "modificado": "2026-05-05T09:47:36",
-      "idade_dias": 9,
-      "assunto": "#TOTVS-NETWORK - JOI_BRJOISW01-PV4B - Power Supply - 26042908233891"
     },
     {
       "ticket": "2026042426000182",
@@ -5100,7 +5052,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-12T11:50:22",
       "modificado": "2026-03-20T05:00:37",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "Revisão do monitoramento ARCO"
     },
     {
@@ -5244,7 +5196,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-11T11:50:12",
       "modificado": "2026-03-19T05:00:41",
-      "idade_dias": 57,
+      "idade_dias": 58,
       "assunto": "EMPRESA 2 - FINFARM"
     },
     {
@@ -7716,7 +7668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-21T11:40:48",
       "modificado": "2026-01-30T05:00:30",
-      "idade_dias": 106,
+      "idade_dias": 107,
       "assunto": "LIBERAÇÃO DE CC"
     },
     {
@@ -7848,7 +7800,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-10-14T11:43:17",
       "modificado": "2026-01-29T05:00:26",
-      "idade_dias": 205,
+      "idade_dias": 206,
       "assunto": "Protheus com Falha na Baixa"
     },
     {
@@ -8616,7 +8568,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-11-11T11:42:16",
       "modificado": "2026-01-13T05:00:33",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "INTEGRAÇÃO LOJAS"
     },
     {
@@ -8700,7 +8652,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-12-23T11:43:19",
       "modificado": "2026-01-08T05:00:24",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "INTEGRAÇÃO GT"
     },
     {
@@ -10296,7 +10248,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-14T11:50:09",
       "modificado": "2025-11-22T05:00:22",
-      "idade_dias": 174,
+      "idade_dias": 175,
       "assunto": "Acesso GWMS - Novo Colaborador"
     },
     {
@@ -10836,7 +10788,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-08-21T11:50:20",
       "modificado": "2025-11-05T05:00:08",
-      "idade_dias": 259,
+      "idade_dias": 260,
       "assunto": "Re: Contabilização de transferências"
     },
     {
@@ -10908,7 +10860,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-22T11:45:20",
       "modificado": "2025-11-01T05:00:15",
-      "idade_dias": 197,
+      "idade_dias": 198,
       "assunto": "TOTVS TI - Inclusão de Monitoração - Unidade TOTVS IP - LIMEIRA"
     },
     {
@@ -11388,7 +11340,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-08T11:45:15",
       "modificado": "2025-10-17T05:00:39",
-      "idade_dias": 211,
+      "idade_dias": 212,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPO-HT-DEV01 - Memory - 25100811152650"
     },
     {
@@ -11616,7 +11568,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-06T11:44:29",
       "modificado": "2025-10-14T05:00:20",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "Urgente - Fechamento Empresa 304001"
     },
     {
@@ -12204,7 +12156,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-09-18T11:45:07",
       "modificado": "2025-10-01T05:00:32",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "RES: Métricas de disponibilidade dos serviços do Vendas Digitais"
     },
     {
@@ -12396,7 +12348,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-19T11:50:14",
       "modificado": "2025-09-27T05:00:31",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "Fwd: #TOTVS-SERVERS - CERTIFICADOS_TOTVS - Validade - devfluigcp-03.cp.totvs.com.br - 25091818430634"
     },
     {
@@ -12708,7 +12660,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-15T11:50:07",
       "modificado": "2025-09-23T05:00:25",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "Monitoramento Fluig"
     },
     {
@@ -12900,7 +12852,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-11T11:50:07",
       "modificado": "2025-09-19T05:00:31",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "RE: Select_11.09 - Contas do Ativo"
     },
     {
@@ -13380,7 +13332,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-04T11:45:11",
       "modificado": "2025-09-12T05:00:35",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "Solicitação de  criação de  usuario "
     },
     {
@@ -13788,7 +13740,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-28T11:44:17",
       "modificado": "2025-09-05T05:00:22",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "AZ - CFG - Excluir acessos de funcionários desligados"
     },
     {
@@ -14832,7 +14784,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-05T11:50:15",
       "modificado": "2025-08-13T05:00:22",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "RES: Sped Fiscal"
     },
     {
@@ -16044,7 +15996,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-05-16T11:45:13",
       "modificado": "2025-07-15T05:00:20",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "LP 610-01- Solicitação para correção de parametrização"
     },
     {
@@ -16956,7 +16908,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-05-12T11:45:06",
       "modificado": "2025-06-25T05:00:13",
-      "idade_dias": 360,
+      "idade_dias": 361,
       "assunto": "RES: Relatório de análises de crédito consolidado do período de 01/04/2025 à 30/04/2025"
     },
     {
@@ -18492,7 +18444,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-06T11:48:56",
       "modificado": "2025-05-23T05:00:17",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "CASTROLANDA | Novo Dash UBL"
     },
     {
@@ -18780,7 +18732,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-04-30T11:45:22",
       "modificado": "2025-05-20T05:00:19",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "Monitoramento de Containers - Kubernetes"
     },
     {
@@ -21216,7 +21168,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-26T11:45:06",
       "modificado": "2025-04-05T05:00:09",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -21300,7 +21252,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-26T11:50:06",
       "modificado": "2025-04-03T05:00:20",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Revisão no monitoramento"
     },
     {
@@ -21504,7 +21456,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-03-17T11:44:49",
       "modificado": "2025-03-27T05:00:10",
-      "idade_dias": 416,
+      "idade_dias": 417,
       "assunto": "Documento não abre para leitura - Controle de Documentos (SIGAQDO)"
     },
     {
@@ -21684,7 +21636,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-14T11:50:09",
       "modificado": "2025-03-22T05:00:13",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "Erro no monitoramento de servidor."
     },
     {
@@ -21696,7 +21648,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2025-03-14T11:42:10",
       "modificado": "2025-03-22T05:00:13",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "Alertas Telefônicos - Desativação Temporária"
     },
     {
@@ -22032,7 +21984,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-03-07T11:45:21",
       "modificado": "2025-03-15T05:00:24",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "Fwd: #TOTVS-SERVERS - Alertas CRITICAL - 25030711313420"
     },
     {
@@ -22536,7 +22488,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-21T11:45:07",
       "modificado": "2025-03-04T05:00:04",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "Revisão monitoramento de links e interfaces - BRAVEO"
     },
     {
@@ -22692,7 +22644,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-02-10T11:50:19",
       "modificado": "2025-02-27T05:00:09",
-      "idade_dias": 451,
+      "idade_dias": 452,
       "assunto": "Certificado SSL - CNN *urgente*"
     },
     {
@@ -23640,7 +23592,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-22T11:43:47",
       "modificado": "2025-02-09T05:00:16",
-      "idade_dias": 470,
+      "idade_dias": 471,
       "assunto": "Acesso Protheus Arquitetura"
     },
     {
@@ -23724,7 +23676,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-01-20T11:50:09",
       "modificado": "2025-02-09T05:00:13",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "NF de remessa saindo com IPI"
     },
     {
@@ -24000,7 +23952,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-06T11:45:14",
       "modificado": "2025-01-21T10:00:19",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "Adicionar no monitoramento - Proxy Netskope"
     },
     {
@@ -26376,7 +26328,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-11-11T11:50:16",
       "modificado": "2024-11-18T12:30:04",
-      "idade_dias": 542,
+      "idade_dias": 543,
       "assunto": "RES: Descontinuar o monitoramento do servidor"
     },
     {
@@ -26748,7 +26700,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-29T11:45:16",
       "modificado": "2024-11-07T15:00:05",
-      "idade_dias": 555,
+      "idade_dias": 556,
       "assunto": "RES: Atualizar Monitoramento GWMS"
     },
     {
@@ -27756,7 +27708,7 @@
       "atendente": "Vinicius Eroico",
       "criado": "2024-08-27T11:50:12",
       "modificado": "2024-10-10T11:30:07",
-      "idade_dias": 618,
+      "idade_dias": 619,
       "assunto": "TWEB3"
     },
     {
@@ -27984,7 +27936,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-25T11:45:17",
       "modificado": "2024-10-02T15:00:11",
-      "idade_dias": 589,
+      "idade_dias": 590,
       "assunto": "Arquivo - SD1.C4W"
     },
     {
@@ -28032,7 +27984,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-09-16T11:45:07",
       "modificado": "2024-10-01T19:00:19",
-      "idade_dias": 598,
+      "idade_dias": 599,
       "assunto": "Notificações de Alertas - SOC Fadel"
     },
     {
@@ -28068,7 +28020,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-08-27T11:45:13",
       "modificado": "2024-10-01T09:30:07",
-      "idade_dias": 618,
+      "idade_dias": 619,
       "assunto": "GWMS - CNN"
     },
     {
