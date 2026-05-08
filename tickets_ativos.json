@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778273001,
-  "generated_at_iso": "2026-05-08T20:43:21Z",
-  "count": 2396,
+  "generated_at": 1778273423,
+  "generated_at_iso": "2026-05-08T20:50:23Z",
+  "count": 2394,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050826000282",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-08T17:40:14",
+      "modificado": "2026-05-08T17:43:47",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050817382791"
+    },
     {
       "ticket": "2026041726000034",
       "cliente": "AUTOZONE",
@@ -38,18 +50,6 @@
       "modificado": "2026-05-08T17:41:15",
       "idade_dias": 148,
       "assunto": "PRE DANFE"
-    },
-    {
-      "ticket": "2026050826000282",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-08T17:40:14",
-      "modificado": "2026-05-08T17:40:16",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050817382791"
     },
     {
       "ticket": "2026050826000175",
@@ -144,7 +144,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-30T17:50:21",
       "modificado": "2026-05-08T16:10:55",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
     },
     {
@@ -684,7 +684,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-30T17:45:15",
       "modificado": "2026-05-08T05:00:23",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
     },
     {
@@ -1464,7 +1464,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T17:49:47",
       "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
     },
     {
@@ -1536,7 +1536,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T17:45:18",
       "modificado": "2026-05-07T12:19:54",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
     },
     {
@@ -2462,30 +2462,6 @@
       "modificado": "2026-05-05T18:05:29",
       "idade_dias": 2,
       "assunto": "Recall: AutoZone - Correção de combo rules - 05.05 - PD09 FY26 W4 - pt1"
-    },
-    {
-      "ticket": "2026050526000386",
-      "cliente": "FINPEC",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Wiglas Reis",
-      "criado": "2026-05-05T16:50:08",
-      "modificado": "2026-05-05T17:33:30",
-      "idade_dias": 3,
-      "assunto": "Equipe Infra - Criação usuario VPN - FINPEC"
-    },
-    {
-      "ticket": "2026050526000395",
-      "cliente": "FINPEC",
-      "fila": "DBA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-05T16:55:07",
-      "modificado": "2026-05-05T17:32:45",
-      "idade_dias": 3,
-      "assunto": "FINPEC PROD - permissão para update"
     },
     {
       "ticket": "2026050426000379",
@@ -4176,7 +4152,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-31T17:45:14",
       "modificado": "2026-04-09T05:00:18",
-      "idade_dias": 37,
+      "idade_dias": 38,
       "assunto": "Select - Combo rules - W3 - PD8 - 30.03.2026"
     },
     {
@@ -4560,7 +4536,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2026-03-23T17:45:05",
       "modificado": "2026-03-31T05:00:33",
-      "idade_dias": 45,
+      "idade_dias": 46,
       "assunto": "#TOTVS-NETWORK - JOI_BRJOISW02-PAVTER - Power Supply - 26032317410855"
     },
     {
@@ -4884,7 +4860,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-16T17:48:18",
       "modificado": "2026-03-24T05:00:24",
-      "idade_dias": 52,
+      "idade_dias": 53,
       "assunto": "Rotina de refaz saldos de PD7 em USGAAP"
     },
     {
@@ -4944,7 +4920,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-13T17:49:03",
       "modificado": "2026-03-23T05:00:14",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "Novo espelhamento USGAAP - PD07"
     },
     {
@@ -6636,7 +6612,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-09T17:47:52",
       "modificado": "2026-02-20T05:00:42",
-      "idade_dias": 87,
+      "idade_dias": 88,
       "assunto": "ERRO GERAÇÃO ND REFERENTE AO PAYTRACK"
     },
     {
@@ -6840,7 +6816,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2026-02-03T17:50:19",
       "modificado": "2026-02-19T05:00:16",
-      "idade_dias": 93,
+      "idade_dias": 94,
       "assunto": "#TOTVS-NETWORK - SP_BRSNCSWCORE-NX01 - Interface:Eth1/19 - VPC-UPLINK-BRSPSNC22-PAV1B2 - 26020317435211"
     },
     {
@@ -7608,7 +7584,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-12T17:47:31",
       "modificado": "2026-02-03T05:00:19",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "INTEGRAÇÃO MASTERSAF X TAXID"
     },
     {
@@ -8580,7 +8556,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-22T17:47:58",
       "modificado": "2026-01-13T05:00:36",
-      "idade_dias": 136,
+      "idade_dias": 137,
       "assunto": "ERRO NA ABA SOLICITAÇÕES DE COMPRA"
     },
     {
@@ -10632,7 +10608,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-30T17:45:11",
       "modificado": "2025-11-12T05:00:20",
-      "idade_dias": 189,
+      "idade_dias": 190,
       "assunto": "Alertas ARCO"
     },
     {
@@ -11220,7 +11196,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-10-09T17:45:09",
       "modificado": "2025-10-22T05:00:10",
-      "idade_dias": 210,
+      "idade_dias": 211,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPO-HT-PRD08.SP01.LOCAL - Cpu - 25100917034694"
     },
     {
@@ -12108,7 +12084,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-19T17:45:05",
       "modificado": "2025-10-02T05:00:13",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "AZ - Otimização Rotina SCHWSR01 - \"Expense\""
     },
     {
@@ -12120,7 +12096,7 @@
       "atendente": "Geyson Albano",
       "criado": "2025-08-20T17:43:40",
       "modificado": "2025-10-02T05:00:10",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "Relatório de controle de saldos e despesas antecipadas"
     },
     {
@@ -13944,7 +13920,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-20T17:44:22",
       "modificado": "2025-08-29T05:00:17",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "AZ - CTB - Ajustar valores do Ativo FIxo. Difal / ICMS V2"
     },
     {
@@ -15336,7 +15312,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-23T17:46:05",
       "modificado": "2025-08-01T05:00:29",
-      "idade_dias": 288,
+      "idade_dias": 289,
       "assunto": "AZ - Erro ao importar a PO  50086520"
     },
     {
@@ -16164,7 +16140,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-02T17:45:22",
       "modificado": "2025-07-11T05:00:26",
-      "idade_dias": 309,
+      "idade_dias": 310,
       "assunto": "acesso painel"
     },
     {
@@ -18420,7 +18396,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-15T17:44:26",
       "modificado": "2025-05-23T05:00:25",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "AZ - Bloqueio de acessos - Desligamento"
     },
     {
@@ -21660,7 +21636,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-03-14T17:50:12",
       "modificado": "2025-03-22T05:00:14",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "#TOTVS-NETWORK - SP_BRSPSNC11-SUB3B2 - Power Supply - 25031417463078"
     },
     {
@@ -23220,7 +23196,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-02-03T17:50:21",
       "modificado": "2025-02-12T05:00:13",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "Monitoramento Identity"
     },
     {
@@ -23616,7 +23592,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-27T17:47:47",
       "modificado": "2025-02-09T05:00:17",
-      "idade_dias": 465,
+      "idade_dias": 466,
       "assunto": "Cobrança - Calculo IGPDI Protheus"
     },
     {
@@ -24720,7 +24696,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-26T17:45:20",
       "modificado": "2025-01-03T10:30:02",
-      "idade_dias": 497,
+      "idade_dias": 498,
       "assunto": "Alteração de IP Expressway"
     },
     {
@@ -24924,7 +24900,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-20T17:45:48",
       "modificado": "2024-12-30T09:30:02",
-      "idade_dias": 503,
+      "idade_dias": 504,
       "assunto": "Ajuste de aprovador no sistema Protheus"
     },
     {
@@ -25500,7 +25476,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-09T17:45:21",
       "modificado": "2024-12-17T09:30:15",
-      "idade_dias": 514,
+      "idade_dias": 515,
       "assunto": "AZ- Analise da Receita PD04 - WEEK 1"
     },
     {
@@ -26712,7 +26688,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-01T17:45:13",
       "modificado": "2024-11-11T12:00:03",
-      "idade_dias": 552,
+      "idade_dias": 553,
       "assunto": "Monitoramento Fluig Totvs"
     },
     {
