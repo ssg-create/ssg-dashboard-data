@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778340638,
-  "generated_at_iso": "2026-05-09T15:30:38Z",
+  "generated_at": 1778341221,
+  "generated_at_iso": "2026-05-09T15:40:21Z",
   "count": 2408,
   "filas": [
     "DATASUL",
@@ -16,14 +16,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026050926000075",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eliandro Rochel",
+      "criado": "2026-05-09T10:40:10",
+      "modificado": "2026-05-09T12:33:42",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
+    },
+    {
       "ticket": "2026050926000093",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T12:15:23",
-      "modificado": "2026-05-09T12:15:25",
+      "modificado": "2026-05-09T12:30:55",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26050912103913"
     },
@@ -38,18 +50,6 @@
       "modificado": "2026-05-09T12:11:40",
       "idade_dias": 0,
       "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
-    },
-    {
-      "ticket": "2026050926000075",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eliandro Rochel",
-      "criado": "2026-05-09T10:40:10",
-      "modificado": "2026-05-09T10:43:02",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
     },
     {
       "ticket": "2026050926000066",
@@ -6084,7 +6084,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-02-18T12:34:45",
       "modificado": "2026-03-11T05:00:25",
-      "idade_dias": 79,
+      "idade_dias": 80,
       "assunto": "Retornar NF"
     },
     {
@@ -7428,7 +7428,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-02-06T12:35:15",
       "modificado": "2026-02-06T12:35:18",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "FileZilla"
     },
     {
@@ -15000,7 +15000,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-30T12:40:17",
       "modificado": "2025-08-12T05:00:19",
-      "idade_dias": 282,
+      "idade_dias": 283,
       "assunto": "Integração PO / Condição de Pagamento"
     },
     {
@@ -17628,7 +17628,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-09T12:37:53",
       "modificado": "2025-06-13T05:00:24",
-      "idade_dias": 364,
+      "idade_dias": 365,
       "assunto": "Erro na Geração de Borderô"
     },
     {
@@ -18900,7 +18900,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-05-05T12:34:10",
       "modificado": "2025-05-20T05:00:22",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "Nota Fiscal não consumiu Pedido"
     },
     {
@@ -21120,7 +21120,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-01T12:40:06",
       "modificado": "2025-04-09T05:00:15",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "Alteração de monitoramento."
     },
     {
@@ -21540,7 +21540,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-03-28T12:40:17",
       "modificado": "2025-03-28T12:40:19",
-      "idade_dias": 406,
+      "idade_dias": 407,
       "assunto": "ENC:  DEVOLUÇÃO DE COMPRA - LP DE ESTORNO (CANCELAMENTO)"
     },
     {
@@ -22116,7 +22116,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-03T12:35:06",
       "modificado": "2025-03-17T05:00:05",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "NOTAS CANCELADAS COMO AUTORIZADAS - AUTOZONE (SSG)"
     },
     {
@@ -23304,7 +23304,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-02-03T12:31:34",
       "modificado": "2025-02-13T05:00:14",
-      "idade_dias": 459,
+      "idade_dias": 460,
       "assunto": "DIVERGÊNCIA RETORNO ROBÔ | DIAS 01.02.2025 E 02.02.2025"
     },
     {
@@ -28680,7 +28680,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-04T12:35:08",
       "modificado": "2024-09-18T15:00:03",
-      "idade_dias": 611,
+      "idade_dias": 612,
       "assunto": "Parametrização"
     },
     {
