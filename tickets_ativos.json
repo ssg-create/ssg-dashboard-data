@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778322627,
-  "generated_at_iso": "2026-05-09T10:30:27Z",
+  "generated_at": 1778323227,
+  "generated_at_iso": "2026-05-09T10:40:27Z",
   "count": 2402,
   "filas": [
     "DATASUL",
@@ -16,6 +16,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026050426000404",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-04T18:05:12",
+      "modificado": "2026-05-09T07:40:11",
+      "idade_dias": 4,
+      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
+    },
+    {
       "ticket": "2026050726000061",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -24,7 +36,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-07T07:35:06",
       "modificado": "2026-05-09T07:30:06",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Berneck - alterar o monitoramento"
     },
     {
@@ -962,18 +974,6 @@
       "modificado": "2026-05-08T15:49:59",
       "idade_dias": 10,
       "assunto": "Atualização - Certificado Groundwork"
-    },
-    {
-      "ticket": "2026050426000404",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-04T18:05:12",
-      "modificado": "2026-05-08T15:36:34",
-      "idade_dias": 4,
-      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
       "ticket": "2026050826000246",
@@ -2652,7 +2652,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-04-23T07:39:58",
       "modificado": "2026-05-04T09:31:49",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
     },
     {
@@ -7668,7 +7668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T07:32:58",
       "modificado": "2026-02-03T05:00:21",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "Integração de Expense Report - TAXID"
     },
     {
@@ -11088,7 +11088,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-10-17T07:34:10",
       "modificado": "2025-10-30T05:00:13",
-      "idade_dias": 203,
+      "idade_dias": 204,
       "assunto": "Mensagem de erro do Programa CD0606 - Ambiente homologação"
     },
     {
@@ -18408,7 +18408,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-15T07:35:17",
       "modificado": "2025-05-27T05:00:23",
-      "idade_dias": 358,
+      "idade_dias": 359,
       "assunto": "Dashboard Abr/25 - Doctos não integrados"
     },
     {
@@ -23004,7 +23004,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-02-05T07:40:12",
       "modificado": "2025-02-20T05:00:24",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "AD - Remover a máquina do Domínio BARWK0458"
     },
     {
@@ -24516,7 +24516,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2024-12-27T07:40:18",
       "modificado": "2025-01-10T09:30:06",
-      "idade_dias": 497,
+      "idade_dias": 498,
       "assunto": "BRAVEO - Alertas HOST DOWN - 24122707381018"
     },
     {
