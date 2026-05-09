@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778339426,
-  "generated_at_iso": "2026-05-09T15:10:26Z",
-  "count": 5173,
+  "generated_at": 1778340030,
+  "generated_at_iso": "2026-05-09T15:20:30Z",
+  "count": 5175,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,46 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050926000093",
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26050912103913",
+      "criado": "2026-05-09T12:15:23",
+      "modificado": "2026-05-09T12:15:25",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
+    {
+      "num": "2026050926000084",
+      "assunto": "MAQUINA INOPERANTE - hstbrvdim030044",
+      "criado": "2026-05-09T12:11:38",
+      "modificado": "2026-05-09T12:11:40",
+      "fila": "INFRAESTUTURA",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "FADEL",
+      "cli_user": "aleson.soares@fadeltransportes.com.br",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050926000075",
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027",
