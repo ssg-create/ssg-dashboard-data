@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778323233,
-  "generated_at_iso": "2026-05-09T10:40:33Z",
-  "count": 5173,
+  "generated_at": 1778323825,
+  "generated_at_iso": "2026-05-09T10:50:25Z",
+  "count": 5174,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050926000048",
+      "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 26050907331122",
+      "criado": "2026-05-09T07:45:07",
+      "modificado": "2026-05-09T07:46:42",
+      "fila": "NOC",
+      "estado": "aguardando cliente",
+      "prioridade": "3 normal",
+      "atendente": "Eliandro Rochel",
+      "primeiro_nome": "Eliandro",
+      "ultimo_nome": "Rochel",
+      "cli_id": "TOTVS",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)::NOC",
+      "fechado": null,
+      "resp_min_raw": 1,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 0
+    },
     {
       "num": "2026050926000039",
       "assunto": "Refaz saldos - PD9 - USGAAP",
