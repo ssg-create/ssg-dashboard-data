@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778370020,
-  "generated_at_iso": "2026-05-09T23:40:20Z",
-  "count": 2418,
+  "generated_at": 1778370618,
+  "generated_at_iso": "2026-05-09T23:50:18Z",
+  "count": 2419,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,52 +16,64 @@
   ],
   "rows": [
     {
-      "ticket": "2026050926000182",
+      "ticket": "2026050926000208",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
-      "criado": "2026-05-09T20:35:09",
-      "modificado": "2026-05-09T20:35:14",
+      "criado": "2026-05-09T20:45:11",
+      "modificado": "2026-05-09T20:48:18",
       "idade_dias": 0,
-      "assunto": "GROUNDWORK - Alertas CRITICAL - 26050920320683"
-    },
-    {
-      "ticket": "2026050926000191",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T20:35:11",
-      "modificado": "2026-05-09T20:35:14",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - DAEMON:ces_x_gwms - 26050920321640"
+      "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:GWMS2.0 TELETEX - Portal NOC - 26050920405820"
     },
     {
       "ticket": "2026050926000164",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T20:30:09",
-      "modificado": "2026-05-09T20:30:14",
+      "modificado": "2026-05-09T20:43:51",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - CheckLog: ces_broker_x_gwms_cstg_gwms-stream-connector.log - 26050920251211"
     },
     {
       "ticket": "2026050926000173",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T20:30:10",
-      "modificado": "2026-05-09T20:30:14",
+      "modificado": "2026-05-09T20:43:36",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - TCP:ESTABLISHED on port 3306 - 26050920262030"
+    },
+    {
+      "ticket": "2026050926000182",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-09T20:35:09",
+      "modificado": "2026-05-09T20:43:18",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26050920320683"
+    },
+    {
+      "ticket": "2026050926000191",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-09T20:35:11",
+      "modificado": "2026-05-09T20:42:36",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - DAEMON:ces_x_gwms - 26050920321640"
     },
     {
       "ticket": "2026050926000155",
@@ -19440,7 +19452,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-29T20:44:07",
       "modificado": "2025-05-13T05:00:22",
-      "idade_dias": 374,
+      "idade_dias": 375,
       "assunto": "AZ -  Erro na Baixa de Títulos no TOTVS – Cheque Vinculado"
     },
     {
@@ -25344,7 +25356,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-16T20:45:13",
       "modificado": "2024-12-25T12:00:05",
-      "idade_dias": 508,
+      "idade_dias": 509,
       "assunto": "RE: ARCO - Alertas CRITICAL - 24121620270256"
     },
     {
