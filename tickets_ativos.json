@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778345419,
-  "generated_at_iso": "2026-05-09T16:50:19Z",
+  "generated_at": 1778346026,
+  "generated_at_iso": "2026-05-09T17:00:26Z",
   "count": 2408,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000311",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-06T15:39:49",
+      "modificado": "2026-05-09T13:57:14",
+      "idade_dias": 2,
+      "assunto": "Erro 748 ao acessar o totvs"
+    },
+    {
+      "ticket": "2026050426000333",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T14:54:50",
+      "modificado": "2026-05-09T13:52:58",
+      "idade_dias": 4,
+      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
+    },
     {
       "ticket": "2026050926000075",
       "cliente": "AUTOZONE",
@@ -1092,7 +1116,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-05-08T13:52:02",
       "modificado": "2026-05-08T14:52:46",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "FISA131"
     },
     {
@@ -1440,7 +1464,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T13:58:03",
       "modificado": "2026-05-08T05:00:27",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Numero de caracteres do Funções Contas a Pagar"
     },
     {
@@ -1452,7 +1476,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T13:54:03",
       "modificado": "2026-05-08T05:00:25",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Importação Observação Sienge x Protheus (Notas Fiscais e Titulos a Pagar)"
     },
     {
@@ -1540,18 +1564,6 @@
       "assunto": "[URGENTE] Vinculo da maquina Gerente Regional"
     },
     {
-      "ticket": "2026050626000311",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-06T15:39:49",
-      "modificado": "2026-05-07T15:32:38",
-      "idade_dias": 2,
-      "assunto": "Erro 748 ao acessar o totvs"
-    },
-    {
       "ticket": "2026050726000104",
       "cliente": "TJBA (TELETEX)",
       "fila": "GWMS",
@@ -1598,18 +1610,6 @@
       "modificado": "2026-05-07T14:35:39",
       "idade_dias": 1,
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa"
-    },
-    {
-      "ticket": "2026050426000333",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T14:54:50",
-      "modificado": "2026-05-07T13:57:17",
-      "idade_dias": 4,
-      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
       "ticket": "2026041726000311",
@@ -1668,7 +1668,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-19T13:59:01",
       "modificado": "2026-05-07T12:19:57",
-      "idade_dias": 109,
+      "idade_dias": 110,
       "assunto": "Erro Emissão NF AJ Matriz Prefeitura SP"
     },
     {
@@ -1716,7 +1716,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2026-01-30T13:55:07",
       "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "ENC: AZ - Chamado 2025111226000344"
     },
     {
@@ -2184,7 +2184,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-05T13:50:19",
       "modificado": "2026-05-06T16:32:11",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Disk:F: - 26050513455162"
     },
     {
@@ -3000,7 +3000,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-14T14:00:11",
       "modificado": "2026-04-30T05:00:20",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "AUTOZONE - GWMS-Server - Disks Queue Length - 26041413581068"
     },
     {
@@ -3444,7 +3444,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-14T13:55:11",
       "modificado": "2026-04-22T05:00:36",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "ENC: CERTIFICADOS_2026"
     },
     {
@@ -5052,7 +5052,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-12T13:51:27",
       "modificado": "2026-03-24T05:00:22",
-      "idade_dias": 57,
+      "idade_dias": 58,
       "assunto": "ERRO TRANSMISSAO NF - TODAS FILIAIS"
     },
     {
@@ -5496,7 +5496,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-02-26T13:59:44",
       "modificado": "2026-03-19T05:00:30",
-      "idade_dias": 71,
+      "idade_dias": 72,
       "assunto": "Requisição - TITULO SEM PORTADOR -120"
     },
     {
@@ -5832,7 +5832,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-05T13:55:56",
       "modificado": "2026-03-14T05:00:26",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "BERNECK | Adicionar nobreak ao dashboard"
     },
     {
@@ -5988,7 +5988,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-02T14:00:15",
       "modificado": "2026-03-12T05:00:25",
-      "idade_dias": 67,
+      "idade_dias": 68,
       "assunto": "BBP - Falha API Integração - AutoZone"
     },
     {
@@ -6168,7 +6168,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-01-26T13:56:06",
       "modificado": "2026-03-09T05:00:20",
-      "idade_dias": 102,
+      "idade_dias": 103,
       "assunto": "Algoritimo - Analise de negociação de preços via Facilitador (Jean)"
     },
     {
@@ -6756,7 +6756,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-10T13:57:42",
       "modificado": "2026-02-20T05:00:44",
-      "idade_dias": 87,
+      "idade_dias": 88,
       "assunto": "acesso ao protheus"
     },
     {
@@ -8460,7 +8460,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-09T13:55:18",
       "modificado": "2026-01-17T05:00:21",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "EXECUÇÃO POWERSHELL AD "
     },
     {
@@ -9012,7 +9012,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-17T13:57:32",
       "modificado": "2026-01-03T05:00:22",
-      "idade_dias": 142,
+      "idade_dias": 143,
       "assunto": "Criação de Usuário Protheus"
     },
     {
@@ -9864,7 +9864,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-26T13:55:12",
       "modificado": "2025-12-10T05:00:12",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "[TJBA] Expansão de monitoramento"
     },
     {
@@ -9900,7 +9900,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T13:55:46",
       "modificado": "2025-12-09T05:00:31",
-      "idade_dias": 158,
+      "idade_dias": 159,
       "assunto": "Criar acesso Geovana"
     },
     {
@@ -10932,7 +10932,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-22T14:00:21",
       "modificado": "2025-11-06T05:00:10",
-      "idade_dias": 198,
+      "idade_dias": 199,
       "assunto": "[TJBA] Ajuste de alertas \"Core Alerts\" – Equipe NOC noturno (19h às 7h)"
     },
     {
@@ -11136,7 +11136,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-13T13:50:23",
       "modificado": "2025-10-31T05:00:19",
-      "idade_dias": 207,
+      "idade_dias": 208,
       "assunto": "RES: Criação Dash de monitoramento Certificado CA Zeus"
     },
     {
@@ -11424,7 +11424,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-07-11T13:55:21",
       "modificado": "2025-10-20T10:23:22",
-      "idade_dias": 301,
+      "idade_dias": 302,
       "assunto": "RES: RES: RES: [EXTERNAL] Re: AZ - Analisar a divergência de valores entre a posição do estoque ante [...]"
     },
     {
@@ -11676,7 +11676,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-07T13:55:11",
       "modificado": "2025-10-16T05:00:26",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "Azure - AKS"
     },
     {
@@ -13056,7 +13056,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-10T13:55:12",
       "modificado": "2025-09-19T05:00:29",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "Liberação de acesso a programas/telas"
     },
     {
@@ -15288,7 +15288,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-29T14:00:18",
       "modificado": "2025-08-06T05:00:32",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Autorização de acesso para pedidos de compras"
     },
     {
@@ -15468,7 +15468,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-07-21T13:54:21",
       "modificado": "2025-08-02T05:00:20",
-      "idade_dias": 291,
+      "idade_dias": 292,
       "assunto": "RES: Revisão de dashboards/monitoramento."
     },
     {
@@ -16692,7 +16692,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-24T14:00:25",
       "modificado": "2025-07-02T05:00:25",
-      "idade_dias": 318,
+      "idade_dias": 319,
       "assunto": "Inclusão monitoramento"
     },
     {
@@ -16704,7 +16704,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-24T14:00:24",
       "modificado": "2025-07-02T05:00:24",
-      "idade_dias": 318,
+      "idade_dias": 319,
       "assunto": "Remover / Incluir monitoramento certificados"
     },
     {
@@ -16716,7 +16716,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-24T13:55:24",
       "modificado": "2025-07-02T05:00:20",
-      "idade_dias": 318,
+      "idade_dias": 319,
       "assunto": "Remover monitoramento"
     },
     {
@@ -16788,7 +16788,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-23T13:52:30",
       "modificado": "2025-07-01T05:00:33",
-      "idade_dias": 319,
+      "idade_dias": 320,
       "assunto": "AZ - Help A120TUDOK ao alterar P.O."
     },
     {
@@ -17988,7 +17988,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-26T13:55:06",
       "modificado": "2025-06-03T05:00:34",
-      "idade_dias": 347,
+      "idade_dias": 348,
       "assunto": "Sem acesso ao painel"
     },
     {
@@ -18744,7 +18744,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-13T13:50:18",
       "modificado": "2025-05-21T05:00:39",
-      "idade_dias": 360,
+      "idade_dias": 361,
       "assunto": "PEDIDO NÃO FOI ENVIADO AO SOLICITANTE"
     },
     {
@@ -19596,7 +19596,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-28T13:50:18",
       "modificado": "2025-05-07T05:00:13",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPOSVTOT-CON.SP01.LOCAL - Storage Backup:sposvtot-dd01.sp01.local - 25042812233653"
     },
     {
@@ -20664,7 +20664,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-04-02T13:54:02",
       "modificado": "2025-04-22T05:00:20",
-      "idade_dias": 401,
+      "idade_dias": 402,
       "assunto": "GIA SP"
     },
     {
@@ -23220,7 +23220,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-06T14:00:12",
       "modificado": "2025-02-16T05:00:05",
-      "idade_dias": 456,
+      "idade_dias": 457,
       "assunto": "Downtime - Updates Servidores"
     },
     {
@@ -23976,7 +23976,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-20T13:57:32",
       "modificado": "2025-02-07T05:00:15",
-      "idade_dias": 473,
+      "idade_dias": 474,
       "assunto": "Aprovação de Pré Títulos"
     },
     {
@@ -24756,7 +24756,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-27T13:50:21",
       "modificado": "2025-01-06T12:00:13",
-      "idade_dias": 497,
+      "idade_dias": 498,
       "assunto": "Filial 0089 - Erro transmissão"
     },
     {
@@ -25032,7 +25032,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-11T13:55:23",
       "modificado": "2024-12-30T11:30:08",
-      "idade_dias": 513,
+      "idade_dias": 514,
       "assunto": "AZ - Correção do fonte FISZO002.PRW (Custo de entrada)"
     },
     {
@@ -25176,7 +25176,7 @@
       "atendente": "Marcelo David",
       "criado": "2024-12-11T13:55:26",
       "modificado": "2024-12-26T10:00:07",
-      "idade_dias": 513,
+      "idade_dias": 514,
       "assunto": "Separação do PASOE para meRH"
     },
     {
@@ -25596,7 +25596,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-04T13:54:51",
       "modificado": "2024-12-17T16:30:15",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "Implementar GWLOG (Thread Error) no cliente AUTOZONE"
     },
     {
@@ -25620,7 +25620,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-10T13:59:47",
       "modificado": "2024-12-17T15:30:13",
-      "idade_dias": 514,
+      "idade_dias": 515,
       "assunto": "EXCLUSÃO DE TÍTULOS - EMPRESA 403001 e 503001"
     },
     {
@@ -26028,7 +26028,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-26T13:58:48",
       "modificado": "2024-12-03T15:30:10",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "importação NF"
     },
     {
@@ -26208,7 +26208,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-19T13:59:17",
       "modificado": "2024-11-26T15:30:05",
-      "idade_dias": 535,
+      "idade_dias": 536,
       "assunto": "Aprovações de contingências Protheus"
     },
     {
@@ -26292,7 +26292,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-11-21T13:57:40",
       "modificado": "2024-11-21T13:57:43",
-      "idade_dias": 533,
+      "idade_dias": 534,
       "assunto": "chamado de testes 006"
     },
     {
@@ -26400,7 +26400,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-11T13:55:11",
       "modificado": "2024-11-20T14:30:05",
-      "idade_dias": 543,
+      "idade_dias": 544,
       "assunto": "RES: RES: RES: RES: RES: RES: Arquivo de ativação Gift e Merch Card"
     },
     {
