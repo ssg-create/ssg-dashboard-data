@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778298026,
-  "generated_at_iso": "2026-05-09T03:40:26Z",
+  "generated_at": 1778298629,
+  "generated_at_iso": "2026-05-09T03:50:29Z",
   "count": 2399,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000137",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-04T09:25:51",
+      "modificado": "2026-05-09T00:50:25",
+      "idade_dias": 4,
+      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
+    },
+    {
+      "ticket": "2026042226000622",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-22T22:06:01",
+      "modificado": "2026-05-09T00:42:39",
+      "idade_dias": 16,
+      "assunto": "LANÇAMENTO NCC NÃO ESTA AMARRANDO NF E NÃO ESTA GERANDO MOVIMENTO NO CONTÁBIL"
+    },
     {
       "ticket": "2026050826000353",
       "cliente": "monitoramento@groundwork.com.br",
@@ -604,18 +628,6 @@
       "assunto": "Criação conta de e-mail TalentHub"
     },
     {
-      "ticket": "2026050426000137",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-05-04T09:25:51",
-      "modificado": "2026-05-08T10:46:14",
-      "idade_dias": 4,
-      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
-    },
-    {
       "ticket": "2026050726000597",
       "cliente": "ARCO",
       "fila": "GWMS",
@@ -1154,18 +1166,6 @@
       "modificado": "2026-05-07T19:38:20",
       "idade_dias": 1,
       "assunto": "Auxilio com entendimento das rotinas de pré-estrutra e aprovação de pré-estrutura PCPA135 e demais"
-    },
-    {
-      "ticket": "2026042226000622",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-22T22:06:01",
-      "modificado": "2026-05-07T19:35:34",
-      "idade_dias": 16,
-      "assunto": "LANÇAMENTO NCC NÃO ESTA AMARRANDO NF E NÃO ESTA GERANDO MOVIMENTO NO CONTÁBIL"
     },
     {
       "ticket": "2026042326000022",
@@ -17640,7 +17640,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-31T00:43:23",
       "modificado": "2025-06-10T05:00:26",
-      "idade_dias": 342,
+      "idade_dias": 343,
       "assunto": "AZ - Criar menu da nova carga de folha."
     },
     {
