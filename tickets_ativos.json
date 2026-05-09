@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778299224,
-  "generated_at_iso": "2026-05-09T04:00:24Z",
+  "generated_at": 1778299830,
+  "generated_at_iso": "2026-05-09T04:10:30Z",
   "count": 2399,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050826000077",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-08T09:05:08",
+      "modificado": "2026-05-09T01:04:47",
+      "idade_dias": 0,
+      "assunto": "Calibragem de monitoramento"
+    },
     {
       "ticket": "2026050426000137",
       "cliente": "GDBR",
@@ -326,18 +338,6 @@
       "modificado": "2026-05-08T15:57:58",
       "idade_dias": 0,
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
-    },
-    {
-      "ticket": "2026050826000077",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-08T09:05:08",
-      "modificado": "2026-05-08T15:57:20",
-      "idade_dias": 0,
-      "assunto": "Calibragem de monitoramento"
     },
     {
       "ticket": "2026042826000219",
@@ -3648,7 +3648,7 @@
       "atendente": "Elizeu Brasil",
       "criado": "2026-04-11T01:10:16",
       "modificado": "2026-04-19T05:00:10",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "RE: #TOTVS-NETWORK - SP_BRSPSNC115-TER-B2 - Power Supply - 26041020473248"
     },
     {
@@ -15564,7 +15564,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-05-17T01:04:06",
       "modificado": "2025-07-25T05:00:06",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "AZ - Analisar a divergência de valores entre a posição do estoque antes e depois da execução da virada de saldos"
     },
     {
@@ -16236,7 +16236,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-11T01:05:11",
       "modificado": "2025-07-11T01:10:53",
-      "idade_dias": 301,
+      "idade_dias": 302,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-WBS01 - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 25071101015313"
     },
     {
