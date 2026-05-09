@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778355329,
-  "generated_at_iso": "2026-05-09T19:35:29Z",
-  "count": 2411,
+  "generated_at": 1778355624,
+  "generated_at_iso": "2026-05-09T19:40:24Z",
+  "count": 2412,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,14 +16,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026050926000137",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-09T16:40:19",
+      "modificado": "2026-05-09T16:40:21",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26050916383872"
+    },
+    {
       "ticket": "2026050926000128",
       "cliente": "TJBA",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "4 high",
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T16:32:02",
-      "modificado": "2026-05-09T16:32:04",
+      "modificado": "2026-05-09T16:39:28",
       "idade_dias": 0,
       "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
     },
@@ -228,7 +240,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-07T16:40:23",
       "modificado": "2026-05-09T05:00:21",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Remover servidor do monitoramento"
     },
     {
@@ -1380,7 +1392,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-06T16:40:14",
       "modificado": "2026-05-08T10:52:01",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Criação conta de e-mail TalentHub"
     },
     {
@@ -4128,7 +4140,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T16:35:28",
       "modificado": "2026-04-14T17:09:42",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "Segurança - Microsoft 365"
     },
     {
@@ -5148,7 +5160,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-13T16:39:40",
       "modificado": "2026-03-21T05:00:36",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "Select - Combo rules - 13.03.2026 - W4 - PD7"
     },
     {
@@ -5304,7 +5316,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-11T16:40:09",
       "modificado": "2026-03-20T05:00:34",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "Habilitar Fornecedor Norberto"
     },
     {
@@ -9084,7 +9096,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-12-22T16:40:05",
       "modificado": "2025-12-31T05:00:20",
-      "idade_dias": 137,
+      "idade_dias": 138,
       "assunto": "RE: #TOTVS-SERVERS - SP_SPO-VCENTER01 - Datastore_SP:DS_SPO_PRD15 - 25122212284679"
     },
     {
@@ -9792,7 +9804,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-11-21T16:40:09",
       "modificado": "2025-12-12T05:00:30",
-      "idade_dias": 168,
+      "idade_dias": 169,
       "assunto": "AZ - GWMS - Alterar painel \"Totvs Transmite\""
     },
     {
@@ -9828,7 +9840,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-27T16:39:45",
       "modificado": "2025-12-11T05:00:21",
-      "idade_dias": 162,
+      "idade_dias": 163,
       "assunto": "Relatório de Pedido de Compras _ Abas Inclusas"
     },
     {
@@ -10824,7 +10836,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-29T16:40:15",
       "modificado": "2025-11-12T05:00:18",
-      "idade_dias": 191,
+      "idade_dias": 192,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 25102916352253"
     },
     {
@@ -11736,7 +11748,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-02T16:40:10",
       "modificado": "2025-10-16T05:00:21",
-      "idade_dias": 218,
+      "idade_dias": 219,
       "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 25100216325040"
     },
     {
@@ -11952,7 +11964,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-23T16:40:23",
       "modificado": "2025-10-10T05:00:12",
-      "idade_dias": 227,
+      "idade_dias": 228,
       "assunto": " [TJBA] Criação do Dashboard de Acionamento"
     },
     {
@@ -12576,7 +12588,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-17T16:40:22",
       "modificado": "2025-09-27T05:00:29",
-      "idade_dias": 233,
+      "idade_dias": 234,
       "assunto": "Incluir ativo no monitoramento"
     },
     {
@@ -16368,7 +16380,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-01T16:40:09",
       "modificado": "2025-07-11T05:00:24",
-      "idade_dias": 311,
+      "idade_dias": 312,
       "assunto": "Monitoramento Central do Cliente"
     },
     {
@@ -17508,7 +17520,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-04T16:40:10",
       "modificado": "2025-06-17T05:00:24",
-      "idade_dias": 338,
+      "idade_dias": 339,
       "assunto": "Abertura Chamado para Gestão de Logs do Protheus no GWMS para AUTOZONE"
     },
     {
@@ -20196,7 +20208,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-02-14T16:40:09",
       "modificado": "2025-04-29T05:00:12",
-      "idade_dias": 448,
+      "idade_dias": 449,
       "assunto": "RES: Novo Poller GWMS - TOTVS"
     },
     {
@@ -20412,7 +20424,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-15T16:40:11",
       "modificado": "2025-04-24T05:00:04",
-      "idade_dias": 388,
+      "idade_dias": 389,
       "assunto": "Monitoramento alteração de arquivo"
     },
     {
@@ -21948,7 +21960,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-03-10T16:40:16",
       "modificado": "2025-03-21T05:00:06",
-      "idade_dias": 424,
+      "idade_dias": 425,
       "assunto": " Gerar e Executar Arquivo Diferencial - Thunders - HOMOLOGAÇÂO"
     },
     {
@@ -22596,7 +22608,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-25T16:40:07",
       "modificado": "2025-03-05T05:00:24",
-      "idade_dias": 437,
+      "idade_dias": 438,
       "assunto": "RES: Monitoramento - Novo Painel de Operações Negócios Digitais"
     },
     {
@@ -23268,7 +23280,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-02-04T16:40:07",
       "modificado": "2025-02-15T05:00:24",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "Erro ao carregar dados"
     },
     {
@@ -24000,7 +24012,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-24T16:35:34",
       "modificado": "2025-02-09T05:00:08",
-      "idade_dias": 561,
+      "idade_dias": 562,
       "assunto": "Levantamento de Querys"
     },
     {
@@ -25032,7 +25044,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-18T16:36:29",
       "modificado": "2024-12-30T16:30:03",
-      "idade_dias": 506,
+      "idade_dias": 507,
       "assunto": "AZ - Fluxos não encerrados TAX-ID"
     },
     {
@@ -28356,7 +28368,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-20T16:39:42",
       "modificado": "2024-09-30T09:00:12",
-      "idade_dias": 595,
+      "idade_dias": 596,
       "assunto": "Recebi e-mials de workflow para aprovação mas, ao clicar"
     },
     {
