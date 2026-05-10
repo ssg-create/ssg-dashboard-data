@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778372425,
-  "generated_at_iso": "2026-05-10T00:20:25Z",
-  "count": 5159,
+  "generated_at": 1778373032,
+  "generated_at_iso": "2026-05-10T00:30:32Z",
+  "count": 5160,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050926000226",
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050921232610",
+      "criado": "2026-05-09T21:25:16",
+      "modificado": "2026-05-09T21:26:58",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050926000217",
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - MysqlHealth:Total Slow Process - 26050921041985",
