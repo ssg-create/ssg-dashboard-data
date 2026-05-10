@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778455848,
-  "generated_at_iso": "2026-05-10T23:30:48Z",
-  "count": 5163,
+  "generated_at": 1778456425,
+  "generated_at_iso": "2026-05-10T23:40:25Z",
+  "count": 5164,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051026000152",
+      "assunto": "DKT - Alertas UNKNOWN - 26051020341061",
+      "criado": "2026-05-10T20:35:24",
+      "modificado": "2026-05-10T20:35:27",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051026000143",
       "assunto": "DKT - Alertas UNKNOWN - 26051020012055",
@@ -459,9 +479,9 @@
       "num": "2026050926000101",
       "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)",
       "criado": "2026-05-09T14:05:18",
-      "modificado": "2026-05-09T14:16:56",
+      "modificado": "2026-05-10T20:35:27",
       "fila": "NOC",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "3 normal",
       "atendente": "Marcelo Pavanate Silva",
       "primeiro_nome": "Marcelo",
