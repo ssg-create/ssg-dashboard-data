@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778416232,
-  "generated_at_iso": "2026-05-10T12:30:32Z",
-  "count": 5168,
+  "generated_at": 1778416828,
+  "generated_at_iso": "2026-05-10T12:40:28Z",
+  "count": 5170,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,46 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051026000054",
+      "assunto": "WILLY - Alertas CRITICAL - 26051009392697",
+      "criado": "2026-05-10T09:40:16",
+      "modificado": "2026-05-10T09:40:20",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
+    {
+      "num": "2026051026000045",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569",
+      "criado": "2026-05-10T09:40:15",
+      "modificado": "2026-05-10T09:40:20",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051026000036",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051004585682",
