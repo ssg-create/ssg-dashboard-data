@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778390424,
-  "generated_at_iso": "2026-05-10T05:20:24Z",
-  "count": 5166,
+  "generated_at": 1778391025,
+  "generated_at_iso": "2026-05-10T05:30:25Z",
+  "count": 5167,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051026000027",
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL02 - UX:JIRADC-NODE000005 - 26051002260749",
+      "criado": "2026-05-10T02:30:19",
+      "modificado": "2026-05-10T02:30:21",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051026000018",
       "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa",
