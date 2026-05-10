@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778448503,
-  "generated_at_iso": "2026-05-10T21:28:23Z",
-  "count": 5160,
+  "generated_at": 1778448625,
+  "generated_at_iso": "2026-05-10T21:30:25Z",
+  "count": 5161,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051026000125",
+      "assunto": "DownTime em VMs para resize de vCPUs",
+      "criado": "2026-05-10T18:30:06",
+      "modificado": "2026-05-10T18:30:09",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "pedro.garcia@totvs.com.br",
+      "cli_user": "pedro.garcia@totvs.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051026000116",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051017193115",
