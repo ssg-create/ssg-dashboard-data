@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778425818,
-  "generated_at_iso": "2026-05-10T15:10:18Z",
-  "count": 2434,
+  "generated_at": 1778426215,
+  "generated_at_iso": "2026-05-10T15:16:55Z",
+  "count": 2435,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051026000091",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T12:15:15",
+      "modificado": "2026-05-10T12:15:17",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051012105147"
+    },
     {
       "ticket": "2026050826000255",
       "cliente": "SERVENG",
@@ -816,7 +828,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-03-17T12:12:20",
       "modificado": "2026-05-10T05:00:15",
-      "idade_dias": 53,
+      "idade_dias": 54,
       "assunto": "CIAP - loja 150"
     },
     {
@@ -1164,7 +1176,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T12:15:23",
       "modificado": "2026-05-09T12:30:55",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26050912103913"
     },
     {
@@ -1176,7 +1188,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T12:11:38",
       "modificado": "2026-05-09T12:11:40",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
     },
     {
@@ -4716,7 +4728,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-30T12:11:50",
       "modificado": "2026-04-08T05:00:14",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "Monitoramento Java"
     },
     {
@@ -5124,7 +5136,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-19T12:15:23",
       "modificado": "2026-03-27T05:00:29",
-      "idade_dias": 51,
+      "idade_dias": 52,
       "assunto": "Criação de portal para abertura de chamado - Atitus"
     },
     {
@@ -5676,7 +5688,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-11-13T12:15:10",
       "modificado": "2026-03-20T05:00:21",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "RES: RES: [EXTERNAL] Re: AZ - PAGAR - Erro Rateio cartão de crédito"
     },
     {
@@ -7080,7 +7092,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-10T12:10:19",
       "modificado": "2026-02-20T05:00:43",
-      "idade_dias": 88,
+      "idade_dias": 89,
       "assunto": "LIBERAÇÃO PARA PEDIDOS DE COMPRAS NO PROTHEUS"
     },
     {
@@ -8508,7 +8520,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-01-14T12:15:21",
       "modificado": "2026-01-24T05:00:16",
-      "idade_dias": 115,
+      "idade_dias": 116,
       "assunto": "Ajustes dashboard de Nobreaks - ARCO"
     },
     {
@@ -10260,7 +10272,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2025-11-30T12:15:08",
       "modificado": "2025-12-08T05:00:21",
-      "idade_dias": 160,
+      "idade_dias": 161,
       "assunto": "#TOTVS-NETWORK - Alertas HOST DOWN - 25113012105119"
     },
     {
@@ -12360,7 +12372,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-09-14T12:10:21",
       "modificado": "2025-10-07T05:00:16",
-      "idade_dias": 237,
+      "idade_dias": 238,
       "assunto": "Guardar dados API"
     },
     {
@@ -12660,7 +12672,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-09-17T12:11:14",
       "modificado": "2025-10-01T05:00:31",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "— Monitor Importação XMLs"
     },
     {
@@ -14148,7 +14160,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-25T12:14:24",
       "modificado": "2025-09-09T05:00:20",
-      "idade_dias": 257,
+      "idade_dias": 258,
       "assunto": "Alteração da Descrição do Pedido"
     },
     {
@@ -14976,7 +14988,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-12T12:12:40",
       "modificado": "2025-08-20T05:00:18",
-      "idade_dias": 270,
+      "idade_dias": 271,
       "assunto": "Gerar Livro de Entrada"
     },
     {
@@ -15048,7 +15060,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-24T12:10:31",
       "modificado": "2025-08-19T05:00:08",
-      "idade_dias": 380,
+      "idade_dias": 381,
       "assunto": "DEVOLUÇÃO DE COMPRA - CONTABILIZAÇÃO DO CANCELAMENTO (ESTORNO)"
     },
     {
@@ -18228,7 +18240,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-28T12:16:47",
       "modificado": "2025-06-05T05:00:24",
-      "idade_dias": 346,
+      "idade_dias": 347,
       "assunto": "Vencimento PA - trava"
     },
     {
@@ -19176,7 +19188,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-12T12:13:10",
       "modificado": "2025-05-20T05:00:26",
-      "idade_dias": 362,
+      "idade_dias": 363,
       "assunto": "NUMERAÇÃO SÉRIE 2 - CD"
     },
     {
@@ -19968,7 +19980,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-28T12:15:07",
       "modificado": "2025-05-06T05:00:23",
-      "idade_dias": 376,
+      "idade_dias": 377,
       "assunto": "[TOTVS] - EXCLUSÃO MONITORAMENTO"
     },
     {
@@ -20040,7 +20052,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-04T12:15:05",
       "modificado": "2025-05-04T13:13:45",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 25050412134782"
     },
     {
@@ -20628,7 +20640,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-04T12:14:24",
       "modificado": "2025-04-25T05:00:06",
-      "idade_dias": 400,
+      "idade_dias": 401,
       "assunto": "MUDAR USUÁRIO DO PROTHEUS"
     },
     {
@@ -22596,7 +22608,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-25T12:15:12",
       "modificado": "2025-03-13T05:00:19",
-      "idade_dias": 438,
+      "idade_dias": 439,
       "assunto": "Criação monitoramento ZTNA CloudFlare"
     },
     {
@@ -23004,7 +23016,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-21T12:15:50",
       "modificado": "2025-03-04T05:00:04",
-      "idade_dias": 442,
+      "idade_dias": 443,
       "assunto": "Filial 0170 - Emissão de nota"
     },
     {
@@ -24252,7 +24264,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-12-02T12:15:22",
       "modificado": "2025-02-09T05:00:09",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "Querys - Receita Recorrente Totvs"
     },
     {
@@ -24300,7 +24312,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-22T12:15:12",
       "modificado": "2025-02-07T05:00:15",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -26448,7 +26460,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-11-29T12:15:12",
       "modificado": "2024-11-29T14:01:18",
-      "idade_dias": 526,
+      "idade_dias": 527,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 24112912144599"
     },
     {
@@ -26652,7 +26664,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2024-11-04T12:15:20",
       "modificado": "2024-11-20T19:00:17",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "ARCO - desenvolvimento de plugin - switch/AP"
     },
     {
@@ -28440,7 +28452,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-25T12:13:22",
       "modificado": "2024-10-02T15:00:11",
-      "idade_dias": 591,
+      "idade_dias": 592,
       "assunto": "INTEGRAÇÃO GT - ERRO"
     },
     {
