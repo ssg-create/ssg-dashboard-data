@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778455843,
-  "generated_at_iso": "2026-05-10T23:30:43Z",
-  "count": 2424,
+  "generated_at": 1778456420,
+  "generated_at_iso": "2026-05-10T23:40:20Z",
+  "count": 2425,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050926000101",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo Pavanate Silva",
+      "criado": "2026-05-09T14:05:18",
+      "modificado": "2026-05-10T20:35:27",
+      "idade_dias": 1,
+      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
+    },
+    {
+      "ticket": "2026051026000152",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T20:35:24",
+      "modificado": "2026-05-10T20:35:27",
+      "idade_dias": 0,
+      "assunto": "DKT - Alertas UNKNOWN - 26051020341061"
+    },
     {
       "ticket": "2026051026000143",
       "cliente": "monitoramento@groundwork.com.br",
@@ -1032,7 +1056,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T20:35:09",
       "modificado": "2026-05-09T20:43:18",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "GROUNDWORK - Alertas CRITICAL - 26050920320683"
     },
     {
@@ -1058,18 +1082,6 @@
       "modificado": "2026-05-09T16:39:28",
       "idade_dias": 1,
       "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
-    },
-    {
-      "ticket": "2026050926000101",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo Pavanate Silva",
-      "criado": "2026-05-09T14:05:18",
-      "modificado": "2026-05-09T14:16:56",
-      "idade_dias": 1,
-      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
     },
     {
       "ticket": "2026050526000135",
@@ -1560,7 +1572,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-07T20:40:14",
       "modificado": "2026-05-08T10:39:42",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
     },
     {
@@ -9372,7 +9384,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-12-17T20:35:18",
       "modificado": "2025-12-27T05:00:26",
-      "idade_dias": 143,
+      "idade_dias": 144,
       "assunto": "Validação de contas de serviço."
     },
     {
@@ -27636,7 +27648,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-30T20:33:43",
       "modificado": "2024-10-22T11:00:00",
-      "idade_dias": 586,
+      "idade_dias": 587,
       "assunto": "Envio de E-mail aprovação SC e PC"
     },
     {
