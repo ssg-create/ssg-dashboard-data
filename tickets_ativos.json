@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778456420,
-  "generated_at_iso": "2026-05-10T23:40:20Z",
-  "count": 2425,
+  "generated_at": 1778457018,
+  "generated_at_iso": "2026-05-10T23:50:18Z",
+  "count": 2426,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,28 +16,52 @@
   ],
   "rows": [
     {
-      "ticket": "2026050926000101",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo Pavanate Silva",
-      "criado": "2026-05-09T14:05:18",
-      "modificado": "2026-05-10T20:35:27",
-      "idade_dias": 1,
-      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
-    },
-    {
-      "ticket": "2026051026000152",
+      "ticket": "2026051026000161",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
+      "criado": "2026-05-10T20:50:05",
+      "modificado": "2026-05-10T20:50:07",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - Influxdb Check Writes - 26051020463511"
+    },
+    {
+      "ticket": "2026051026000152",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
       "criado": "2026-05-10T20:35:24",
-      "modificado": "2026-05-10T20:35:27",
+      "modificado": "2026-05-10T20:47:53",
       "idade_dias": 0,
       "assunto": "DKT - Alertas UNKNOWN - 26051020341061"
+    },
+    {
+      "ticket": "2026050926000075",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Eliandro Rochel",
+      "criado": "2026-05-09T10:40:10",
+      "modificado": "2026-05-10T20:47:09",
+      "idade_dias": 1,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
+    },
+    {
+      "ticket": "2026050926000101",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Jeferson Fretta",
+      "criado": "2026-05-09T14:05:18",
+      "modificado": "2026-05-10T20:44:55",
+      "idade_dias": 1,
+      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
     },
     {
       "ticket": "2026051026000143",
@@ -1032,7 +1056,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-09T20:45:11",
       "modificado": "2026-05-09T20:48:18",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:GWMS2.0 TELETEX - Portal NOC - 26050920405820"
     },
     {
@@ -1130,18 +1154,6 @@
       "modificado": "2026-05-09T13:52:58",
       "idade_dias": 6,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
-      "ticket": "2026050926000075",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eliandro Rochel",
-      "criado": "2026-05-09T10:40:10",
-      "modificado": "2026-05-09T12:33:42",
-      "idade_dias": 1,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
     },
     {
       "ticket": "2026050926000084",
@@ -19524,7 +19536,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-29T20:44:07",
       "modificado": "2025-05-13T05:00:22",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "AZ -  Erro na Baixa de Títulos no TOTVS – Cheque Vinculado"
     },
     {
@@ -25428,7 +25440,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-16T20:45:13",
       "modificado": "2024-12-25T12:00:05",
-      "idade_dias": 509,
+      "idade_dias": 510,
       "assunto": "RE: ARCO - Alertas CRITICAL - 24121620270256"
     },
     {
