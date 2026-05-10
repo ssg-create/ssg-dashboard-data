@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778448018,
-  "generated_at_iso": "2026-05-10T21:20:18Z",
+  "generated_at": 1778448497,
+  "generated_at_iso": "2026-05-10T21:28:17Z",
   "count": 2421,
   "filas": [
     "DATASUL",
@@ -18,14 +18,38 @@
     {
       "ticket": "2026051026000116",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-10T17:20:17",
-      "modificado": "2026-05-10T17:20:19",
+      "modificado": "2026-05-10T18:28:15",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051017193115"
+    },
+    {
+      "ticket": "2026051026000107",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T15:40:24",
+      "modificado": "2026-05-10T18:28:11",
+      "idade_dias": 0,
+      "assunto": "COMEXPORT - CMXSRVMONITOR01 - Time - 26051015384432"
+    },
+    {
+      "ticket": "2026051026000018",
+      "cliente": "thiago.trufelli@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T00:25:21",
+      "modificado": "2026-05-10T18:28:06",
+      "idade_dias": 0,
+      "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
     },
     {
       "ticket": "2026050926000021",
@@ -38,18 +62,6 @@
       "modificado": "2026-05-10T16:34:48",
       "idade_dias": 1,
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
-    },
-    {
-      "ticket": "2026051026000107",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T15:40:24",
-      "modificado": "2026-05-10T15:40:26",
-      "idade_dias": 0,
-      "assunto": "COMEXPORT - CMXSRVMONITOR01 - Time - 26051015384432"
     },
     {
       "ticket": "2026050826000255",
@@ -648,7 +660,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-10T05:00:16",
-      "idade_dias": 100,
+      "idade_dias": 101,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
@@ -878,18 +890,6 @@
       "modificado": "2026-05-10T02:47:34",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL02 - UX:JIRADC-NODE000005 - 26051002260749"
-    },
-    {
-      "ticket": "2026051026000018",
-      "cliente": "thiago.trufelli@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T00:25:21",
-      "modificado": "2026-05-10T00:25:22",
-      "idade_dias": 0,
-      "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
     },
     {
       "ticket": "2026050926000271",
@@ -2268,7 +2268,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-06T18:25:11",
       "modificado": "2026-05-06T18:25:14",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Espelhamento 27/03/2026"
     },
     {
@@ -3384,7 +3384,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-13T18:25:39",
       "modificado": "2026-04-25T05:00:23",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Netflow"
     },
     {
@@ -4908,7 +4908,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-20T18:22:13",
       "modificado": "2026-03-31T05:00:30",
-      "idade_dias": 50,
+      "idade_dias": 51,
       "assunto": "Contabilização Offiline"
     },
     {
@@ -18096,7 +18096,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-04T18:20:22",
       "modificado": "2025-06-04T18:20:24",
-      "idade_dias": 339,
+      "idade_dias": 340,
       "assunto": "Select conta 54750 - FRETE"
     },
     {
@@ -28596,7 +28596,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-09-16T18:25:12",
       "modificado": "2024-09-25T10:00:04",
-      "idade_dias": 600,
+      "idade_dias": 601,
       "assunto": "Monitoramento PSD"
     },
     {
