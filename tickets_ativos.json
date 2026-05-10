@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778427620,
-  "generated_at_iso": "2026-05-10T15:40:20Z",
+  "generated_at": 1778428226,
+  "generated_at_iso": "2026-05-10T15:50:26Z",
   "count": 2435,
   "filas": [
     "DATASUL",
@@ -16,18 +16,6 @@
   ],
   "rows": [
     {
-      "ticket": "2026051026000091",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T12:15:15",
-      "modificado": "2026-05-10T12:15:17",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051012105147"
-    },
-    {
       "ticket": "2026050826000255",
       "cliente": "SERVENG",
       "fila": "DBA",
@@ -35,9 +23,21 @@
       "prioridade": "3 normal",
       "atendente": "Eduardo Candido",
       "criado": "2026-05-08T15:35:19",
-      "modificado": "2026-05-10T11:00:08",
+      "modificado": "2026-05-10T12:45:22",
       "idade_dias": 1,
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
+    },
+    {
+      "ticket": "2026051026000091",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T12:15:15",
+      "modificado": "2026-05-10T12:44:56",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051012105147"
     },
     {
       "ticket": "2026051026000081",
@@ -4140,7 +4140,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-04-10T12:45:14",
       "modificado": "2026-04-18T05:00:15",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "QUEDA RECORRENTE AO ACESSO VDI"
     },
     {
@@ -11880,7 +11880,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-07T12:45:22",
       "modificado": "2025-10-17T05:00:36",
-      "idade_dias": 214,
+      "idade_dias": 215,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPO-HT-DEV11.SP01.LOCAL - Memory - 25100711541023"
     },
     {
@@ -14352,7 +14352,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-08T12:44:13",
       "modificado": "2025-09-03T05:00:22",
-      "idade_dias": 274,
+      "idade_dias": 275,
       "assunto": "INTEGRAÇÃO CUPOM FISCAL - loja 0036"
     },
     {
@@ -15096,7 +15096,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-07-30T12:45:17",
       "modificado": "2025-08-16T05:00:25",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "BAM GWMS - Integração de Pedidos Autozone"
     },
     {
@@ -18564,7 +18564,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-09T12:40:57",
       "modificado": "2025-05-29T05:00:10",
-      "idade_dias": 365,
+      "idade_dias": 366,
       "assunto": "Relatório com Manifestação do Destinatário"
     },
     {
@@ -25992,7 +25992,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-09T12:45:05",
       "modificado": "2024-12-17T09:00:13",
-      "idade_dias": 516,
+      "idade_dias": 517,
       "assunto": "RES: [EXTERNAL] Encerramento do Chamado 2024103026000395"
     },
     {
