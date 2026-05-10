@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778448620,
-  "generated_at_iso": "2026-05-10T21:30:20Z",
-  "count": 2422,
+  "generated_at": 1778449223,
+  "generated_at_iso": "2026-05-10T21:40:23Z",
+  "count": 2423,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,40 @@
   ],
   "rows": [
     {
-      "ticket": "2026051026000125",
-      "cliente": "pedro.garcia@totvs.com.br",
+      "ticket": "2026051026000134",
+      "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
+      "criado": "2026-05-10T18:40:08",
+      "modificado": "2026-05-10T18:40:10",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051018355611"
+    },
+    {
+      "ticket": "2026051026000125",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Jeferson Fretta",
       "criado": "2026-05-10T18:30:06",
-      "modificado": "2026-05-10T18:30:09",
+      "modificado": "2026-05-10T18:40:00",
       "idade_dias": 0,
       "assunto": "DownTime em VMs para resize de vCPUs"
+    },
+    {
+      "ticket": "2026050926000021",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-09T06:31:31",
+      "modificado": "2026-05-10T18:31:56",
+      "idade_dias": 1,
+      "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
     },
     {
       "ticket": "2026051026000116",
@@ -62,18 +86,6 @@
       "modificado": "2026-05-10T18:28:06",
       "idade_dias": 0,
       "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
-    },
-    {
-      "ticket": "2026050926000021",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-09T06:31:31",
-      "modificado": "2026-05-10T16:34:48",
-      "idade_dias": 1,
-      "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
     },
     {
       "ticket": "2026050826000255",
@@ -1248,7 +1260,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-08T18:40:22",
       "modificado": "2026-05-08T19:05:28",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
     },
     {
@@ -1416,7 +1428,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-04T18:40:14",
       "modificado": "2026-05-08T14:32:00",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
@@ -2484,7 +2496,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-04-28T18:35:08",
       "modificado": "2026-05-06T10:10:03",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
     },
     {
@@ -3108,7 +3120,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-29T18:40:13",
       "modificado": "2026-04-30T08:25:51",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Alterar threshold o alerta Agrosul"
     },
     {
@@ -3192,7 +3204,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-10T18:35:22",
       "modificado": "2026-04-29T16:09:09",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "BUG reload/restart centreon"
     },
     {
@@ -4176,7 +4188,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-06T18:35:33",
       "modificado": "2026-04-15T05:00:31",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "Select - Combo rules - W4 - PD8 - 06.04.2026 - 2ª solicitação"
     },
     {
@@ -5424,7 +5436,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-11T18:31:18",
       "modificado": "2026-03-20T05:00:35",
-      "idade_dias": 59,
+      "idade_dias": 60,
       "assunto": "Select - Combo rules - 11..03.2026 - W4 - PD7 - Diretamente no USGAAP"
     },
     {
@@ -6864,7 +6876,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-02-11T18:35:43",
       "modificado": "2026-02-21T05:00:27",
-      "idade_dias": 87,
+      "idade_dias": 88,
       "assunto": "FALHA AO EXCLUIR ADIANTAMENTO"
     },
     {
@@ -16296,7 +16308,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-06-26T18:35:08",
       "modificado": "2025-07-15T05:00:25",
-      "idade_dias": 317,
+      "idade_dias": 318,
       "assunto": "FILESERVER"
     },
     {
@@ -17952,7 +17964,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-27T18:37:32",
       "modificado": "2025-06-10T05:00:21",
-      "idade_dias": 347,
+      "idade_dias": 348,
       "assunto": "Aglutinação do mesmo item com pedidos iguais"
     },
     {
@@ -18420,7 +18432,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-29T18:34:15",
       "modificado": "2025-05-29T05:00:08",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "AZ - Problema no fator de conversão"
     },
     {
@@ -19632,7 +19644,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-30T18:35:12",
       "modificado": "2025-05-10T05:00:18",
-      "idade_dias": 374,
+      "idade_dias": 375,
       "assunto": "AJUSTE MONITORAMENTO - VPN Site-to-site por host"
     },
     {
@@ -24420,7 +24432,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-30T18:38:00",
       "modificado": "2025-01-17T11:00:20",
-      "idade_dias": 495,
+      "idade_dias": 496,
       "assunto": "Inclusão de um campo de \"motivo de desmobilização\""
     },
     {
@@ -24612,7 +24624,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-30T18:34:47",
       "modificado": "2025-01-15T09:00:09",
-      "idade_dias": 495,
+      "idade_dias": 496,
       "assunto": "PROVISIONAR TITULO EM MODULO FINANCEIRO"
     },
     {
@@ -24624,7 +24636,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-26T18:39:27",
       "modificado": "2025-01-15T09:00:08",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "IPI devolvido não integrado - Nfes Devolução"
     },
     {
@@ -26028,7 +26040,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-27T18:40:22",
       "modificado": "2024-12-09T15:30:16",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "AZ - Notas Integradas com Vencimento Errado - Fornecedor Goop"
     },
     {
@@ -28080,7 +28092,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-09-24T18:35:23",
       "modificado": "2024-10-09T09:00:05",
-      "idade_dias": 592,
+      "idade_dias": 593,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-POOL02 - Load - 24092418332849"
     },
     {
