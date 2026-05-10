@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778454028,
-  "generated_at_iso": "2026-05-10T23:00:28Z",
-  "count": 5162,
+  "generated_at": 1778454632,
+  "generated_at_iso": "2026-05-10T23:10:32Z",
+  "count": 5163,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051026000143",
+      "assunto": "DKT - Alertas UNKNOWN - 26051020012055",
+      "criado": "2026-05-10T20:05:22",
+      "modificado": "2026-05-10T20:05:24",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051026000134",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051018355611",
