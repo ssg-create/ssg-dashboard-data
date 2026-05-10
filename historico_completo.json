@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778371445,
-  "generated_at_iso": "2026-05-10T00:04:05Z",
-  "count": 5158,
+  "generated_at": 1778371832,
+  "generated_at_iso": "2026-05-10T00:10:32Z",
+  "count": 5159,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026050926000217",
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - MysqlHealth:Total Slow Process - 26050921041985",
+      "criado": "2026-05-09T21:05:15",
+      "modificado": "2026-05-09T21:10:10",
+      "fila": "GWMS",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026050926000208",
       "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:GWMS2.0 TELETEX - Portal NOC - 26050920405820",
@@ -119,7 +139,7 @@
       "num": "2026050926000155",
       "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Poller Alive - 26050919354035",
       "criado": "2026-05-09T19:40:23",
-      "modificado": "2026-05-09T20:55:13",
+      "modificado": "2026-05-09T21:05:17",
       "fila": "GWMS",
       "estado": "new",
       "prioridade": "3 normal",
