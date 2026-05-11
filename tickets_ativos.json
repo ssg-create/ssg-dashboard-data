@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778513569,
-  "generated_at_iso": "2026-05-11T15:32:49Z",
+  "generated_at": 1778514029,
+  "generated_at_iso": "2026-05-11T15:40:29Z",
   "count": 2356,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000105",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-11T08:50:23",
+      "modificado": "2026-05-11T12:40:11",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554"
+    },
     {
       "ticket": "2026051126000196",
       "cliente": "TJBA (TELETEX)",
@@ -458,18 +470,6 @@
       "modificado": "2026-05-11T09:16:04",
       "idade_dias": 0,
       "assunto": "Iniciar Scan Pecval"
-    },
-    {
-      "ticket": "2026051126000105",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-11T08:50:23",
-      "modificado": "2026-05-11T09:05:14",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554"
     },
     {
       "ticket": "2026050826000273",
@@ -5652,7 +5652,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-02-18T12:34:45",
       "modificado": "2026-03-11T05:00:25",
-      "idade_dias": 81,
+      "idade_dias": 82,
       "assunto": "Retornar NF"
     },
     {
@@ -6852,7 +6852,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-02-06T12:35:15",
       "modificado": "2026-02-06T12:35:18",
-      "idade_dias": 93,
+      "idade_dias": 94,
       "assunto": "FileZilla"
     },
     {
@@ -14376,7 +14376,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-30T12:40:17",
       "modificado": "2025-08-12T05:00:19",
-      "idade_dias": 284,
+      "idade_dias": 285,
       "assunto": "Integração PO / Condição de Pagamento"
     },
     {
@@ -17004,7 +17004,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-09T12:37:53",
       "modificado": "2025-06-13T05:00:24",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "Erro na Geração de Borderô"
     },
     {
@@ -18276,7 +18276,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-05-05T12:34:10",
       "modificado": "2025-05-20T05:00:22",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "Nota Fiscal não consumiu Pedido"
     },
     {
@@ -20496,7 +20496,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-01T12:40:06",
       "modificado": "2025-04-09T05:00:15",
-      "idade_dias": 404,
+      "idade_dias": 405,
       "assunto": "Alteração de monitoramento."
     },
     {
@@ -20916,7 +20916,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-03-28T12:40:17",
       "modificado": "2025-03-28T12:40:19",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "ENC:  DEVOLUÇÃO DE COMPRA - LP DE ESTORNO (CANCELAMENTO)"
     },
     {
@@ -21492,7 +21492,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-03T12:35:06",
       "modificado": "2025-03-17T05:00:05",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "NOTAS CANCELADAS COMO AUTORIZADAS - AUTOZONE (SSG)"
     },
     {
@@ -28056,7 +28056,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-04T12:35:08",
       "modificado": "2024-09-18T15:00:03",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "Parametrização"
     },
     {
