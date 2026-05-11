@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778525444,
-  "generated_at_iso": "2026-05-11T18:50:44Z",
+  "generated_at": 1778526061,
+  "generated_at_iso": "2026-05-11T19:01:01Z",
   "counts": {
     "crit": 1,
     "warn": 3,
@@ -12,13 +12,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Debora Gomes com carga real de 5 tickets",
-      "summary": "Debora Gomes tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 8 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Debora Gomes tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 8 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Debora Gomes",
           "carga_real": 5,
-          "em_atendimento": 3,
-          "abertos": 2,
+          "em_atendimento": 4,
+          "abertos": 1,
           "aguardando_terceiros": 8,
           "ativos_total": 13
         }
@@ -50,13 +50,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Vinicius Vedove com carga real de 5 tickets",
-      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Vinicius Vedove",
           "carga_real": 5,
-          "em_atendimento": 2,
-          "abertos": 3,
+          "em_atendimento": 5,
+          "abertos": 0,
           "aguardando_terceiros": 3,
           "ativos_total": 8
         }
