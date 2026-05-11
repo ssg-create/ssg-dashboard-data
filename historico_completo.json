@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778527837,
-  "generated_at_iso": "2026-05-11T19:30:37Z",
-  "count": 5187,
+  "generated_at": 1778528435,
+  "generated_at_iso": "2026-05-11T19:40:35Z",
+  "count": 5188,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051126000436",
+      "assunto": "Rejeição no XML pela Sefaz, mas no Protheus não acusa onde está oe rro",
+      "criado": "2026-05-11T16:34:52",
+      "modificado": "2026-05-11T16:34:56",
+      "fila": "SSG",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "GDBR",
+      "cli_user": "erwins.almeida@gdbr-tg.com.br",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051126000427",
       "assunto": "protheus com falha para acesso",
@@ -39,7 +59,7 @@
       "num": "2026051126000418",
       "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT",
       "criado": "2026-05-11T16:10:05",
-      "modificado": "2026-05-11T16:20:25",
+      "modificado": "2026-05-11T16:39:47",
       "fila": "INFRAESTUTURA",
       "estado": "Em atendimento",
       "prioridade": "3 normal",
@@ -959,7 +979,7 @@
       "num": "2026050926000101",
       "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)",
       "criado": "2026-05-09T14:05:18",
-      "modificado": "2026-05-11T16:30:11",
+      "modificado": "2026-05-11T16:35:09",
       "fila": "NOC",
       "estado": "retorno cliente",
       "prioridade": "3 normal",
