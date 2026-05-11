@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778494228,
-  "generated_at_iso": "2026-05-11T10:10:28Z",
+  "generated_at": 1778494829,
+  "generated_at_iso": "2026-05-11T10:20:29Z",
   "count": 2434,
   "filas": [
     "DATASUL",
@@ -18,14 +18,38 @@
     {
       "ticket": "2026051126000071",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-11T07:05:08",
-      "modificado": "2026-05-11T07:05:10",
+      "modificado": "2026-05-11T07:18:00",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051107011866"
+    },
+    {
+      "ticket": "2026050826000031",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-08T08:21:33",
+      "modificado": "2026-05-11T07:13:11",
+      "idade_dias": 2,
+      "assunto": "Progress OpenEdge - Vulnerabilidade"
+    },
+    {
+      "ticket": "2026050626000311",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-06T15:39:49",
+      "modificado": "2026-05-11T07:11:54",
+      "idade_dias": 4,
+      "assunto": "Erro 748 ao acessar o totvs"
     },
     {
       "ticket": "2026032426000424",
@@ -552,7 +576,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2026-05-04T07:15:05",
       "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z35-TOTVS-P12-JOB05_T-Autozone-12035 TAXID - 26050407083319"
     },
     {
@@ -854,18 +878,6 @@
       "modificado": "2026-05-11T05:00:11",
       "idade_dias": 12,
       "assunto": "INSERT/ SELECT - TIPO 9"
-    },
-    {
-      "ticket": "2026050626000311",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-06T15:39:49",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 4,
-      "assunto": "Erro 748 ao acessar o totvs"
     },
     {
       "ticket": "2026031726000287",
@@ -1622,18 +1634,6 @@
       "modificado": "2026-05-08T12:35:16",
       "idade_dias": 2,
       "assunto": "Ajuste Monitoria - Impressoras"
-    },
-    {
-      "ticket": "2026050826000031",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-05-08T08:21:33",
-      "modificado": "2026-05-08T11:48:19",
-      "idade_dias": 2,
-      "assunto": "Progress OpenEdge - Vulnerabilidade"
     },
     {
       "ticket": "2026050726000462",
@@ -6048,7 +6048,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-09T07:20:19",
       "modificado": "2026-03-17T05:00:24",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "Re: Renomeação Filiais"
     },
     {
@@ -8640,7 +8640,7 @@
       "atendente": "Wesley Araujo",
       "criado": "2026-01-13T07:13:48",
       "modificado": "2026-01-22T05:00:31",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Lentidão no sistema"
     },
     {
@@ -13260,7 +13260,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-12T07:15:20",
       "modificado": "2025-09-20T05:00:34",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "#TOTVS-NETWORK - MC_FW-MONTES-CLAROS-N1 - Cpu - 25091207045679"
     },
     {
@@ -14172,7 +14172,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-09-08T07:15:20",
       "modificado": "2025-09-08T07:17:12",
-      "idade_dias": 244,
+      "idade_dias": 245,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 25090807130154"
     },
     {
@@ -20796,7 +20796,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-03T07:15:53",
       "modificado": "2025-04-23T05:00:21",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "Programas RPW"
     },
     {
@@ -22188,7 +22188,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-09T07:14:47",
       "modificado": "2025-03-22T05:00:11",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -22704,7 +22704,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-02-06T07:10:56",
       "modificado": "2025-03-11T05:00:08",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "Sped contribuição está vindo como valor de depreciação negativo"
     },
     {
@@ -24600,7 +24600,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-09T07:11:41",
       "modificado": "2025-01-16T16:00:19",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -28956,7 +28956,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-09-12T07:20:22",
       "modificado": "2024-09-19T15:30:04",
-      "idade_dias": 605,
+      "idade_dias": 606,
       "assunto": "AD - Perfil de rede Acessos as pastas"
     },
     {
