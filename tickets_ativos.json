@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778496621,
-  "generated_at_iso": "2026-05-11T10:50:21Z",
+  "generated_at": 1778497228,
+  "generated_at_iso": "2026-05-11T11:00:28Z",
   "count": 2434,
   "filas": [
     "DATASUL",
@@ -16,14 +16,110 @@
   ],
   "rows": [
     {
-      "ticket": "2026051126000071",
-      "cliente": "monitoramento@groundwork.com.br",
+      "ticket": "2026051026000205",
+      "cliente": "DKT",
       "fila": "GWMS",
-      "estado": "NEW",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T23:45:09",
+      "modificado": "2026-05-11T08:00:17",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051023420438"
+    },
+    {
+      "ticket": "2026050926000039",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-09T06:34:49",
+      "modificado": "2026-05-11T07:59:41",
+      "idade_dias": 2,
+      "assunto": "Refaz saldos - PD9 - USGAAP"
+    },
+    {
+      "ticket": "2026051126000016",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T00:45:17",
+      "modificado": "2026-05-11T07:59:12",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051100425877"
+    },
+    {
+      "ticket": "2026051126000025",
+      "cliente": "SERVENG",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T02:00:07",
+      "modificado": "2026-05-11T07:58:31",
+      "idade_dias": 0,
+      "assunto": "SERVENG - DESATUALIZADO - 26051101581752"
+    },
+    {
+      "ticket": "2026051126000034",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T05:00:12",
+      "modificado": "2026-05-11T07:57:10",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051104581567"
+    },
+    {
+      "ticket": "2026051126000043",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T05:15:14",
+      "modificado": "2026-05-11T07:56:27",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
+    },
+    {
+      "ticket": "2026051126000052",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T05:20:14",
+      "modificado": "2026-05-11T07:55:44",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051105195050"
+    },
+    {
+      "ticket": "2026051126000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T05:30:16",
+      "modificado": "2026-05-11T07:54:12",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
+    },
+    {
+      "ticket": "2026051126000071",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Pedro Luiz",
       "criado": "2026-05-11T07:05:08",
-      "modificado": "2026-05-11T07:18:00",
+      "modificado": "2026-05-11T07:53:19",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051107011866"
     },
@@ -74,54 +170,6 @@
       "modificado": "2026-05-11T05:59:22",
       "idade_dias": 26,
       "assunto": "Update - GGR3"
-    },
-    {
-      "ticket": "2026051126000043",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T05:15:14",
-      "modificado": "2026-05-11T05:49:28",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
-    },
-    {
-      "ticket": "2026051126000052",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T05:20:14",
-      "modificado": "2026-05-11T05:49:16",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051105195050"
-    },
-    {
-      "ticket": "2026051126000061",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T05:30:16",
-      "modificado": "2026-05-11T05:49:09",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
-    },
-    {
-      "ticket": "2026051126000034",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T05:00:12",
-      "modificado": "2026-05-11T05:11:53",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051104581567"
     },
     {
       "ticket": "2026050426000101",
@@ -904,30 +952,6 @@
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
-      "ticket": "2026051126000025",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T02:00:07",
-      "modificado": "2026-05-11T02:40:00",
-      "idade_dias": 0,
-      "assunto": "SERVENG - DESATUALIZADO - 26051101581752"
-    },
-    {
-      "ticket": "2026051126000016",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T00:45:17",
-      "modificado": "2026-05-11T01:08:36",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051100425877"
-    },
-    {
       "ticket": "2026051026000198",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -938,18 +962,6 @@
       "modificado": "2026-05-11T00:00:25",
       "idade_dias": 0,
       "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051022411446"
-    },
-    {
-      "ticket": "2026051026000205",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T23:45:09",
-      "modificado": "2026-05-11T00:00:17",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051023420438"
     },
     {
       "ticket": "2026051026000189",
@@ -1336,18 +1348,6 @@
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
-      "ticket": "2026050926000039",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T06:34:49",
-      "modificado": "2026-05-09T07:00:06",
-      "idade_dias": 2,
-      "assunto": "Refaz saldos - PD9 - USGAAP"
-    },
-    {
       "ticket": "2026050426000137",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1488,7 +1488,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-17T07:50:21",
       "modificado": "2026-05-08T17:41:30",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
@@ -12960,7 +12960,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-17T08:00:07",
       "modificado": "2025-09-25T05:00:18",
-      "idade_dias": 235,
+      "idade_dias": 236,
       "assunto": "RE: Select_16.09 - Contas do Ativo"
     },
     {
@@ -12972,7 +12972,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-17T07:55:06",
       "modificado": "2025-09-25T05:00:16",
-      "idade_dias": 235,
+      "idade_dias": 236,
       "assunto": "RE: Select_16.09 - Conta 21030"
     },
     {
@@ -14616,7 +14616,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-11T07:50:21",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 272,
+      "idade_dias": 273,
       "assunto": "Ajuste monitoramento Jira DC"
     },
     {
@@ -14892,7 +14892,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-08-07T07:55:21",
       "modificado": "2025-08-22T05:00:12",
-      "idade_dias": 276,
+      "idade_dias": 277,
       "assunto": "RES: [EXTERNAL] Autozone | Backtest Equifax BoaVista"
     },
     {
@@ -16356,7 +16356,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-16T08:00:19",
       "modificado": "2025-07-16T08:00:22",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "ERRO - BAIXAS CARTÃO - TOTVS"
     },
     {
@@ -18636,7 +18636,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-02T07:59:15",
       "modificado": "2025-05-28T05:00:27",
-      "idade_dias": 373,
+      "idade_dias": 374,
       "assunto": "Ajuste saldo SB9"
     },
     {
@@ -19800,7 +19800,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-28T08:00:07",
       "modificado": "2025-05-10T05:00:17",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "Monitoramento novos Hosts EQUINIX"
     },
     {
@@ -20940,7 +20940,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-09T07:58:01",
       "modificado": "2025-04-22T05:00:21",
-      "idade_dias": 396,
+      "idade_dias": 397,
       "assunto": "Parametrização Sped Contábil e ECF - continuação chamado 2025020426000126"
     },
     {
@@ -21516,7 +21516,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-03-19T08:00:06",
       "modificado": "2025-04-09T05:00:12",
-      "idade_dias": 417,
+      "idade_dias": 418,
       "assunto": "Re: Contabilização Lote 008840 P07 FY25"
     },
     {
@@ -22536,7 +22536,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-02-05T07:55:13",
       "modificado": "2025-03-15T05:00:20",
-      "idade_dias": 459,
+      "idade_dias": 460,
       "assunto": "AutoZone | Analise de crédito - Robô"
     },
     {
