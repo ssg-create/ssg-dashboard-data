@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778512833,
-  "generated_at_iso": "2026-05-11T15:20:33Z",
-  "count": 2358,
+  "generated_at": 1778513436,
+  "generated_at_iso": "2026-05-11T15:30:36Z",
+  "count": 2356,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,64 @@
   ],
   "rows": [
     {
-      "ticket": "2026051126000258",
-      "cliente": "GroundWork",
+      "ticket": "2026051126000196",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T10:55:37",
+      "modificado": "2026-05-11T12:28:32",
+      "idade_dias": 0,
+      "assunto": "Pemissão de acesso Dashboard"
+    },
+    {
+      "ticket": "2026051126000203",
+      "cliente": "TOTVS",
       "fila": "GWMS",
       "estado": "OPEN",
       "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T12:10:12",
-      "modificado": "2026-05-11T12:20:29",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T11:05:23",
+      "modificado": "2026-05-11T12:28:20",
       "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051112084133"
+      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
+    },
+    {
+      "ticket": "2026051126000221",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-11T11:20:25",
+      "modificado": "2026-05-11T12:27:48",
+      "idade_dias": 0,
+      "assunto": "Licenças Microsoft"
+    },
+    {
+      "ticket": "2026050926000128",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "4 high",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-09T16:32:02",
+      "modificado": "2026-05-11T12:26:08",
+      "idade_dias": 1,
+      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
+    },
+    {
+      "ticket": "2026050926000066",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Fernando Ribeiro",
+      "criado": "2026-05-09T09:10:18",
+      "modificado": "2026-05-11T12:25:15",
+      "idade_dias": 2,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26050907590822"
     },
     {
       "ticket": "2026051126000276",
@@ -74,18 +122,6 @@
       "modificado": "2026-05-11T12:11:10",
       "idade_dias": 0,
       "assunto": "ALTERAÇÃO SERVIDOR (SVRFADDWH01)"
-    },
-    {
-      "ticket": "2026051126000231",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T11:45:07",
-      "modificado": "2026-05-11T11:47:07",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051111414241"
     },
     {
       "ticket": "2026042326000451",
@@ -148,18 +184,6 @@
       "assunto": "CORRECAO DE STATUS CHAMADOS - AUTOZONE"
     },
     {
-      "ticket": "2026050926000066",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Fernando Ribeiro",
-      "criado": "2026-05-09T09:10:18",
-      "modificado": "2026-05-11T11:30:04",
-      "idade_dias": 2,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26050907590822"
-    },
-    {
       "ticket": "2026050826000255",
       "cliente": "SERVENG",
       "fila": "DBA",
@@ -170,18 +194,6 @@
       "modificado": "2026-05-11T11:29:24",
       "idade_dias": 2,
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
-    },
-    {
-      "ticket": "2026051126000221",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T11:20:25",
-      "modificado": "2026-05-11T11:25:25",
-      "idade_dias": 0,
-      "assunto": "Licenças Microsoft"
     },
     {
       "ticket": "2026051126000169",
@@ -220,18 +232,6 @@
       "assunto": "AJUSTE DE CUSTOMIZAÇÃO"
     },
     {
-      "ticket": "2026051126000203",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-11T11:22:41",
-      "idade_dias": 0,
-      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
-    },
-    {
       "ticket": "2026050626000311",
       "cliente": "CONTINENTAL",
       "fila": "DATASUL",
@@ -242,18 +242,6 @@
       "modificado": "2026-05-11T11:07:24",
       "idade_dias": 4,
       "assunto": "Erro 748 ao acessar o totvs"
-    },
-    {
-      "ticket": "2026051126000196",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T10:55:37",
-      "modificado": "2026-05-11T11:00:25",
-      "idade_dias": 0,
-      "assunto": "Pemissão de acesso Dashboard"
     },
     {
       "ticket": "2026051126000187",
@@ -710,18 +698,6 @@
       "modificado": "2026-05-11T08:24:10",
       "idade_dias": 0,
       "assunto": "SERVENG - DESATUALIZADO - 26051101581752"
-    },
-    {
-      "ticket": "2026050926000128",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-09T16:32:02",
-      "modificado": "2026-05-11T08:23:08",
-      "idade_dias": 1,
-      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
     },
     {
       "ticket": "2026050926000155",
@@ -4104,7 +4080,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-08T12:24:13",
       "modificado": "2026-04-13T14:16:32",
-      "idade_dias": 32,
+      "idade_dias": 33,
       "assunto": "Verificar agendamentos de atualização dos gráficos"
     },
     {
@@ -4824,7 +4800,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-11T12:30:14",
       "modificado": "2026-03-25T05:00:21",
-      "idade_dias": 60,
+      "idade_dias": 61,
       "assunto": "Ticket para GWMS - Verificar report com bloqueio no banco de dados AUTOZONE"
     },
     {
@@ -5952,7 +5928,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-23T12:25:21",
       "modificado": "2026-03-04T05:00:19",
-      "idade_dias": 76,
+      "idade_dias": 77,
       "assunto": "RES: ARCO - Alertas UNKNOWN - 26021917235820"
     },
     {
@@ -7212,7 +7188,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-11-14T12:30:15",
       "modificado": "2026-02-02T05:00:12",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "BBP - Falha no Serviço Autozone - Retorno Protheus"
     },
     {
@@ -8652,7 +8628,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-17T12:20:54",
       "modificado": "2025-12-25T05:00:24",
-      "idade_dias": 144,
+      "idade_dias": 145,
       "assunto": "Falha ao acessar"
     },
     {
@@ -10572,7 +10548,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-20T12:30:09",
       "modificado": "2025-10-29T05:00:27",
-      "idade_dias": 202,
+      "idade_dias": 203,
       "assunto": "Liberação de endereço "
     },
     {
@@ -11268,7 +11244,7 @@
       "atendente": "Diogo Cunha",
       "criado": "2025-10-01T12:20:36",
       "modificado": "2025-10-10T05:00:20",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "AJUSTE PARAMETRO"
     },
     {
@@ -12288,7 +12264,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-09-05T12:30:06",
       "modificado": "2025-09-22T05:00:19",
-      "idade_dias": 247,
+      "idade_dias": 248,
       "assunto": "RES: Relatório consolidado diário Análise de Crédito"
     },
     {
@@ -13392,7 +13368,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-25T12:23:35",
       "modificado": "2025-09-03T05:00:28",
-      "idade_dias": 258,
+      "idade_dias": 259,
       "assunto": "Testes Requisição ao Armazém"
     },
     {
@@ -18876,7 +18852,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-30T12:20:50",
       "modificado": "2025-05-10T05:00:18",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "Integração Partnumber"
     },
     {
@@ -20232,7 +20208,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-23T12:27:32",
       "modificado": "2025-04-16T05:00:17",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "AZ - GIFT não contabilizando."
     },
     {
@@ -20664,7 +20640,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-26T12:25:09",
       "modificado": "2025-04-08T05:00:10",
-      "idade_dias": 410,
+      "idade_dias": 411,
       "assunto": "GDBR - DESATUALIZADO - 25032612241752"
     },
     {
@@ -20988,7 +20964,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-18T12:25:23",
       "modificado": "2025-03-27T05:00:11",
-      "idade_dias": 418,
+      "idade_dias": 419,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -21048,7 +21024,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-20T12:30:17",
       "modificado": "2025-03-27T05:00:08",
-      "idade_dias": 444,
+      "idade_dias": 445,
       "assunto": "BBP - Expenses parados na fila para integração do Protheus com o módulo Financeiro."
     },
     {
@@ -21504,7 +21480,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-23T12:25:11",
       "modificado": "2025-03-18T05:00:11",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "AZ - Processo AZO parado devido a falta de atualização na base de clientes"
     },
     {
@@ -24720,7 +24696,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-16T12:30:15",
       "modificado": "2024-12-23T18:30:01",
-      "idade_dias": 510,
+      "idade_dias": 511,
       "assunto": "Select - Conta 10236"
     },
     {
@@ -26688,7 +26664,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-17T12:25:17",
       "modificado": "2024-10-24T14:30:11",
-      "idade_dias": 600,
+      "idade_dias": 601,
       "assunto": "Analise da Receita WeeK 1 e 2 PD01 FY2025"
     },
     {
@@ -27864,7 +27840,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-28T12:25:17",
       "modificado": "2024-09-25T09:30:03",
-      "idade_dias": 620,
+      "idade_dias": 621,
       "assunto": "RES: Experidos - GIF - MERCH"
     },
     {
