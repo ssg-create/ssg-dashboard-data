@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778541621,
-  "generated_at_iso": "2026-05-11T23:20:21Z",
+  "generated_at": 1778542220,
+  "generated_at_iso": "2026-05-11T23:30:20Z",
   "count": 2365,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042226000622",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-22T22:06:01",
+      "modificado": "2026-05-11T20:25:54",
+      "idade_dias": 18,
+      "assunto": "LANÇAMENTO NCC NÃO ESTA AMARRANDO NF E NÃO ESTA GERANDO MOVIMENTO NO CONTÁBIL"
+    },
+    {
+      "ticket": "2026050426000137",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-04T09:25:51",
+      "modificado": "2026-05-11T20:22:47",
+      "idade_dias": 7,
+      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
+    },
     {
       "ticket": "2026051126000507",
       "cliente": "monitoramento@groundwork.com.br",
@@ -1060,18 +1084,6 @@
       "assunto": "Alterar threshold alertas ATITUS"
     },
     {
-      "ticket": "2026050426000137",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-05-04T09:25:51",
-      "modificado": "2026-05-11T08:51:40",
-      "idade_dias": 7,
-      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
-    },
-    {
       "ticket": "2026050726000202",
       "cliente": "BRAVEO",
       "fila": "GWMS",
@@ -1898,18 +1910,6 @@
       "modificado": "2026-05-09T14:01:02",
       "idade_dias": 2,
       "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 26050907331122"
-    },
-    {
-      "ticket": "2026042226000622",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-22T22:06:01",
-      "modificado": "2026-05-09T00:42:39",
-      "idade_dias": 18,
-      "assunto": "LANÇAMENTO NCC NÃO ESTA AMARRANDO NF E NÃO ESTA GERANDO MOVIMENTO NO CONTÁBIL"
     },
     {
       "ticket": "2026050226000079",
@@ -4596,7 +4596,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-24T20:25:10",
       "modificado": "2026-04-02T05:00:18",
-      "idade_dias": 47,
+      "idade_dias": 48,
       "assunto": "GWMS - Ajuste Acionamento ARCO61023"
     },
     {
@@ -5724,7 +5724,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-03-11T20:25:19",
       "modificado": "2026-03-11T20:25:25",
-      "idade_dias": 60,
+      "idade_dias": 61,
       "assunto": "Recall: [AutoZone - PD07 - FY26] - Rotina de custos USGAAP"
     },
     {
@@ -12804,7 +12804,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-28T20:30:09",
       "modificado": "2025-09-17T05:00:35",
-      "idade_dias": 255,
+      "idade_dias": 256,
       "assunto": "Dash HLCLoud"
     },
     {
@@ -16536,7 +16536,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-06-12T20:30:11",
       "modificado": "2025-06-25T05:00:16",
-      "idade_dias": 332,
+      "idade_dias": 333,
       "assunto": "RES: Alteração Veloe"
     },
     {
@@ -21984,7 +21984,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-23T20:24:04",
       "modificado": "2025-03-07T05:00:12",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "REINF"
     },
     {
