@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778497828,
-  "generated_at_iso": "2026-05-11T11:10:28Z",
+  "generated_at": 1778498423,
+  "generated_at_iso": "2026-05-11T11:20:23Z",
   "count": 2435,
   "filas": [
     "DATASUL",
@@ -16,16 +16,100 @@
   ],
   "rows": [
     {
+      "ticket": "2026050926000208",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-09T20:45:11",
+      "modificado": "2026-05-11T08:19:41",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:GWMS2.0 TELETEX - Portal NOC - 26050920405820"
+    },
+    {
+      "ticket": "2026050926000244",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-09T21:55:21",
+      "modificado": "2026-05-11T08:19:07",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - DESATUALIZADO - 26050921524285"
+    },
+    {
+      "ticket": "2026050926000217",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-09T21:05:15",
+      "modificado": "2026-05-11T08:18:32",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - MysqlHealth:Total Slow Process - 26050921041985"
+    },
+    {
+      "ticket": "2026050926000226",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-09T21:25:16",
+      "modificado": "2026-05-11T08:17:31",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050921232610"
+    },
+    {
+      "ticket": "2026050926000235",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-09T21:50:20",
+      "modificado": "2026-05-11T08:16:24",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - HOST DOWN - 26050921492185"
+    },
+    {
+      "ticket": "2026050926000271",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-09T22:40:07",
+      "modificado": "2026-05-11T08:14:43",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050922353634"
+    },
+    {
       "ticket": "2026051126000089",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Eduardo Candido",
       "criado": "2026-05-11T08:10:18",
-      "modificado": "2026-05-11T08:10:20",
+      "modificado": "2026-05-11T08:14:01",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR03-TOTVS-P12-Autozone_S3-22003-RELEASE - 26051108052887"
+    },
+    {
+      "ticket": "2026051026000018",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-10T00:25:21",
+      "modificado": "2026-05-11T08:11:07",
+      "idade_dias": 1,
+      "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
     },
     {
       "ticket": "2026051026000027",
@@ -516,7 +600,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-07T08:13:00",
       "modificado": "2026-05-11T05:00:14",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "EXCLUSÃO DE TITULO A PAGAR"
     },
     {
@@ -816,7 +900,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2026-05-04T08:15:14",
       "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Downtime monitoramento Central de Clientes"
     },
     {
@@ -1168,18 +1252,6 @@
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
     },
     {
-      "ticket": "2026051026000018",
-      "cliente": "thiago.trufelli@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T00:25:21",
-      "modificado": "2026-05-10T18:28:06",
-      "idade_dias": 1,
-      "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
-    },
-    {
       "ticket": "2026050826000255",
       "cliente": "SERVENG",
       "fila": "DBA",
@@ -1192,66 +1264,6 @@
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
     },
     {
-      "ticket": "2026050926000271",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T22:40:07",
-      "modificado": "2026-05-09T23:51:20",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050922353634"
-    },
-    {
-      "ticket": "2026050926000244",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T21:55:21",
-      "modificado": "2026-05-09T21:57:31",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - DESATUALIZADO - 26050921524285"
-    },
-    {
-      "ticket": "2026050926000235",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T21:50:20",
-      "modificado": "2026-05-09T21:54:53",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - HOST DOWN - 26050921492185"
-    },
-    {
-      "ticket": "2026050926000226",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T21:25:16",
-      "modificado": "2026-05-09T21:26:58",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050921232610"
-    },
-    {
-      "ticket": "2026050926000217",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T21:05:15",
-      "modificado": "2026-05-09T21:10:10",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - MysqlHealth:Total Slow Process - 26050921041985"
-    },
-    {
       "ticket": "2026050926000155",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -1262,18 +1274,6 @@
       "modificado": "2026-05-09T21:05:17",
       "idade_dias": 1,
       "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Poller Alive - 26050919354035"
-    },
-    {
-      "ticket": "2026050926000208",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-09T20:45:11",
-      "modificado": "2026-05-09T20:48:18",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:GWMS2.0 TELETEX - Portal NOC - 26050920405820"
     },
     {
       "ticket": "2026050926000173",
@@ -2064,7 +2064,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2025-11-11T08:15:07",
       "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 180,
+      "idade_dias": 181,
       "assunto": "Re: DEVOLUÇÕES"
     },
     {
@@ -6324,7 +6324,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-03-02T08:15:09",
       "modificado": "2026-03-12T05:00:23",
-      "idade_dias": 69,
+      "idade_dias": 70,
       "assunto": "RES: AD - Perfil Copia de Perfil para criar perfil de estagiario.labeletronica"
     },
     {
@@ -7632,7 +7632,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-01-26T08:15:20",
       "modificado": "2026-02-11T05:00:23",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "ARCO - Alertas UNKNOWN - 26012608095231"
     },
     {
@@ -8424,7 +8424,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-01-19T08:15:20",
       "modificado": "2026-01-28T05:00:33",
-      "idade_dias": 111,
+      "idade_dias": 112,
       "assunto": "ALERTA CLIENTE ARCO"
     },
     {
@@ -11184,7 +11184,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-10-27T08:20:17",
       "modificado": "2025-11-08T05:00:31",
-      "idade_dias": 195,
+      "idade_dias": 196,
       "assunto": "ENC: Inclusão de VM no monitoramento."
     },
     {
@@ -14328,7 +14328,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-20T08:18:12",
       "modificado": "2025-09-03T05:00:26",
-      "idade_dias": 263,
+      "idade_dias": 264,
       "assunto": "Erro - Baixa de titulo em bordero"
     },
     {
@@ -14592,7 +14592,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-19T08:14:22",
       "modificado": "2025-08-27T18:24:05",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "BANRISUL - BANCO DO ESTADO DO RIO GRANDE DO SUL S.A | Criação de monitoração na aplicação SOAR do cliente Banrisul na Infra da TLTX."
     },
     {
@@ -15252,7 +15252,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-08-01T08:15:21",
       "modificado": "2025-08-14T05:00:25",
-      "idade_dias": 282,
+      "idade_dias": 283,
       "assunto": "PROBLEMA HORARIO"
     },
     {
@@ -18168,7 +18168,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-29T08:15:22",
       "modificado": "2025-06-06T05:00:30",
-      "idade_dias": 346,
+      "idade_dias": 347,
       "assunto": "Select contas de Ativo"
     },
     {
@@ -19548,7 +19548,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-05T08:11:48",
       "modificado": "2025-05-13T05:00:26",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "Mudança de filial no Protheus"
     },
     {
@@ -22584,7 +22584,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-04T08:12:17",
       "modificado": "2025-03-13T05:00:20",
-      "idade_dias": 432,
+      "idade_dias": 433,
       "assunto": "Acesso ao Protheus"
     },
     {
@@ -23904,7 +23904,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-01-22T08:15:24",
       "modificado": "2025-02-10T05:00:07",
-      "idade_dias": 473,
+      "idade_dias": 474,
       "assunto": "ENC: Revisão Alertas Braveo"
     },
     {
@@ -24192,7 +24192,7 @@
       "atendente": "Alisson Silva",
       "criado": "2025-01-14T08:19:47",
       "modificado": "2025-02-09T05:00:12",
-      "idade_dias": 481,
+      "idade_dias": 482,
       "assunto": "CSC Filial - Valores entre emissão do título e baixa com rateio"
     },
     {
@@ -25704,7 +25704,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-12T08:10:50",
       "modificado": "2024-12-20T19:00:11",
-      "idade_dias": 514,
+      "idade_dias": 515,
       "assunto": "Ajustes DashBoard"
     },
     {
@@ -28620,7 +28620,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-16T08:20:22",
       "modificado": "2024-09-30T10:00:16",
-      "idade_dias": 601,
+      "idade_dias": 602,
       "assunto": "Monitoramento de atividade de VM (ping)"
     },
     {
