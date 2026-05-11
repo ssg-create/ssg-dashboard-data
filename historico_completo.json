@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778542226,
-  "generated_at_iso": "2026-05-11T23:30:26Z",
+  "generated_at": 1778542833,
+  "generated_at_iso": "2026-05-11T23:40:33Z",
   "count": 5195,
   "filas": [
     "DATASUL",
@@ -6219,9 +6219,9 @@
       "num": "2026042826000237",
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS",
       "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-05-11T05:00:11",
+      "modificado": "2026-05-11T20:33:37",
       "fila": "SSG",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Diego Cardoso",
       "primeiro_nome": "Diego",
@@ -6229,10 +6229,10 @@
       "cli_id": "GDBR",
       "cli_user": "rafaella.isidoro@gdbr-tg.com.br",
       "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "fechado": null,
+      "fechado": "2026-05-11T20:33:37",
       "resp_min_raw": 17,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 19312,
+      "sol_min_bh": 5238,
       "resp_min_bh": 17
     },
     {
