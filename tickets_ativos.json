@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778487024,
-  "generated_at_iso": "2026-05-11T08:10:24Z",
-  "count": 2430,
+  "generated_at": 1778487623,
+  "generated_at_iso": "2026-05-11T08:20:23Z",
+  "count": 2432,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,14 +16,38 @@
   ],
   "rows": [
     {
-      "ticket": "2026051126000034",
+      "ticket": "2026051126000052",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
+      "criado": "2026-05-11T05:20:14",
+      "modificado": "2026-05-11T05:20:17",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051105195050"
+    },
+    {
+      "ticket": "2026051126000043",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T05:15:14",
+      "modificado": "2026-05-11T05:15:15",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
+    },
+    {
+      "ticket": "2026051126000034",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
       "criado": "2026-05-11T05:00:12",
-      "modificado": "2026-05-11T05:00:18",
+      "modificado": "2026-05-11T05:11:53",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051104581567"
     },
@@ -17652,7 +17676,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-08T05:20:05",
       "modificado": "2025-06-18T05:00:16",
-      "idade_dias": 336,
+      "idade_dias": 337,
       "assunto": "ARCO - Poller02 - Load - 25060805165820"
     },
     {
@@ -21504,7 +21528,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-03-30T05:15:07",
       "modificado": "2025-04-08T05:00:12",
-      "idade_dias": 406,
+      "idade_dias": 407,
       "assunto": "#TOTVS-SERVERS - Alertas CRITICAL - 25033005112025"
     },
     {
