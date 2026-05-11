@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778517630,
-  "generated_at_iso": "2026-05-11T16:40:30Z",
-  "count": 2357,
+  "generated_at": 1778518229,
+  "generated_at_iso": "2026-05-11T16:50:29Z",
+  "count": 2354,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000311",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-06T15:39:49",
+      "modificado": "2026-05-11T13:46:55",
+      "idade_dias": 4,
+      "assunto": "Erro 748 ao acessar o totvs"
+    },
+    {
+      "ticket": "2026041726000034",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-17T07:50:21",
+      "modificado": "2026-05-11T13:45:08",
+      "idade_dias": 24,
+      "assunto": "Re: 30.000 documentos em fila de processamento"
+    },
     {
       "ticket": "2026051126000285",
       "cliente": "monitoramento@groundwork.com.br",
@@ -302,18 +326,6 @@
       "modificado": "2026-05-11T11:22:54",
       "idade_dias": 0,
       "assunto": "AJUSTE DE CUSTOMIZAÇÃO"
-    },
-    {
-      "ticket": "2026050626000311",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "RESOLVIDO",
-      "prioridade": "5 very high",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-06T15:39:49",
-      "modificado": "2026-05-11T11:07:24",
-      "idade_dias": 4,
-      "assunto": "Erro 748 ao acessar o totvs"
     },
     {
       "ticket": "2026051126000187",
@@ -1572,7 +1584,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-02T13:50:07",
       "modificado": "2026-05-08T20:15:47",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Ticket Limpeza Disco F: servidor SRV-MASTER-PRD - AUTOZONE"
     },
     {
@@ -1622,18 +1634,6 @@
       "modificado": "2026-05-08T18:02:36",
       "idade_dias": 19,
       "assunto": "Desenvolvimento do gw/v2"
-    },
-    {
-      "ticket": "2026041726000034",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-17T07:50:21",
-      "modificado": "2026-05-08T17:41:30",
-      "idade_dias": 24,
-      "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
       "ticket": "2025121126000371",
@@ -1704,7 +1704,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-08T13:45:34",
       "modificado": "2026-05-08T15:11:54",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Contabilização de Adiantamento Conta Incorreta na SCP"
     },
     {
@@ -2532,7 +2532,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-05T13:50:19",
       "modificado": "2026-05-06T16:32:11",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Disk:F: - 26050513455162"
     },
     {
@@ -2546,42 +2546,6 @@
       "modificado": "2026-05-06T16:06:41",
       "idade_dias": 5,
       "assunto": "BRAVEO - GWMS-Server - Notif Groups Relations - 26050608595561"
-    },
-    {
-      "ticket": "2026050526000448",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "RESOLVIDO",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-05T17:35:18",
-      "modificado": "2026-05-06T12:03:44",
-      "idade_dias": 5,
-      "assunto": "Incluir Uptime de equipamento"
-    },
-    {
-      "ticket": "2026050426000011",
-      "cliente": "VEDAMOTORS",
-      "fila": "GWMS",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-04T00:10:12",
-      "modificado": "2026-05-06T11:52:17",
-      "idade_dias": 7,
-      "assunto": "VEDAMOTORS - Alertas HOST DOWN - 26050400050957"
-    },
-    {
-      "ticket": "2026050626000204",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-06T11:14:02",
-      "modificado": "2026-05-06T11:52:04",
-      "idade_dias": 5,
-      "assunto": "ATIBUIÇÃO DE USUÁRIO"
     },
     {
       "ticket": "2026050526000331",
@@ -2772,7 +2736,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-21T13:48:10",
       "modificado": "2026-05-06T05:00:18",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Erro e perdendo a conexão."
     },
     {
@@ -4620,7 +4584,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-03-11T13:43:54",
       "modificado": "2026-03-31T05:00:27",
-      "idade_dias": 60,
+      "idade_dias": 61,
       "assunto": "erro 34651"
     },
     {
@@ -5172,7 +5136,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-03-06T13:48:30",
       "modificado": "2026-03-19T05:00:32",
-      "idade_dias": 65,
+      "idade_dias": 66,
       "assunto": "Requisição - Corrigir LP sobre o pagamento de impostos"
     },
     {
@@ -5328,7 +5292,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-09T13:50:13",
       "modificado": "2026-03-18T05:00:25",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "Adição e remoção unidade de Porto Alegre"
     },
     {
@@ -5736,7 +5700,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-27T13:45:23",
       "modificado": "2026-03-07T05:00:25",
-      "idade_dias": 72,
+      "idade_dias": 73,
       "assunto": "Acesso OTRS"
     },
     {
@@ -7632,7 +7596,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-13T13:42:36",
       "modificado": "2026-01-23T05:00:32",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Erro ao fazer ajuste de saldo"
     },
     {
@@ -7656,7 +7620,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-12-22T13:46:46",
       "modificado": "2026-01-23T05:00:30",
-      "idade_dias": 139,
+      "idade_dias": 140,
       "assunto": "Naturezas Financeiras - Utilities"
     },
     {
@@ -8028,7 +7992,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-11-12T13:49:36",
       "modificado": "2026-01-14T05:00:05",
-      "idade_dias": 179,
+      "idade_dias": 180,
       "assunto": "AZ | Melhoria Relatório Razão Contábil"
     },
     {
@@ -9720,7 +9684,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-11-18T13:50:14",
       "modificado": "2025-11-26T05:00:33",
-      "idade_dias": 173,
+      "idade_dias": 174,
       "assunto": "Pausa no monitoramento até 28/11/2025"
     },
     {
@@ -10308,7 +10272,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-07T13:45:10",
       "modificado": "2025-11-07T05:00:15",
-      "idade_dias": 215,
+      "idade_dias": 216,
       "assunto": "Alteração de monitoramento JSD -> Zendesk Gestão"
     },
     {
@@ -10524,7 +10488,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-13T13:50:23",
       "modificado": "2025-10-31T05:00:19",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "RES: Criação Dash de monitoramento Certificado CA Zeus"
     },
     {
@@ -10896,7 +10860,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-09T13:49:47",
       "modificado": "2025-10-17T05:00:40",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "Substituição de Aprovador"
     },
     {
@@ -11712,7 +11676,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-22T13:45:20",
       "modificado": "2025-10-01T05:00:33",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "1341080 - Erro rotina FWADJSTSX6"
     },
     {
@@ -11868,7 +11832,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-23T13:45:16",
       "modificado": "2025-09-30T05:00:17",
-      "idade_dias": 291,
+      "idade_dias": 292,
       "assunto": "RES: Frete Carraro Armazéns - Crédito ICMS - TES 1AT"
     },
     {
@@ -12840,7 +12804,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-04T13:50:08",
       "modificado": "2025-09-13T05:00:30",
-      "idade_dias": 248,
+      "idade_dias": 249,
       "assunto": "Ajustes no Bi de Ocupação de estoque"
     },
     {
@@ -15744,7 +15708,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-02T13:50:16",
       "modificado": "2025-07-10T05:00:12",
-      "idade_dias": 312,
+      "idade_dias": 313,
       "assunto": "Atualização TAF "
     },
     {
@@ -17760,7 +17724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-19T13:49:47",
       "modificado": "2025-05-27T05:00:32",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "NK_ERRO DE MOVIMENTAÇÃO"
     },
     {
@@ -18132,7 +18096,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-13T13:50:18",
       "modificado": "2025-05-21T05:00:39",
-      "idade_dias": 362,
+      "idade_dias": 363,
       "assunto": "PEDIDO NÃO FOI ENVIADO AO SOLICITANTE"
     },
     {
@@ -18552,7 +18516,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-29T13:50:06",
       "modificado": "2025-05-14T05:00:14",
-      "idade_dias": 376,
+      "idade_dias": 377,
       "assunto": "Re: Diferença Posição de Estoque x Kardex (ZP)"
     },
     {
@@ -18984,7 +18948,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-28T13:50:18",
       "modificado": "2025-05-07T05:00:13",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPOSVTOT-CON.SP01.LOCAL - Storage Backup:sposvtot-dd01.sp01.local - 25042812233653"
     },
     {
@@ -19056,7 +19020,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-28T13:45:19",
       "modificado": "2025-05-06T05:00:23",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "Verificar monitoramento SP_NOC_NTWK_DC"
     },
     {
@@ -19572,7 +19536,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-15T13:42:11",
       "modificado": "2025-04-28T05:00:09",
-      "idade_dias": 390,
+      "idade_dias": 391,
       "assunto": "AZ - Verificar diferença no fechamento da conta de custo."
     },
     {
@@ -19968,7 +19932,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-11T13:46:30",
       "modificado": "2025-04-22T05:00:23",
-      "idade_dias": 394,
+      "idade_dias": 395,
       "assunto": "[SAPORE] Alertas no poller"
     },
     {
@@ -21096,7 +21060,7 @@
       "atendente": "Thiago Sebek",
       "criado": "2025-03-10T13:46:52",
       "modificado": "2025-03-26T05:00:05",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "Actualización de Ambiente Desarrollo"
     },
     {
@@ -24024,7 +23988,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-02T13:47:49",
       "modificado": "2025-01-09T15:30:14",
-      "idade_dias": 493,
+      "idade_dias": 494,
       "assunto": "Liberação de acesso para visualização do ambiente 6"
     },
     {
@@ -24144,7 +24108,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-27T13:50:21",
       "modificado": "2025-01-06T12:00:13",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "Filial 0089 - Erro transmissão"
     },
     {
@@ -25692,7 +25656,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-11-21T13:43:51",
       "modificado": "2024-11-21T13:43:53",
-      "idade_dias": 535,
+      "idade_dias": 536,
       "assunto": "teste de chamado 005"
     },
     {
@@ -25800,7 +25764,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-11T13:45:10",
       "modificado": "2024-11-20T14:00:04",
-      "idade_dias": 545,
+      "idade_dias": 546,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: Arquivo de ativação Gift e Merch Card"
     },
     {
@@ -26088,7 +26052,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-09-17T13:44:49",
       "modificado": "2024-11-14T11:00:13",
-      "idade_dias": 600,
+      "idade_dias": 601,
       "assunto": "ZURICH - FLN | Backup e atualização do servidor de monitoramento"
     },
     {
