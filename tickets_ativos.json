@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778536226,
-  "generated_at_iso": "2026-05-11T21:50:26Z",
-  "count": 2365,
+  "generated_at": 1778536835,
+  "generated_at_iso": "2026-05-11T22:00:35Z",
+  "count": 2368,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,78 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000392",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-11T15:35:24",
+      "modificado": "2026-05-11T19:00:12",
+      "idade_dias": 0,
+      "assunto": "DNS - 10.210.10.4"
+    },
+    {
+      "ticket": "2026051126000507",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T19:00:07",
+      "modificado": "2026-05-11T19:00:12",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL03 - UX:SUPORTE-INTERNO - 26051118560531"
+    },
+    {
+      "ticket": "2026042826000353",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-28T14:19:11",
+      "modificado": "2026-05-11T18:59:08",
+      "idade_dias": 13,
+      "assunto": "Trava para exclusão de títulos importados não baixado"
+    },
+    {
+      "ticket": "2026042226000613",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-22T21:58:19",
+      "modificado": "2026-05-11T18:58:00",
+      "idade_dias": 18,
+      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
+    },
+    {
+      "ticket": "2026051126000481",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T18:55:06",
+      "modificado": "2026-05-11T18:55:11",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051118522698"
+    },
+    {
+      "ticket": "2026051126000491",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T18:55:08",
+      "modificado": "2026-05-11T18:55:11",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051118531266"
+    },
     {
       "ticket": "2026051126000436",
       "cliente": "GDBR",
@@ -266,18 +338,6 @@
       "modificado": "2026-05-11T17:00:19",
       "idade_dias": 28,
       "assunto": "Erro ao matar usuários dos bancos"
-    },
-    {
-      "ticket": "2026051126000392",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-11T15:35:24",
-      "modificado": "2026-05-11T17:00:19",
-      "idade_dias": 0,
-      "assunto": "DNS - 10.210.10.4"
     },
     {
       "ticket": "2026051126000454",
@@ -744,7 +804,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-05-08T18:55:04",
       "modificado": "2026-05-11T11:30:32",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "CORRECAO DE STATUS CHAMADOS - AUTOZONE"
     },
     {
@@ -1708,18 +1768,6 @@
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
-      "ticket": "2026042226000613",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-22T21:58:19",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 18,
-      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
-    },
-    {
       "ticket": "2026042226000631",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -2354,18 +2402,6 @@
       "modificado": "2026-05-07T12:19:55",
       "idade_dias": 80,
       "assunto": "Atualização Moeda RON não está acontecendo"
-    },
-    {
-      "ticket": "2026042826000353",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-28T14:19:11",
-      "modificado": "2026-05-07T12:19:54",
-      "idade_dias": 13,
-      "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
       "ticket": "2026050626000295",
@@ -12720,7 +12756,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-08T19:00:12",
       "modificado": "2025-09-17T05:00:41",
-      "idade_dias": 244,
+      "idade_dias": 245,
       "assunto": "RE: Select 21030_08.09"
     },
     {
@@ -15036,7 +15072,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-23T18:58:53",
       "modificado": "2025-07-31T05:00:23",
-      "idade_dias": 291,
+      "idade_dias": 292,
       "assunto": "IMPORTADOR DE NOTAS - TRANSF ATIVO"
     },
     {
@@ -23412,7 +23448,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-01-07T18:55:20",
       "modificado": "2025-02-09T05:00:10",
-      "idade_dias": 488,
+      "idade_dias": 489,
       "assunto": "Criação de novo dashboard de SLA LINKS"
     },
     {
@@ -24648,7 +24684,7 @@
       "atendente": "Marcelo David",
       "criado": "2024-12-17T18:55:15",
       "modificado": "2024-12-26T11:00:10",
-      "idade_dias": 509,
+      "idade_dias": 510,
       "assunto": "Busca por profissionais para projeto TOTVS (21921154)"
     },
     {
@@ -24684,7 +24720,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2024-12-17T19:00:16",
       "modificado": "2024-12-25T20:30:09",
-      "idade_dias": 509,
+      "idade_dias": 510,
       "assunto": "Solicitação de pausa no monitoramento"
     },
     {
@@ -25464,7 +25500,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-14T19:00:22",
       "modificado": "2024-12-05T13:09:20",
-      "idade_dias": 634,
+      "idade_dias": 635,
       "assunto": "Arquivo de ativação Gift e Merch Card"
     },
     {
@@ -25656,7 +25692,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-13T18:55:07",
       "modificado": "2024-11-28T14:30:20",
-      "idade_dias": 543,
+      "idade_dias": 544,
       "assunto": "RES: BBP | TaxID AZ - Solicitação de Alteração de NCM para Análise de Sincronização"
     },
     {
