@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778513575,
-  "generated_at_iso": "2026-05-11T15:32:55Z",
+  "generated_at": 1778514034,
+  "generated_at_iso": "2026-05-11T15:40:34Z",
   "count": 5173,
   "filas": [
     "DATASUL",
@@ -299,9 +299,9 @@
       "num": "2026051126000105",
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554",
       "criado": "2026-05-11T08:50:23",
-      "modificado": "2026-05-11T09:05:14",
+      "modificado": "2026-05-11T12:40:11",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Eduardo Candido",
       "primeiro_nome": "Eduardo",
@@ -309,11 +309,11 @@
       "cli_id": "AUTOZONE",
       "cli_user": "monitoramento@groundwork.com.br",
       "servico": "Banco de Horas::Banco de Dados",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-05-11T12:40:11",
+      "resp_min_raw": 226,
+      "sol_min_raw": 229,
+      "sol_min_bh": 189,
+      "resp_min_bh": 189
     },
     {
       "num": "2026051126000089",
