@@ -1,31 +1,12 @@
 {
-  "generated_at": 1778520956,
-  "generated_at_iso": "2026-05-11T17:35:56Z",
+  "generated_at": 1778521236,
+  "generated_at_iso": "2026-05-11T17:40:36Z",
   "counts": {
     "crit": 1,
     "warn": 2,
     "ok": 0
   },
   "insights": [
-    {
-      "id": "sobrecarga_Bruno_Fagundes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Bruno Fagundes com carga real de 5 tickets",
-      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Bruno Fagundes",
-          "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
-          "aguardando_terceiros": 6,
-          "ativos_total": 11
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
@@ -39,6 +20,25 @@
           "em_atendimento": 3,
           "abertos": 8,
           "aguardando_terceiros": 0,
+          "ativos_total": 11
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Bruno_Fagundes",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Bruno Fagundes com carga real de 5 tickets",
+      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Bruno Fagundes",
+          "carga_real": 5,
+          "em_atendimento": 1,
+          "abertos": 4,
+          "aguardando_terceiros": 6,
           "ativos_total": 11
         }
       ],
