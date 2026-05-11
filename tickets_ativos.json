@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778514029,
-  "generated_at_iso": "2026-05-11T15:40:29Z",
+  "generated_at": 1778514631,
+  "generated_at_iso": "2026-05-11T15:50:31Z",
   "count": 2356,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000195",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-07T10:55:19",
+      "modificado": "2026-05-11T12:43:17",
+      "idade_dias": 4,
+      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050710491523"
+    },
+    {
+      "ticket": "2026051126000089",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-11T08:10:18",
+      "modificado": "2026-05-11T12:41:13",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR03-TOTVS-P12-Autozone_S3-22003-RELEASE - 26051108052887"
+    },
     {
       "ticket": "2026051126000105",
       "cliente": "AUTOZONE",
@@ -722,18 +746,6 @@
       "modificado": "2026-05-11T08:19:07",
       "idade_dias": 1,
       "assunto": "GROUNDWORK - DESATUALIZADO - 26050921524285"
-    },
-    {
-      "ticket": "2026051126000089",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-11T08:10:18",
-      "modificado": "2026-05-11T08:14:01",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR03-TOTVS-P12-Autozone_S3-22003-RELEASE - 26051108052887"
     },
     {
       "ticket": "2026051026000018",
@@ -2162,18 +2174,6 @@
       "modificado": "2026-05-07T12:10:11",
       "idade_dias": 4,
       "assunto": "[EXTERNAL]  [AutoZone - PD09 - FY26] - Rotina de custos USGAAP"
-    },
-    {
-      "ticket": "2026050726000195",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-07T10:55:19",
-      "modificado": "2026-05-07T11:28:50",
-      "idade_dias": 4,
-      "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050710491523"
     },
     {
       "ticket": "2026041526000216",
@@ -3816,7 +3816,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-04-10T12:45:14",
       "modificado": "2026-04-18T05:00:15",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "QUEDA RECORRENTE AO ACESSO VDI"
     },
     {
@@ -10932,7 +10932,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-07T12:45:22",
       "modificado": "2025-10-17T05:00:36",
-      "idade_dias": 215,
+      "idade_dias": 216,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPO-HT-DEV11.SP01.LOCAL - Memory - 25100711541023"
     },
     {
@@ -13404,7 +13404,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-08T12:44:13",
       "modificado": "2025-09-03T05:00:22",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "INTEGRAÇÃO CUPOM FISCAL - loja 0036"
     },
     {
@@ -14148,7 +14148,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-07-30T12:45:17",
       "modificado": "2025-08-16T05:00:25",
-      "idade_dias": 284,
+      "idade_dias": 285,
       "assunto": "BAM GWMS - Integração de Pedidos Autozone"
     },
     {
@@ -17616,7 +17616,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-09T12:40:57",
       "modificado": "2025-05-29T05:00:10",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "Relatório com Manifestação do Destinatário"
     },
     {
@@ -25044,7 +25044,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-09T12:45:05",
       "modificado": "2024-12-17T09:00:13",
-      "idade_dias": 517,
+      "idade_dias": 518,
       "assunto": "RES: [EXTERNAL] Encerramento do Chamado 2024103026000395"
     },
     {
