@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778497228,
-  "generated_at_iso": "2026-05-11T11:00:28Z",
-  "count": 2434,
+  "generated_at": 1778497828,
+  "generated_at_iso": "2026-05-11T11:10:28Z",
+  "count": 2435,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,198 @@
   ],
   "rows": [
     {
+      "ticket": "2026051126000089",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T08:10:18",
+      "modificado": "2026-05-11T08:10:20",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR03-TOTVS-P12-Autozone_S3-22003-RELEASE - 26051108052887"
+    },
+    {
+      "ticket": "2026051026000027",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-10T02:30:19",
+      "modificado": "2026-05-11T08:10:08",
+      "idade_dias": 1,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL02 - UX:JIRADC-NODE000005 - 26051002260749"
+    },
+    {
+      "ticket": "2026051026000125",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Gabriel Bruno",
+      "criado": "2026-05-10T18:30:06",
+      "modificado": "2026-05-11T08:09:57",
+      "idade_dias": 0,
+      "assunto": "DownTime em VMs para resize de vCPUs"
+    },
+    {
+      "ticket": "2026051026000045",
+      "cliente": "AUTOZONE",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T09:40:15",
+      "modificado": "2026-05-11T08:09:22",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569"
+    },
+    {
+      "ticket": "2026051026000054",
+      "cliente": "WILLY",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T09:40:16",
+      "modificado": "2026-05-11T08:07:03",
+      "idade_dias": 0,
+      "assunto": "WILLY - Alertas CRITICAL - 26051009392697"
+    },
+    {
+      "ticket": "2026051026000072",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T09:50:17",
+      "modificado": "2026-05-11T08:06:12",
+      "idade_dias": 0,
+      "assunto": "BRAVEO - ERRO PLUGIN"
+    },
+    {
+      "ticket": "2026032626000288",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO AGENTES EXTERNOS",
+      "prioridade": "4 high",
+      "atendente": "Geyson Albano",
+      "criado": "2026-03-26T14:45:52",
+      "modificado": "2026-05-11T08:06:03",
+      "idade_dias": 45,
+      "assunto": "V3 NETLEX"
+    },
+    {
+      "ticket": "2026051026000107",
+      "cliente": "COMEXPORT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T15:40:24",
+      "modificado": "2026-05-11T08:05:15",
+      "idade_dias": 0,
+      "assunto": "COMEXPORT - CMXSRVMONITOR01 - Time - 26051015384432"
+    },
+    {
+      "ticket": "2026050926000075",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Gabriel Bruno",
+      "criado": "2026-05-09T10:40:10",
+      "modificado": "2026-05-11T08:04:10",
+      "idade_dias": 1,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
+    },
+    {
+      "ticket": "2026051026000143",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T20:05:22",
+      "modificado": "2026-05-11T08:04:07",
+      "idade_dias": 0,
+      "assunto": "DKT - Alertas UNKNOWN - 26051020012055"
+    },
+    {
+      "ticket": "2026051026000152",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T20:35:24",
+      "modificado": "2026-05-11T08:03:31",
+      "idade_dias": 0,
+      "assunto": "DKT - Alertas UNKNOWN - 26051020341061"
+    },
+    {
+      "ticket": "2026051026000161",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T20:50:05",
+      "modificado": "2026-05-11T08:02:55",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - Influxdb Check Writes - 26051020463511"
+    },
+    {
+      "ticket": "2026051026000171",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T21:15:08",
+      "modificado": "2026-05-11T08:02:18",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - Disk:/ - 26051021143620"
+    },
+    {
+      "ticket": "2026051026000189",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T21:35:11",
+      "modificado": "2026-05-11T08:01:39",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051021335085"
+    },
+    {
+      "ticket": "2026050926000039",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-09T06:34:49",
+      "modificado": "2026-05-11T08:01:10",
+      "idade_dias": 2,
+      "assunto": "Refaz saldos - PD9 - USGAAP"
+    },
+    {
+      "ticket": "2026051026000198",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-10T22:45:21",
+      "modificado": "2026-05-11T08:01:00",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051022411446"
+    },
+    {
       "ticket": "2026051026000205",
       "cliente": "DKT",
       "fila": "GWMS",
@@ -26,18 +218,6 @@
       "modificado": "2026-05-11T08:00:17",
       "idade_dias": 0,
       "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051023420438"
-    },
-    {
-      "ticket": "2026050926000039",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-09T06:34:49",
-      "modificado": "2026-05-11T07:59:41",
-      "idade_dias": 2,
-      "assunto": "Refaz saldos - PD9 - USGAAP"
     },
     {
       "ticket": "2026051126000016",
@@ -952,42 +1132,6 @@
       "assunto": "AZ | Inclusão das TESs no LP - Documento de Entrada"
     },
     {
-      "ticket": "2026051026000198",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T22:45:21",
-      "modificado": "2026-05-11T00:00:25",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051022411446"
-    },
-    {
-      "ticket": "2026051026000189",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T21:35:11",
-      "modificado": "2026-05-10T21:58:58",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051021335085"
-    },
-    {
-      "ticket": "2026051026000171",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T21:15:08",
-      "modificado": "2026-05-10T21:33:19",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - Disk:/ - 26051021143620"
-    },
-    {
       "ticket": "2026050926000101",
       "cliente": "AUTOZONE",
       "fila": "NOC",
@@ -1012,66 +1156,6 @@
       "assunto": "Berneck - alterar o monitoramento"
     },
     {
-      "ticket": "2026051026000161",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T20:50:05",
-      "modificado": "2026-05-10T20:52:31",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - Influxdb Check Writes - 26051020463511"
-    },
-    {
-      "ticket": "2026051026000152",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T20:35:24",
-      "modificado": "2026-05-10T20:47:53",
-      "idade_dias": 0,
-      "assunto": "DKT - Alertas UNKNOWN - 26051020341061"
-    },
-    {
-      "ticket": "2026050926000075",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Eliandro Rochel",
-      "criado": "2026-05-09T10:40:10",
-      "modificado": "2026-05-10T20:47:09",
-      "idade_dias": 1,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
-    },
-    {
-      "ticket": "2026051026000143",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T20:05:22",
-      "modificado": "2026-05-10T20:14:00",
-      "idade_dias": 0,
-      "assunto": "DKT - Alertas UNKNOWN - 26051020012055"
-    },
-    {
-      "ticket": "2026051026000125",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Jeferson Fretta",
-      "criado": "2026-05-10T18:30:06",
-      "modificado": "2026-05-10T18:40:00",
-      "idade_dias": 0,
-      "assunto": "DownTime em VMs para resize de vCPUs"
-    },
-    {
       "ticket": "2026050926000021",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1082,18 +1166,6 @@
       "modificado": "2026-05-10T18:31:56",
       "idade_dias": 2,
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
-    },
-    {
-      "ticket": "2026051026000107",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T15:40:24",
-      "modificado": "2026-05-10T18:28:11",
-      "idade_dias": 0,
-      "assunto": "COMEXPORT - CMXSRVMONITOR01 - Time - 26051015384432"
     },
     {
       "ticket": "2026051026000018",
@@ -1118,54 +1190,6 @@
       "modificado": "2026-05-10T12:45:22",
       "idade_dias": 2,
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
-    },
-    {
-      "ticket": "2026051026000072",
-      "cliente": "eliandro.rochel@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T09:50:17",
-      "modificado": "2026-05-10T09:51:31",
-      "idade_dias": 0,
-      "assunto": "BRAVEO - ERRO PLUGIN"
-    },
-    {
-      "ticket": "2026051026000045",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T09:40:15",
-      "modificado": "2026-05-10T09:46:44",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569"
-    },
-    {
-      "ticket": "2026051026000054",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T09:40:16",
-      "modificado": "2026-05-10T09:46:04",
-      "idade_dias": 0,
-      "assunto": "WILLY - Alertas CRITICAL - 26051009392697"
-    },
-    {
-      "ticket": "2026051026000027",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T02:30:19",
-      "modificado": "2026-05-10T02:47:34",
-      "idade_dias": 1,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL02 - UX:JIRADC-NODE000005 - 26051002260749"
     },
     {
       "ticket": "2026050926000271",
@@ -2208,7 +2232,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-05T08:03:45",
       "modificado": "2026-05-07T10:42:52",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Verificação de configuração"
     },
     {
@@ -2798,18 +2822,6 @@
       "modificado": "2026-05-06T08:07:01",
       "idade_dias": 6,
       "assunto": "acesso ao ambeinte do servidor"
-    },
-    {
-      "ticket": "2026032626000288",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO AGENTES EXTERNOS",
-      "prioridade": "4 high",
-      "atendente": "Geyson Albano",
-      "criado": "2026-03-26T14:45:52",
-      "modificado": "2026-05-06T06:16:49",
-      "idade_dias": 45,
-      "assunto": "V3 NETLEX"
     },
     {
       "ticket": "2026041526000207",
@@ -4440,7 +4452,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-03-31T08:04:16",
       "modificado": "2026-04-14T05:00:19",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "cBenef SP nas NF-e e NFC-e a partir de abril de 2026"
     },
     {
@@ -15924,7 +15936,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-18T08:05:18",
       "modificado": "2025-07-29T05:00:11",
-      "idade_dias": 296,
+      "idade_dias": 297,
       "assunto": "Relatório de Usuários"
     },
     {
@@ -16812,7 +16824,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-24T08:10:21",
       "modificado": "2025-07-08T05:00:12",
-      "idade_dias": 320,
+      "idade_dias": 321,
       "assunto": "RE: Bloco K 2023 Filial 0003 ZO"
     },
     {
@@ -20784,7 +20796,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-20T08:08:43",
       "modificado": "2025-04-23T05:00:21",
-      "idade_dias": 416,
+      "idade_dias": 417,
       "assunto": "Orientação na Documentação do Limite de Crédito"
     },
     {
@@ -21360,7 +21372,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-04-03T08:10:17",
       "modificado": "2025-04-11T05:00:19",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "PowerAutomate - Ajuste"
     },
     {
@@ -23376,7 +23388,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-02-06T08:05:08",
       "modificado": "2025-02-20T05:00:25",
-      "idade_dias": 458,
+      "idade_dias": 459,
       "assunto": "Recuperação de arquivo - base Julho/24"
     },
     {
@@ -26076,7 +26088,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-03T08:10:06",
       "modificado": "2024-12-11T10:00:18",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "Erro status Nobreak"
     },
     {
@@ -28020,7 +28032,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-04T08:05:19",
       "modificado": "2024-10-17T16:30:07",
-      "idade_dias": 583,
+      "idade_dias": 584,
       "assunto": "Criação - Grupo de aprovadores Jurídico "
     },
     {
