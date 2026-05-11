@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778529023,
-  "generated_at_iso": "2026-05-11T19:50:23Z",
-  "count": 2368,
+  "generated_at": 1778529634,
+  "generated_at_iso": "2026-05-11T20:00:34Z",
+  "count": 2369,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,14 +16,86 @@
   ],
   "rows": [
     {
-      "ticket": "2026051126000454",
-      "cliente": "GroundWork",
+      "ticket": "2026041326000318",
+      "cliente": "SAYERLACK",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-13T14:03:55",
+      "modificado": "2026-05-11T17:00:19",
+      "idade_dias": 28,
+      "assunto": "Erro ao matar usuários dos bancos"
+    },
+    {
+      "ticket": "2026051126000392",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-11T15:35:24",
+      "modificado": "2026-05-11T17:00:19",
+      "idade_dias": 0,
+      "assunto": "DNS - 10.210.10.4"
+    },
+    {
+      "ticket": "2026051126000463",
+      "cliente": "bucci.luana@totvs.com.br",
       "fila": "NOC",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
+      "criado": "2026-05-11T17:00:14",
+      "modificado": "2026-05-11T17:00:19",
+      "idade_dias": 0,
+      "assunto": "Validação do monitoramento Identity"
+    },
+    {
+      "ticket": "2026051126000445",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcelo Pavanate Silva",
+      "criado": "2026-05-11T16:45:09",
+      "modificado": "2026-05-11T17:00:18",
+      "idade_dias": 0,
+      "assunto": "RE: #TOTVS-NETWORK - Alertas CRITICAL - 26051110104932"
+    },
+    {
+      "ticket": "2026051126000203",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T11:05:23",
+      "modificado": "2026-05-11T16:59:25",
+      "idade_dias": 0,
+      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
+    },
+    {
+      "ticket": "2026051126000418",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-11T16:10:05",
+      "modificado": "2026-05-11T16:57:03",
+      "idade_dias": 0,
+      "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
+    },
+    {
+      "ticket": "2026051126000454",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Joao Santos",
       "criado": "2026-05-11T16:50:11",
-      "modificado": "2026-05-11T16:50:13",
+      "modificado": "2026-05-11T16:51:49",
       "idade_dias": 0,
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
     },
@@ -35,33 +107,9 @@
       "prioridade": "1 very low",
       "atendente": "Pedro Luiz",
       "criado": "2026-05-11T11:20:25",
-      "modificado": "2026-05-11T16:49:57",
+      "modificado": "2026-05-11T16:50:52",
       "idade_dias": 0,
       "assunto": "Licenças Microsoft"
-    },
-    {
-      "ticket": "2026051126000392",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-11T15:35:24",
-      "modificado": "2026-05-11T16:49:08",
-      "idade_dias": 0,
-      "assunto": "DNS - 10.210.10.4"
-    },
-    {
-      "ticket": "2026051126000445",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T16:45:09",
-      "modificado": "2026-05-11T16:48:07",
-      "idade_dias": 0,
-      "assunto": "RE: #TOTVS-NETWORK - Alertas CRITICAL - 26051110104932"
     },
     {
       "ticket": "2026051126000436",
@@ -74,18 +122,6 @@
       "modificado": "2026-05-11T16:45:13",
       "idade_dias": 0,
       "assunto": "Rejeição no XML pela Sefaz, mas no Protheus não acusa onde está oe rro"
-    },
-    {
-      "ticket": "2026051126000418",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T16:10:05",
-      "modificado": "2026-05-11T16:39:47",
-      "idade_dias": 0,
-      "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
     },
     {
       "ticket": "2026050926000101",
@@ -134,18 +170,6 @@
       "modificado": "2026-05-11T16:25:08",
       "idade_dias": 12,
       "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
-      "ticket": "2026041326000318",
-      "cliente": "SAYERLACK",
-      "fila": "DATASUL",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-13T14:03:55",
-      "modificado": "2026-05-11T16:17:47",
-      "idade_dias": 28,
-      "assunto": "Erro ao matar usuários dos bancos"
     },
     {
       "ticket": "2026041626000198",
@@ -568,18 +592,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554"
     },
     {
-      "ticket": "2026051126000203",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-11T12:28:20",
-      "idade_dias": 0,
-      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
-    },
-    {
       "ticket": "2026050926000066",
       "cliente": "AUTOZONE",
       "fila": "DBA",
@@ -876,7 +888,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-05-08T17:00:10",
       "modificado": "2026-05-11T09:05:04",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Remover TAG desligamento Servidor SQL HML - AUTOZONE - 10.228.128.39"
     },
     {
@@ -2976,7 +2988,7 @@
       "atendente": "Bruno Montenegro",
       "criado": "2026-05-04T16:55:21",
       "modificado": "2026-05-05T11:18:43",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Agendamento Manutenção Banco - MAIO /2026"
     },
     {
@@ -3156,7 +3168,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-22T17:00:14",
       "modificado": "2026-05-01T05:00:33",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Ticket para alteração do monitoramento ambiente de HOMOLOGAÇÃO da AUTOZONE"
     },
     {
@@ -5496,7 +5508,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-03-05T16:57:14",
       "modificado": "2026-03-18T05:00:21",
-      "idade_dias": 66,
+      "idade_dias": 67,
       "assunto": "Erro - Baixa de títulos a Pagar"
     },
     {
@@ -6312,7 +6324,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-12T16:55:15",
       "modificado": "2026-02-21T05:00:29",
-      "idade_dias": 87,
+      "idade_dias": 88,
       "assunto": "Abertura filial Finpec Farm - Itajá/GO"
     },
     {
@@ -6780,7 +6792,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-02-13T17:00:20",
       "modificado": "2026-02-13T17:00:23",
-      "idade_dias": 86,
+      "idade_dias": 87,
       "assunto": "RE: Alteração Acessos"
     },
     {
@@ -6912,7 +6924,7 @@
       "atendente": "Marcos Silva",
       "criado": "2025-12-26T17:00:17",
       "modificado": "2026-02-11T05:00:20",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "Pedido de venda - Nota fiscal de Baixa"
     },
     {
@@ -7620,7 +7632,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-16T16:51:55",
       "modificado": "2026-01-28T05:00:33",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "integração nota transferencia"
     },
     {
@@ -7872,7 +7884,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-08T16:51:29",
       "modificado": "2026-01-22T05:00:29",
-      "idade_dias": 122,
+      "idade_dias": 123,
       "assunto": "acesso sistema Protheus gerente - MKT NK"
     },
     {
@@ -9192,7 +9204,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-08-28T16:53:54",
       "modificado": "2025-12-15T05:00:10",
-      "idade_dias": 255,
+      "idade_dias": 256,
       "assunto": "PIS e COFINS - Valor negativo"
     },
     {
@@ -9480,7 +9492,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2025-11-28T17:00:06",
       "modificado": "2025-12-06T05:00:23",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "Dash Vendas:"
     },
     {
@@ -9540,7 +9552,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-25T16:55:21",
       "modificado": "2025-12-06T05:00:13",
-      "idade_dias": 166,
+      "idade_dias": 167,
       "assunto": "Fwd: #TOTVS-SERVERS - Alertas UNKNOWN - 25112421143433"
     },
     {
@@ -9696,7 +9708,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-11-24T17:00:18",
       "modificado": "2025-12-02T05:00:21",
-      "idade_dias": 167,
+      "idade_dias": 168,
       "assunto": "[TOTVS] - Pausa Monitoramento"
     },
     {
@@ -10704,7 +10716,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-20T17:00:09",
       "modificado": "2025-10-29T05:00:27",
-      "idade_dias": 202,
+      "idade_dias": 203,
       "assunto": "TJBA - Realizar cadastro dos grupos de notificações"
     },
     {
@@ -10740,7 +10752,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-09T17:00:22",
       "modificado": "2025-10-29T05:00:22",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "Monitoramento X10"
     },
     {
@@ -10920,7 +10932,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-08-19T16:55:08",
       "modificado": "2025-10-21T05:00:25",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "[TJBA] Hosts em Downtime Aparecendo no Painel de Alertas"
     },
     {
@@ -11244,7 +11256,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-09-25T17:00:16",
       "modificado": "2025-10-15T05:00:12",
-      "idade_dias": 227,
+      "idade_dias": 228,
       "assunto": "Alteração de layout Dashboard - Nobreak Arco"
     },
     {
@@ -11316,7 +11328,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-03T16:52:47",
       "modificado": "2025-10-11T05:00:27",
-      "idade_dias": 219,
+      "idade_dias": 220,
       "assunto": "Solicitação de cópia de usuário."
     },
     {
@@ -11328,7 +11340,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-03T16:52:03",
       "modificado": "2025-10-11T05:00:26",
-      "idade_dias": 219,
+      "idade_dias": 220,
       "assunto": "Solicitação de cópia de usuário."
     },
     {
@@ -11724,7 +11736,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-24T16:52:48",
       "modificado": "2025-10-02T05:00:20",
-      "idade_dias": 228,
+      "idade_dias": 229,
       "assunto": "APROVADOR PROTHEUS NDS"
     },
     {
@@ -12684,7 +12696,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-09T16:52:49",
       "modificado": "2025-09-18T05:00:20",
-      "idade_dias": 243,
+      "idade_dias": 244,
       "assunto": "ERRO DE \"NATUREZA NÃO PREENCHIDA\""
     },
     {
@@ -12804,7 +12816,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-04T17:00:12",
       "modificado": "2025-09-17T05:00:38",
-      "idade_dias": 248,
+      "idade_dias": 249,
       "assunto": "Novo Monitoramento"
     },
     {
@@ -13416,7 +13428,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-08-08T16:55:15",
       "modificado": "2025-09-06T05:00:26",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "Melhorias Implementadas no Grafana para replicar"
     },
     {
@@ -13872,7 +13884,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-19T16:59:47",
       "modificado": "2025-08-27T05:00:33",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "Substituição de Aprovação"
     },
     {
@@ -14136,7 +14148,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-08-08T17:00:15",
       "modificado": "2025-08-21T05:00:16",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "Liberação DevOps - Repositorio PAM"
     },
     {
@@ -15576,7 +15588,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-07-03T16:50:59",
       "modificado": "2025-07-16T05:00:25",
-      "idade_dias": 311,
+      "idade_dias": 312,
       "assunto": "Erro Conciliação APB x RE"
     },
     {
@@ -15588,7 +15600,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-07-01T16:50:39",
       "modificado": "2025-07-16T05:00:24",
-      "idade_dias": 313,
+      "idade_dias": 314,
       "assunto": "Bloqueio WMI"
     },
     {
@@ -15780,7 +15792,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-03T16:55:07",
       "modificado": "2025-07-12T05:00:22",
-      "idade_dias": 311,
+      "idade_dias": 312,
       "assunto": "Solicitação de  usuario!"
     },
     {
@@ -16332,7 +16344,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-09T16:51:13",
       "modificado": "2025-07-01T05:00:30",
-      "idade_dias": 335,
+      "idade_dias": 336,
       "assunto": "xml"
     },
     {
@@ -16440,7 +16452,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-27T16:55:07",
       "modificado": "2025-06-27T16:55:11",
-      "idade_dias": 317,
+      "idade_dias": 318,
       "assunto": "Your message could not be delivered"
     },
     {
@@ -16764,7 +16776,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-17T16:55:06",
       "modificado": "2025-06-21T05:00:13",
-      "idade_dias": 388,
+      "idade_dias": 389,
       "assunto": "ATUALIZAÇÃO TOTVS - AUTOZONE"
     },
     {
@@ -16872,7 +16884,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-06-10T16:55:12",
       "modificado": "2025-06-19T05:00:21",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "Ajustes Dashboard - TOTVS"
     },
     {
@@ -17748,7 +17760,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-15T16:57:10",
       "modificado": "2025-05-29T05:00:11",
-      "idade_dias": 360,
+      "idade_dias": 361,
       "assunto": "Alteração de Alçada de Aprovadores - Grupo 000028"
     },
     {
@@ -18528,7 +18540,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-08T16:51:28",
       "modificado": "2025-05-17T05:00:18",
-      "idade_dias": 367,
+      "idade_dias": 368,
       "assunto": "[BERNECK] Efetuar a substituição do dashboard \"Infrastructure / APS / Impressoras / Balanças / REP\" da entrada do servidor AUCS0072 pelo AUCS0173"
     },
     {
@@ -19344,7 +19356,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-03-26T16:54:21",
       "modificado": "2025-05-03T05:00:23",
-      "idade_dias": 410,
+      "idade_dias": 411,
       "assunto": "[CASTROLANDA] Inserção de NoBreaks no monitoramento"
     },
     {
@@ -19536,7 +19548,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-04-15T17:00:14",
       "modificado": "2025-05-01T05:00:22",
-      "idade_dias": 390,
+      "idade_dias": 391,
       "assunto": "RES: Braveo - Projeto OCI - Monitoramento"
     },
     {
@@ -19968,7 +19980,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-15T16:55:13",
       "modificado": "2025-04-23T05:00:23",
-      "idade_dias": 390,
+      "idade_dias": 391,
       "assunto": "Monitoramento certificado - tipmon.totvs.com.br"
     },
     {
@@ -21024,7 +21036,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-21T16:57:34",
       "modificado": "2025-04-01T05:00:09",
-      "idade_dias": 415,
+      "idade_dias": 416,
       "assunto": "Cadastro de Condição de Pagamento"
     },
     {
@@ -21144,7 +21156,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-19T16:52:34",
       "modificado": "2025-03-27T05:00:11",
-      "idade_dias": 417,
+      "idade_dias": 418,
       "assunto": "AZ - Permitir retroagir datas - kathlyn.rodrigues@autozone.com"
     },
     {
@@ -21288,7 +21300,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-13T16:52:18",
       "modificado": "2025-03-25T05:00:22",
-      "idade_dias": 423,
+      "idade_dias": 424,
       "assunto": "PA não vinculada"
     },
     {
@@ -22656,7 +22668,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-07T16:55:13",
       "modificado": "2025-02-18T05:00:12",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "Revisão monitoramento URL(s) - SEBRAE"
     },
     {
@@ -23712,7 +23724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-10T16:58:18",
       "modificado": "2025-01-17T17:30:18",
-      "idade_dias": 485,
+      "idade_dias": 486,
       "assunto": "PROTHEUS"
     },
     {
@@ -23760,7 +23772,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-09T17:00:14",
       "modificado": "2025-01-17T11:30:01",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "[EXTERNAL] Re: Filial 0107 - Erro para transmissão de NF"
     },
     {
@@ -24216,7 +24228,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-30T16:52:48",
       "modificado": "2025-01-06T18:00:11",
-      "idade_dias": 496,
+      "idade_dias": 497,
       "assunto": "Acesso Protheus Web"
     },
     {
@@ -24252,7 +24264,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-27T17:00:11",
       "modificado": "2025-01-06T15:30:04",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "CADASTRO - filiais"
     },
     {
@@ -25320,7 +25332,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2024-11-05T17:00:14",
       "modificado": "2024-12-09T23:30:19",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Monitorar máquina e criação de painel para acompanhamento da Performance"
     },
     {
@@ -25344,7 +25356,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-05T16:52:57",
       "modificado": "2024-12-09T20:30:11",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Lançamento Lote 008840 - Custo Garantia - Continuidade do Ticket#: 2024102526000243"
     },
     {
@@ -25476,7 +25488,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-28T16:53:26",
       "modificado": "2024-12-05T17:30:17",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "Certificado Digital Filial 0066-22"
     },
     {
@@ -26148,7 +26160,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-05T16:53:50",
       "modificado": "2024-11-15T08:00:11",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Erro CNAB a pagar Santander"
     },
     {
@@ -26316,7 +26328,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-10-21T16:55:22",
       "modificado": "2024-11-12T14:00:15",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "RES: Ambiente PR - Monitoria de Devices de Rede"
     },
     {
@@ -26364,7 +26376,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-21T16:55:20",
       "modificado": "2024-11-11T14:30:11",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "RES: Solicitação de Monitoramento de Servidores Active Directory (AD-DS)"
     },
     {
@@ -26424,7 +26436,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-24T16:53:04",
       "modificado": "2024-11-06T16:30:03",
-      "idade_dias": 563,
+      "idade_dias": 564,
       "assunto": "Treinamento SmartView"
     },
     {
@@ -26448,7 +26460,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-02T17:00:09",
       "modificado": "2024-11-06T09:30:04",
-      "idade_dias": 585,
+      "idade_dias": 586,
       "assunto": "Nota de terceiros (transferência entre filiais) como formulário próprio no SPED Fiscal"
     },
     {
@@ -27084,7 +27096,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-10-03T17:00:13",
       "modificado": "2024-10-18T18:00:16",
-      "idade_dias": 584,
+      "idade_dias": 585,
       "assunto": "Criação de Lançamento Padrão"
     },
     {
