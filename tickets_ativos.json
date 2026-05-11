@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778458223,
-  "generated_at_iso": "2026-05-11T00:10:23Z",
-  "count": 2426,
+  "generated_at": 1778458827,
+  "generated_at_iso": "2026-05-11T00:20:27Z",
+  "count": 2424,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051026000171",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T21:15:08",
+      "modificado": "2026-05-10T21:15:11",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - Disk:/ - 26051021143620"
+    },
     {
       "ticket": "2026050726000061",
       "cliente": "TELETEX",
@@ -88,18 +100,6 @@
       "assunto": "DKT - Alertas UNKNOWN - 26051020012055"
     },
     {
-      "ticket": "2026051026000134",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T18:40:08",
-      "modificado": "2026-05-10T18:48:24",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051018355611"
-    },
-    {
       "ticket": "2026051026000125",
       "cliente": "TOTVS",
       "fila": "NOC",
@@ -122,18 +122,6 @@
       "modificado": "2026-05-10T18:31:56",
       "idade_dias": 1,
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
-    },
-    {
-      "ticket": "2026051026000116",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T17:20:17",
-      "modificado": "2026-05-10T18:28:15",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051017193115"
     },
     {
       "ticket": "2026051026000107",
@@ -194,18 +182,6 @@
       "modificado": "2026-05-10T09:46:44",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569"
-    },
-    {
-      "ticket": "2026051026000063",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T09:45:16",
-      "modificado": "2026-05-10T09:46:18",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Core Services - 26051009405798"
     },
     {
       "ticket": "2026051026000054",
@@ -9348,7 +9324,7 @@
       "atendente": "Elizeu Brasil",
       "criado": "2025-12-19T21:15:10",
       "modificado": "2025-12-27T05:00:31",
-      "idade_dias": 141,
+      "idade_dias": 142,
       "assunto": "Downtime - Hyper-v Curitiba"
     },
     {
