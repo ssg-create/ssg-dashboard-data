@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778530830,
-  "generated_at_iso": "2026-05-11T20:20:30Z",
+  "generated_at": 1778531441,
+  "generated_at_iso": "2026-05-11T20:30:41Z",
   "count": 2370,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000221",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-11T11:20:25",
+      "modificado": "2026-05-11T17:30:17",
+      "idade_dias": 0,
+      "assunto": "Licenças Microsoft"
+    },
+    {
+      "ticket": "2026051126000472",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T17:20:14",
+      "modificado": "2026-05-11T17:29:26",
+      "idade_dias": 0,
+      "assunto": "[Acesso] - TI Negócios Digitais"
+    },
+    {
+      "ticket": "2026050426000422",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-04T18:40:14",
+      "modificado": "2026-05-11T17:24:26",
+      "idade_dias": 6,
+      "assunto": "Monitoramento de links SD-WAN no Sophos"
+    },
     {
       "ticket": "2026051126000276",
       "cliente": "AUTOZONE",
@@ -38,18 +74,6 @@
       "modificado": "2026-05-11T17:20:18",
       "idade_dias": 7,
       "assunto": "Downtime monitoramento Central de Clientes"
-    },
-    {
-      "ticket": "2026051126000472",
-      "cliente": "maicon.martins@totvs.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T17:20:14",
-      "modificado": "2026-05-11T17:20:18",
-      "idade_dias": 0,
-      "assunto": "[Acesso] - TI Negócios Digitais"
     },
     {
       "ticket": "2026051126000203",
@@ -158,18 +182,6 @@
       "modificado": "2026-05-11T16:51:49",
       "idade_dias": 0,
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
-    },
-    {
-      "ticket": "2026051126000221",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-11T11:20:25",
-      "modificado": "2026-05-11T16:50:52",
-      "idade_dias": 0,
-      "assunto": "Licenças Microsoft"
     },
     {
       "ticket": "2026051126000436",
@@ -1644,7 +1656,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-05T17:30:11",
       "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Dashboard sem retornar dados"
     },
     {
@@ -1958,18 +1970,6 @@
       "modificado": "2026-05-08T14:52:46",
       "idade_dias": 3,
       "assunto": "FISA131"
-    },
-    {
-      "ticket": "2026050426000422",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-04T18:40:14",
-      "modificado": "2026-05-08T14:32:00",
-      "idade_dias": 6,
-      "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
       "ticket": "2026050626000401",
@@ -5004,7 +5004,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-03T17:30:19",
       "modificado": "2026-03-24T05:00:21",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "ENC: Planilha de JOBS - Produção"
     },
     {
@@ -5952,7 +5952,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-19T17:24:36",
       "modificado": "2026-03-06T05:00:26",
-      "idade_dias": 80,
+      "idade_dias": 81,
       "assunto": "RES: Monitoramento números 0800"
     },
     {
@@ -6444,7 +6444,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-09T17:25:11",
       "modificado": "2026-02-20T05:00:41",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "Erro ao subir serviço Arco"
     },
     {
@@ -6660,7 +6660,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-10-16T17:21:04",
       "modificado": "2026-02-18T05:00:13",
-      "idade_dias": 206,
+      "idade_dias": 207,
       "assunto": "Notas de devolução"
     },
     {
@@ -7296,7 +7296,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-20T17:22:00",
       "modificado": "2026-02-04T05:00:10",
-      "idade_dias": 263,
+      "idade_dias": 264,
       "assunto": "Relatório KPI"
     },
     {
@@ -8160,7 +8160,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-04T17:30:14",
       "modificado": "2026-01-15T05:00:12",
-      "idade_dias": 157,
+      "idade_dias": 158,
       "assunto": "Inclusão de certificado"
     },
     {
@@ -8412,7 +8412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-29T17:26:26",
       "modificado": "2026-01-07T05:00:29",
-      "idade_dias": 132,
+      "idade_dias": 133,
       "assunto": "PARAMETRO MV_RATINSS /MV_ACMINSS"
     },
     {
@@ -8784,7 +8784,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-12-12T17:25:18",
       "modificado": "2025-12-26T05:00:19",
-      "idade_dias": 149,
+      "idade_dias": 150,
       "assunto": "RES: Mapeamento - HD Mídias "
     },
     {
@@ -12528,7 +12528,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-18T17:28:02",
       "modificado": "2025-09-20T05:00:28",
-      "idade_dias": 265,
+      "idade_dias": 266,
       "assunto": "INTEGRAÇÃO TAXID"
     },
     {
@@ -14340,7 +14340,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-23T17:25:16",
       "modificado": "2025-08-16T05:00:21",
-      "idade_dias": 291,
+      "idade_dias": 292,
       "assunto": "Validações da nova regra da NF-E"
     },
     {
@@ -15132,7 +15132,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T17:25:18",
       "modificado": "2025-07-30T05:00:13",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "Duplicidade credito depreciação ativo"
     },
     {
@@ -16092,7 +16092,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-27T17:23:17",
       "modificado": "2025-07-05T05:00:15",
-      "idade_dias": 317,
+      "idade_dias": 318,
       "assunto": "Acessos - Isabela Rodrigues"
     },
     {
@@ -20520,7 +20520,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-28T17:25:11",
       "modificado": "2025-04-12T05:00:05",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "INCLUSÃO DE MONITORAMENTO"
     },
     {
@@ -21096,7 +21096,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-19T17:21:07",
       "modificado": "2025-03-28T05:00:10",
-      "idade_dias": 417,
+      "idade_dias": 418,
       "assunto": "AZ - Fator de conversão / Segunda unidade."
     },
     {
@@ -22092,7 +22092,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-25T17:22:01",
       "modificado": "2025-03-05T05:00:25",
-      "idade_dias": 439,
+      "idade_dias": 440,
       "assunto": "AZ - Erro ao aprovar PO"
     },
     {
@@ -22176,7 +22176,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-24T17:30:15",
       "modificado": "2025-03-04T05:00:06",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "Teste de envio de email"
     },
     {
@@ -22632,7 +22632,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-21T17:26:49",
       "modificado": "2025-02-20T05:00:23",
-      "idade_dias": 474,
+      "idade_dias": 475,
       "assunto": "Baixa do Custo"
     },
     {
@@ -24792,7 +24792,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-17T17:28:19",
       "modificado": "2024-12-24T18:00:11",
-      "idade_dias": 509,
+      "idade_dias": 510,
       "assunto": "Filial 0088 - Cadastro de Certificado Digital"
     },
     {
@@ -26604,7 +26604,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-22T17:21:47",
       "modificado": "2024-10-31T15:00:08",
-      "idade_dias": 565,
+      "idade_dias": 566,
       "assunto": "Compensação Automática _ Protheus"
     },
     {
@@ -27408,7 +27408,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-01T17:30:21",
       "modificado": "2024-10-10T12:30:09",
-      "idade_dias": 586,
+      "idade_dias": 587,
       "assunto": "Instalação de EDR em VMs GW"
     },
     {
@@ -27852,7 +27852,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-03T17:25:22",
       "modificado": "2024-09-30T10:00:15",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "ERRO SF3 VALOR DE IPIESTA SOMANDO NO ICMS OUTRAS"
     },
     {
