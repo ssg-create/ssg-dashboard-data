@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778526052,
-  "generated_at_iso": "2026-05-11T19:00:52Z",
-  "count": 2364,
+  "generated_at": 1778526629,
+  "generated_at_iso": "2026-05-11T19:10:29Z",
+  "count": 2366,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,78 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000418",
+      "cliente": "FADEL",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T16:10:05",
+      "modificado": "2026-05-11T16:10:11",
+      "idade_dias": 0,
+      "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
+    },
+    {
+      "ticket": "2026050626000179",
+      "cliente": "TELETEX",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-06T10:25:04",
+      "modificado": "2026-05-11T16:10:10",
+      "idade_dias": 5,
+      "assunto": "Atendimento Zurich - CS0016767"
+    },
+    {
+      "ticket": "2026050426000404",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-04T18:05:12",
+      "modificado": "2026-05-11T16:08:17",
+      "idade_dias": 6,
+      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
+    },
+    {
+      "ticket": "2026051126000409",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-11T16:05:24",
+      "modificado": "2026-05-11T16:07:39",
+      "idade_dias": 0,
+      "assunto": "Alteração Portal NOC - TELETEX"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-11T16:07:25",
+      "idade_dias": 12,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
+    {
+      "ticket": "2026042226000104",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-22T08:55:10",
+      "modificado": "2026-05-11T16:07:03",
+      "idade_dias": 19,
+      "assunto": "Projeto - Topologia automática"
+    },
     {
       "ticket": "2026051126000329",
       "cliente": "ALMEIDA JR",
@@ -448,18 +520,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050722384899"
     },
     {
-      "ticket": "2026050426000404",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-04T18:05:12",
-      "modificado": "2026-05-11T11:44:06",
-      "idade_dias": 6,
-      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
-    },
-    {
       "ticket": "2026051026000143",
       "cliente": "DKT",
       "fila": "GWMS",
@@ -614,18 +674,6 @@
       "modificado": "2026-05-11T09:52:18",
       "idade_dias": 0,
       "assunto": "Retorno de Férias - Eduardo Hirata - GEOP NS"
-    },
-    {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-11T09:50:13",
-      "idade_dias": 12,
-      "assunto": "Movimentações Itaú 03/2026."
     },
     {
       "ticket": "2026051126000061",
@@ -1588,18 +1636,6 @@
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
-      "ticket": "2026050626000179",
-      "cliente": "TELETEX",
-      "fila": "DBA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-06T10:25:04",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 5,
-      "assunto": "Atendimento Zurich - CS0016767"
-    },
-    {
       "ticket": "2026040226000044",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -2080,18 +2116,6 @@
       "assunto": "RES: Requisição - Transportadora não aparece no romaneio"
     },
     {
-      "ticket": "2026042226000104",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-22T08:55:10",
-      "modificado": "2026-05-07T17:40:06",
-      "idade_dias": 19,
-      "assunto": "Projeto - Topologia automática"
-    },
-    {
       "ticket": "2026050626000375",
       "cliente": "AUTOZONE",
       "fila": "INFRAESTUTURA",
@@ -2412,7 +2436,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-05-06T16:05:09",
       "modificado": "2026-05-07T09:16:41",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Cadastro de cliente"
     },
     {
@@ -2484,7 +2508,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2026-05-06T16:05:10",
       "modificado": "2026-05-07T08:12:48",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Downtime Alerta Locks GWMS - AUTOZONE"
     },
     {
@@ -2724,7 +2748,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-08T16:09:01",
       "modificado": "2026-05-06T09:45:21",
-      "idade_dias": 122,
+      "idade_dias": 123,
       "assunto": "Atualização tabela Imposto de Renda - 2026"
     },
     {
@@ -5328,7 +5352,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T16:05:22",
       "modificado": "2026-03-18T05:00:33",
-      "idade_dias": 61,
+      "idade_dias": 62,
       "assunto": "Campo CBS e IBS - Notas fiscais Finpec"
     },
     {
@@ -6420,7 +6444,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-02-03T16:03:44",
       "modificado": "2026-02-20T05:00:33",
-      "idade_dias": 96,
+      "idade_dias": 97,
       "assunto": "Atualização no WF de aprovação - Email"
     },
     {
@@ -6444,7 +6468,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-29T16:05:24",
       "modificado": "2026-02-20T05:00:31",
-      "idade_dias": 101,
+      "idade_dias": 102,
       "assunto": "Dúvida"
     },
     {
@@ -8052,7 +8076,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-07T16:10:13",
       "modificado": "2026-01-15T05:00:18",
-      "idade_dias": 123,
+      "idade_dias": 124,
       "assunto": "Conta contábil não subindo valor no balancete"
     },
     {
@@ -8928,7 +8952,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-12-11T16:05:22",
       "modificado": "2025-12-19T05:00:30",
-      "idade_dias": 150,
+      "idade_dias": 151,
       "assunto": "RE: SUSPENSÃO DE ALERTAS PARA SERVIDOR DO COFRE"
     },
     {
@@ -9864,7 +9888,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-16T16:10:17",
       "modificado": "2025-11-26T05:00:25",
-      "idade_dias": 206,
+      "idade_dias": 207,
       "assunto": "Monitoramento TIER 0"
     },
     {
@@ -9972,7 +9996,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-11-03T16:01:39",
       "modificado": "2025-11-22T05:00:14",
-      "idade_dias": 188,
+      "idade_dias": 189,
       "assunto": "Falha de segurança no servidor de proxy reverso"
     },
     {
@@ -10380,7 +10404,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-10-30T16:10:19",
       "modificado": "2025-11-07T05:00:21",
-      "idade_dias": 192,
+      "idade_dias": 193,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -10956,7 +10980,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-09T16:05:13",
       "modificado": "2025-10-17T05:00:42",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "RE: #TOTVS-SERVERS - SP_SPO-VCENTER01 - Datastore_SP:DS_SPO_PRD08 - 25100915055238"
     },
     {
@@ -11328,7 +11352,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-19T16:10:12",
       "modificado": "2025-10-11T05:00:16",
-      "idade_dias": 233,
+      "idade_dias": 234,
       "assunto": "Monitoramento"
     },
     {
@@ -11928,7 +11952,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-17T16:05:18",
       "modificado": "2025-09-30T05:00:22",
-      "idade_dias": 235,
+      "idade_dias": 236,
       "assunto": "AZ - MT120LOK para tratamento da 2a Unid.Medida"
     },
     {
@@ -12468,7 +12492,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T16:06:16",
       "modificado": "2025-09-19T05:00:34",
-      "idade_dias": 241,
+      "idade_dias": 242,
       "assunto": "AZ - Acesso - Criar novo usuário Protheus"
     },
     {
@@ -14292,7 +14316,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-08-06T16:04:58",
       "modificado": "2025-08-15T05:00:32",
-      "idade_dias": 277,
+      "idade_dias": 278,
       "assunto": "AZ - FIN - Desenvolvimento de RPA - SITEF"
     },
     {
@@ -15480,7 +15504,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-01T16:10:23",
       "modificado": "2025-07-18T05:00:20",
-      "idade_dias": 313,
+      "idade_dias": 314,
       "assunto": "Liberação de acesso a tela OLCS0013"
     },
     {
@@ -15588,7 +15612,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-07T16:03:49",
       "modificado": "2025-07-15T05:00:27",
-      "idade_dias": 307,
+      "idade_dias": 308,
       "assunto": "Usuario sem acesso"
     },
     {
@@ -16428,7 +16452,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T16:05:17",
       "modificado": "2025-06-26T05:00:23",
-      "idade_dias": 326,
+      "idade_dias": 327,
       "assunto": "Entendimento de regra - Painel de JOBS"
     },
     {
@@ -18264,7 +18288,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-12T16:05:18",
       "modificado": "2025-05-21T05:00:36",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "Revisão do monitoramento WILLY"
     },
     {
@@ -20340,7 +20364,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-04-07T16:04:02",
       "modificado": "2025-04-15T05:00:15",
-      "idade_dias": 398,
+      "idade_dias": 399,
       "assunto": "Copiar y Restaurar BD"
     },
     {
@@ -20940,7 +20964,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-12T16:05:18",
       "modificado": "2025-04-01T12:57:42",
-      "idade_dias": 424,
+      "idade_dias": 425,
       "assunto": "FW: Support Needed – XMLs Not Sent to TaxID"
     },
     {
@@ -22236,7 +22260,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-20T16:05:23",
       "modificado": "2025-03-01T05:00:07",
-      "idade_dias": 444,
+      "idade_dias": 445,
       "assunto": "Ativação de link - Fw Ibiapina CE"
     },
     {
@@ -22656,7 +22680,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-02-03T16:10:09",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 461,
+      "idade_dias": 462,
       "assunto": "Analisar valores apresentados"
     },
     {
@@ -23868,7 +23892,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-01-06T16:10:06",
       "modificado": "2025-01-15T14:30:05",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "ARCO - SW_SAE-DC-SW-SRV01-10G - Cpu - 25010616041826"
     },
     {
@@ -24324,7 +24348,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-30T16:01:59",
       "modificado": "2025-01-03T11:00:03",
-      "idade_dias": 557,
+      "idade_dias": 558,
       "assunto": "Erro lote 008840 - Item 07604"
     },
     {
@@ -25200,7 +25224,7 @@
       "atendente": "Geyson Albano",
       "criado": "2024-10-28T16:09:37",
       "modificado": "2024-12-12T13:00:16",
-      "idade_dias": 559,
+      "idade_dias": 560,
       "assunto": "Integração Novo Conciliador Financeiro"
     },
     {
@@ -26700,7 +26724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T16:06:20",
       "modificado": "2024-10-25T13:30:16",
-      "idade_dias": 572,
+      "idade_dias": 573,
       "assunto": "Acesso ao protheus para realização de compras"
     },
     {
@@ -26724,7 +26748,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-17T16:09:58",
       "modificado": "2024-10-24T17:30:19",
-      "idade_dias": 570,
+      "idade_dias": 571,
       "assunto": "Alteração de titulos"
     },
     {
@@ -27312,7 +27336,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-01T16:10:12",
       "modificado": "2024-10-10T16:00:19",
-      "idade_dias": 586,
+      "idade_dias": 587,
       "assunto": "Sugestões de Melhoria | Tela de Aprovação de Pedidos de Compra "
     },
     {
@@ -27348,7 +27372,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-06-04T16:05:19",
       "modificado": "2024-10-10T11:30:07",
-      "idade_dias": 705,
+      "idade_dias": 706,
       "assunto": "Servidor de Ad esta fora"
     },
     {
@@ -28176,7 +28200,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-10T16:07:41",
       "modificado": "2024-09-17T17:00:10",
-      "idade_dias": 607,
+      "idade_dias": 608,
       "assunto": "Tax.ID - Carga Unificada - 0144"
     },
     {
