@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778531441,
-  "generated_at_iso": "2026-05-11T20:30:41Z",
+  "generated_at": 1778532028,
+  "generated_at_iso": "2026-05-11T20:40:28Z",
   "count": 2370,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000422",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-04T18:40:14",
+      "modificado": "2026-05-11T17:35:11",
+      "idade_dias": 6,
+      "assunto": "Monitoramento de links SD-WAN no Sophos"
+    },
+    {
+      "ticket": "2026033026000449",
+      "cliente": "CONTINENTAL",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcelo David",
+      "criado": "2026-03-30T16:24:29",
+      "modificado": "2026-05-11T17:30:50",
+      "idade_dias": 42,
+      "assunto": "Derrubar usuários no ToTvs"
+    },
     {
       "ticket": "2026051126000221",
       "cliente": "BRAVEO",
@@ -38,18 +62,6 @@
       "modificado": "2026-05-11T17:29:26",
       "idade_dias": 0,
       "assunto": "[Acesso] - TI Negócios Digitais"
-    },
-    {
-      "ticket": "2026050426000422",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-04T18:40:14",
-      "modificado": "2026-05-11T17:24:26",
-      "idade_dias": 6,
-      "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
       "ticket": "2026051126000276",
@@ -948,7 +960,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-06T17:35:21",
       "modificado": "2026-05-11T08:52:36",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Alterar threshold alertas ATITUS"
     },
     {
@@ -2076,7 +2088,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-06T17:33:50",
       "modificado": "2026-05-08T07:37:06",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Eliminar Resíduo SC Gerada Para Inclusão de Contrato"
     },
     {
@@ -2256,7 +2268,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T17:36:29",
       "modificado": "2026-05-07T13:11:06",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "CERTIFICADO - TAF"
     },
     {
@@ -3448,18 +3460,6 @@
       "assunto": "Zeramento 12/2025."
     },
     {
-      "ticket": "2026033026000449",
-      "cliente": "CONTINENTAL",
-      "fila": "DBA",
-      "estado": "MELHORIA",
-      "prioridade": "1 very low",
-      "atendente": "Marcelo David",
-      "criado": "2026-03-30T16:24:29",
-      "modificado": "2026-04-27T10:42:13",
-      "idade_dias": 42,
-      "assunto": "Derrubar usuários no ToTvs"
-    },
-    {
       "ticket": "2026042226000373",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -3912,7 +3912,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T17:35:23",
       "modificado": "2026-04-20T18:13:02",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Alteração de senha AD"
     },
     {
@@ -4212,7 +4212,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-03-20T17:31:16",
       "modificado": "2026-04-14T05:00:16",
-      "idade_dias": 51,
+      "idade_dias": 52,
       "assunto": "V3 - GGR"
     },
     {
@@ -6108,7 +6108,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-10-15T17:34:50",
       "modificado": "2026-03-04T05:00:17",
-      "idade_dias": 207,
+      "idade_dias": 208,
       "assunto": "Migração consultas Boa Vista para API"
     },
     {
@@ -9144,7 +9144,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-08T17:40:20",
       "modificado": "2025-12-17T05:00:22",
-      "idade_dias": 153,
+      "idade_dias": 154,
       "assunto": "Fwd: #TOTVS-SERVERS - CERTIFICADOS_TOTVS - Validade - homologacao.promocoes.live.totvs.com.br - 25120514231117"
     },
     {
@@ -10812,7 +10812,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-18T17:35:17",
       "modificado": "2025-10-27T05:00:08",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -11328,7 +11328,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-09-12T17:31:01",
       "modificado": "2025-10-14T05:00:12",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "Auditoria nos campos de pix e dados bancarios - Cadastro de fornecedor"
     },
     {
@@ -11928,7 +11928,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-22T17:40:19",
       "modificado": "2025-09-30T05:00:30",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "EXCLUSÃO DE TITULO - MOVIMENTO BANCÁRIO"
     },
     {
@@ -12744,7 +12744,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-01T17:40:21",
       "modificado": "2025-09-18T05:00:14",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "GWMS - Novais inclusões/ melhorias"
     },
     {
@@ -12984,7 +12984,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-04T17:40:12",
       "modificado": "2025-09-13T05:00:31",
-      "idade_dias": 248,
+      "idade_dias": 249,
       "assunto": "Erro - Relatório Relação Titulos Abertos e Baixados x Contas a receber"
     },
     {
@@ -13332,7 +13332,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-01T17:40:19",
       "modificado": "2025-09-10T05:00:19",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "Naruteza RMG - AJ Realty"
     },
     {
@@ -13836,7 +13836,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-07T17:35:10",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 276,
+      "idade_dias": 277,
       "assunto": "TOTVS Network - Add Servidore NAC - Cisco ISE"
     },
     {
@@ -13980,7 +13980,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-26T17:35:16",
       "modificado": "2025-08-25T05:00:10",
-      "idade_dias": 318,
+      "idade_dias": 319,
       "assunto": "VALOR RESIDUAL - ATIVO FIXO"
     },
     {
@@ -14028,7 +14028,7 @@
       "atendente": "Jeferson Fretta",
       "criado": "2025-08-13T17:40:16",
       "modificado": "2025-08-23T05:00:18",
-      "idade_dias": 270,
+      "idade_dias": 271,
       "assunto": "[TOTVS] - Pausa Monitoramento"
     },
     {
@@ -14724,7 +14724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-14T17:33:19",
       "modificado": "2025-08-08T05:00:14",
-      "idade_dias": 300,
+      "idade_dias": 301,
       "assunto": "Liberação para pedido de compras protheus"
     },
     {
@@ -15816,7 +15816,7 @@
       "atendente": "Felipe Cardoso Pessoa",
       "criado": "2025-06-23T17:40:19",
       "modificado": "2025-07-12T05:00:21",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "versão TLS 1.3  - Servidor Oracle 10.105.2.47"
     },
     {
@@ -17244,7 +17244,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-05-30T17:37:46",
       "modificado": "2025-06-11T05:00:26",
-      "idade_dias": 345,
+      "idade_dias": 346,
       "assunto": "[BERNECK] Alteração no Dash 'Network - Equipamentos'"
     },
     {
@@ -17736,7 +17736,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-19T17:40:07",
       "modificado": "2025-05-30T05:00:13",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "Solicitação de Acesso - Monitoramento"
     },
     {
@@ -21468,7 +21468,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-28T17:32:03",
       "modificado": "2025-03-21T05:00:06",
-      "idade_dias": 436,
+      "idade_dias": 437,
       "assunto": "Processo de Preenchimento da Nota de Remessa"
     },
     {
@@ -23004,7 +23004,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-31T17:35:10",
       "modificado": "2025-02-11T05:00:11",
-      "idade_dias": 464,
+      "idade_dias": 465,
       "assunto": "#TOTVS-SERVERS - Alertas CRITICAL - 25013117300978"
     },
     {
@@ -26376,7 +26376,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-29T17:31:31",
       "modificado": "2024-11-11T15:30:13",
-      "idade_dias": 558,
+      "idade_dias": 559,
       "assunto": "Conciliador Financeiro"
     },
     {
@@ -26964,7 +26964,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2024-10-15T17:35:12",
       "modificado": "2024-10-22T18:00:08",
-      "idade_dias": 572,
+      "idade_dias": 573,
       "assunto": "Interrupção de monitoramento"
     },
     {
@@ -27024,7 +27024,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-14T17:35:15",
       "modificado": "2024-10-22T10:30:19",
-      "idade_dias": 573,
+      "idade_dias": 574,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL05 - Cpu - 24101417310684"
     },
     {
