@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778502028,
-  "generated_at_iso": "2026-05-11T12:20:28Z",
-  "count": 5165,
+  "generated_at": 1778502638,
+  "generated_at_iso": "2026-05-11T12:30:38Z",
+  "count": 5166,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051126000151",
+      "assunto": "AJUSTE DE CUSTOMIZAÇÃO",
+      "criado": "2026-05-11T09:26:22",
+      "modificado": "2026-05-11T09:26:26",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "4 high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "FADEL",
+      "cli_user": "fabio.andrade@fadeltransportes.com.br",
+      "servico": "Banco de Horas::ERP Protheus",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051126000141",
       "assunto": "Iniciar Scan GDBR",
@@ -59,9 +79,9 @@
       "num": "2026051126000123",
       "assunto": "Fadel - Host SVRFADRPA02 com disk: em Critical",
       "criado": "2026-05-11T09:00:05",
-      "modificado": "2026-05-11T09:15:05",
+      "modificado": "2026-05-11T09:22:50",
       "fila": "INFRAESTUTURA",
-      "estado": "resolvido",
+      "estado": "closed successful",
       "prioridade": "3 normal",
       "atendente": "Vinicius Vedove",
       "primeiro_nome": "Vinicius",
@@ -69,10 +89,10 @@
       "cli_id": "FADEL",
       "cli_user": "vinicius.vedove@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Operacional",
-      "fechado": "2026-05-11T09:15:04",
+      "fechado": "2026-05-11T09:22:50",
       "resp_min_raw": 14,
-      "sol_min_raw": 14,
-      "sol_min_bh": 14,
+      "sol_min_raw": 22,
+      "sol_min_bh": 22,
       "resp_min_bh": 14
     },
     {
@@ -1879,7 +1899,7 @@
       "num": "2026050626000311",
       "assunto": "Erro 748 ao acessar o totvs",
       "criado": "2026-05-06T15:39:49",
-      "modificado": "2026-05-11T07:11:54",
+      "modificado": "2026-05-11T09:23:14",
       "fila": "DATASUL",
       "estado": "open",
       "prioridade": "5 very high",
