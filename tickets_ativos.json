@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778524225,
-  "generated_at_iso": "2026-05-11T18:30:25Z",
-  "count": 2360,
+  "generated_at": 1778524823,
+  "generated_at_iso": "2026-05-11T18:40:23Z",
+  "count": 2364,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,90 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000365",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-11T15:31:22",
+      "modificado": "2026-05-11T15:40:16",
+      "idade_dias": 0,
+      "assunto": "Civil NK - Extratos Financeiros Protheus sem matricula"
+    },
+    {
+      "ticket": "2026050926000084",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "5 very high",
+      "atendente": "Wiglas Reis",
+      "criado": "2026-05-09T12:11:38",
+      "modificado": "2026-05-11T15:38:17",
+      "idade_dias": 2,
+      "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
+    },
+    {
+      "ticket": "2026051126000356",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T15:05:55",
+      "modificado": "2026-05-11T15:36:52",
+      "idade_dias": 0,
+      "assunto": "Verificação de coleta dos hosts abaixo:"
+    },
+    {
+      "ticket": "2026051126000374",
+      "cliente": "rodrigo.cuani@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T15:35:19",
+      "modificado": "2026-05-11T15:35:30",
+      "idade_dias": 0,
+      "assunto": "Criação de usuário parceiro"
+    },
+    {
+      "ticket": "2026051126000383",
+      "cliente": "rodrigo.cuani@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T15:35:20",
+      "modificado": "2026-05-11T15:35:30",
+      "idade_dias": 0,
+      "assunto": "Criação de usuário parceiro"
+    },
+    {
+      "ticket": "2026051126000392",
+      "cliente": "FADEL",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T15:35:24",
+      "modificado": "2026-05-11T15:35:30",
+      "idade_dias": 0,
+      "assunto": "DNS - 10.210.10.4"
+    },
+    {
+      "ticket": "2026042726000462",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-05-11T15:35:28",
+      "idade_dias": 13,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
     {
       "ticket": "2026050826000031",
       "cliente": "CONTINENTAL",
@@ -64,18 +148,6 @@
       "assunto": "Pemissão de acesso Dashboard"
     },
     {
-      "ticket": "2026042726000462",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-11T15:15:19",
-      "idade_dias": 13,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
-    },
-    {
       "ticket": "2026042326000451",
       "cliente": "BRAVEO",
       "fila": "GWMS",
@@ -86,18 +158,6 @@
       "modificado": "2026-05-11T15:09:49",
       "idade_dias": 17,
       "assunto": "Inserir Servidor Monitoramento"
-    },
-    {
-      "ticket": "2026051126000356",
-      "cliente": "TJBA",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "4 high",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T15:05:55",
-      "modificado": "2026-05-11T15:05:56",
-      "idade_dias": 0,
-      "assunto": "Verificação de coleta dos hosts abaixo:"
     },
     {
       "ticket": "2026051126000347",
@@ -264,7 +324,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-06T15:39:49",
       "modificado": "2026-05-11T13:46:55",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Erro 748 ao acessar o totvs"
     },
     {
@@ -444,7 +504,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-08T15:35:19",
       "modificado": "2026-05-11T11:29:24",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Customizados - Compatibilização Fontes - PRODUCAO"
     },
     {
@@ -866,18 +926,6 @@
       "modificado": "2026-05-11T08:30:25",
       "idade_dias": 4,
       "assunto": "Berneck - alterar o monitoramento"
-    },
-    {
-      "ticket": "2026050926000084",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-09T12:11:38",
-      "modificado": "2026-05-11T08:29:24",
-      "idade_dias": 2,
-      "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
     },
     {
       "ticket": "2026051126000025",
@@ -2064,7 +2112,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-07T15:31:05",
       "modificado": "2026-05-07T15:52:57",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "[URGENTE] Vinculo da maquina Gerente Regional"
     },
     {
@@ -2880,7 +2928,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-04-08T15:30:31",
       "modificado": "2026-05-05T10:17:48",
-      "idade_dias": 32,
+      "idade_dias": 33,
       "assunto": "Relatorio de Ativo Customizado"
     },
     {
@@ -4824,7 +4872,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-13T15:35:10",
       "modificado": "2026-03-25T05:00:24",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "Desabilitar customizações - Alta prioridade"
     },
     {
@@ -5820,7 +5868,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-25T15:40:08",
       "modificado": "2026-03-06T05:00:27",
-      "idade_dias": 74,
+      "idade_dias": 75,
       "assunto": "Extração de dados - TOTVS"
     },
     {
@@ -6948,7 +6996,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-28T15:35:07",
       "modificado": "2026-02-06T05:00:36",
-      "idade_dias": 102,
+      "idade_dias": 103,
       "assunto": "Organização Dashboards"
     },
     {
@@ -7452,7 +7500,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-10-02T15:40:19",
       "modificado": "2026-01-29T05:00:24",
-      "idade_dias": 220,
+      "idade_dias": 221,
       "assunto": "Diferença contabilização valores - Titulo multinaturezas"
     },
     {
@@ -7740,7 +7788,7 @@
       "atendente": "Fabio Lentini",
       "criado": "2026-01-13T15:34:43",
       "modificado": "2026-01-22T05:00:33",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Programa edic0202pe"
     },
     {
@@ -8220,7 +8268,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-02T15:31:06",
       "modificado": "2026-01-10T05:00:13",
-      "idade_dias": 128,
+      "idade_dias": 129,
       "assunto": "NK_ Ajuste DATA RETROATIVA"
     },
     {
@@ -8580,7 +8628,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-18T15:40:22",
       "modificado": "2025-12-27T05:00:28",
-      "idade_dias": 143,
+      "idade_dias": 144,
       "assunto": "Monitoramento Links GHT4"
     },
     {
@@ -9348,7 +9396,7 @@
       "atendente": "Felipe Cardoso Pessoa",
       "criado": "2025-11-28T15:35:15",
       "modificado": "2025-12-09T05:00:28",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "RES: FTP INTERNO - ERRO DIRETÓRIO"
     },
     {
@@ -9936,7 +9984,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-10-13T15:40:16",
       "modificado": "2025-11-21T05:00:11",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "Monitoramento ZTNA - JV"
     },
     {
@@ -11640,7 +11688,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-24T15:35:16",
       "modificado": "2025-10-02T05:00:19",
-      "idade_dias": 228,
+      "idade_dias": 229,
       "assunto": "FW: Autozone | Journal Entries"
     },
     {
@@ -12336,7 +12384,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2025-09-01T15:32:16",
       "modificado": "2025-09-22T05:00:16",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "Customização para rateio ser por valor- Módulo contratos"
     },
     {
@@ -12756,7 +12804,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-18T15:31:13",
       "modificado": "2025-09-17T05:00:34",
-      "idade_dias": 265,
+      "idade_dias": 266,
       "assunto": "AZ - CTB - LP - 532-01 | Pagamento de imposto PCC"
     },
     {
@@ -12852,7 +12900,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-05T15:37:25",
       "modificado": "2025-09-13T05:00:32",
-      "idade_dias": 247,
+      "idade_dias": 248,
       "assunto": "erro lojas 0172/0173"
     },
     {
@@ -13548,7 +13596,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-08-07T15:35:18",
       "modificado": "2025-08-29T05:00:12",
-      "idade_dias": 276,
+      "idade_dias": 277,
       "assunto": "Desenvolver monitoramentos iDracs/xClarity"
     },
     {
@@ -13680,7 +13728,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-12T15:40:22",
       "modificado": "2025-08-27T18:24:05",
-      "idade_dias": 271,
+      "idade_dias": 272,
       "assunto": "Revisão de Monitoramento - FW-INTERNET-N1 (10.171.61.140)"
     },
     {
@@ -15240,7 +15288,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-14T15:37:47",
       "modificado": "2025-07-22T05:00:30",
-      "idade_dias": 300,
+      "idade_dias": 301,
       "assunto": "LEBERAÇÃO PROTHEUS"
     },
     {
@@ -17784,7 +17832,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-05-19T15:40:16",
       "modificado": "2025-05-27T05:00:33",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "SERVIDOR FORA"
     },
     {
@@ -17808,7 +17856,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-19T15:31:51",
       "modificado": "2025-05-27T05:00:32",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "AZ - Extrair dados em CSV"
     },
     {
@@ -19812,7 +19860,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-15T15:36:19",
       "modificado": "2025-04-24T05:00:04",
-      "idade_dias": 390,
+      "idade_dias": 391,
       "assunto": "ERRO BAIXA DE PA - CSC MATRIZ 202501"
     },
     {
@@ -21444,7 +21492,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-02-27T15:40:13",
       "modificado": "2025-03-19T05:00:16",
-      "idade_dias": 437,
+      "idade_dias": 438,
       "assunto": "Braveo Novo Painel - \"Central de Monitoramento RDS\""
     },
     {
@@ -21636,7 +21684,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-05T15:39:47",
       "modificado": "2025-03-15T05:00:21",
-      "idade_dias": 431,
+      "idade_dias": 432,
       "assunto": "erro ao gerar acordo - empresa 306001"
     },
     {
@@ -22980,7 +23028,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-01-23T15:40:06",
       "modificado": "2025-02-10T05:00:08",
-      "idade_dias": 472,
+      "idade_dias": 473,
       "assunto": "Acesso ao Monitor (CST - Automação ADM Vendas)"
     },
     {
@@ -24636,7 +24684,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-16T15:35:16",
       "modificado": "2024-12-25T15:30:14",
-      "idade_dias": 510,
+      "idade_dias": 511,
       "assunto": "Criar Dashboard switches Curitiba"
     },
     {
@@ -24960,7 +25008,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-05T15:30:24",
       "modificado": "2024-12-18T19:00:13",
-      "idade_dias": 521,
+      "idade_dias": 522,
       "assunto": "Revisão do Dashboard do Banco de Dados Oracle do EBS - ARCO"
     },
     {
@@ -25080,7 +25128,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-05T15:40:18",
       "modificado": "2024-12-17T09:30:14",
-      "idade_dias": 521,
+      "idade_dias": 522,
       "assunto": "Painel - ambiente 84 - Condomínio GS"
     },
     {
@@ -25128,7 +25176,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-05T15:35:25",
       "modificado": "2024-12-16T07:30:15",
-      "idade_dias": 521,
+      "idade_dias": 522,
       "assunto": "AZ - Erro importação CSV"
     },
     {
@@ -25536,7 +25584,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-11-21T15:40:21",
       "modificado": "2024-11-29T20:30:10",
-      "idade_dias": 535,
+      "idade_dias": 536,
       "assunto": "Analisar monitoramento Link_Internet_CD_FORTALEZA_TEXNET_Via_CV_For"
     },
     {
@@ -26112,7 +26160,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-30T15:33:13",
       "modificado": "2024-11-14T15:30:06",
-      "idade_dias": 557,
+      "idade_dias": 558,
       "assunto": "Erro no cálculo de Movimentação Bancária"
     },
     {
