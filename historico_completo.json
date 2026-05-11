@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778505631,
-  "generated_at_iso": "2026-05-11T13:20:31Z",
+  "generated_at": 1778506234,
+  "generated_at_iso": "2026-05-11T13:30:34Z",
   "count": 5167,
   "filas": [
     "DATASUL",
@@ -319,9 +319,9 @@
       "num": "2026051026000045",
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569",
       "criado": "2026-05-10T09:40:15",
-      "modificado": "2026-05-11T08:09:22",
+      "modificado": "2026-05-11T10:21:00",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Marcio Guimaraes",
       "primeiro_nome": "Marcio",
@@ -330,10 +330,10 @@
       "cli_user": "monitoramento@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 1480,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 140
     },
     {
       "num": "2026051026000027",
