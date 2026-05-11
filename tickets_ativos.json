@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778490624,
-  "generated_at_iso": "2026-05-11T09:10:24Z",
+  "generated_at": 1778491222,
+  "generated_at_iso": "2026-05-11T09:20:22Z",
   "count": 2433,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026032426000424",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Francisco Silva",
+      "criado": "2026-03-24T15:47:51",
+      "modificado": "2026-05-11T06:14:52",
+      "idade_dias": 47,
+      "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
+    },
     {
       "ticket": "2026041426000361",
       "cliente": "NSX",
@@ -3374,18 +3386,6 @@
       "modificado": "2026-04-28T15:51:17",
       "idade_dias": 13,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26042709595386"
-    },
-    {
-      "ticket": "2026032426000424",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "4 high",
-      "atendente": "Francisco Silva",
-      "criado": "2026-03-24T15:47:51",
-      "modificado": "2026-04-28T13:46:37",
-      "idade_dias": 47,
-      "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
     },
     {
       "ticket": "2025121726000495",
@@ -11496,7 +11496,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-20T06:15:18",
       "modificado": "2025-10-29T05:00:25",
-      "idade_dias": 202,
+      "idade_dias": 203,
       "assunto": "RES: #TOTVS-SERVERS - URLS_HORACIUS - PROTHEUS - 25102004560366"
     },
     {
