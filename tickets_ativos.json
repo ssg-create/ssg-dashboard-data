@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778535626,
-  "generated_at_iso": "2026-05-11T21:40:26Z",
+  "generated_at": 1778536226,
+  "generated_at_iso": "2026-05-11T21:50:26Z",
   "count": 2365,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000436",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "5 very high",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-11T16:34:52",
+      "modificado": "2026-05-11T18:47:02",
+      "idade_dias": 0,
+      "assunto": "Rejeição no XML pela Sefaz, mas no Protheus não acusa onde está oe rro"
+    },
     {
       "ticket": "2026051126000427",
       "cliente": "ALMEIDA JR",
@@ -278,18 +290,6 @@
       "modificado": "2026-05-11T16:51:49",
       "idade_dias": 0,
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
-    },
-    {
-      "ticket": "2026051126000436",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-11T16:34:52",
-      "modificado": "2026-05-11T16:45:13",
-      "idade_dias": 0,
-      "assunto": "Rejeição no XML pela Sefaz, mas no Protheus não acusa onde está oe rro"
     },
     {
       "ticket": "2026042726000462",
@@ -3168,7 +3168,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-28T18:43:36",
       "modificado": "2026-04-30T17:38:42",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Ajuste de tipos de autenticação de usuário"
     },
     {
@@ -5220,7 +5220,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-03-10T18:45:20",
       "modificado": "2026-03-19T05:00:39",
-      "idade_dias": 61,
+      "idade_dias": 62,
       "assunto": "AZ - Manter a base HML ativa - 10/03/2026"
     },
     {
@@ -5412,7 +5412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-09T18:47:39",
       "modificado": "2026-03-18T05:00:27",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "SALDO INICIAL DIFERENTE DO SALDO FINAL"
     },
     {
@@ -7668,7 +7668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T18:40:41",
       "modificado": "2026-01-24T05:00:17",
-      "idade_dias": 116,
+      "idade_dias": 117,
       "assunto": "Erro na Renegociação da Casas Bahia"
     },
     {
@@ -8676,7 +8676,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-17T18:50:23",
       "modificado": "2025-12-27T05:00:24",
-      "idade_dias": 144,
+      "idade_dias": 145,
       "assunto": "Ticket para verificar problema com Sessões Bloqueadas GWMS - AUTOZONE"
     },
     {
@@ -11304,7 +11304,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-02T18:45:08",
       "modificado": "2025-10-11T05:00:25",
-      "idade_dias": 220,
+      "idade_dias": 221,
       "assunto": "GWMS - Atualizar relacionamento do SQL da Devolução"
     },
     {
@@ -16800,7 +16800,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-11T18:50:18",
       "modificado": "2025-06-20T05:00:28",
-      "idade_dias": 333,
+      "idade_dias": 334,
       "assunto": "Monitoramento - refinaria.totvs.io"
     },
     {
