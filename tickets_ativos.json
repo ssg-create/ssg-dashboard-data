@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778533235,
-  "generated_at_iso": "2026-05-11T21:00:35Z",
+  "generated_at": 1778533832,
+  "generated_at_iso": "2026-05-11T21:10:32Z",
   "count": 2365,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000329",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-11T14:31:19",
+      "modificado": "2026-05-11T18:09:11",
+      "idade_dias": 0,
+      "assunto": "SPE CS - Não contabiliza a baixa dos títulos com pref GES"
+    },
+    {
+      "ticket": "2026051126000276",
+      "cliente": "AUTOZONE",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T12:15:12",
+      "modificado": "2026-05-11T18:01:52",
+      "idade_dias": 0,
+      "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
+    },
+    {
+      "ticket": "2026050826000317",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-08T18:40:22",
+      "modificado": "2026-05-11T18:01:16",
+      "idade_dias": 2,
+      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
+    },
     {
       "ticket": "2026050426000075",
       "cliente": "TOTVS",
@@ -74,18 +110,6 @@
       "modificado": "2026-05-11T17:29:26",
       "idade_dias": 0,
       "assunto": "[Acesso] - TI Negócios Digitais"
-    },
-    {
-      "ticket": "2026051126000276",
-      "cliente": "AUTOZONE",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-11T12:15:12",
-      "modificado": "2026-05-11T17:20:23",
-      "idade_dias": 0,
-      "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
     },
     {
       "ticket": "2026051126000203",
@@ -216,7 +240,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-27T18:05:17",
       "modificado": "2026-05-11T16:30:11",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
@@ -300,7 +324,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-05-04T18:05:12",
       "modificado": "2026-05-11T16:08:17",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
@@ -326,18 +350,6 @@
       "modificado": "2026-05-11T16:07:03",
       "idade_dias": 19,
       "assunto": "Projeto - Topologia automática"
-    },
-    {
-      "ticket": "2026051126000329",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-11T14:31:19",
-      "modificado": "2026-05-11T15:58:10",
-      "idade_dias": 0,
-      "assunto": "SPE CS - Não contabiliza a baixa dos títulos com pref GES"
     },
     {
       "ticket": "2026051126000338",
@@ -856,18 +868,6 @@
       "assunto": "RES: RES: [EXTERNAL] Re: LIVRO FISCAL"
     },
     {
-      "ticket": "2026050826000317",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-08T18:40:22",
-      "modificado": "2026-05-11T09:39:37",
-      "idade_dias": 2,
-      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
-    },
-    {
       "ticket": "2026050526000242",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -1344,7 +1344,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-06T18:02:47",
       "modificado": "2026-05-11T05:00:14",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
     {
@@ -2940,7 +2940,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-05T18:05:21",
       "modificado": "2026-05-05T18:05:29",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Recall: AutoZone - Correção de combo rules - 05.05 - PD09 FY26 W4 - pt1"
     },
     {
@@ -3612,7 +3612,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-13T18:07:15",
       "modificado": "2026-04-23T05:00:21",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "COMPENSAÇÃO DE PA"
     },
     {
@@ -4212,7 +4212,7 @@
       "atendente": "Jeferson Fretta",
       "criado": "2026-04-02T18:05:16",
       "modificado": "2026-04-10T05:00:19",
-      "idade_dias": 38,
+      "idade_dias": 39,
       "assunto": "#TOTVS-NETWORK - RBP_AP_RBPPAV12-AP11 - HOST DOWN - 26040217592340"
     },
     {
@@ -4812,7 +4812,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-17T18:10:21",
       "modificado": "2026-03-26T05:00:23",
-      "idade_dias": 54,
+      "idade_dias": 55,
       "assunto": "Solicitação de lista  de usuarios com acesso a  Infra"
     },
     {
@@ -8400,7 +8400,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-26T18:05:27",
       "modificado": "2026-01-07T05:00:25",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "Alteração de aprovação - Movidesk"
     },
     {
@@ -10740,7 +10740,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-09T18:05:11",
       "modificado": "2025-10-28T05:00:14",
-      "idade_dias": 213,
+      "idade_dias": 214,
       "assunto": "#TOTVS-SERVERS - ACESSO_POLLER_JV - tdn.totvs.com - authentication and response time - 2508282039283 [...]"
     },
     {
@@ -13260,7 +13260,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-01T18:09:19",
       "modificado": "2025-09-10T05:00:20",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "Solicito liberação de acesso ao Protheus"
     },
     {
@@ -20640,7 +20640,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-03-31T18:10:12",
       "modificado": "2025-04-09T05:00:13",
-      "idade_dias": 405,
+      "idade_dias": 406,
       "assunto": "Re: #TOTVS-NETWORK - POA_BRPOASWCORE01 - Global Status - 25033117540464"
     },
     {
@@ -21912,7 +21912,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-26T18:05:47",
       "modificado": "2025-03-08T05:00:17",
-      "idade_dias": 438,
+      "idade_dias": 439,
       "assunto": "Acesso ao Protheus"
     },
     {
@@ -22980,7 +22980,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-01-28T18:10:16",
       "modificado": "2025-02-11T05:00:10",
-      "idade_dias": 467,
+      "idade_dias": 468,
       "assunto": "Discovery de hosts do vCenter"
     },
     {
@@ -24432,7 +24432,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-05T18:05:14",
       "modificado": "2025-01-02T12:00:16",
-      "idade_dias": 612,
+      "idade_dias": 613,
       "assunto": "CNAB AR - ANÁLISE DA POSSIBLIDADE DE IMPLANTAÇÃO"
     },
     {
@@ -26628,7 +26628,7 @@
       "atendente": "Geyson Albano",
       "criado": "2024-09-05T18:05:15",
       "modificado": "2024-10-29T12:30:17",
-      "idade_dias": 612,
+      "idade_dias": 613,
       "assunto": "Divergencia Dash de acessos."
     },
     {
@@ -26880,7 +26880,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T18:06:24",
       "modificado": "2024-10-23T09:00:10",
-      "idade_dias": 572,
+      "idade_dias": 573,
       "assunto": "INTERFACE DE INTEGRAÇÃO - XML - Matriz 0001"
     },
     {
@@ -27180,7 +27180,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-18T18:04:05",
       "modificado": "2024-10-17T18:30:12",
-      "idade_dias": 599,
+      "idade_dias": 600,
       "assunto": "TAXID - Data de Vencimento"
     },
     {
@@ -27696,7 +27696,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-06T18:05:47",
       "modificado": "2024-10-01T09:00:06",
-      "idade_dias": 611,
+      "idade_dias": 612,
       "assunto": "PO EXCLUIDA - TAXID"
     },
     {
