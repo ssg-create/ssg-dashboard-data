@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778534424,
-  "generated_at_iso": "2026-05-11T21:20:24Z",
+  "generated_at": 1778535030,
+  "generated_at_iso": "2026-05-11T21:30:30Z",
   "count": 2365,
   "filas": [
     "DATASUL",
@@ -16,6 +16,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026051126000427",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-11T16:21:35",
+      "modificado": "2026-05-11T18:22:27",
+      "idade_dias": 0,
+      "assunto": "protheus com falha para acesso"
+    },
+    {
       "ticket": "2026051126000365",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -23,7 +35,7 @@
       "prioridade": "5 very high",
       "atendente": "Debora Gomes",
       "criado": "2026-05-11T15:31:22",
-      "modificado": "2026-05-11T18:20:21",
+      "modificado": "2026-05-11T18:20:23",
       "idade_dias": 0,
       "assunto": "Civil NK - Extratos Financeiros Protheus sem matricula"
     },
@@ -290,18 +302,6 @@
       "modificado": "2026-05-11T16:30:11",
       "idade_dias": 14,
       "assunto": "RE: Monitoração - Unidade Jundiai"
-    },
-    {
-      "ticket": "2026051126000427",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-11T16:21:35",
-      "modificado": "2026-05-11T16:30:10",
-      "idade_dias": 0,
-      "assunto": "protheus com falha para acesso"
     },
     {
       "ticket": "2026042926000128",
@@ -816,7 +816,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-11T10:46:10",
-      "idade_dias": 101,
+      "idade_dias": 102,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
@@ -2688,7 +2688,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-06T18:25:11",
       "modificado": "2026-05-06T18:25:14",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Espelhamento 27/03/2026"
     },
     {
@@ -3444,7 +3444,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-13T18:25:39",
       "modificado": "2026-04-25T05:00:23",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Netflow"
     },
     {
@@ -14892,7 +14892,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-04T18:30:08",
       "modificado": "2025-08-04T18:57:08",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:SITE GROUNDWORK - 25080418255888"
     },
     {
@@ -21156,7 +21156,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-13T18:30:10",
       "modificado": "2025-03-26T05:00:06",
-      "idade_dias": 423,
+      "idade_dias": 424,
       "assunto": "RES: RES: [EXTERNAL] Ticket Aguardando Retorno"
     },
     {
@@ -27924,7 +27924,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-09-16T18:25:12",
       "modificado": "2024-09-25T10:00:04",
-      "idade_dias": 601,
+      "idade_dias": 602,
       "assunto": "Monitoramento PSD"
     },
     {
@@ -27936,7 +27936,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-09-16T18:30:12",
       "modificado": "2024-09-25T10:00:04",
-      "idade_dias": 601,
+      "idade_dias": 602,
       "assunto": "Monitoramento pedido PSD"
     },
     {
