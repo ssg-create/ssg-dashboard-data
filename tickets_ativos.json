@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778526629,
-  "generated_at_iso": "2026-05-11T19:10:29Z",
-  "count": 2366,
+  "generated_at": 1778527150,
+  "generated_at_iso": "2026-05-11T19:19:10Z",
+  "count": 2364,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,88 @@
   ],
   "rows": [
     {
+      "ticket": "2026041326000318",
+      "cliente": "SAYERLACK",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Marcelo David",
+      "criado": "2026-04-13T14:03:55",
+      "modificado": "2026-05-11T16:17:47",
+      "idade_dias": 28,
+      "assunto": "Erro ao matar usuários dos bancos"
+    },
+    {
+      "ticket": "2026041626000198",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Gesiel Silva",
+      "criado": "2026-04-16T09:20:09",
+      "modificado": "2026-05-11T16:16:46",
+      "idade_dias": 25,
+      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
+    },
+    {
       "ticket": "2026051126000418",
       "cliente": "FADEL",
-      "fila": "NOC",
-      "estado": "NEW",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T16:10:05",
-      "modificado": "2026-05-11T16:10:11",
+      "modificado": "2026-05-11T16:15:26",
       "idade_dias": 0,
       "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
+    },
+    {
+      "ticket": "2026051126000392",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-11T15:35:24",
+      "modificado": "2026-05-11T16:14:57",
+      "idade_dias": 0,
+      "assunto": "DNS - 10.210.10.4"
+    },
+    {
+      "ticket": "2026051126000374",
+      "cliente": "GroundWork",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-11T15:35:19",
+      "modificado": "2026-05-11T16:13:43",
+      "idade_dias": 0,
+      "assunto": "Criação de usuário parceiro"
+    },
+    {
+      "ticket": "2026042726000462",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-05-11T16:12:10",
+      "idade_dias": 13,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
+    {
+      "ticket": "2026051126000383",
+      "cliente": "TOTVS",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-11T15:35:20",
+      "modificado": "2026-05-11T16:10:37",
+      "idade_dias": 0,
+      "assunto": "Criação de usuário parceiro"
     },
     {
       "ticket": "2026050626000179",
@@ -100,42 +172,6 @@
       "assunto": "SPE CS - Não contabiliza a baixa dos títulos com pref GES"
     },
     {
-      "ticket": "2026051126000383",
-      "cliente": "TOTVS",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T15:35:20",
-      "modificado": "2026-05-11T15:54:43",
-      "idade_dias": 0,
-      "assunto": "Criação de usuário parceiro"
-    },
-    {
-      "ticket": "2026051126000392",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T15:35:24",
-      "modificado": "2026-05-11T15:53:13",
-      "idade_dias": 0,
-      "assunto": "DNS - 10.210.10.4"
-    },
-    {
-      "ticket": "2026051126000374",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T15:35:19",
-      "modificado": "2026-05-11T15:52:50",
-      "idade_dias": 0,
-      "assunto": "Criação de usuário parceiro"
-    },
-    {
       "ticket": "2026051126000338",
       "cliente": "AUTOZONE",
       "fila": "GWMS",
@@ -194,18 +230,6 @@
       "modificado": "2026-05-11T15:38:17",
       "idade_dias": 2,
       "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
-    },
-    {
-      "ticket": "2026042726000462",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-11T15:35:28",
-      "idade_dias": 13,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
       "ticket": "2026050826000031",
@@ -708,7 +732,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-12-16T16:15:09",
       "modificado": "2026-05-11T09:40:04",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "RES: RES: [EXTERNAL] Re: LIVRO FISCAL"
     },
     {
@@ -1024,18 +1048,6 @@
       "assunto": "Ajustar datasource \"infinity\" para incluir secure URL da API externa"
     },
     {
-      "ticket": "2026051026000125",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-05-10T18:30:06",
-      "modificado": "2026-05-11T08:09:57",
-      "idade_dias": 0,
-      "assunto": "DownTime em VMs para resize de vCPUs"
-    },
-    {
       "ticket": "2026032626000288",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1082,18 +1094,6 @@
       "modificado": "2026-05-11T06:14:52",
       "idade_dias": 48,
       "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
-    },
-    {
-      "ticket": "2026041426000361",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "RESOLVIDO",
-      "prioridade": "4 high",
-      "atendente": "Francisco Silva",
-      "criado": "2026-04-14T16:16:57",
-      "modificado": "2026-05-11T05:59:22",
-      "idade_dias": 26,
-      "assunto": "Update - GGR3"
     },
     {
       "ticket": "2026050426000101",
@@ -1672,18 +1672,6 @@
       "assunto": "BLOQUEIO OU PROBLEMA DE ROTA - SHAREPOINT"
     },
     {
-      "ticket": "2026041626000198",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Gesiel Silva",
-      "criado": "2026-04-16T09:20:09",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 25,
-      "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
-    },
-    {
       "ticket": "2026042826000246",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -2124,7 +2112,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-05-06T16:15:10",
       "modificado": "2026-05-07T16:37:11",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Desativar tags de desligamento do servidores HML da AUTOZONE"
     },
     {
@@ -3264,7 +3252,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-16T16:15:15",
       "modificado": "2026-04-30T05:00:23",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "Revisão Sebrae"
     },
     {
@@ -4118,18 +4106,6 @@
       "modificado": "2026-04-14T17:09:42",
       "idade_dias": 26,
       "assunto": "Segurança - Microsoft 365"
-    },
-    {
-      "ticket": "2026041326000318",
-      "cliente": "SAYERLACK",
-      "fila": "DATASUL",
-      "estado": "MELHORIA",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo David",
-      "criado": "2026-04-13T14:03:55",
-      "modificado": "2026-04-14T09:40:47",
-      "idade_dias": 28,
-      "assunto": "Erro ao matar usuários dos bancos"
     },
     {
       "ticket": "2025120126000505",
@@ -5244,7 +5220,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T16:13:22",
       "modificado": "2026-03-19T05:00:38",
-      "idade_dias": 61,
+      "idade_dias": 62,
       "assunto": "Acesso ao protheus - Gabriela"
     },
     {
@@ -5556,7 +5532,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-05T16:15:12",
       "modificado": "2026-03-14T05:00:27",
-      "idade_dias": 66,
+      "idade_dias": 67,
       "assunto": "RES: Pooler Joinville - Groundwork"
     },
     {
@@ -5676,7 +5652,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-03-03T16:16:02",
       "modificado": "2026-03-12T05:00:29",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "Aglutinação"
     },
     {
@@ -7644,7 +7620,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-13T16:15:20",
       "modificado": "2026-01-28T05:00:29",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Lançamentos não integrados 12/2025"
     },
     {
@@ -7656,7 +7632,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-09-03T16:11:45",
       "modificado": "2026-01-28T05:00:25",
-      "idade_dias": 249,
+      "idade_dias": 250,
       "assunto": "INUTILIZAÇÃO NF"
     },
     {
@@ -8808,7 +8784,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-12-15T16:15:04",
       "modificado": "2025-12-24T05:00:20",
-      "idade_dias": 146,
+      "idade_dias": 147,
       "assunto": "TOTVS NETWORK - Adição de Switche"
     },
     {
@@ -11088,7 +11064,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-09-08T16:15:09",
       "modificado": "2025-10-17T05:00:31",
-      "idade_dias": 244,
+      "idade_dias": 245,
       "assunto": "CT2 Duplicidades - Causa Raiz"
     },
     {
@@ -12588,7 +12564,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-11T16:18:17",
       "modificado": "2025-09-19T05:00:23",
-      "idade_dias": 272,
+      "idade_dias": 273,
       "assunto": "ACESSO PROTHEUS"
     },
     {
@@ -15264,7 +15240,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-07-14T16:15:22",
       "modificado": "2025-07-23T05:00:27",
-      "idade_dias": 300,
+      "idade_dias": 301,
       "assunto": "Re: #TOTVS-SERVERS - AZURE_TENANT_TOTVS-SA - BI TOTVS: Subscription - Users MFA [Owners/Contributors] - 25071323353524"
     },
     {
@@ -18144,7 +18120,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-13T16:15:13",
       "modificado": "2025-05-22T05:00:22",
-      "idade_dias": 362,
+      "idade_dias": 363,
       "assunto": "Ajustar o dashboard do servidor PCFACTORY - BUNTECH"
     },
     {
@@ -18384,7 +18360,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-08T16:13:23",
       "modificado": "2025-05-20T05:00:23",
-      "idade_dias": 367,
+      "idade_dias": 368,
       "assunto": "Documentos de entrada não contabilizados"
     },
     {
@@ -18624,7 +18600,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-05-06T16:11:50",
       "modificado": "2025-05-14T05:00:23",
-      "idade_dias": 369,
+      "idade_dias": 370,
       "assunto": "Verificar DBAccess Base Teste"
     },
     {
@@ -18912,7 +18888,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-03-26T16:15:18",
       "modificado": "2025-05-12T05:00:17",
-      "idade_dias": 410,
+      "idade_dias": 411,
       "assunto": "Revisão - LP 640/650 Devolução de Vendas"
     },
     {
@@ -20568,7 +20544,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-01T16:15:14",
       "modificado": "2025-04-10T05:00:16",
-      "idade_dias": 404,
+      "idade_dias": 405,
       "assunto": "Braveo - Projeto OCI - Lista Servidores"
     },
     {
@@ -21552,7 +21528,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-07T16:15:15",
       "modificado": "2025-03-18T05:00:13",
-      "idade_dias": 429,
+      "idade_dias": 430,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -23724,7 +23700,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-09T16:14:09",
       "modificado": "2025-01-17T12:30:04",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "Acesso aos usuário do time fiscal para retroceder a data até o ultimo dia útil do mês anterior"
     },
     {
@@ -23904,7 +23880,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-06T16:14:26",
       "modificado": "2025-01-15T14:30:05",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "Filial 0013 - Cadastro de Inscrição Estadual Substituição Tributário"
     },
     {
@@ -25248,7 +25224,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-03T16:18:17",
       "modificado": "2024-12-11T11:00:00",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "erro ao gerar acordo - empresa 305001"
     },
     {
@@ -26052,7 +26028,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-08T16:13:32",
       "modificado": "2024-11-15T18:30:00",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Erro de bloqueio por outro usuario"
     },
     {
@@ -27576,7 +27552,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2024-09-25T16:17:00",
       "modificado": "2024-10-02T17:00:15",
-      "idade_dias": 592,
+      "idade_dias": 593,
       "assunto": "Usuário Bloqueado"
     },
     {
@@ -28188,7 +28164,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-07-11T16:15:05",
       "modificado": "2024-09-17T18:30:13",
-      "idade_dias": 668,
+      "idade_dias": 669,
       "assunto": "Parâmetros Financeiro"
     },
     {
