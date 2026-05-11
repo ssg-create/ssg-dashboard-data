@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778467828,
-  "generated_at_iso": "2026-05-11T02:50:28Z",
+  "generated_at": 1778468432,
+  "generated_at_iso": "2026-05-11T03:00:32Z",
   "count": 2427,
   "filas": [
     "DATASUL",
@@ -16,28 +16,28 @@
   ],
   "rows": [
     {
-      "ticket": "2026051026000205",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-10T23:45:09",
-      "modificado": "2026-05-10T23:45:11",
-      "idade_dias": 0,
-      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051023420438"
-    },
-    {
       "ticket": "2026051026000198",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-10T22:45:21",
-      "modificado": "2026-05-10T22:45:23",
+      "modificado": "2026-05-11T00:00:25",
       "idade_dias": 0,
       "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051022411446"
+    },
+    {
+      "ticket": "2026051026000205",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-10T23:45:09",
+      "modificado": "2026-05-11T00:00:17",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051023420438"
     },
     {
       "ticket": "2026051026000189",
@@ -4728,7 +4728,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-04-07T00:00:10",
       "modificado": "2026-04-07T01:14:07",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "ARCO - GWMS-SERVER - Cpu - 26040623555820"
     },
     {
@@ -14940,7 +14940,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-29T23:55:06",
       "modificado": "2025-08-19T05:00:12",
-      "idade_dias": 284,
+      "idade_dias": 285,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - CheckLog:F:/TOTVS/TOTVSLicenseVirtual/bin/appserver/console.log - 25072923504936"
     },
     {
