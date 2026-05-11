@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778507433,
-  "generated_at_iso": "2026-05-11T13:50:33Z",
-  "count": 2392,
+  "generated_at": 1778508031,
+  "generated_at_iso": "2026-05-11T14:00:31Z",
+  "count": 2355,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,64 @@
   ],
   "rows": [
     {
+      "ticket": "2026051126000196",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T10:55:37",
+      "modificado": "2026-05-11T11:00:25",
+      "idade_dias": 0,
+      "assunto": "Pemissão de acesso Dashboard"
+    },
+    {
+      "ticket": "2026042326000451",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T18:00:06",
+      "modificado": "2026-05-11T11:00:24",
+      "idade_dias": 17,
+      "assunto": "Inserir Servidor Monitoramento"
+    },
+    {
+      "ticket": "2026051126000151",
+      "cliente": "FADEL",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-11T09:26:22",
+      "modificado": "2026-05-11T10:57:17",
+      "idade_dias": 0,
+      "assunto": "AJUSTE DE CUSTOMIZAÇÃO"
+    },
+    {
       "ticket": "2026051126000187",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T10:32:56",
-      "modificado": "2026-05-11T10:49:08",
+      "modificado": "2026-05-11T10:57:09",
       "idade_dias": 0,
       "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026031726000287",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-03-17T12:12:20",
+      "modificado": "2026-05-11T10:52:58",
+      "idade_dias": 54,
+      "assunto": "CIAP - loja 150"
     },
     {
       "ticket": "2026012926000455",
@@ -74,30 +122,6 @@
       "modificado": "2026-05-11T10:21:00",
       "idade_dias": 1,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569"
-    },
-    {
-      "ticket": "2026031726000287",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-03-17T12:12:20",
-      "modificado": "2026-05-11T10:00:20",
-      "idade_dias": 54,
-      "assunto": "CIAP - loja 150"
-    },
-    {
-      "ticket": "2026051126000151",
-      "cliente": "FADEL",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-11T09:26:22",
-      "modificado": "2026-05-11T09:55:10",
-      "idade_dias": 0,
-      "assunto": "AJUSTE DE CUSTOMIZAÇÃO"
     },
     {
       "ticket": "2026051126000169",
@@ -988,18 +1012,6 @@
       "assunto": "Monitoramento X10"
     },
     {
-      "ticket": "2026042326000451",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T18:00:06",
-      "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 17,
-      "assunto": "Inserir Servidor Monitoramento"
-    },
-    {
       "ticket": "2026043026000171",
       "cliente": "TOTVS",
       "fila": "GWMS",
@@ -1608,7 +1620,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T10:54:15",
       "modificado": "2026-05-08T13:53:16",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Acesso Fabricio - Novo colaborador marketing"
     },
     {
@@ -2088,7 +2100,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-07T10:55:19",
       "modificado": "2026-05-07T11:28:50",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - Memory Ram - 26050710491523"
     },
     {
@@ -2256,7 +2268,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-04T11:00:18",
       "modificado": "2026-05-07T08:26:49",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "ARCO - SW_SAE-DC-SW-CORE01 - Hardware - 26050410544465"
     },
     {
@@ -2704,18 +2716,6 @@
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
     },
     {
-      "ticket": "2026042726000426",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:23:23",
-      "modificado": "2026-05-06T05:00:21",
-      "idade_dias": 13,
-      "assunto": "Select - Combo rules - W1 PD09 FY26"
-    },
-    {
       "ticket": "2026042726000097",
       "cliente": "LPA",
       "fila": "DATASUL",
@@ -2942,18 +2942,6 @@
       "modificado": "2026-05-02T05:00:34",
       "idade_dias": 17,
       "assunto": "Acesso ao GWMS"
-    },
-    {
-      "ticket": "2026042426000137",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-24T10:15:23",
-      "modificado": "2026-05-02T05:00:34",
-      "idade_dias": 17,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 24.04 - W2 PD09"
     },
     {
       "ticket": "2026041626000358",
@@ -3292,30 +3280,6 @@
       "assunto": "Ajuste no plugin de monitoramento gw_check_oracle.py, modo:autoextend_disabled"
     },
     {
-      "ticket": "2026041726000356",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-17T16:27:41",
-      "modificado": "2026-04-25T05:00:28",
-      "idade_dias": 23,
-      "assunto": "Contabilização offline"
-    },
-    {
-      "ticket": "2026041726000301",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-17T15:50:27",
-      "modificado": "2026-04-25T05:00:27",
-      "idade_dias": 23,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 17.04 - W1 PD09"
-    },
-    {
       "ticket": "2026041726000098",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -3338,18 +3302,6 @@
       "modificado": "2026-04-25T05:00:24",
       "idade_dias": 24,
       "assunto": "Verificação cases gerados via automação GW x SN"
-    },
-    {
-      "ticket": "2026041626000483",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "4 high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-16T18:07:06",
-      "modificado": "2026-04-25T05:00:24",
-      "idade_dias": 24,
-      "assunto": "Refaz saldos - PD8 - USGAAP"
     },
     {
       "ticket": "2026041326000523",
@@ -3408,7 +3360,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T10:56:21",
       "modificado": "2026-04-24T10:54:42",
-      "idade_dias": 143,
+      "idade_dias": 144,
       "assunto": "Filtro em Pedidos/Notas Fiscais/Títulos - não busca ao preencher código parcialmente"
     },
     {
@@ -3480,7 +3432,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-04-14T11:00:22",
       "modificado": "2026-04-24T05:00:20",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: [EXTERNAL] Re: AZ - PAGAR - Erro Rateio cartão de crédito"
     },
     {
@@ -3580,18 +3532,6 @@
       "assunto": "ENC: CERTIFICADOS_2026"
     },
     {
-      "ticket": "2026041426000156",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-14T10:07:35",
-      "modificado": "2026-04-22T05:00:36",
-      "idade_dias": 27,
-      "assunto": "Select - Combo rules"
-    },
-    {
       "ticket": "2026041426000138",
       "cliente": "ADELCO",
       "fila": "INFRAESTUTURA",
@@ -3640,18 +3580,6 @@
       "assunto": "Monitoramento de Glassfish e JVM"
     },
     {
-      "ticket": "2026041326000354",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-13T14:45:03",
-      "modificado": "2026-04-22T05:00:30",
-      "idade_dias": 27,
-      "assunto": "Select - Combo rules"
-    },
-    {
       "ticket": "2026040926000264",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -3674,18 +3602,6 @@
       "modificado": "2026-04-22T05:00:28",
       "idade_dias": 33,
       "assunto": "ARCO - GWMS-SERVER - Load - 26040808414074"
-    },
-    {
-      "ticket": "2026040726000517",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-07T19:55:11",
-      "modificado": "2026-04-22T05:00:27",
-      "idade_dias": 33,
-      "assunto": "AutoZone - Correção de combo rules - 07.04 - PD08 FY26"
     },
     {
       "ticket": "2026012926000393",
@@ -3784,30 +3700,6 @@
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
-      "ticket": "2026041026000271",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-10T15:35:45",
-      "modificado": "2026-04-21T05:00:28",
-      "idade_dias": 30,
-      "assunto": "Refaz saldos - PD8 - USGAAP"
-    },
-    {
-      "ticket": "2026041026000261",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-10T15:25:41",
-      "modificado": "2026-04-21T05:00:27",
-      "idade_dias": 30,
-      "assunto": "Novo espelhamento USGAAP - PD08"
-    },
-    {
       "ticket": "2026040826000293",
       "cliente": "ARCO",
       "fila": "GWMS",
@@ -3892,30 +3784,6 @@
       "assunto": "Integração notas CD antigo para o novo"
     },
     {
-      "ticket": "2026041026000298",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-10T17:30:13",
-      "modificado": "2026-04-18T05:00:18",
-      "idade_dias": 30,
-      "assunto": "Execução da rotina de Custos"
-    },
-    {
-      "ticket": "2026041026000252",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-10T15:01:40",
-      "modificado": "2026-04-18T05:00:17",
-      "idade_dias": 30,
-      "assunto": "Select - Combo rules - 10.04.2026"
-    },
-    {
       "ticket": "2026041026000243",
       "cliente": "GroundWork",
       "fila": "INFRAESTUTURA",
@@ -3938,30 +3806,6 @@
       "modificado": "2026-04-18T05:00:15",
       "idade_dias": 30,
       "assunto": "QUEDA RECORRENTE AO ACESSO VDI"
-    },
-    {
-      "ticket": "2026041026000109",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-10T10:10:18",
-      "modificado": "2026-04-18T05:00:12",
-      "idade_dias": 31,
-      "assunto": "Alteração regra combo rules - Conta 44768 - Segmento 1000"
-    },
-    {
-      "ticket": "2026040926000237",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-09T15:25:49",
-      "modificado": "2026-04-18T05:00:10",
-      "idade_dias": 31,
-      "assunto": "Select - Combo rules - 09.04.26"
     },
     {
       "ticket": "2026040926000291",
@@ -4012,18 +3856,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26032400061690"
     },
     {
-      "ticket": "2026040826000337",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-08T15:52:21",
-      "modificado": "2026-04-16T05:00:24",
-      "idade_dias": 32,
-      "assunto": "Select - delete - 08.04.2026"
-    },
-    {
       "ticket": "2026040826000284",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -4034,18 +3866,6 @@
       "modificado": "2026-04-16T05:00:23",
       "idade_dias": 32,
       "assunto": "Erro Protheus - Donna Miro e Senhor Garibaldi, titulos 161190 e 161109"
-    },
-    {
-      "ticket": "2026040826000275",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-08T14:36:53",
-      "modificado": "2026-04-16T05:00:22",
-      "idade_dias": 32,
-      "assunto": "Select - Combo rules"
     },
     {
       "ticket": "2026040826000195",
@@ -4084,18 +3904,6 @@
       "assunto": "Relatório FinPecFarm"
     },
     {
-      "ticket": "2026040726000508",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-07T19:44:37",
-      "modificado": "2026-04-16T05:00:17",
-      "idade_dias": 33,
-      "assunto": "Select - Combo rules"
-    },
-    {
       "ticket": "2026040726000401",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -4106,42 +3914,6 @@
       "modificado": "2026-04-16T05:00:15",
       "idade_dias": 33,
       "assunto": "EXCLUSÃO DE MOVIMENTO BANCÁRIO"
-    },
-    {
-      "ticket": "2026040626000322",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-06T15:25:44",
-      "modificado": "2026-04-16T05:00:12",
-      "idade_dias": 34,
-      "assunto": "INSERT/ AJUSTE DE VALOR SELECT - TIPO 9 - W4 06.04.2026"
-    },
-    {
-      "ticket": "2026040626000466",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-06T18:35:33",
-      "modificado": "2026-04-15T05:00:31",
-      "idade_dias": 34,
-      "assunto": "Select - Combo rules - W4 - PD8 - 06.04.2026 - 2ª solicitação"
-    },
-    {
-      "ticket": "2026040626000288",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-06T14:55:28",
-      "modificado": "2026-04-15T05:00:30",
-      "idade_dias": 34,
-      "assunto": "Select - Combo rules - W4 - PD8 - 06.04.2026"
     },
     {
       "ticket": "2026040626000108",
@@ -4356,7 +4128,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-02T11:00:19",
       "modificado": "2026-04-10T05:00:16",
-      "idade_dias": 38,
+      "idade_dias": 39,
       "assunto": "Monitoramento com erro"
     },
     {
@@ -4420,18 +4192,6 @@
       "assunto": "Código de ajuste Totvs"
     },
     {
-      "ticket": "2026033126000518",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-31T17:45:14",
-      "modificado": "2026-04-09T05:00:18",
-      "idade_dias": 40,
-      "assunto": "Select - Combo rules - W3 - PD8 - 30.03.2026"
-    },
-    {
       "ticket": "2026033126000232",
       "cliente": "AUTOZONE",
       "fila": "MONITORAMENTO",
@@ -4492,18 +4252,6 @@
       "assunto": "RE: Agent GWMS"
     },
     {
-      "ticket": "2026033026000323",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-30T14:55:41",
-      "modificado": "2026-04-08T05:00:16",
-      "idade_dias": 41,
-      "assunto": "INSERT/ SELECT - TIPO 9 - 30.03"
-    },
-    {
       "ticket": "2026033026000252",
       "cliente": "TJBA (TELETEX)",
       "fila": "MONITORAMENTO",
@@ -4538,18 +4286,6 @@
       "modificado": "2026-04-08T05:00:12",
       "idade_dias": 68,
       "assunto": "Analise do Job 03 - Autozone"
-    },
-    {
-      "ticket": "2026033026000314",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-30T14:53:55",
-      "modificado": "2026-04-07T05:00:17",
-      "idade_dias": 41,
-      "assunto": "Novo espelhamento USGAAP - PD07 (JÁ RESOLVIDO)"
     },
     {
       "ticket": "2026033026000225",
@@ -4824,7 +4560,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-23T11:00:11",
       "modificado": "2026-03-31T05:00:32",
-      "idade_dias": 48,
+      "idade_dias": 49,
       "assunto": "Colocar no monitoramento e procedimento de subir serviço - Cliente AutoZone."
     },
     {
@@ -4850,18 +4586,6 @@
       "modificado": "2026-03-31T05:00:30",
       "idade_dias": 53,
       "assunto": "Revisão e recalibração do monitoramento – Ambiente Buntech (GWMS)"
-    },
-    {
-      "ticket": "2026032026000342",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-20T18:22:13",
-      "modificado": "2026-03-31T05:00:30",
-      "idade_dias": 51,
-      "assunto": "Contabilização Offiline"
     },
     {
       "ticket": "2026031126000387",
@@ -4898,18 +4622,6 @@
       "modificado": "2026-03-28T05:00:19",
       "idade_dias": 54,
       "assunto": "protheus com falha"
-    },
-    {
-      "ticket": "2026031926000551",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-19T17:13:20",
-      "modificado": "2026-03-27T05:00:30",
-      "idade_dias": 52,
-      "assunto": "Rotina de refaz saldos de PD7 em USGAAP"
     },
     {
       "ticket": "2026031926000256",
@@ -4960,18 +4672,6 @@
       "assunto": "Liberação"
     },
     {
-      "ticket": "2026031826000187",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-18T10:19:58",
-      "modificado": "2026-03-27T05:00:24",
-      "idade_dias": 54,
-      "assunto": "Contabilização Offiline"
-    },
-    {
       "ticket": "2026031826000301",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -4994,30 +4694,6 @@
       "modificado": "2026-03-26T05:00:23",
       "idade_dias": 54,
       "assunto": "Solicitação de lista  de usuarios com acesso a  Infra"
-    },
-    {
-      "ticket": "2026031326000221",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-13T11:37:25",
-      "modificado": "2026-03-26T05:00:20",
-      "idade_dias": 58,
-      "assunto": "Contabilização Offiline"
-    },
-    {
-      "ticket": "2026031226000171",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-12T11:09:48",
-      "modificado": "2026-03-26T05:00:19",
-      "idade_dias": 59,
-      "assunto": "Contabilização Offiline"
     },
     {
       "ticket": "2026031626000396",
@@ -5128,30 +4804,6 @@
       "assunto": "Falha Monitoramento"
     },
     {
-      "ticket": "2026031626000458",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-16T17:48:18",
-      "modificado": "2026-03-24T05:00:24",
-      "idade_dias": 55,
-      "assunto": "Rotina de refaz saldos de PD7 em USGAAP"
-    },
-    {
-      "ticket": "2026031326000445",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-13T17:54:26",
-      "modificado": "2026-03-24T05:00:23",
-      "idade_dias": 58,
-      "assunto": "Rotina de refaz saldos de PD6 em USGAAP"
-    },
-    {
       "ticket": "2026031226000251",
       "cliente": "FINPEC",
       "fila": "SSG",
@@ -5188,18 +4840,6 @@
       "assunto": "SPED CONTRIBUICOES"
     },
     {
-      "ticket": "2026031326000436",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-13T17:49:03",
-      "modificado": "2026-03-23T05:00:14",
-      "idade_dias": 58,
-      "assunto": "Novo espelhamento USGAAP - PD07"
-    },
-    {
       "ticket": "2026031326000258",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -5210,18 +4850,6 @@
       "modificado": "2026-03-21T05:00:36",
       "idade_dias": 58,
       "assunto": "Notas fora da Reinf"
-    },
-    {
-      "ticket": "2026031326000383",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-13T16:39:40",
-      "modificado": "2026-03-21T05:00:36",
-      "idade_dias": 58,
-      "assunto": "Select - Combo rules - 13.03.2026 - W4 - PD7"
     },
     {
       "ticket": "2026031326000178",
@@ -5270,18 +4898,6 @@
       "modificado": "2026-03-21T05:00:32",
       "idade_dias": 60,
       "assunto": "CONSULTA CHAVE DE ACESSO"
-    },
-    {
-      "ticket": "2026031126000145",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-11T09:24:10",
-      "modificado": "2026-03-21T05:00:31",
-      "idade_dias": 61,
-      "assunto": "Contabilização Offiline"
     },
     {
       "ticket": "2026031026000031",
@@ -5342,30 +4958,6 @@
       "modificado": "2026-03-20T05:00:37",
       "idade_dias": 59,
       "assunto": "Revisão do monitoramento ARCO"
-    },
-    {
-      "ticket": "2026031226000152",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-12T10:54:40",
-      "modificado": "2026-03-20T05:00:36",
-      "idade_dias": 59,
-      "assunto": "Espelhamento USGAAP - PD07 - W4"
-    },
-    {
-      "ticket": "2026031126000476",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-11T18:31:18",
-      "modificado": "2026-03-20T05:00:35",
-      "idade_dias": 60,
-      "assunto": "Select - Combo rules - 11..03.2026 - W4 - PD7 - Diretamente no USGAAP"
     },
     {
       "ticket": "2026031126000412",
@@ -5512,18 +5104,6 @@
       "assunto": "AZ - Manter a base HML ativa - 10/03/2026"
     },
     {
-      "ticket": "2026031026000665",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-10T17:15:29",
-      "modificado": "2026-03-19T05:00:39",
-      "idade_dias": 61,
-      "assunto": "Select - Combo rules - 10.03.2026 - W4 - PD7"
-    },
-    {
       "ticket": "2026031026000601",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -5544,7 +5124,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-03-09T10:57:15",
       "modificado": "2026-03-19T05:00:35",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "Erro - Está aparecendo 02 valores de frete na simulação simplificada Está aparecendo 02 valores de frete na simulação simplificada"
     },
     {
@@ -5676,7 +5256,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T10:57:19",
       "modificado": "2026-03-18T05:00:30",
-      "idade_dias": 61,
+      "idade_dias": 62,
       "assunto": "CIVIL NK - MOVIMENTO BANCARIO"
     },
     {
@@ -5714,18 +5294,6 @@
       "modificado": "2026-03-18T05:00:27",
       "idade_dias": 62,
       "assunto": "SALDO INICIAL DIFERENTE DO SALDO FINAL"
-    },
-    {
-      "ticket": "2026030926000435",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-09T15:53:20",
-      "modificado": "2026-03-18T05:00:26",
-      "idade_dias": 62,
-      "assunto": "Select - Combo rules - 09.03.2026 - W4 - PD7"
     },
     {
       "ticket": "2026030926000382",
@@ -5786,18 +5354,6 @@
       "modificado": "2026-03-18T05:00:20",
       "idade_dias": 67,
       "assunto": "CASTROLANDA | relatorio de servidores monitorados via SNMP"
-    },
-    {
-      "ticket": "2026030926000337",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "FECHADO SEM ÊXITO (AUTO)",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-03-09T12:22:27",
-      "modificado": "2026-03-17T05:00:27",
-      "idade_dias": 62,
-      "assunto": "INSERT/ SELECT - TIPO 9"
     },
     {
       "ticket": "2026030926000168",
@@ -6060,7 +5616,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-03-02T10:55:59",
       "modificado": "2026-03-11T05:00:33",
-      "idade_dias": 69,
+      "idade_dias": 70,
       "assunto": "Natureza de operação 3949RT - Diferença de IBS/CBS"
     },
     {
@@ -7272,7 +6828,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-01T10:56:18",
       "modificado": "2026-02-10T05:00:21",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "AJ MÍDIA - Relatório de faturamento e ISS a pagar"
     },
     {
@@ -7428,7 +6984,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-27T10:51:18",
       "modificado": "2026-02-05T05:00:25",
-      "idade_dias": 103,
+      "idade_dias": 104,
       "assunto": "Alteração de aprovador de SC e TK"
     },
     {
@@ -7788,7 +7344,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T10:53:37",
       "modificado": "2026-01-29T05:00:29",
-      "idade_dias": 116,
+      "idade_dias": 117,
       "assunto": "Liberação de Acesso Protheus."
     },
     {
@@ -8760,7 +8316,7 @@
       "atendente": "Thiago Sebek",
       "criado": "2025-12-29T10:59:17",
       "modificado": "2026-01-06T05:00:16",
-      "idade_dias": 132,
+      "idade_dias": 133,
       "assunto": "Atualização totvs"
     },
     {
@@ -10164,7 +9720,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-18T10:55:08",
       "modificado": "2025-11-26T05:00:31",
-      "idade_dias": 173,
+      "idade_dias": 174,
       "assunto": "RES: ARCO - SW_CVSP-10ANDAR_SW-1_2_3 - Cpu - 25111715503049"
     },
     {
@@ -10284,7 +9840,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-13T10:55:19",
       "modificado": "2025-11-22T05:00:18",
-      "idade_dias": 178,
+      "idade_dias": 179,
       "assunto": "Solicitação de Ajuste de Threshold - Discos: E:, G:, H:, I:, J:, K:, O:, P:, Q:, R:, S: | Host: SRV-SQL-HML | (Cliente AUTOZONE)"
     },
     {
@@ -10452,7 +10008,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-06T10:55:01",
       "modificado": "2025-11-15T05:00:20",
-      "idade_dias": 185,
+      "idade_dias": 186,
       "assunto": "COND COMERCIAL NS - ERRO REINF"
     },
     {
@@ -10656,7 +10212,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-10-28T10:55:23",
       "modificado": "2025-11-08T05:00:32",
-      "idade_dias": 194,
+      "idade_dias": 195,
       "assunto": "GWMS > New Ticket"
     },
     {
@@ -11436,7 +10992,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-27T10:55:26",
       "modificado": "2025-10-17T05:00:29",
-      "idade_dias": 256,
+      "idade_dias": 257,
       "assunto": "RES: RES: [EXTERNAL] Re: AZ - LP \"Nova versão Fluig\" análise de títulos que entraram pelo FLUIG e nã [...]"
     },
     {
@@ -13608,7 +13164,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-21T10:55:13",
       "modificado": "2025-09-10T05:00:16",
-      "idade_dias": 262,
+      "idade_dias": 263,
       "assunto": "Re: #TOTVS-SERVERS - SP_SEG-AIRPSMP03 - EventLog - Setup:4 - 25082008295934"
     },
     {
@@ -16260,7 +15816,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-30T10:55:17",
       "modificado": "2025-07-08T05:00:17",
-      "idade_dias": 314,
+      "idade_dias": 315,
       "assunto": "Criação de Produto - Lançamento RPA"
     },
     {
@@ -17532,7 +17088,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-02T10:55:47",
       "modificado": "2025-06-10T05:00:28",
-      "idade_dias": 342,
+      "idade_dias": 343,
       "assunto": "Melhoria no contrato fixo com medição automática"
     },
     {
@@ -18876,7 +18432,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-08T11:00:17",
       "modificado": "2025-05-16T05:00:23",
-      "idade_dias": 367,
+      "idade_dias": 368,
       "assunto": "Acesso ao relatório consolidado"
     },
     {
@@ -18996,7 +18552,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-13T11:00:14",
       "modificado": "2025-05-13T11:00:17",
-      "idade_dias": 362,
+      "idade_dias": 363,
       "assunto": "Custo itens remessa externa -BRGAAP - Filial 0003"
     },
     {
@@ -19332,7 +18888,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-24T11:00:21",
       "modificado": "2025-05-09T05:00:11",
-      "idade_dias": 381,
+      "idade_dias": 382,
       "assunto": "Re: PD09 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -20508,7 +20064,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-08T10:55:24",
       "modificado": "2025-04-20T05:00:20",
-      "idade_dias": 397,
+      "idade_dias": 398,
       "assunto": "RES: Braveo - Projeto OCI - FQDNs/URLs"
     },
     {
@@ -20844,7 +20400,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-03T10:53:52",
       "modificado": "2025-04-11T05:00:19",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "Acesso Sistema-AJ.connect"
     },
     {
@@ -20904,7 +20460,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-03-27T11:00:11",
       "modificado": "2025-04-10T05:00:15",
-      "idade_dias": 409,
+      "idade_dias": 410,
       "assunto": "AD - usuario Cida"
     },
     {
@@ -21192,7 +20748,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-25T10:57:08",
       "modificado": "2025-04-05T05:00:07",
-      "idade_dias": 411,
+      "idade_dias": 412,
       "assunto": "[AESC] Solicitação para Criação de Alertas"
     },
     {
@@ -23340,7 +22896,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-28T10:55:09",
       "modificado": "2025-02-10T05:00:09",
-      "idade_dias": 467,
+      "idade_dias": 468,
       "assunto": "Baixa de Título"
     },
     {
@@ -24600,7 +24156,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-20T10:53:17",
       "modificado": "2025-01-06T11:00:10",
-      "idade_dias": 506,
+      "idade_dias": 507,
       "assunto": "Erro ao gerar acordo - Empresa 306001"
     },
     {
@@ -26376,7 +25932,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-11-08T11:00:07",
       "modificado": "2024-11-15T13:30:06",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Visão de 24 meses no GWMS"
     },
     {
@@ -26580,7 +26136,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-10-18T11:00:12",
       "modificado": "2024-11-13T09:00:07",
-      "idade_dias": 569,
+      "idade_dias": 570,
       "assunto": "Verificação monitoramento antivírus - TOTVS"
     },
     {
@@ -26808,7 +26364,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2024-10-21T11:00:18",
       "modificado": "2024-11-03T17:30:09",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "Configurar serviço HTTPS - Autozone"
     },
     {
@@ -27780,7 +27336,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-10T11:00:20",
       "modificado": "2024-10-07T08:30:15",
-      "idade_dias": 607,
+      "idade_dias": 608,
       "assunto": "RES: RES: RES: RES: Arquivo de ativação Gift e Merch Card"
     },
     {
@@ -27792,7 +27348,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-25T11:00:12",
       "modificado": "2024-10-07T08:30:15",
-      "idade_dias": 592,
+      "idade_dias": 593,
       "assunto": "Alocação de prestadores de serviço - ADVPL"
     },
     {
