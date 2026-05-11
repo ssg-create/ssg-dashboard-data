@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778457018,
-  "generated_at_iso": "2026-05-10T23:50:18Z",
+  "generated_at": 1778457625,
+  "generated_at_iso": "2026-05-11T00:00:25Z",
   "count": 2426,
   "filas": [
     "DATASUL",
@@ -16,14 +16,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026050726000061",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-07T07:35:06",
+      "modificado": "2026-05-10T20:53:19",
+      "idade_dias": 3,
+      "assunto": "Berneck - alterar o monitoramento"
+    },
+    {
       "ticket": "2026051026000161",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-10T20:50:05",
-      "modificado": "2026-05-10T20:50:07",
+      "modificado": "2026-05-10T20:52:31",
       "idade_dias": 0,
       "assunto": "DKT - GWMS-SERVER - Influxdb Check Writes - 26051020463511"
     },
@@ -1190,18 +1202,6 @@
       "modificado": "2026-05-09T07:40:11",
       "idade_dias": 6,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
-    },
-    {
-      "ticket": "2026050726000061",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-07T07:35:06",
-      "modificado": "2026-05-09T07:30:06",
-      "idade_dias": 3,
-      "assunto": "Berneck - alterar o monitoramento"
     },
     {
       "ticket": "2026050926000039",
@@ -18264,7 +18264,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-04-01T21:00:20",
       "modificado": "2025-06-03T05:00:28",
-      "idade_dias": 403,
+      "idade_dias": 404,
       "assunto": "AZ - MELHORIA - Opção de não integrar título já existente no Protheus"
     },
     {
@@ -20856,7 +20856,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-04-01T20:51:47",
       "modificado": "2025-04-22T05:00:20",
-      "idade_dias": 403,
+      "idade_dias": 404,
       "assunto": "AZ - MELHORIA - Implementação dos novos campos de valores (acréscimo, decréscimo, total)"
     },
     {
@@ -24900,7 +24900,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-01-08T20:55:21",
       "modificado": "2025-01-08T21:38:05",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "WILLY - Centreon-Server - Monitoring License - 25010820523464"
     },
     {
