@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778530229,
-  "generated_at_iso": "2026-05-11T20:10:29Z",
-  "count": 5191,
+  "generated_at": 1778530837,
+  "generated_at_iso": "2026-05-11T20:20:37Z",
+  "count": 5192,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051126000472",
+      "assunto": "[Acesso] - TI Negócios Digitais",
+      "criado": "2026-05-11T17:20:14",
+      "modificado": "2026-05-11T17:20:18",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "maicon.martins@totvs.com.br",
+      "cli_user": "maicon.martins@totvs.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051126000463",
       "assunto": "Validação do monitoramento Identity",
@@ -379,9 +399,9 @@
       "num": "2026051126000276",
       "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE",
       "criado": "2026-05-11T12:15:12",
-      "modificado": "2026-05-11T13:20:37",
+      "modificado": "2026-05-11T17:20:23",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -390,10 +410,10 @@
       "cli_user": "eduardo.candido@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 305,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 260
     },
     {
       "num": "2026051126000267",
@@ -479,7 +499,7 @@
       "num": "2026051126000203",
       "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353",
       "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-11T17:04:53",
+      "modificado": "2026-05-11T17:15:50",
       "fila": "GWMS",
       "estado": "aguardando atendente (interno)",
       "prioridade": "1 very low",
@@ -3959,7 +3979,7 @@
       "num": "2026050426000075",
       "assunto": "Downtime monitoramento Central de Clientes",
       "criado": "2026-05-04T08:15:14",
-      "modificado": "2026-05-11T17:10:17",
+      "modificado": "2026-05-11T17:20:18",
       "fila": "NOC",
       "estado": "retorno cliente",
       "prioridade": "3 normal",
