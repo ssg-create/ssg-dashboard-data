@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778514631,
-  "generated_at_iso": "2026-05-11T15:50:31Z",
+  "generated_at": 1778515244,
+  "generated_at_iso": "2026-05-11T16:00:44Z",
   "count": 2356,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000276",
+      "cliente": "AUTOZONE",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T12:15:12",
+      "modificado": "2026-05-11T13:00:05",
+      "idade_dias": 0,
+      "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
+    },
+    {
+      "ticket": "2026051126000267",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Carlos Fernandes",
+      "criado": "2026-05-11T12:13:02",
+      "modificado": "2026-05-11T12:59:05",
+      "idade_dias": 0,
+      "assunto": "Medição Loja 7632 ( nao consigo gerar"
+    },
+    {
+      "ticket": "2026050826000121",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-08T09:47:32",
+      "modificado": "2026-05-11T12:52:16",
+      "idade_dias": 3,
+      "assunto": "Desativação de alertas severidade UNKNOWN"
+    },
     {
       "ticket": "2026050726000195",
       "cliente": "AUTOZONE",
@@ -112,18 +148,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26050907590822"
     },
     {
-      "ticket": "2026051126000276",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T12:15:12",
-      "modificado": "2026-05-11T12:20:14",
-      "idade_dias": 0,
-      "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
-    },
-    {
       "ticket": "2026050726000613",
       "cliente": "AUTOZONE",
       "fila": "DBA",
@@ -134,18 +158,6 @@
       "modificado": "2026-05-11T12:19:35",
       "idade_dias": 3,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050722384899"
-    },
-    {
-      "ticket": "2026051126000267",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "4 high",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T12:13:02",
-      "modificado": "2026-05-11T12:13:02",
-      "idade_dias": 0,
-      "assunto": "Medição Loja 7632 ( nao consigo gerar"
     },
     {
       "ticket": "2026051126000249",
@@ -1056,7 +1068,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-04T12:55:10",
       "modificado": "2026-05-11T05:00:13",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "BRAVEO - OMNI - HOST DOWN - 26050412495576"
     },
     {
@@ -1766,18 +1778,6 @@
       "modificado": "2026-05-08T11:28:07",
       "idade_dias": 6,
       "assunto": "Comunicação entre 10.210.10.4, 10.210.10.5 e 10.105.2.44 "
-    },
-    {
-      "ticket": "2026050826000121",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RESOLVIDO",
-      "prioridade": "4 high",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-08T09:47:32",
-      "modificado": "2026-05-08T11:11:00",
-      "idade_dias": 3,
-      "assunto": "Desativação de alertas severidade UNKNOWN"
     },
     {
       "ticket": "2026050626000419",
@@ -3384,7 +3384,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T12:58:25",
       "modificado": "2026-04-24T10:54:16",
-      "idade_dias": 143,
+      "idade_dias": 144,
       "assunto": "Inclusão de pedidos - Alteração no conceito de exibição do campo \"Desconto Faseamento\""
     },
     {
@@ -12228,7 +12228,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-09-12T12:55:07",
       "modificado": "2025-09-23T05:00:24",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "RES: #TOTVS-SERVERS - URLS_HLCLOUD - TOTVS12 - HLCloud Pendente - 25091211345938"
     },
     {
@@ -17448,7 +17448,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-23T12:56:03",
       "modificado": "2025-05-31T05:00:32",
-      "idade_dias": 352,
+      "idade_dias": 353,
       "assunto": "Exclusão de Título - Financeiro"
     },
     {
@@ -23328,7 +23328,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-01-02T12:55:17",
       "modificado": "2025-02-09T05:00:09",
-      "idade_dias": 493,
+      "idade_dias": 494,
       "assunto": "Incluir monitoramento FortiManager e Fortianalyzer"
     },
     {
@@ -24120,7 +24120,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-11T12:52:28",
       "modificado": "2025-01-06T12:00:13",
-      "idade_dias": 515,
+      "idade_dias": 516,
       "assunto": "Erro lançamento manual - Filial 0003-49"
     },
     {
@@ -25812,7 +25812,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-11T12:52:31",
       "modificado": "2024-11-20T08:30:09",
-      "idade_dias": 545,
+      "idade_dias": 546,
       "assunto": "Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -26412,7 +26412,7 @@
       "atendente": "Wesley Araujo",
       "criado": "2024-10-22T12:55:20",
       "modificado": "2024-10-31T17:30:20",
-      "idade_dias": 565,
+      "idade_dias": 566,
       "assunto": "TSS"
     },
     {
@@ -27384,7 +27384,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-07-11T13:00:24",
       "modificado": "2024-10-04T10:00:02",
-      "idade_dias": 668,
+      "idade_dias": 669,
       "assunto": "Recebimentos Cartão Crédito/Débito - Não Integrados no sistema."
     },
     {
