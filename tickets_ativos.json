@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778542220,
-  "generated_at_iso": "2026-05-11T23:30:20Z",
+  "generated_at": 1778542824,
+  "generated_at_iso": "2026-05-11T23:40:24Z",
   "count": 2365,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
+      "modificado": "2026-05-11T20:33:37",
+      "idade_dias": 13,
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+    },
     {
       "ticket": "2026042226000622",
       "cliente": "GDBR",
@@ -1152,7 +1164,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-09T20:35:09",
       "modificado": "2026-05-11T08:37:57",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "GROUNDWORK - Alertas CRITICAL - 26050920320683"
     },
     {
@@ -1816,18 +1828,6 @@
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR"
     },
     {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 13,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
-    },
-    {
       "ticket": "2026040226000044",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -2112,7 +2112,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-07T20:40:14",
       "modificado": "2026-05-08T10:39:42",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "ARCO - URLS_ARCO - Sae Digital - 26050720361693"
     },
     {
@@ -8664,7 +8664,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-12-17T20:35:18",
       "modificado": "2025-12-27T05:00:26",
-      "idade_dias": 144,
+      "idade_dias": 145,
       "assunto": "Validação de contas de serviço."
     },
     {
@@ -26928,7 +26928,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-30T20:33:43",
       "modificado": "2024-10-22T11:00:00",
-      "idade_dias": 587,
+      "idade_dias": 588,
       "assunto": "Envio de E-mail aprovação SC e PC"
     },
     {
