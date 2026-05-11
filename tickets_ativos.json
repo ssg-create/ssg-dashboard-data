@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778515841,
-  "generated_at_iso": "2026-05-11T16:10:41Z",
+  "generated_at": 1778516431,
+  "generated_at_iso": "2026-05-11T16:20:31Z",
   "count": 2356,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051026000072",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-10T09:50:17",
+      "modificado": "2026-05-11T13:20:23",
+      "idade_dias": 1,
+      "assunto": "BRAVEO - ERRO PLUGIN"
+    },
     {
       "ticket": "2026051126000276",
       "cliente": "AUTOZONE",
@@ -326,18 +338,6 @@
       "modificado": "2026-05-11T10:46:10",
       "idade_dias": 101,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
-    },
-    {
-      "ticket": "2026051026000072",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-10T09:50:17",
-      "modificado": "2026-05-11T10:40:29",
-      "idade_dias": 1,
-      "assunto": "BRAVEO - ERRO PLUGIN"
     },
     {
       "ticket": "2026041426000389",
@@ -1764,7 +1764,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-07T13:20:19",
       "modificado": "2026-05-08T11:40:00",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Ajuste DNS"
     },
     {
@@ -5508,7 +5508,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-02-11T13:15:55",
       "modificado": "2026-03-13T05:00:25",
-      "idade_dias": 88,
+      "idade_dias": 89,
       "assunto": "CODIGOS IBS E CBS"
     },
     {
@@ -5604,7 +5604,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-02-21T13:20:05",
       "modificado": "2026-03-12T05:00:17",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Ajuste e Revisão no Plug-in de Monitoramento dos jobs do SQL Server Agent - AUTOZONE"
     },
     {
@@ -7344,7 +7344,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T13:16:31",
       "modificado": "2026-01-29T05:00:31",
-      "idade_dias": 116,
+      "idade_dias": 117,
       "assunto": "Liberação de acesso sr. Jonas Brito Salustiano ao Sistema Protheus."
     },
     {
@@ -9996,7 +9996,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-11-07T13:13:44",
       "modificado": "2025-11-15T05:00:22",
-      "idade_dias": 184,
+      "idade_dias": 185,
       "assunto": "Solicito cadastro e validação dos ambientes da AWS Produção:"
     },
     {
@@ -16596,7 +16596,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-06-12T13:15:14",
       "modificado": "2025-06-21T05:00:16",
-      "idade_dias": 332,
+      "idade_dias": 333,
       "assunto": "AutoZone | Consolidado do dia: 11/06/2025 - Cliente aprovados e reprovados"
     },
     {
@@ -18252,7 +18252,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-09T13:15:07",
       "modificado": "2025-05-20T05:00:24",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "RES: ARCO - Alertas CRITICAL - 25050910362845"
     },
     {
@@ -19308,7 +19308,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-04-02T13:15:23",
       "modificado": "2025-05-02T05:00:20",
-      "idade_dias": 403,
+      "idade_dias": 404,
       "assunto": "AZ - Falha no DDA - Compras realizadas pelas filiais com cobrança na matriz."
     },
     {
@@ -24252,7 +24252,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-12-05T13:20:09",
       "modificado": "2025-01-03T09:00:17",
-      "idade_dias": 521,
+      "idade_dias": 522,
       "assunto": "AZ - Ativo - Frete"
     },
     {
@@ -24924,7 +24924,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-11T13:19:17",
       "modificado": "2024-12-18T14:00:18",
-      "idade_dias": 515,
+      "idade_dias": 516,
       "assunto": "SC sem aprovação"
     },
     {
@@ -27324,7 +27324,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2024-09-23T13:20:17",
       "modificado": "2024-10-07T18:30:03",
-      "idade_dias": 594,
+      "idade_dias": 595,
       "assunto": "ajuste transferência de armazém"
     },
     {
@@ -28152,7 +28152,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-07T13:20:16",
       "modificado": "2024-09-16T11:30:16",
-      "idade_dias": 610,
+      "idade_dias": 611,
       "assunto": "Mudança GWMS"
     },
     {
