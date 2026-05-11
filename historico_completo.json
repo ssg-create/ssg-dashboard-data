@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778520033,
-  "generated_at_iso": "2026-05-11T17:20:33Z",
-  "count": 5176,
+  "generated_at": 1778520639,
+  "generated_at_iso": "2026-05-11T17:30:39Z",
+  "count": 5177,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051126000311",
+      "assunto": "Move de datas - Apontamentos - Rech",
+      "criado": "2026-05-11T14:25:11",
+      "modificado": "2026-05-11T14:25:13",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "rodrigo.cuani@groundwork.com.br",
+      "cli_user": "rodrigo.cuani@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051126000301",
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051114001438",
@@ -3519,7 +3539,7 @@
       "num": "2026050426000191",
       "assunto": "Chamado para apontamento de horas.",
       "criado": "2026-05-04T11:15:18",
-      "modificado": "2026-05-11T08:49:08",
+      "modificado": "2026-05-11T14:22:38",
       "fila": "GWMS",
       "estado": "Em atendimento",
       "prioridade": "1 very low",
