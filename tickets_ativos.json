@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778499625,
-  "generated_at_iso": "2026-05-11T11:40:25Z",
-  "count": 2421,
+  "generated_at": 1778500225,
+  "generated_at_iso": "2026-05-11T11:50:25Z",
+  "count": 2422,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,126 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000105",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T08:50:23",
+      "modificado": "2026-05-11T08:50:23",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554"
+    },
+    {
+      "ticket": "2026050726000542",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-07T16:40:23",
+      "modificado": "2026-05-11T08:49:30",
+      "idade_dias": 3,
+      "assunto": "Remover servidor do monitoramento"
+    },
+    {
+      "ticket": "2026050426000191",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-04T11:15:18",
+      "modificado": "2026-05-11T08:49:08",
+      "idade_dias": 6,
+      "assunto": "Chamado para apontamento de horas."
+    },
+    {
+      "ticket": "2026050926000271",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-09T22:40:07",
+      "modificado": "2026-05-11T08:47:40",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050922353634"
+    },
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-11T08:45:23",
+      "idade_dias": 11,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
+    {
+      "ticket": "2026050826000317",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-08T18:40:22",
+      "modificado": "2026-05-11T08:44:34",
+      "idade_dias": 2,
+      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
+    },
+    {
+      "ticket": "2026051026000072",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-10T09:50:17",
+      "modificado": "2026-05-11T08:44:16",
+      "idade_dias": 0,
+      "assunto": "BRAVEO - ERRO PLUGIN"
+    },
+    {
+      "ticket": "2026051026000143",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-10T20:05:22",
+      "modificado": "2026-05-11T08:44:04",
+      "idade_dias": 0,
+      "assunto": "DKT - Alertas UNKNOWN - 26051020012055"
+    },
+    {
+      "ticket": "2026051126000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-11T05:30:16",
+      "modificado": "2026-05-11T08:42:52",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
+    },
+    {
+      "ticket": "2026050826000068",
+      "cliente": "ATITUS",
+      "fila": "DBA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "4 high",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-05-08T08:51:00",
+      "modificado": "2026-05-11T08:41:09",
+      "idade_dias": 2,
+      "assunto": "Alto consumo de CPU -  TAPP"
+    },
     {
       "ticket": "2026051126000043",
       "cliente": "GroundWork",
@@ -36,7 +156,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-04-17T08:45:09",
       "modificado": "2026-05-11T08:39:20",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Implantação GWMS cliente Digna"
     },
     {
@@ -112,18 +232,6 @@
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - HOST DOWN - 26050921492185"
     },
     {
-      "ticket": "2026050926000271",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "RESOLVIDO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-09T22:40:07",
-      "modificado": "2026-05-11T08:30:41",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050922353634"
-    },
-    {
       "ticket": "2026050726000061",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -146,18 +254,6 @@
       "modificado": "2026-05-11T08:29:24",
       "idade_dias": 1,
       "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
-    },
-    {
-      "ticket": "2026050826000317",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-08T18:40:22",
-      "modificado": "2026-05-11T08:27:54",
-      "idade_dias": 2,
-      "assunto": "OZ_MINERALS - GWMS-SERVER - Disk:/sys/firmware/efi/efivars - 26050818362890"
     },
     {
       "ticket": "2026050826000326",
@@ -292,18 +388,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:P12_AUTOZONE - User Expiration - 26051009355569"
     },
     {
-      "ticket": "2026051026000072",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-10T09:50:17",
-      "modificado": "2026-05-11T08:06:12",
-      "idade_dias": 0,
-      "assunto": "BRAVEO - ERRO PLUGIN"
-    },
-    {
       "ticket": "2026032626000288",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -328,18 +412,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
     },
     {
-      "ticket": "2026051026000143",
-      "cliente": "DKT",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-10T20:05:22",
-      "modificado": "2026-05-11T08:04:07",
-      "idade_dias": 0,
-      "assunto": "DKT - Alertas UNKNOWN - 26051020012055"
-    },
-    {
       "ticket": "2026050926000039",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -350,18 +422,6 @@
       "modificado": "2026-05-11T08:01:10",
       "idade_dias": 2,
       "assunto": "Refaz saldos - PD9 - USGAAP"
-    },
-    {
-      "ticket": "2026051126000061",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T05:30:16",
-      "modificado": "2026-05-11T07:54:12",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
     },
     {
       "ticket": "2026051126000071",
@@ -554,18 +614,6 @@
       "modificado": "2026-05-11T05:00:14",
       "idade_dias": 4,
       "assunto": "Alterar threshold alertas ATITUS"
-    },
-    {
-      "ticket": "2026050726000542",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-07T16:40:23",
-      "modificado": "2026-05-11T05:00:14",
-      "idade_dias": 3,
-      "assunto": "Remover servidor do monitoramento"
     },
     {
       "ticket": "2026050826000077",
@@ -840,7 +888,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-04-22T08:41:58",
       "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "RES:"
     },
     {
@@ -1348,18 +1396,6 @@
       "assunto": "Desenvolvimento do gw/v2"
     },
     {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-08T17:52:08",
-      "idade_dias": 11,
-      "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
       "ticket": "2026041726000034",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1512,7 +1548,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-05-08T08:50:06",
       "modificado": "2026-05-08T12:35:16",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Ajuste Monitoria - Impressoras"
     },
     {
@@ -1610,18 +1646,6 @@
       "modificado": "2026-05-08T10:13:21",
       "idade_dias": 2,
       "assunto": "ATIBUIÇÃO DE USUÁRIO"
-    },
-    {
-      "ticket": "2026050826000068",
-      "cliente": "ATITUS",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Enzo Fucitalo",
-      "criado": "2026-05-08T08:51:00",
-      "modificado": "2026-05-08T08:59:29",
-      "idade_dias": 2,
-      "assunto": "Alto consumo de CPU -  TAPP"
     },
     {
       "ticket": "2026050626000455",
@@ -2284,18 +2308,6 @@
       "assunto": "RE: Coiban/Coife"
     },
     {
-      "ticket": "2026050426000191",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Sergio Luiz Glovatinski Jr",
-      "criado": "2026-05-04T11:15:18",
-      "modificado": "2026-05-06T18:36:01",
-      "idade_dias": 6,
-      "assunto": "Chamado para apontamento de horas."
-    },
-    {
       "ticket": "2026042826000513",
       "cliente": "DIGNA",
       "fila": "GWMS",
@@ -2868,7 +2880,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-22T08:48:42",
       "modificado": "2026-05-05T05:00:26",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Liberação de tabelas"
     },
     {
@@ -3468,7 +3480,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-16T08:50:16",
       "modificado": "2026-04-24T05:00:24",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "Filial Comendador Gomes/MG"
     },
     {
@@ -3648,7 +3660,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-14T08:45:37",
       "modificado": "2026-04-22T05:00:32",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "falha ao acessar aba protheus"
     },
     {
@@ -3696,7 +3708,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-08T08:45:13",
       "modificado": "2026-04-22T05:00:28",
-      "idade_dias": 32,
+      "idade_dias": 33,
       "assunto": "ARCO - GWMS-SERVER - Load - 26040808414074"
     },
     {
@@ -5292,7 +5304,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-13T08:45:58",
       "modificado": "2026-03-21T05:00:34",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "Máscara para Midia Digital Boleto"
     },
     {
@@ -6348,7 +6360,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-25T08:45:10",
       "modificado": "2026-03-07T05:00:23",
-      "idade_dias": 74,
+      "idade_dias": 75,
       "assunto": "SEBRAE - ERPBD01 - Disk:F: - 26022508374989"
     },
     {
@@ -6708,7 +6720,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-19T08:47:35",
       "modificado": "2026-02-28T05:00:27",
-      "idade_dias": 80,
+      "idade_dias": 81,
       "assunto": "BERNECK | Inventario de monitoramento"
     },
     {
@@ -10032,7 +10044,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-09T08:45:22",
       "modificado": "2025-12-09T08:45:24",
-      "idade_dias": 152,
+      "idade_dias": 153,
       "assunto": "Relatório Semanal - Espelhamento Nfs"
     },
     {
@@ -10416,7 +10428,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-21T08:45:21",
       "modificado": "2025-11-29T05:00:21",
-      "idade_dias": 170,
+      "idade_dias": 171,
       "assunto": "[GLPI #0008903] Novo chamado GDBR - DESATUALIZADO - 25112101243624"
     },
     {
@@ -11484,7 +11496,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-10-15T08:47:58",
       "modificado": "2025-10-23T05:00:17",
-      "idade_dias": 207,
+      "idade_dias": 208,
       "assunto": "Atualização progress"
     },
     {
@@ -11892,7 +11904,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-10-14T08:50:17",
       "modificado": "2025-10-14T08:50:20",
-      "idade_dias": 208,
+      "idade_dias": 209,
       "assunto": "RELATÓRIO CONSOLIDADO DE CLIENTES ANALISADOS NO DIA 13.10.2025"
     },
     {
@@ -12144,7 +12156,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-29T08:41:20",
       "modificado": "2025-10-08T05:00:19",
-      "idade_dias": 223,
+      "idade_dias": 224,
       "assunto": "Códigos fornecedores duplicados"
     },
     {
@@ -12720,7 +12732,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-18T08:44:57",
       "modificado": "2025-09-26T05:00:23",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "BERNECK | GWMS SERVER com problemas no serviço time"
     },
     {
@@ -12900,7 +12912,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-09-12T08:45:13",
       "modificado": "2025-09-24T05:00:33",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "[TJBA] Criação de painel compatível – URLs Prêmio da Qualidade"
     },
     {
@@ -15876,7 +15888,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T08:45:06",
       "modificado": "2025-07-24T05:00:12",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "RE: Dashboard Jan/25 - Doctos não integrados"
     },
     {
@@ -15912,7 +15924,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-15T08:50:11",
       "modificado": "2025-07-23T05:00:28",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "COPEL  - Adicionar ao monitoramento"
     },
     {
@@ -16140,7 +16152,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-10T08:41:47",
       "modificado": "2025-07-18T05:00:26",
-      "idade_dias": 304,
+      "idade_dias": 305,
       "assunto": "Ajuste no Protheus"
     },
     {
@@ -16248,7 +16260,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-12T08:45:19",
       "modificado": "2025-07-16T05:00:20",
-      "idade_dias": 332,
+      "idade_dias": 333,
       "assunto": "Alterar monitoramento Integracao SSIM:  Critical"
     },
     {
@@ -16692,7 +16704,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-07T08:50:23",
       "modificado": "2025-07-07T08:50:26",
-      "idade_dias": 307,
+      "idade_dias": 308,
       "assunto": "ARQUIVO CONSOLIDADO EM DUPLICIDADE - DIAS 05.07.2025 E 06.07.2025"
     },
     {
@@ -18744,7 +18756,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-15T08:45:04",
       "modificado": "2025-05-23T05:00:23",
-      "idade_dias": 360,
+      "idade_dias": 361,
       "assunto": "Incluir dashboard link vivo CD FOR"
     },
     {
@@ -19152,7 +19164,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-09T08:48:35",
       "modificado": "2025-05-17T05:00:19",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "HAVAN-NTW | Desativar monitoramento"
     },
     {
@@ -19200,7 +19212,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-05-06T08:48:27",
       "modificado": "2025-05-17T05:00:12",
-      "idade_dias": 369,
+      "idade_dias": 370,
       "assunto": "Importar Arquivo CSV"
     },
     {
@@ -19728,7 +19740,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-08T08:46:51",
       "modificado": "2025-05-08T05:00:15",
-      "idade_dias": 397,
+      "idade_dias": 398,
       "assunto": "Erro aba contratos"
     },
     {
@@ -20484,7 +20496,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-21T08:45:28",
       "modificado": "2025-04-25T05:00:06",
-      "idade_dias": 415,
+      "idade_dias": 416,
       "assunto": "BBP - TaxID – Verificação de Erro na Integração com Protheus"
     },
     {
@@ -21084,7 +21096,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-04-14T08:50:22",
       "modificado": "2025-04-14T08:50:24",
-      "idade_dias": 391,
+      "idade_dias": 392,
       "assunto": "Fluig - Lento"
     },
     {
@@ -22200,7 +22212,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-03-10T08:47:52",
       "modificado": "2025-03-18T05:00:14",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "Inclusão de email em alerta específico"
     },
     {
@@ -23532,7 +23544,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-04T08:46:53",
       "modificado": "2025-02-12T05:00:13",
-      "idade_dias": 460,
+      "idade_dias": 461,
       "assunto": "Envio XML FileZilla - TAXID"
     },
     {
@@ -25068,7 +25080,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-26T08:50:17",
       "modificado": "2025-01-02T15:30:07",
-      "idade_dias": 500,
+      "idade_dias": 501,
       "assunto": "Desativação de hosts no monitoramento"
     },
     {
@@ -25524,7 +25536,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-03T08:50:18",
       "modificado": "2024-12-22T23:00:18",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "NOTAS CANCELADAS - 11/2024"
     },
     {
@@ -26172,7 +26184,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-11-22T08:45:20",
       "modificado": "2024-12-04T10:30:20",
-      "idade_dias": 534,
+      "idade_dias": 535,
       "assunto": "RES: #TOTVS-SERVERS - LOGMEIN - Check Logmein Rescue Users Connected - 24112208232065"
     },
     {
@@ -26508,7 +26520,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-30T08:50:08",
       "modificado": "2024-11-20T18:00:15",
-      "idade_dias": 557,
+      "idade_dias": 558,
       "assunto": "AZ - Validar e Corrigir duplicidade de Clientes SA1"
     },
     {
@@ -27372,7 +27384,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-15T08:40:28",
       "modificado": "2024-10-25T16:30:04",
-      "idade_dias": 572,
+      "idade_dias": 573,
       "assunto": "TITULOS NÃO ENCONTRADOS NO TOTVS - NF's 6517 e 6930"
     },
     {
@@ -27984,7 +27996,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-10-03T08:50:15",
       "modificado": "2024-10-11T11:00:11",
-      "idade_dias": 584,
+      "idade_dias": 585,
       "assunto": "Re: #TOTVS-SERVERS - SP_SPO-HT-DEV08.SP01.LOCAL - Services: SSH Up - 24100307592142"
     },
     {
@@ -28212,7 +28224,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-12T08:50:09",
       "modificado": "2024-10-03T11:00:02",
-      "idade_dias": 605,
+      "idade_dias": 606,
       "assunto": "RES: ERRO SF3 VALOR DE ICMS ST SOMANDO NA BASE  ICMS OUTRAS"
     },
     {
@@ -28488,7 +28500,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-17T08:45:11",
       "modificado": "2024-09-29T18:30:15",
-      "idade_dias": 600,
+      "idade_dias": 601,
       "assunto": "Universidade TOTVS - Levantamento de Recurso SMARTVIEW PROTHEUS"
     },
     {
@@ -28548,7 +28560,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-20T08:49:00",
       "modificado": "2024-09-27T13:30:18",
-      "idade_dias": 597,
+      "idade_dias": 598,
       "assunto": "Baixa de Adiantamento PAs - Ajsute de Banco"
     },
     {
@@ -28884,7 +28896,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-08-29T08:50:08",
       "modificado": "2024-09-17T11:00:15",
-      "idade_dias": 619,
+      "idade_dias": 620,
       "assunto": "PMJP | Espelhamento do monitoramento dos containers"
     },
     {
