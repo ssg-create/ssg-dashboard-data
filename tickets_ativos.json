@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778459423,
-  "generated_at_iso": "2026-05-11T00:30:23Z",
-  "count": 2424,
+  "generated_at": 1778460021,
+  "generated_at_iso": "2026-05-11T00:40:21Z",
+  "count": 2425,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,40 @@
   ],
   "rows": [
     {
-      "ticket": "2026051026000171",
+      "ticket": "2026051026000189",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
+      "criado": "2026-05-10T21:35:11",
+      "modificado": "2026-05-10T21:35:14",
+      "idade_dias": 0,
+      "assunto": "DKT - GWMS-SERVER - HOST DOWN - 26051021335085"
+    },
+    {
+      "ticket": "2026051026000171",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
       "criado": "2026-05-10T21:15:08",
-      "modificado": "2026-05-10T21:15:11",
+      "modificado": "2026-05-10T21:33:19",
       "idade_dias": 0,
       "assunto": "DKT - GWMS-SERVER - Disk:/ - 26051021143620"
+    },
+    {
+      "ticket": "2026050926000101",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Jeferson Fretta",
+      "criado": "2026-05-09T14:05:18",
+      "modificado": "2026-05-10T21:32:25",
+      "idade_dias": 1,
+      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
     },
     {
       "ticket": "2026050726000061",
@@ -74,18 +98,6 @@
       "modificado": "2026-05-10T20:47:09",
       "idade_dias": 1,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050910340027"
-    },
-    {
-      "ticket": "2026050926000101",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Jeferson Fretta",
-      "criado": "2026-05-09T14:05:18",
-      "modificado": "2026-05-10T20:44:55",
-      "idade_dias": 1,
-      "assunto": "JOBS 01 AO 03 - DOWTIME (AUTOZONE)"
     },
     {
       "ticket": "2026051026000143",
@@ -11280,7 +11292,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-17T21:40:11",
       "modificado": "2025-11-01T05:00:09",
-      "idade_dias": 204,
+      "idade_dias": 205,
       "assunto": "RE: #TOTVS-SERVERS - SP_SEG-AIREPV02 - HOST DOWN - 25101719005879"
     },
     {
