@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778499633,
-  "generated_at_iso": "2026-05-11T11:40:33Z",
+  "generated_at": 1778500233,
+  "generated_at_iso": "2026-05-11T11:50:33Z",
   "counts": {
-    "crit": 2,
-    "warn": 2,
+    "crit": 1,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -20,25 +20,6 @@
           "em_atendimento": 3,
           "abertos": 8,
           "aguardando_terceiros": 0,
-          "ativos_total": 11
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Marcio_Guimaraes",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 9 tickets",
-      "summary": "Marcio Guimaraes tem 9 tickets ativos sob sua responsabilidade: 2 em atendimento + 7 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcio Guimaraes",
-          "carga_real": 9,
-          "em_atendimento": 2,
-          "abertos": 7,
-          "aguardando_terceiros": 2,
           "ativos_total": 11
         }
       ],
@@ -65,23 +46,41 @@
       "impact_estimate": "médio"
     },
     {
+      "id": "sobrecarga_Marcio_Guimaraes",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Marcio Guimaraes com carga real de 5 tickets",
+      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Marcio Guimaraes",
+          "carga_real": 5,
+          "em_atendimento": 2,
+          "abertos": 3,
+          "aguardando_terceiros": 2,
+          "ativos_total": 7
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
       "id": "fila_concentrada_DBA_AUTOZONE",
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila DBA concentrada em AUTOZONE",
-      "summary": "5 de 8 tickets silenciosos na fila DBA (62%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "5 de 7 tickets silenciosos na fila DBA (71%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "DBA",
           "cliente_top": "AUTOZONE",
           "n_top": 5,
-          "n_total": 8,
-          "pct_top": 0.62,
+          "n_total": 7,
+          "pct_top": 0.71,
           "distribuicao": {
             "AUTOZONE": 5,
             "BUNTECH": 1,
-            "GroundWork": 1,
-            "ATITUS": 1
+            "GroundWork": 1
           }
         }
       ],
