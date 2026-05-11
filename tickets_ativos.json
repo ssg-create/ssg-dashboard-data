@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778519434,
-  "generated_at_iso": "2026-05-11T17:10:34Z",
+  "generated_at": 1778520026,
+  "generated_at_iso": "2026-05-11T17:20:26Z",
   "count": 2356,
   "filas": [
     "DATASUL",
@@ -16,6 +16,90 @@
   ],
   "rows": [
     {
+      "ticket": "2026042726000444",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T17:45:18",
+      "modificado": "2026-05-11T14:20:14",
+      "idade_dias": 13,
+      "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
+    },
+    {
+      "ticket": "2026042326000451",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T18:00:06",
+      "modificado": "2026-05-11T14:19:51",
+      "idade_dias": 17,
+      "assunto": "Inserir Servidor Monitoramento"
+    },
+    {
+      "ticket": "2026051126000301",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-11T14:05:07",
+      "modificado": "2026-05-11T14:19:14",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051114001438"
+    },
+    {
+      "ticket": "2026051126000294",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-11T14:03:02",
+      "modificado": "2026-05-11T14:18:23",
+      "idade_dias": 0,
+      "assunto": "Select - Combo rules  - W4 PD09 FY26 - pt3"
+    },
+    {
+      "ticket": "2026051126000285",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-11T13:35:23",
+      "modificado": "2026-05-11T14:17:01",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
+    },
+    {
+      "ticket": "2026051026000072",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-10T09:50:17",
+      "modificado": "2026-05-11T14:16:03",
+      "idade_dias": 1,
+      "assunto": "BRAVEO - ERRO PLUGIN"
+    },
+    {
+      "ticket": "2026050926000128",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-09T16:32:02",
+      "modificado": "2026-05-11T14:16:03",
+      "idade_dias": 1,
+      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
+    },
+    {
       "ticket": "2026050826000059",
       "cliente": "ARCO",
       "fila": "GWMS",
@@ -26,30 +110,6 @@
       "modificado": "2026-05-11T14:10:09",
       "idade_dias": 3,
       "assunto": "Ajuste Monitoria - Impressoras"
-    },
-    {
-      "ticket": "2026051126000294",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "5 very high",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T14:03:02",
-      "modificado": "2026-05-11T14:10:06",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules  - W4 PD09 FY26 - pt3"
-    },
-    {
-      "ticket": "2026051126000301",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T14:05:07",
-      "modificado": "2026-05-11T14:05:10",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051114001438"
     },
     {
       "ticket": "2026041726000034",
@@ -76,18 +136,6 @@
       "assunto": "ALTERAÇÃO SERVIDOR (SVRFADDWH01)"
     },
     {
-      "ticket": "2026050926000128",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "4 high",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-09T16:32:02",
-      "modificado": "2026-05-11T13:53:02",
-      "idade_dias": 1,
-      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
-    },
-    {
       "ticket": "2026050626000311",
       "cliente": "CONTINENTAL",
       "fila": "DATASUL",
@@ -100,18 +148,6 @@
       "assunto": "Erro 748 ao acessar o totvs"
     },
     {
-      "ticket": "2026051126000285",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-11T13:35:23",
-      "modificado": "2026-05-11T13:35:25",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
-    },
-    {
       "ticket": "2026051126000276",
       "cliente": "AUTOZONE",
       "fila": "GWMS",
@@ -122,18 +158,6 @@
       "modificado": "2026-05-11T13:20:37",
       "idade_dias": 0,
       "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
-    },
-    {
-      "ticket": "2026051026000072",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-10T09:50:17",
-      "modificado": "2026-05-11T13:20:23",
-      "idade_dias": 1,
-      "assunto": "BRAVEO - ERRO PLUGIN"
     },
     {
       "ticket": "2026051126000267",
@@ -254,18 +278,6 @@
       "modificado": "2026-05-11T12:19:35",
       "idade_dias": 3,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050722384899"
-    },
-    {
-      "ticket": "2026042326000451",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T18:00:06",
-      "modificado": "2026-05-11T11:45:14",
-      "idade_dias": 17,
-      "assunto": "Inserir Servidor Monitoramento"
     },
     {
       "ticket": "2026050426000404",
@@ -1332,7 +1344,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-29T14:19:25",
       "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
@@ -1454,18 +1466,6 @@
       "modificado": "2026-05-11T05:00:11",
       "idade_dias": 18,
       "assunto": "ERRO NA COMPEMSAÇÃO CONTROLE DE CAMBIO/CONTAS A PAGAR"
-    },
-    {
-      "ticket": "2026042726000444",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T17:45:18",
-      "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 13,
-      "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
     },
     {
       "ticket": "2026042826000237",
@@ -2052,7 +2052,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-07T14:11:59",
       "modificado": "2026-05-07T14:35:39",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa"
     },
     {
@@ -2172,7 +2172,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-28T14:19:11",
       "modificado": "2026-05-07T12:19:54",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
@@ -2244,7 +2244,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-28T14:20:16",
       "modificado": "2026-05-07T10:46:20",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Ajuste  para mostrar  usuarios de  servidor 6"
     },
     {
@@ -3432,7 +3432,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-15T14:15:06",
       "modificado": "2026-04-24T05:00:22",
-      "idade_dias": 25,
+      "idade_dias": 26,
       "assunto": "Alinhamento: Processo de Contatos Telefônicos"
     },
     {
@@ -9960,7 +9960,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-24T14:15:06",
       "modificado": "2025-11-17T05:00:17",
-      "idade_dias": 228,
+      "idade_dias": 229,
       "assunto": "RES: Book Indicadores"
     },
     {
@@ -12984,7 +12984,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-25T14:15:09",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 258,
+      "idade_dias": 259,
       "assunto": "Monitoramento BGP"
     },
     {
@@ -13776,7 +13776,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-13T14:13:58",
       "modificado": "2025-08-27T05:00:27",
-      "idade_dias": 270,
+      "idade_dias": 271,
       "assunto": "Reprocessamento notas"
     },
     {
@@ -13848,7 +13848,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-14T14:15:18",
       "modificado": "2025-08-23T05:00:19",
-      "idade_dias": 269,
+      "idade_dias": 270,
       "assunto": "ENC: ERROS EFD REINF 07.2025 CONTINENTAL"
     },
     {
@@ -16140,7 +16140,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T14:19:36",
       "modificado": "2025-07-02T05:00:15",
-      "idade_dias": 326,
+      "idade_dias": 327,
       "assunto": "ESSENTIA | Problemas com dashboard"
     },
     {
@@ -16272,7 +16272,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-17T14:11:23",
       "modificado": "2025-06-28T05:00:21",
-      "idade_dias": 327,
+      "idade_dias": 328,
       "assunto": "Alteração dos dados dos títulos"
     },
     {
@@ -18612,7 +18612,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-04T14:16:53",
       "modificado": "2025-05-13T05:00:25",
-      "idade_dias": 371,
+      "idade_dias": 372,
       "assunto": "Extrator fiscal"
     },
     {
@@ -18744,7 +18744,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-30T14:20:22",
       "modificado": "2025-05-12T05:00:19",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "AZ - Liberar acesso ao OTRS GW"
     },
     {
@@ -19332,7 +19332,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T14:20:14",
       "modificado": "2025-05-01T05:00:24",
-      "idade_dias": 382,
+      "idade_dias": 383,
       "assunto": "PAM Acessos"
     },
     {
@@ -19464,7 +19464,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-22T14:20:12",
       "modificado": "2025-04-30T05:00:17",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "Verificar alertas Braveo"
     },
     {
@@ -21840,7 +21840,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-24T14:19:46",
       "modificado": "2025-03-08T05:00:16",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "AZ - Incluir campos dt.baixa e juros no FINR190."
     },
     {
@@ -22824,7 +22824,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-03T14:15:15",
       "modificado": "2025-02-11T05:00:12",
-      "idade_dias": 461,
+      "idade_dias": 462,
       "assunto": "Alteração acionamento - TOTVS"
     },
     {
@@ -22980,7 +22980,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-29T14:20:20",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 466,
+      "idade_dias": 467,
       "assunto": "Re: Erro refaz saldos BrGaap- Ago/24"
     },
     {
@@ -23052,7 +23052,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-01-28T14:15:09",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 467,
+      "idade_dias": 468,
       "assunto": "859224 - Bordero indevido no contas a receber (Processo RV) - HOMOLOGAÇÂO"
     },
     {
@@ -23160,7 +23160,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-22T14:13:18",
       "modificado": "2025-02-09T05:00:16",
-      "idade_dias": 473,
+      "idade_dias": 474,
       "assunto": "AZ - Erro Conta Contábil 54625 - Lançamento Sem Store  - verificar o LP 562-01"
     },
     {
@@ -23760,7 +23760,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-08T14:13:01",
       "modificado": "2025-01-15T15:30:08",
-      "idade_dias": 487,
+      "idade_dias": 488,
       "assunto": "Vencimentos das Parcelas errados - Cond Pag"
     },
     {
@@ -23796,7 +23796,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-01T14:16:30",
       "modificado": "2025-01-15T13:30:03",
-      "idade_dias": 586,
+      "idade_dias": 587,
       "assunto": "Importação SAT"
     },
     {
@@ -24984,7 +24984,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-10T14:20:24",
       "modificado": "2024-12-17T15:30:13",
-      "idade_dias": 516,
+      "idade_dias": 517,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 24121014181458"
     },
     {
@@ -25500,7 +25500,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-14T14:15:46",
       "modificado": "2024-11-29T18:30:04",
-      "idade_dias": 542,
+      "idade_dias": 543,
       "assunto": "Contabilização Errada - Cond. NS 10.2024"
     },
     {
@@ -28092,7 +28092,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-09-05T14:20:07",
       "modificado": "2024-09-17T11:30:15",
-      "idade_dias": 612,
+      "idade_dias": 613,
       "assunto": "Dashboards para Atento"
     },
     {
