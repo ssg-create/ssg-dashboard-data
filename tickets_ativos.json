@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778527150,
-  "generated_at_iso": "2026-05-11T19:19:10Z",
+  "generated_at": 1778527230,
+  "generated_at_iso": "2026-05-11T19:20:30Z",
   "count": 2364,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000418",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-11T16:10:05",
+      "modificado": "2026-05-11T16:20:25",
+      "idade_dias": 0,
+      "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
+    },
     {
       "ticket": "2026041326000318",
       "cliente": "SAYERLACK",
@@ -38,18 +50,6 @@
       "modificado": "2026-05-11T16:16:46",
       "idade_dias": 25,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
-    },
-    {
-      "ticket": "2026051126000418",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T16:10:05",
-      "modificado": "2026-05-11T16:15:26",
-      "idade_dias": 0,
-      "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
     },
     {
       "ticket": "2026051126000392",
@@ -1836,7 +1836,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-06T16:20:11",
       "modificado": "2026-05-08T16:22:13",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "IDRAC GWMS - DKT"
     },
     {
@@ -2016,7 +2016,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-30T16:20:23",
       "modificado": "2026-05-08T05:00:30",
-      "idade_dias": 10,
+      "idade_dias": 11,
       "assunto": "Criação de Serviços Protheus"
     },
     {
@@ -2988,7 +2988,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-04-14T16:19:19",
       "modificado": "2026-05-04T09:35:26",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Relatório de Lucratividade."
     },
     {
@@ -3192,7 +3192,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:20:10",
       "modificado": "2026-04-30T09:16:11",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Implementação ELK - GWMS DKT"
     },
     {
@@ -3624,7 +3624,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-25T16:20:08",
       "modificado": "2026-04-22T10:36:34",
-      "idade_dias": 46,
+      "idade_dias": 47,
       "assunto": "Ativar SNMPv3 equipamentos TOTVS"
     },
     {
@@ -3708,7 +3708,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-09T16:20:09",
       "modificado": "2026-04-22T05:00:29",
-      "idade_dias": 31,
+      "idade_dias": 32,
       "assunto": "CASTROLANDA | Relatório de servidores Windows e Linux monitorado via SNMP"
     },
     {
@@ -5040,7 +5040,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-02-26T16:20:09",
       "modificado": "2026-03-21T05:00:28",
-      "idade_dias": 73,
+      "idade_dias": 74,
       "assunto": "AD - Inclusão de Usuário em Grupo de Permissão – Acesso USB-CD-DVD Comp."
     },
     {
@@ -15276,7 +15276,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-14T16:20:21",
       "modificado": "2025-07-22T05:00:31",
-      "idade_dias": 300,
+      "idade_dias": 301,
       "assunto": "Re: #TOTVS-SERVERS - DNS_CHECKS - NS Check: Totvs.com.br - 25071203074721"
     },
     {
@@ -17424,7 +17424,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-27T16:20:19",
       "modificado": "2025-06-04T05:00:16",
-      "idade_dias": 348,
+      "idade_dias": 349,
       "assunto": "RE: IMPORTANTE - Monitoramentos RM - Migração de DataCenter"
     },
     {
@@ -18408,7 +18408,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-09T16:20:09",
       "modificado": "2025-05-17T05:00:23",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25050916171660"
     },
     {
@@ -18828,7 +18828,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-12T16:20:18",
       "modificado": "2025-05-12T16:20:20",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "Solicitação de ajustes operacionais no módulo de Compras – Filiais e Sessão"
     },
     {
@@ -19356,7 +19356,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-22T16:20:04",
       "modificado": "2025-05-02T05:00:22",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "Braveo - GWMS - Criação de acessos"
     },
     {
@@ -21960,7 +21960,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-13T16:20:14",
       "modificado": "2025-03-07T05:00:12",
-      "idade_dias": 635,
+      "idade_dias": 636,
       "assunto": "Alteração/ Exclusão de Contratos"
     },
     {
@@ -22464,7 +22464,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-12T16:20:17",
       "modificado": "2025-02-21T05:00:06",
-      "idade_dias": 452,
+      "idade_dias": 453,
       "assunto": "Criação de pedido Grupo 80"
     },
     {
@@ -27048,7 +27048,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-10-11T16:20:24",
       "modificado": "2024-10-18T17:00:13",
-      "idade_dias": 576,
+      "idade_dias": 577,
       "assunto": "RES: AD - Área de trabalho do Usuário apaga o atalho do Protheus"
     },
     {
@@ -28296,7 +28296,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-06T16:20:16",
       "modificado": "2024-09-13T18:30:20",
-      "idade_dias": 611,
+      "idade_dias": 612,
       "assunto": "Remoção Alerta dashboard - ATITUS"
     },
     {
