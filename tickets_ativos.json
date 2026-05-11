@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778500225,
-  "generated_at_iso": "2026-05-11T11:50:25Z",
+  "generated_at": 1778500757,
+  "generated_at_iso": "2026-05-11T11:59:17Z",
   "count": 2422,
   "filas": [
     "DATASUL",
@@ -16,6 +16,66 @@
   ],
   "rows": [
     {
+      "ticket": "2026050426000075",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Gabriel Bruno",
+      "criado": "2026-05-04T08:15:14",
+      "modificado": "2026-05-11T08:58:17",
+      "idade_dias": 7,
+      "assunto": "Downtime monitoramento Central de Clientes"
+    },
+    {
+      "ticket": "2026050826000148",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-08T10:10:16",
+      "modificado": "2026-05-11T08:53:15",
+      "idade_dias": 2,
+      "assunto": "Desativação de Monitoramento VM SPOSRVPSADBPRD1"
+    },
+    {
+      "ticket": "2026050626000473",
+      "cliente": "ATITUS",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-06T17:35:21",
+      "modificado": "2026-05-11T08:52:36",
+      "idade_dias": 4,
+      "assunto": "Alterar threshold alertas ATITUS"
+    },
+    {
+      "ticket": "2026050426000137",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-04T09:25:51",
+      "modificado": "2026-05-11T08:51:40",
+      "idade_dias": 6,
+      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
+    },
+    {
+      "ticket": "2026050726000202",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-07T12:00:08",
+      "modificado": "2026-05-11T08:51:25",
+      "idade_dias": 3,
+      "assunto": "Adicionar descrição dos servidores"
+    },
+    {
       "ticket": "2026051126000105",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
@@ -23,9 +83,21 @@
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-11T08:50:23",
-      "modificado": "2026-05-11T08:50:23",
+      "modificado": "2026-05-11T08:50:33",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051108395554"
+    },
+    {
+      "ticket": "2026051126000114",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T08:50:24",
+      "modificado": "2026-05-11T08:50:33",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Perfdata Size - 26051108453426"
     },
     {
       "ticket": "2026050726000542",
@@ -132,7 +204,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-05-08T08:51:00",
       "modificado": "2026-05-11T08:41:09",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Alto consumo de CPU -  TAPP"
     },
     {
@@ -496,18 +568,6 @@
       "assunto": "Entendimento de alertas"
     },
     {
-      "ticket": "2026050426000351",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-04T16:20:17",
-      "modificado": "2026-05-11T05:00:16",
-      "idade_dias": 6,
-      "assunto": "Unimed Curitiba - CS0016635"
-    },
-    {
       "ticket": "2026050826000219",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -556,18 +616,6 @@
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
     },
     {
-      "ticket": "2026050826000148",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-08T10:10:16",
-      "modificado": "2026-05-11T05:00:15",
-      "idade_dias": 2,
-      "assunto": "Desativação de Monitoramento VM SPOSRVPSADBPRD1"
-    },
-    {
       "ticket": "2026043026000205",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -602,18 +650,6 @@
       "modificado": "2026-05-11T05:00:14",
       "idade_dias": 12,
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
-    },
-    {
-      "ticket": "2026050626000473",
-      "cliente": "ATITUS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-06T17:35:21",
-      "modificado": "2026-05-11T05:00:14",
-      "idade_dias": 4,
-      "assunto": "Alterar threshold alertas ATITUS"
     },
     {
       "ticket": "2026050826000077",
@@ -926,18 +962,6 @@
       "modificado": "2026-05-11T05:00:12",
       "idade_dias": 7,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z35-TOTVS-P12-JOB05_T-Autozone-12035 TAXID - 26050407083319"
-    },
-    {
-      "ticket": "2026050426000075",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-05-04T08:15:14",
-      "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 7,
-      "assunto": "Downtime monitoramento Central de Clientes"
     },
     {
       "ticket": "2026050426000333",
@@ -1312,18 +1336,6 @@
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
-      "ticket": "2026050426000137",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-05-04T09:25:51",
-      "modificado": "2026-05-09T00:50:25",
-      "idade_dias": 6,
-      "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
-    },
-    {
       "ticket": "2026042226000622",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -1430,18 +1442,6 @@
       "modificado": "2026-05-08T17:32:22",
       "idade_dias": 2,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
-    },
-    {
-      "ticket": "2026050726000202",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-07T12:00:08",
-      "modificado": "2026-05-08T16:55:12",
-      "idade_dias": 3,
-      "assunto": "Adicionar descrição dos servidores"
     },
     {
       "ticket": "2026050626000384",
@@ -1776,7 +1776,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-22T08:55:10",
       "modificado": "2026-05-07T17:40:06",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Projeto - Topologia automática"
     },
     {
@@ -1812,7 +1812,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-07T08:52:45",
       "modificado": "2026-05-07T15:22:27",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "verificação de certificado"
     },
     {
@@ -3012,7 +3012,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-14T08:50:46",
       "modificado": "2026-05-02T05:00:30",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
@@ -3372,7 +3372,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-17T08:55:11",
       "modificado": "2026-04-25T05:00:24",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Verificação cases gerados via automação GW x SN"
     },
     {
@@ -3648,7 +3648,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T08:55:23",
       "modificado": "2026-04-22T05:00:33",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Permissões Grupo SG_DC_Perm_Level1 "
     },
     {
@@ -4776,7 +4776,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-25T08:55:14",
       "modificado": "2026-04-02T05:00:20",
-      "idade_dias": 46,
+      "idade_dias": 47,
       "assunto": "ARCO - JDI_CD_ZT231_07 - HOST DOWN - 26032508523414"
     },
     {
@@ -4788,7 +4788,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-03-25T08:55:11",
       "modificado": "2026-04-02T05:00:19",
-      "idade_dias": 46,
+      "idade_dias": 47,
       "assunto": "ARCO - GWMS-SERVER - Notif Groups Relations - 26032508515265"
     },
     {
@@ -8172,7 +8172,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-26T08:55:11",
       "modificado": "2026-01-28T16:34:06",
-      "idade_dias": 257,
+      "idade_dias": 258,
       "assunto": "[Criação de Usuário - GWMS Metalnox]"
     },
     {
@@ -8592,7 +8592,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-12T08:56:49",
       "modificado": "2026-01-20T05:00:16",
-      "idade_dias": 118,
+      "idade_dias": 119,
       "assunto": "Férias Gerente de MKT - Cíntia Tristão"
     },
     {
@@ -10080,7 +10080,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T08:55:49",
       "modificado": "2025-12-09T05:00:30",
-      "idade_dias": 160,
+      "idade_dias": 161,
       "assunto": "Substituição de Aprovador"
     },
     {
@@ -10164,7 +10164,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-11-27T08:55:07",
       "modificado": "2025-12-06T05:00:19",
-      "idade_dias": 164,
+      "idade_dias": 165,
       "assunto": "RES: #TOTVS-SERVERS - Alertas CRITICAL - 25112619232365"
     },
     {
@@ -10548,7 +10548,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-11-14T08:50:24",
       "modificado": "2025-11-26T05:00:27",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "Liberação de endereço"
     },
     {
@@ -14052,7 +14052,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-27T08:50:48",
       "modificado": "2025-09-06T05:00:27",
-      "idade_dias": 256,
+      "idade_dias": 257,
       "assunto": "EFD Reinf - NF 4163"
     },
     {
@@ -14268,7 +14268,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-08-19T08:56:04",
       "modificado": "2025-08-29T05:00:16",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "Erro Cálculo Férias"
     },
     {
@@ -15684,7 +15684,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-16T08:53:13",
       "modificado": "2025-08-01T05:00:25",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "Condição de Pagamento"
     },
     {
@@ -16968,7 +16968,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-20T08:55:17",
       "modificado": "2025-07-01T05:00:32",
-      "idade_dias": 324,
+      "idade_dias": 325,
       "assunto": "RES: [EXTERNAL] Encerramento do Chamado"
     },
     {
@@ -19152,7 +19152,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-09T08:50:28",
       "modificado": "2025-05-17T05:00:20",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "[EXTERNAL] Re: PD09 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -21492,7 +21492,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-03-28T08:55:11",
       "modificado": "2025-04-05T05:00:10",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "[TELETEX] Avaliação do link Algar SP"
     },
     {
@@ -23280,7 +23280,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-14T08:50:47",
       "modificado": "2025-02-20T05:00:22",
-      "idade_dias": 481,
+      "idade_dias": 482,
       "assunto": "APROVADORES PROTHEUS"
     },
     {
@@ -24768,7 +24768,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-12-23T08:55:18",
       "modificado": "2025-01-09T18:30:03",
-      "idade_dias": 503,
+      "idade_dias": 504,
       "assunto": "Monitoramento Totvs Legal"
     },
     {
@@ -25800,7 +25800,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-10T08:53:17",
       "modificado": "2024-12-17T10:00:16",
-      "idade_dias": 516,
+      "idade_dias": 517,
       "assunto": "EXCLUSÃO DE TÍTULOS - EMPRESA 402001 e 502001"
     },
     {
@@ -26160,7 +26160,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-28T08:53:17",
       "modificado": "2024-12-05T09:30:14",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "acesso aos centros de custos"
     },
     {
@@ -27120,7 +27120,7 @@
       "atendente": "Fernando Ribeiro",
       "criado": "2024-10-25T08:55:04",
       "modificado": "2024-11-04T16:30:12",
-      "idade_dias": 562,
+      "idade_dias": 563,
       "assunto": "CNN - Configuração Minggle IP-Porta"
     },
     {
