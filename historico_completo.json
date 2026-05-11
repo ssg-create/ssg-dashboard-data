@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778523638,
-  "generated_at_iso": "2026-05-11T18:20:38Z",
+  "generated_at": 1778524231,
+  "generated_at_iso": "2026-05-11T18:30:31Z",
   "count": 5180,
   "filas": [
     "DATASUL",
@@ -239,9 +239,9 @@
       "num": "2026051126000212",
       "assunto": "EMPRESA 302001 - TITULO COM BAIXA MAS CONSTA EM ABERTO",
       "criado": "2026-05-11T11:15:31",
-      "modificado": "2026-05-11T11:24:28",
+      "modificado": "2026-05-11T15:23:29",
       "fila": "SSG",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "2 low",
       "atendente": "Debora Gomes",
       "primeiro_nome": "Debora",
@@ -1339,9 +1339,9 @@
       "num": "2026050826000031",
       "assunto": "Progress OpenEdge - Vulnerabilidade",
       "criado": "2026-05-08T08:21:33",
-      "modificado": "2026-05-11T07:13:11",
+      "modificado": "2026-05-11T15:25:14",
       "fila": "DATASUL",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "4 high",
       "atendente": "Marcelo David",
       "primeiro_nome": "Marcelo",
@@ -1350,10 +1350,10 @@
       "cli_user": "mateus.amaral@aumovio.com",
       "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Sistema - Performance Rotinas",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 4743,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 902
     },
     {
       "num": "2026050726000613",
@@ -1479,9 +1479,9 @@
       "num": "2026050726000499",
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa",
       "criado": "2026-05-07T14:11:59",
-      "modificado": "2026-05-07T14:35:39",
+      "modificado": "2026-05-11T15:23:45",
       "fila": "DATASUL",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "4 high",
       "atendente": "Marcelo David",
       "primeiro_nome": "Marcelo",
@@ -1490,10 +1490,10 @@
       "cli_user": "marco.rivera@plastiglas.com.mx",
       "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Sistema - Performance Rotinas",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 5831,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 1150
     },
     {
       "num": "2026050726000462",
