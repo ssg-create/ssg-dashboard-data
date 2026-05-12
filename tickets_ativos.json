@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778577030,
-  "generated_at_iso": "2026-05-12T09:10:30Z",
+  "generated_at": 1778577633,
+  "generated_at_iso": "2026-05-12T09:20:33Z",
   "count": 2369,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000251",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-05T13:32:31",
+      "modificado": "2026-05-12T06:17:06",
+      "idade_dias": 6,
+      "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
+    },
     {
       "ticket": "2026051226000032",
       "cliente": "monitoramento@groundwork.com.br",
@@ -314,18 +326,6 @@
       "modificado": "2026-05-12T05:00:11",
       "idade_dias": 11,
       "assunto": "SALDO EM PODER DE TERCEIROS :: SALDO SENDO ABATIDO DE FORMA INCORRETA"
-    },
-    {
-      "ticket": "2026050526000251",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-05T13:32:31",
-      "modificado": "2026-05-12T05:00:11",
-      "idade_dias": 6,
-      "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
     },
     {
       "ticket": "2026050526000304",
@@ -10728,7 +10728,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-20T06:15:18",
       "modificado": "2025-10-29T05:00:25",
-      "idade_dias": 203,
+      "idade_dias": 204,
       "assunto": "RES: #TOTVS-SERVERS - URLS_HORACIUS - PROTHEUS - 25102004560366"
     },
     {
