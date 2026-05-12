@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778619445,
-  "generated_at_iso": "2026-05-12T20:57:25Z",
+  "generated_at": 1778619633,
+  "generated_at_iso": "2026-05-12T21:00:33Z",
   "count": 2371,
   "filas": [
     "DATASUL",
@@ -19,23 +19,35 @@
       "ticket": "2026051226000372",
       "cliente": "AUTOZONE",
       "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
+      "estado": "RETORNO CLIENTE",
       "prioridade": "3 normal",
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-12T17:45:11",
-      "modificado": "2026-05-12T17:56:12",
+      "modificado": "2026-05-12T18:00:15",
       "idade_dias": 0,
       "assunto": "Servidor AZ HML - ligado"
     },
     {
+      "ticket": "2026051226000256",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-12T15:35:14",
+      "modificado": "2026-05-12T17:59:19",
+      "idade_dias": 0,
+      "assunto": "Melhorias nos dockersfiles dos containers do GWMS"
+    },
+    {
       "ticket": "2026051226000381",
       "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
+      "fila": "GWMS",
       "estado": "NEW",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
       "criado": "2026-05-12T17:55:13",
-      "modificado": "2026-05-12T17:55:14",
+      "modificado": "2026-05-12T17:58:33",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051217521389"
     },
@@ -228,7 +240,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-05-12T16:35:31",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
@@ -278,18 +290,6 @@
       "modificado": "2026-05-12T16:11:06",
       "idade_dias": 0,
       "assunto": "Integração Movidesk x OTRS"
-    },
-    {
-      "ticket": "2026051226000256",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-12T15:35:14",
-      "modificado": "2026-05-12T15:57:15",
-      "idade_dias": 0,
-      "assunto": "Melhorias nos dockersfiles dos containers do GWMS"
     },
     {
       "ticket": "2026051226000274",
@@ -1332,7 +1332,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-28T18:00:24",
       "modificado": "2026-05-12T05:00:11",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Verificação agente servidor srverpbr01 e permissões usuário do GWMS no banco de dados servidor SQL_CLS-DKT02."
     },
     {
@@ -2628,7 +2628,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-28T18:00:25",
       "modificado": "2026-05-08T05:00:28",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Dashboard Core Alerts e Protheus cliente DKT"
     },
     {
@@ -5700,7 +5700,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2026-01-19T17:59:18",
       "modificado": "2026-03-13T05:00:23",
-      "idade_dias": 112,
+      "idade_dias": 113,
       "assunto": "Gráfico Home - Valor faturado está zerado"
     },
     {
@@ -8400,7 +8400,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-07T18:00:11",
       "modificado": "2026-01-07T18:00:14",
-      "idade_dias": 124,
+      "idade_dias": 125,
       "assunto": "Erro Abertura PO - Jessica Souza"
     },
     {
@@ -8760,7 +8760,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-17T18:00:16",
       "modificado": "2025-12-27T05:00:23",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Acesso OTRS Consultor Fabio Lentini"
     },
     {
@@ -12132,7 +12132,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-17T18:00:14",
       "modificado": "2025-09-26T05:00:22",
-      "idade_dias": 236,
+      "idade_dias": 237,
       "assunto": "RE: Select_17.09 - Contas 40100"
     },
     {
@@ -14940,7 +14940,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-27T18:00:12",
       "modificado": "2025-08-05T05:00:29",
-      "idade_dias": 288,
+      "idade_dias": 289,
       "assunto": "Discos I e P - Servidor SRV-SQL-PRD - 10.228.128.68 - AUTOZONE"
     },
     {
@@ -17112,7 +17112,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-29T18:00:14",
       "modificado": "2025-06-14T05:00:14",
-      "idade_dias": 347,
+      "idade_dias": 348,
       "assunto": "AZ - Erro de Notas de Entradas - Cancelamentos"
     },
     {
@@ -17844,7 +17844,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-19T18:00:11",
       "modificado": "2025-05-28T05:00:31",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "Adicionar Host na Monitoria"
     },
     {
@@ -18960,7 +18960,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-03-06T18:00:10",
       "modificado": "2025-05-12T05:00:17",
-      "idade_dias": 431,
+      "idade_dias": 432,
       "assunto": "AZ - Exception ao processar o SINC"
     },
     {
@@ -23124,7 +23124,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-21T18:00:25",
       "modificado": "2025-02-10T05:00:07",
-      "idade_dias": 475,
+      "idade_dias": 476,
       "assunto": "RE: #TOTVS-SERVERS - SP_SEG-NETSKOPE - HOST DOWN - 25012115011683"
     },
     {
@@ -25068,7 +25068,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-11T17:58:53",
       "modificado": "2024-12-19T10:30:17",
-      "idade_dias": 516,
+      "idade_dias": 517,
       "assunto": "notas de terceiro como emissão propria"
     },
     {
@@ -25344,7 +25344,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-27T18:00:12",
       "modificado": "2024-12-10T09:30:07",
-      "idade_dias": 530,
+      "idade_dias": 531,
       "assunto": "AZ - Arquivo PO X SAP não integrando - P03 - FY2025P03"
     },
     {
@@ -26424,7 +26424,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-10-23T18:00:05",
       "modificado": "2024-11-11T11:30:03",
-      "idade_dias": 565,
+      "idade_dias": 566,
       "assunto": "Atualiação Dash"
     },
     {
