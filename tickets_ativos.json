@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778586631,
-  "generated_at_iso": "2026-05-12T11:50:31Z",
+  "generated_at": 1778587228,
+  "generated_at_iso": "2026-05-12T12:00:28Z",
   "count": 2371,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000463",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T17:00:14",
+      "modificado": "2026-05-12T08:58:04",
+      "idade_dias": 0,
+      "assunto": "Validação do monitoramento Identity"
+    },
     {
       "ticket": "2026051226000051",
       "cliente": "monitoramento@groundwork.com.br",
@@ -1108,18 +1120,6 @@
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
-      "ticket": "2026051126000463",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-11T17:00:14",
-      "modificado": "2026-05-11T17:07:00",
-      "idade_dias": 0,
-      "assunto": "Validação do monitoramento Identity"
-    },
-    {
       "ticket": "2026051126000418",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -1248,7 +1248,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-22T08:55:10",
       "modificado": "2026-05-11T16:07:03",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Projeto - Topologia automática"
     },
     {
@@ -1716,7 +1716,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T09:00:08",
       "modificado": "2026-05-11T09:17:02",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Iniciar Scan GDBR"
     },
     {
@@ -1728,7 +1728,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T09:00:07",
       "modificado": "2026-05-11T09:16:04",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Iniciar Scan Pecval"
     },
     {
@@ -1812,7 +1812,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-05-08T08:51:00",
       "modificado": "2026-05-11T08:41:09",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Alto consumo de CPU -  TAPP"
     },
     {
@@ -2364,7 +2364,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-07T08:52:45",
       "modificado": "2026-05-07T15:22:27",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "verificação de certificado"
     },
     {
@@ -3180,7 +3180,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-14T08:50:46",
       "modificado": "2026-05-02T05:00:30",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Problema de exclusão de título financeiro"
     },
     {
@@ -3504,7 +3504,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-17T08:55:11",
       "modificado": "2026-04-25T05:00:24",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "Verificação cases gerados via automação GW x SN"
     },
     {
@@ -3756,7 +3756,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-04-14T08:55:23",
       "modificado": "2026-04-22T05:00:33",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Permissões Grupo SG_DC_Perm_Level1 "
     },
     {
@@ -4644,7 +4644,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-25T08:55:14",
       "modificado": "2026-04-02T05:00:20",
-      "idade_dias": 47,
+      "idade_dias": 48,
       "assunto": "ARCO - JDI_CD_ZT231_07 - HOST DOWN - 26032508523414"
     },
     {
@@ -4656,7 +4656,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-03-25T08:55:11",
       "modificado": "2026-04-02T05:00:19",
-      "idade_dias": 47,
+      "idade_dias": 48,
       "assunto": "ARCO - GWMS-SERVER - Notif Groups Relations - 26032508515265"
     },
     {
@@ -5664,7 +5664,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-03-05T09:00:02",
       "modificado": "2026-03-14T05:00:19",
-      "idade_dias": 67,
+      "idade_dias": 68,
       "assunto": "Alteração de XML Nissan"
     },
     {
@@ -7596,7 +7596,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-26T08:55:11",
       "modificado": "2026-01-28T16:34:06",
-      "idade_dias": 258,
+      "idade_dias": 259,
       "assunto": "[Criação de Usuário - GWMS Metalnox]"
     },
     {
@@ -7980,7 +7980,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-12T08:56:49",
       "modificado": "2026-01-20T05:00:16",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "Férias Gerente de MKT - Cíntia Tristão"
     },
     {
@@ -9468,7 +9468,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T08:55:49",
       "modificado": "2025-12-09T05:00:30",
-      "idade_dias": 161,
+      "idade_dias": 162,
       "assunto": "Substituição de Aprovador"
     },
     {
@@ -9552,7 +9552,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-11-27T08:55:07",
       "modificado": "2025-12-06T05:00:19",
-      "idade_dias": 165,
+      "idade_dias": 166,
       "assunto": "RES: #TOTVS-SERVERS - Alertas CRITICAL - 25112619232365"
     },
     {
@@ -11712,7 +11712,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-05-22T09:00:09",
       "modificado": "2025-10-03T05:00:13",
-      "idade_dias": 354,
+      "idade_dias": 355,
       "assunto": "Desenvolvimento BAM - Arco Faturamento B2B"
     },
     {
@@ -12432,7 +12432,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-08T09:00:13",
       "modificado": "2025-09-23T05:00:19",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "RES: [EXTERNAL] Encerramento do Chamado"
     },
     {
@@ -13440,7 +13440,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-27T08:50:48",
       "modificado": "2025-09-06T05:00:27",
-      "idade_dias": 257,
+      "idade_dias": 258,
       "assunto": "EFD Reinf - NF 4163"
     },
     {
@@ -13656,7 +13656,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-08-19T08:56:04",
       "modificado": "2025-08-29T05:00:16",
-      "idade_dias": 265,
+      "idade_dias": 266,
       "assunto": "Erro Cálculo Férias"
     },
     {
@@ -15072,7 +15072,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-16T08:53:13",
       "modificado": "2025-08-01T05:00:25",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "Condição de Pagamento"
     },
     {
@@ -16356,7 +16356,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-20T08:55:17",
       "modificado": "2025-07-01T05:00:32",
-      "idade_dias": 325,
+      "idade_dias": 326,
       "assunto": "RES: [EXTERNAL] Encerramento do Chamado"
     },
     {
@@ -18408,7 +18408,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-12T09:00:09",
       "modificado": "2025-05-20T05:00:26",
-      "idade_dias": 364,
+      "idade_dias": 365,
       "assunto": "[TOTVS] - Solicitação Monitoramento"
     },
     {
@@ -20880,7 +20880,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-03-28T08:55:11",
       "modificado": "2025-04-05T05:00:10",
-      "idade_dias": 409,
+      "idade_dias": 410,
       "assunto": "[TELETEX] Avaliação do link Algar SP"
     },
     {
@@ -22668,7 +22668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-14T08:50:47",
       "modificado": "2025-02-20T05:00:22",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "APROVADORES PROTHEUS"
     },
     {
@@ -24156,7 +24156,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-12-23T08:55:18",
       "modificado": "2025-01-09T18:30:03",
-      "idade_dias": 504,
+      "idade_dias": 505,
       "assunto": "Monitoramento Totvs Legal"
     },
     {
@@ -25188,7 +25188,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-10T08:53:17",
       "modificado": "2024-12-17T10:00:16",
-      "idade_dias": 517,
+      "idade_dias": 518,
       "assunto": "EXCLUSÃO DE TÍTULOS - EMPRESA 402001 e 502001"
     },
     {
@@ -25548,7 +25548,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-28T08:53:17",
       "modificado": "2024-12-05T09:30:14",
-      "idade_dias": 529,
+      "idade_dias": 530,
       "assunto": "acesso aos centros de custos"
     },
     {
@@ -26508,7 +26508,7 @@
       "atendente": "Fernando Ribeiro",
       "criado": "2024-10-25T08:55:04",
       "modificado": "2024-11-04T16:30:12",
-      "idade_dias": 563,
+      "idade_dias": 564,
       "assunto": "CNN - Configuração Minggle IP-Porta"
     },
     {
