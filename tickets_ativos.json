@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778620229,
-  "generated_at_iso": "2026-05-12T21:10:29Z",
+  "generated_at": 1778620825,
+  "generated_at_iso": "2026-05-12T21:20:25Z",
   "count": 2372,
   "filas": [
     "DATASUL",
@@ -16,6 +16,66 @@
   ],
   "rows": [
     {
+      "ticket": "2026051226000407",
+      "cliente": "fernando.ribeiro@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T18:20:16",
+      "modificado": "2026-05-12T18:20:18",
+      "idade_dias": 0,
+      "assunto": "Inclusão do Servidor de Banco de Dados PostgreSQL ao GWMS - IMCD"
+    },
+    {
+      "ticket": "2026051226000372",
+      "cliente": "AUTOZONE",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-12T17:45:11",
+      "modificado": "2026-05-12T18:19:57",
+      "idade_dias": 0,
+      "assunto": "Servidor AZ HML - ligado"
+    },
+    {
+      "ticket": "2026051126000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-11T05:30:16",
+      "modificado": "2026-05-12T18:19:46",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
+    },
+    {
+      "ticket": "2026050826000111",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-08T09:45:13",
+      "modificado": "2026-05-12T18:17:29",
+      "idade_dias": 4,
+      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
+    },
+    {
+      "ticket": "2026051226000283",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-12T15:56:04",
+      "modificado": "2026-05-12T18:11:29",
+      "idade_dias": 0,
+      "assunto": "Refaz saldos - PD9 - USGAAP - 11.05 - Já executado"
+    },
+    {
       "ticket": "2026051226000391",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
@@ -26,18 +86,6 @@
       "modificado": "2026-05-12T18:05:16",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051218035977"
-    },
-    {
-      "ticket": "2026051226000372",
-      "cliente": "AUTOZONE",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-12T17:45:11",
-      "modificado": "2026-05-12T18:00:15",
-      "idade_dias": 0,
-      "assunto": "Servidor AZ HML - ligado"
     },
     {
       "ticket": "2026051226000256",
@@ -184,18 +232,6 @@
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
-      "ticket": "2026051226000283",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-12T15:56:04",
-      "modificado": "2026-05-12T17:27:43",
-      "idade_dias": 0,
-      "assunto": "Refaz saldos - PD9 - USGAAP - 11.05 - Já executado"
-    },
-    {
       "ticket": "2026051126000409",
       "cliente": "TELETEX",
       "fila": "GWMS",
@@ -266,18 +302,6 @@
       "modificado": "2026-05-12T16:24:53",
       "idade_dias": 0,
       "assunto": "Downtime"
-    },
-    {
-      "ticket": "2026050826000111",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-08T09:45:13",
-      "modificado": "2026-05-12T16:19:22",
-      "idade_dias": 4,
-      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
     },
     {
       "ticket": "2026050626000508",
@@ -372,7 +396,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-15T18:11:21",
       "modificado": "2026-05-12T15:53:41",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Descoberta de Topologia automática"
     },
     {
@@ -808,18 +832,6 @@
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
-      "ticket": "2026051226000103",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-12T09:30:25",
-      "modificado": "2026-05-12T10:50:35",
-      "idade_dias": 0,
-      "assunto": "CRIACAO DE MUNICIPIO - FINPEC (SSG)"
-    },
-    {
       "ticket": "2026051126000472",
       "cliente": "TOTVS",
       "fila": "GWMS",
@@ -1236,7 +1248,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T18:18:44",
       "modificado": "2026-05-12T05:00:12",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "INSERT/ SELECT - TIPO 9 - 05.05 - W4 - PD09"
     },
     {
@@ -1694,18 +1706,6 @@
       "modificado": "2026-05-11T18:16:38",
       "idade_dias": 1,
       "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
-    },
-    {
-      "ticket": "2026051126000061",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-11T05:30:16",
-      "modificado": "2026-05-11T18:15:31",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
     },
     {
       "ticket": "2026051126000329",
@@ -3444,7 +3444,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-17T18:17:04",
       "modificado": "2026-04-28T08:44:10",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Paginação das páginas de Pedidos, Clientes e Títulos, melhorar a paginação para carga mais rápida"
     },
     {
@@ -5604,7 +5604,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-06T18:11:00",
       "modificado": "2026-03-17T05:00:22",
-      "idade_dias": 66,
+      "idade_dias": 67,
       "assunto": "ERRO GERAÇÃO DE ACORDO FINANCEIRO"
     },
     {
@@ -5724,7 +5724,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2025-12-17T18:13:40",
       "modificado": "2026-03-13T05:00:17",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Filtro de Pedidos - Permite selecionar apenas uma opção de Status"
     },
     {
@@ -6084,7 +6084,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-01-07T18:19:16",
       "modificado": "2026-03-05T05:00:22",
-      "idade_dias": 124,
+      "idade_dias": 125,
       "assunto": "Analise de uso de disco com trends"
     },
     {
@@ -8964,7 +8964,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-11-06T18:15:17",
       "modificado": "2025-12-23T05:00:19",
-      "idade_dias": 186,
+      "idade_dias": 187,
       "assunto": "RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -15864,7 +15864,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-02T18:15:22",
       "modificado": "2025-07-11T05:00:27",
-      "idade_dias": 313,
+      "idade_dias": 314,
       "assunto": "Cadastro empresa"
     },
     {
@@ -16476,7 +16476,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-16T18:12:08",
       "modificado": "2025-06-28T05:00:19",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "Continuação dos chamados 2025040926000061 e 2025043026000511 - Parametrização Sped Contábil e ECF"
     },
     {
@@ -16896,7 +16896,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-11T18:13:17",
       "modificado": "2025-06-20T05:00:27",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "Erro ao gerar Diário - Grupo 30"
     },
     {
@@ -17508,7 +17508,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-04T18:20:22",
       "modificado": "2025-06-04T18:20:24",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "Select conta 54750 - FRETE"
     },
     {
@@ -18228,7 +18228,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-13T18:12:45",
       "modificado": "2025-05-22T05:00:22",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "parametros loja 0155"
     },
     {
@@ -18708,7 +18708,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-05-05T18:14:39",
       "modificado": "2025-05-14T05:00:18",
-      "idade_dias": 371,
+      "idade_dias": 372,
       "assunto": "Actualizacion"
     },
     {
@@ -19608,7 +19608,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-22T18:13:26",
       "modificado": "2025-05-01T05:00:22",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "Parametrização de Alteração de Data em sistema (Alana Silva)  | A/C Débora"
     },
     {
@@ -20520,7 +20520,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-04-03T18:15:10",
       "modificado": "2025-04-12T05:00:06",
-      "idade_dias": 403,
+      "idade_dias": 404,
       "assunto": "Dúvida"
     },
     {
@@ -26976,7 +26976,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-10T18:16:47",
       "modificado": "2024-10-23T09:00:09",
-      "idade_dias": 578,
+      "idade_dias": 579,
       "assunto": "SPED - 14.310.170.0003-49"
     },
     {
@@ -27336,7 +27336,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-07T18:15:19",
       "modificado": "2024-10-15T09:30:19",
-      "idade_dias": 581,
+      "idade_dias": 582,
       "assunto": "RE: ARCO - Alertas UNKNOWN - 24100709174313"
     },
     {
