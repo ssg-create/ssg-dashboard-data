@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778598030,
-  "generated_at_iso": "2026-05-12T15:00:30Z",
-  "count": 2363,
+  "generated_at": 1778598631,
+  "generated_at_iso": "2026-05-12T15:10:31Z",
+  "count": 2364,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,78 @@
   ],
   "rows": [
     {
+      "ticket": "2026051226000167",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-12T10:55:15",
+      "modificado": "2026-05-12T12:10:07",
+      "idade_dias": 0,
+      "assunto": "Verificação de permissões Level2"
+    },
+    {
+      "ticket": "2026051226000201",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T12:05:04",
+      "modificado": "2026-05-12T12:05:06",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051212031134"
+    },
+    {
+      "ticket": "2026010826000262",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-01-08T16:09:01",
+      "modificado": "2026-05-12T12:03:19",
+      "idade_dias": 123,
+      "assunto": "Atualização tabela Imposto de Renda - 2026"
+    },
+    {
+      "ticket": "2026042826000237",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-04-28T10:41:14",
+      "modificado": "2026-05-12T12:03:06",
+      "idade_dias": 14,
+      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
+    },
+    {
+      "ticket": "2026051226000194",
+      "cliente": "ALMEIDA JR",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T11:40:22",
+      "modificado": "2026-05-12T12:01:39",
+      "idade_dias": 0,
+      "assunto": "Integração Movidesk x OTRS"
+    },
+    {
+      "ticket": "2026051226000096",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-12T09:25:17",
+      "modificado": "2026-05-12T12:01:26",
+      "idade_dias": 0,
+      "assunto": "SPE NS - Não contabiliza a baixa dos títulos com pref GES"
+    },
+    {
       "ticket": "2026042226000613",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -26,18 +98,6 @@
       "modificado": "2026-05-12T12:00:26",
       "idade_dias": 19,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
-    },
-    {
-      "ticket": "2026051226000167",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-12T11:59:29",
-      "idade_dias": 0,
-      "assunto": "Verificação de permissões Level2"
     },
     {
       "ticket": "2026051126000436",
@@ -148,18 +208,6 @@
       "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
     },
     {
-      "ticket": "2026051226000194",
-      "cliente": "weskley.silva@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T11:40:22",
-      "modificado": "2026-05-12T11:40:25",
-      "idade_dias": 0,
-      "assunto": "Integração Movidesk x OTRS"
-    },
-    {
       "ticket": "2026051226000176",
       "cliente": "TJBA (TELETEX)",
       "fila": "GWMS",
@@ -218,18 +266,6 @@
       "modificado": "2026-05-12T11:13:31",
       "idade_dias": 0,
       "assunto": "Acesso GWMS - Wellington"
-    },
-    {
-      "ticket": "2026010826000262",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-01-08T16:09:01",
-      "modificado": "2026-05-12T11:11:20",
-      "idade_dias": 123,
-      "assunto": "Atualização tabela Imposto de Renda - 2026"
     },
     {
       "ticket": "2026050826000201",
@@ -386,18 +422,6 @@
       "modificado": "2026-05-12T10:03:29",
       "idade_dias": 0,
       "assunto": "Broquear o usuario, quando estiver de Ferias ."
-    },
-    {
-      "ticket": "2026051226000096",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-12T09:25:17",
-      "modificado": "2026-05-12T10:00:30",
-      "idade_dias": 0,
-      "assunto": "SPE NS - Não contabiliza a baixa dos títulos com pref GES"
     },
     {
       "ticket": "2026051126000169",
@@ -1250,18 +1274,6 @@
       "modificado": "2026-05-11T21:58:38",
       "idade_dias": 5,
       "assunto": "IDRAC GWMS - DKT"
-    },
-    {
-      "ticket": "2026042826000237",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-04-28T10:41:14",
-      "modificado": "2026-05-11T20:33:37",
-      "idade_dias": 14,
-      "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
       "ticket": "2026042226000622",
@@ -2592,7 +2604,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-07T12:10:09",
       "modificado": "2026-05-07T12:10:11",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "[EXTERNAL]  [AutoZone - PD09 - FY26] - Rotina de custos USGAAP"
     },
     {
@@ -4248,7 +4260,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-03-30T12:03:37",
       "modificado": "2026-04-10T05:00:13",
-      "idade_dias": 42,
+      "idade_dias": 43,
       "assunto": "Alerta de serviços de Locks no servidores PJE"
     },
     {
@@ -4944,7 +4956,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-13T12:06:00",
       "modificado": "2026-03-21T05:00:36",
-      "idade_dias": 59,
+      "idade_dias": 60,
       "assunto": "Notas fora da Reinf"
     },
     {
@@ -6048,7 +6060,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-23T12:03:02",
       "modificado": "2026-03-03T05:00:23",
-      "idade_dias": 77,
+      "idade_dias": 78,
       "assunto": "Aprovações de contingências BS"
     },
     {
@@ -6312,7 +6324,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-11T12:07:23",
       "modificado": "2026-02-20T05:00:45",
-      "idade_dias": 89,
+      "idade_dias": 90,
       "assunto": "Solicitação de inclusão de filtros no Alerts History"
     },
     {
@@ -6336,7 +6348,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-10T12:10:19",
       "modificado": "2026-02-20T05:00:43",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "LIBERAÇÃO PARA PEDIDOS DE COMPRAS NO PROTHEUS"
     },
     {
@@ -6696,7 +6708,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-01T12:05:08",
       "modificado": "2026-02-14T05:00:20",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "RES: Downtime Ambiente totvs"
     },
     {
@@ -9108,7 +9120,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T12:00:43",
       "modificado": "2025-12-16T05:00:24",
-      "idade_dias": 161,
+      "idade_dias": 162,
       "assunto": "SEFAZ HOMOLOGAÇÃO - AMBIENTE DE PRD"
     },
     {
@@ -9120,7 +9132,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-11-28T12:09:43",
       "modificado": "2025-12-16T05:00:23",
-      "idade_dias": 164,
+      "idade_dias": 165,
       "assunto": "Pedido em aberto"
     },
     {
@@ -9780,7 +9792,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-09T12:05:16",
       "modificado": "2025-11-27T05:00:27",
-      "idade_dias": 183,
+      "idade_dias": 184,
       "assunto": "ALERTAS ANTIGOS BRAVEO - ERRO PLUGIN"
     },
     {
@@ -10272,7 +10284,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-11-10T12:05:17",
       "modificado": "2025-11-10T12:05:20",
-      "idade_dias": 182,
+      "idade_dias": 183,
       "assunto": "[AutoZone - BR/ US] - Contas patrimoniais - 8"
     },
     {
@@ -11352,7 +11364,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-26T12:05:20",
       "modificado": "2025-10-10T05:00:16",
-      "idade_dias": 227,
+      "idade_dias": 228,
       "assunto": "TOTVS - Exclusão Monitoramento"
     },
     {
@@ -11508,7 +11520,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-09-14T12:10:21",
       "modificado": "2025-10-07T05:00:16",
-      "idade_dias": 239,
+      "idade_dias": 240,
       "assunto": "Guardar dados API"
     },
     {
@@ -11580,7 +11592,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-25T12:04:07",
       "modificado": "2025-10-03T05:00:20",
-      "idade_dias": 228,
+      "idade_dias": 229,
       "assunto": "Relatório Fornecedores"
     },
     {
@@ -11592,7 +11604,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-24T12:06:44",
       "modificado": "2025-10-03T05:00:19",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "PIS e COFINS negativo -  Setembro/2025"
     },
     {
@@ -12468,7 +12480,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T12:06:13",
       "modificado": "2025-09-19T05:00:33",
-      "idade_dias": 242,
+      "idade_dias": 243,
       "assunto": "Alteração da Descrição do Pedido"
     },
     {
@@ -13128,7 +13140,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-25T12:05:11",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 259,
+      "idade_dias": 260,
       "assunto": ""
     },
     {
@@ -14160,7 +14172,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-08-07T12:09:19",
       "modificado": "2025-08-19T05:00:13",
-      "idade_dias": 277,
+      "idade_dias": 278,
       "assunto": "Notas Fiscais PJ"
     },
     {
@@ -14328,7 +14340,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-29T12:01:23",
       "modificado": "2025-08-15T05:00:28",
-      "idade_dias": 286,
+      "idade_dias": 287,
       "assunto": "AZ - PAGAR - Automatizar baixas."
     },
     {
@@ -14952,7 +14964,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-24T12:05:12",
       "modificado": "2025-08-01T05:00:29",
-      "idade_dias": 291,
+      "idade_dias": 292,
       "assunto": "RE: Select 2407_Conta 51061"
     },
     {
@@ -17136,7 +17148,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-03T12:05:16",
       "modificado": "2025-06-11T05:00:29",
-      "idade_dias": 342,
+      "idade_dias": 343,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -18720,7 +18732,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-02T12:06:22",
       "modificado": "2025-05-13T05:00:24",
-      "idade_dias": 374,
+      "idade_dias": 375,
       "assunto": "AZ -  Solicitação de Exclusão de Baixas Indevidas – PIX em Feriado (18/04)"
     },
     {
@@ -19080,7 +19092,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-23T12:05:19",
       "modificado": "2025-05-07T05:00:12",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "Select conta 51061"
     },
     {
@@ -19380,7 +19392,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-04-15T12:05:18",
       "modificado": "2025-05-02T05:00:21",
-      "idade_dias": 391,
+      "idade_dias": 392,
       "assunto": "NOVA VPN - AMB_RIO (configuração)"
     },
     {
@@ -19764,7 +19776,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-14T12:04:28",
       "modificado": "2025-04-25T05:00:07",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "Totvs Transmite"
     },
     {
@@ -20208,7 +20220,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-10T12:05:11",
       "modificado": "2025-04-18T05:00:21",
-      "idade_dias": 396,
+      "idade_dias": 397,
       "assunto": "GDBR :: Erro no monitoramento dos nobreak"
     },
     {
@@ -20880,7 +20892,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-26T12:10:10",
       "modificado": "2025-04-03T05:00:21",
-      "idade_dias": 411,
+      "idade_dias": 412,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -22476,7 +22488,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-02-12T12:10:16",
       "modificado": "2025-02-21T05:00:06",
-      "idade_dias": 453,
+      "idade_dias": 454,
       "assunto": "940732 - FIS014 - Atualização procedure 27 TAFx SPED - HOMOLOGAÇÂO"
     },
     {
@@ -23172,7 +23184,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-28T12:01:52",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "RETENÇÃO"
     },
     {
@@ -24876,7 +24888,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-12-04T12:05:24",
       "modificado": "2024-12-19T18:00:19",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "GWMS - Atuações na AZ/ Ajustes"
     },
     {
@@ -26568,7 +26580,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-10-22T12:10:15",
       "modificado": "2024-10-30T16:00:15",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "GROUNDWORK - GWMS-Server - Check Backup Clientes - 24102212080841"
     },
     {
@@ -28368,7 +28380,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-05T12:03:23",
       "modificado": "2024-09-12T17:00:19",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "REVISAR MEU USUARIO"
     }
   ]
