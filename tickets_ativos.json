@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778622027,
-  "generated_at_iso": "2026-05-12T21:40:27Z",
-  "count": 2370,
+  "generated_at": 1778622626,
+  "generated_at_iso": "2026-05-12T21:50:26Z",
+  "count": 2371,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000416",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T18:50:20",
+      "modificado": "2026-05-12T18:50:22",
+      "idade_dias": 0,
+      "assunto": "Berneck - case CS0017116"
+    },
+    {
+      "ticket": "2026051126000454",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-11T16:50:11",
+      "modificado": "2026-05-12T18:44:19",
+      "idade_dias": 1,
+      "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
+    },
     {
       "ticket": "2026051226000407",
       "cliente": "IMCD",
@@ -578,18 +602,6 @@
       "modificado": "2026-05-12T14:35:36",
       "idade_dias": 8,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
-      "ticket": "2026051126000454",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-11T16:50:11",
-      "modificado": "2026-05-12T14:35:11",
-      "idade_dias": 1,
-      "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
     },
     {
       "ticket": "2026051226000167",
@@ -3240,7 +3252,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-28T18:43:36",
       "modificado": "2026-04-30T17:38:42",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Ajuste de tipos de autenticação de usuário"
     },
     {
@@ -5280,7 +5292,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-03-10T18:45:20",
       "modificado": "2026-03-19T05:00:39",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "AZ - Manter a base HML ativa - 10/03/2026"
     },
     {
@@ -5472,7 +5484,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-09T18:47:39",
       "modificado": "2026-03-18T05:00:27",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "SALDO INICIAL DIFERENTE DO SALDO FINAL"
     },
     {
@@ -7728,7 +7740,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-14T18:40:41",
       "modificado": "2026-01-24T05:00:17",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Erro na Renegociação da Casas Bahia"
     },
     {
@@ -8736,7 +8748,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-17T18:50:23",
       "modificado": "2025-12-27T05:00:24",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Ticket para verificar problema com Sessões Bloqueadas GWMS - AUTOZONE"
     },
     {
@@ -11364,7 +11376,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-02T18:45:08",
       "modificado": "2025-10-11T05:00:25",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "GWMS - Atualizar relacionamento do SQL da Devolução"
     },
     {
@@ -16860,7 +16872,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-11T18:50:18",
       "modificado": "2025-06-20T05:00:28",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "Monitoramento - refinaria.totvs.io"
     },
     {
