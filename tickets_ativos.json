@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778580033,
-  "generated_at_iso": "2026-05-12T10:00:33Z",
+  "generated_at": 1778580402,
+  "generated_at_iso": "2026-05-12T10:06:42Z",
   "count": 2369,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050926000128",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-09T16:32:02",
+      "modificado": "2026-05-12T07:05:05",
+      "idade_dias": 2,
+      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
+    },
     {
       "ticket": "2026050526000251",
       "cliente": "GDBR",
@@ -1370,18 +1382,6 @@
       "modificado": "2026-05-11T14:16:03",
       "idade_dias": 1,
       "assunto": "BRAVEO - ERRO PLUGIN"
-    },
-    {
-      "ticket": "2026050926000128",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-09T16:32:02",
-      "modificado": "2026-05-11T14:16:03",
-      "idade_dias": 2,
-      "assunto": "Verificação de código de URLs: URL:assinador-a1-pje-2g e URL:chat-sessao-pje-2g"
     },
     {
       "ticket": "2026051126000249",
