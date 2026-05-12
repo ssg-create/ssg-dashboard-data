@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778547029,
-  "generated_at_iso": "2026-05-12T00:50:29Z",
+  "generated_at": 1778547628,
+  "generated_at_iso": "2026-05-12T01:00:28Z",
   "count": 2367,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000384",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-06T16:20:11",
+      "modificado": "2026-05-11T21:58:38",
+      "idade_dias": 5,
+      "assunto": "IDRAC GWMS - DKT"
+    },
     {
       "ticket": "2026051126000525",
       "cliente": "monitoramento@groundwork.com.br",
@@ -168,7 +180,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-22T21:58:19",
       "modificado": "2026-05-11T18:58:00",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
     },
     {
@@ -1284,7 +1296,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-09T21:55:21",
       "modificado": "2026-05-11T08:19:07",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "GROUNDWORK - DESATUALIZADO - 26050921524285"
     },
     {
@@ -2006,18 +2018,6 @@
       "modificado": "2026-05-08T17:32:22",
       "idade_dias": 3,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
-    },
-    {
-      "ticket": "2026050626000384",
-      "cliente": "DKT",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-06T16:20:11",
-      "modificado": "2026-05-08T16:22:13",
-      "idade_dias": 5,
-      "assunto": "IDRAC GWMS - DKT"
     },
     {
       "ticket": "2026042826000219",
@@ -7224,7 +7224,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-01-19T21:55:16",
       "modificado": "2026-02-04T05:00:15",
-      "idade_dias": 111,
+      "idade_dias": 112,
       "assunto": "RE: SERVENG - Configuração do Mnt NG Mobile - DEV e PRD - 14/11/2025"
     },
     {
@@ -8796,7 +8796,7 @@
       "atendente": "Service UP",
       "criado": "2025-12-16T21:54:24",
       "modificado": "2025-12-24T05:00:24",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Teste Desconsiderar"
     },
     {
@@ -9852,7 +9852,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-17T21:55:20",
       "modificado": "2025-11-26T05:00:31",
-      "idade_dias": 174,
+      "idade_dias": 175,
       "assunto": "ARCO - Alertas HOST DOWN - 25111721444671"
     },
     {
@@ -22512,7 +22512,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-07T21:55:08",
       "modificado": "2025-02-21T05:00:06",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "Re: #TOTVS-SERVERS - Alertas CRITICAL - 25020717261162"
     },
     {
