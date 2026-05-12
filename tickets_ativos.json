@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778620825,
-  "generated_at_iso": "2026-05-12T21:20:25Z",
-  "count": 2372,
+  "generated_at": 1778621432,
+  "generated_at_iso": "2026-05-12T21:30:32Z",
+  "count": 2370,
   "filas": [
     "DATASUL",
     "DBA",
@@ -17,15 +17,39 @@
   "rows": [
     {
       "ticket": "2026051226000407",
-      "cliente": "fernando.ribeiro@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "cliente": "IMCD",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
       "criado": "2026-05-12T18:20:16",
-      "modificado": "2026-05-12T18:20:18",
+      "modificado": "2026-05-12T18:22:42",
       "idade_dias": 0,
       "assunto": "Inclusão do Servidor de Banco de Dados PostgreSQL ao GWMS - IMCD"
+    },
+    {
+      "ticket": "2026051126000043",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-11T05:15:14",
+      "modificado": "2026-05-12T18:20:47",
+      "idade_dias": 1,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
+    },
+    {
+      "ticket": "2026051126000203",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T11:05:23",
+      "modificado": "2026-05-12T18:20:26",
+      "idade_dias": 1,
+      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
     },
     {
       "ticket": "2026051226000372",
@@ -76,18 +100,6 @@
       "assunto": "Refaz saldos - PD9 - USGAAP - 11.05 - Já executado"
     },
     {
-      "ticket": "2026051226000391",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T18:05:14",
-      "modificado": "2026-05-12T18:05:16",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051218035977"
-    },
-    {
       "ticket": "2026051226000256",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -98,18 +110,6 @@
       "modificado": "2026-05-12T17:59:19",
       "idade_dias": 0,
       "assunto": "Melhorias nos dockersfiles dos containers do GWMS"
-    },
-    {
-      "ticket": "2026051226000381",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T17:55:13",
-      "modificado": "2026-05-12T17:58:33",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051217521389"
     },
     {
       "ticket": "2026050826000175",
@@ -156,7 +156,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-29T18:25:55",
       "modificado": "2026-05-12T17:39:14",
-      "idade_dias": 102,
+      "idade_dias": 103,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
@@ -1696,18 +1696,6 @@
       "assunto": "Civil NK - Extratos Financeiros Protheus sem matricula"
     },
     {
-      "ticket": "2026051126000043",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-11T05:15:14",
-      "modificado": "2026-05-11T18:16:38",
-      "idade_dias": 1,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
-    },
-    {
       "ticket": "2026051126000329",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -1778,18 +1766,6 @@
       "modificado": "2026-05-11T17:30:17",
       "idade_dias": 1,
       "assunto": "Licenças Microsoft"
-    },
-    {
-      "ticket": "2026051126000203",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-11T17:15:50",
-      "idade_dias": 1,
-      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
     },
     {
       "ticket": "2026051126000445",
@@ -2844,7 +2820,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-06T18:25:11",
       "modificado": "2026-05-06T18:25:14",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Espelhamento 27/03/2026"
     },
     {
@@ -3528,7 +3504,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-13T18:25:39",
       "modificado": "2026-04-25T05:00:23",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "Netflow"
     },
     {
@@ -14976,7 +14952,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-04T18:30:08",
       "modificado": "2025-08-04T18:57:08",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:SITE GROUNDWORK - 25080418255888"
     },
     {
@@ -21240,7 +21216,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-13T18:30:10",
       "modificado": "2025-03-26T05:00:06",
-      "idade_dias": 424,
+      "idade_dias": 425,
       "assunto": "RES: RES: [EXTERNAL] Ticket Aguardando Retorno"
     },
     {
@@ -28008,7 +27984,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-09-16T18:25:12",
       "modificado": "2024-09-25T10:00:04",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "Monitoramento PSD"
     },
     {
@@ -28020,7 +27996,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-09-16T18:30:12",
       "modificado": "2024-09-25T10:00:04",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "Monitoramento pedido PSD"
     },
     {
