@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778582429,
-  "generated_at_iso": "2026-05-12T10:40:29Z",
+  "generated_at": 1778583032,
+  "generated_at_iso": "2026-05-12T10:50:32Z",
   "count": 2369,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000023",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-12T01:23:40",
+      "modificado": "2026-05-12T07:50:11",
+      "idade_dias": 0,
+      "assunto": "Errores en Ambiente de Prebas"
+    },
+    {
+      "ticket": "2026051226000032",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T05:00:09",
+      "modificado": "2026-05-12T07:48:31",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051204561525"
+    },
     {
       "ticket": "2026050926000128",
       "cliente": "TJBA (TELETEX)",
@@ -38,18 +62,6 @@
       "modificado": "2026-05-12T06:17:06",
       "idade_dias": 6,
       "assunto": "ERRO AO GERAR COMPLEMENTO DE VALOR"
-    },
-    {
-      "ticket": "2026051226000032",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T05:00:09",
-      "modificado": "2026-05-12T05:15:37",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051204561525"
     },
     {
       "ticket": "2026050426000271",
@@ -650,18 +662,6 @@
       "modificado": "2026-05-12T04:25:50",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051200453980"
-    },
-    {
-      "ticket": "2026051226000023",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "NEW",
-      "prioridade": "4 high",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T01:23:40",
-      "modificado": "2026-05-12T01:23:41",
-      "idade_dias": 0,
-      "assunto": "Errores en Ambiente de Prebas"
     },
     {
       "ticket": "2026042726000462",
@@ -1308,7 +1308,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-17T07:50:21",
       "modificado": "2026-05-11T14:45:22",
-      "idade_dias": 24,
+      "idade_dias": 25,
       "assunto": "Re: 30.000 documentos em fila de processamento"
     },
     {
@@ -1980,7 +1980,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2026-05-09T07:45:07",
       "modificado": "2026-05-09T14:01:02",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "#TOTVS-NETWORK - Alertas CRITICAL - 26050907331122"
     },
     {
@@ -9564,7 +9564,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-05T07:45:11",
       "modificado": "2025-12-05T07:45:13",
-      "idade_dias": 157,
+      "idade_dias": 158,
       "assunto": "PLANILHA CONSOLIDADA CLIENTES ANALISADOS"
     },
     {
@@ -13836,7 +13836,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-11T07:50:21",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 273,
+      "idade_dias": 274,
       "assunto": "Ajuste monitoramento Jira DC"
     },
     {
@@ -15156,7 +15156,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-17T07:50:08",
       "modificado": "2025-07-29T05:00:08",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "RE: Dashboard Fev/25 - Doctos não integrados"
     },
     {
@@ -19140,7 +19140,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-28T07:50:04",
       "modificado": "2025-05-07T05:00:13",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "Dashboard Mar/25 - Doctos não integrados"
     },
     {
@@ -21012,7 +21012,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-03-14T07:50:04",
       "modificado": "2025-04-01T12:57:04",
-      "idade_dias": 423,
+      "idade_dias": 424,
       "assunto": "Re: Lp 532 - Compra de Mercadoria (21030)"
     },
     {
