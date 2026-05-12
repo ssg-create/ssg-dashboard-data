@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778549421,
-  "generated_at_iso": "2026-05-12T01:30:21Z",
+  "generated_at": 1778550029,
+  "generated_at_iso": "2026-05-12T01:40:29Z",
   "count": 2367,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000356",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-11T15:05:55",
+      "modificado": "2026-05-11T22:38:09",
+      "idade_dias": 0,
+      "assunto": "Verificação de coleta dos hosts abaixo:"
+    },
     {
       "ticket": "2026051126000178",
       "cliente": "ALMEIDA JR",
@@ -604,18 +616,6 @@
       "assunto": "Acesso GWMS - Wellington"
     },
     {
-      "ticket": "2026051126000356",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-11T15:05:55",
-      "modificado": "2026-05-11T15:51:23",
-      "idade_dias": 0,
-      "assunto": "Verificação de coleta dos hosts abaixo:"
-    },
-    {
       "ticket": "2026051126000196",
       "cliente": "TJBA (TELETEX)",
       "fila": "GWMS",
@@ -1188,7 +1188,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-09T22:40:07",
       "modificado": "2026-05-11T08:47:40",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050922353634"
     },
     {
@@ -9576,7 +9576,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-11-12T22:35:15",
       "modificado": "2025-12-05T05:00:29",
-      "idade_dias": 179,
+      "idade_dias": 180,
       "assunto": "Criação de GPO - CNN *URGENTE*"
     },
     {
@@ -11340,7 +11340,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-01T22:40:19",
       "modificado": "2025-10-11T05:00:23",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "RES: #TOTVS-SERVERS - HLCLOUD_HL-CLOUD_BANCO - Cpu - 25100122031173"
     },
     {
@@ -12180,7 +12180,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-16T22:35:06",
       "modificado": "2025-09-25T05:00:14",
-      "idade_dias": 236,
+      "idade_dias": 237,
       "assunto": "Braveo - GWMS - Contatos para acionamento"
     },
     {
