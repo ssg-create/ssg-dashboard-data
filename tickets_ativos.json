@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778548829,
-  "generated_at_iso": "2026-05-12T01:20:29Z",
+  "generated_at": 1778549421,
+  "generated_at_iso": "2026-05-12T01:30:21Z",
   "count": 2367,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000178",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "2 low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-11T09:39:18",
+      "modificado": "2026-05-11T22:28:30",
+      "idade_dias": 0,
+      "assunto": "Retorno de Férias - Eduardo Hirata - GEOP NS"
+    },
+    {
+      "ticket": "2026050526000108",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "1 very low",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-05T09:01:37",
+      "modificado": "2026-05-11T22:27:33",
+      "idade_dias": 6,
+      "assunto": "Contabilização Aplicação - Gesplan"
+    },
+    {
+      "ticket": "2026050426000281",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-11T22:26:41",
+      "idade_dias": 7,
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
+    },
     {
       "ticket": "2026050626000384",
       "cliente": "DKT",
@@ -1012,18 +1048,6 @@
       "assunto": "Braveo"
     },
     {
-      "ticket": "2026051126000178",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "2 low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-11T09:39:18",
-      "modificado": "2026-05-11T09:52:18",
-      "idade_dias": 0,
-      "assunto": "Retorno de Férias - Eduardo Hirata - GEOP NS"
-    },
-    {
       "ticket": "2025121626000406",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -1732,18 +1756,6 @@
       "assunto": "Contabilização de Estorno de Resgate"
     },
     {
-      "ticket": "2026050426000281",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-04T14:08:45",
-      "modificado": "2026-05-11T05:00:12",
-      "idade_dias": 7,
-      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
-    },
-    {
       "ticket": "2026042926000235",
       "cliente": "GDBR",
       "fila": "SSG",
@@ -2378,18 +2390,6 @@
       "modificado": "2026-05-07T12:19:57",
       "idade_dias": 104,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
-    },
-    {
-      "ticket": "2026050526000108",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-05T09:01:37",
-      "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 6,
-      "assunto": "Contabilização Aplicação - Gesplan"
     },
     {
       "ticket": "2025111126000042",
@@ -5976,7 +5976,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-02-21T22:25:17",
       "modificado": "2026-03-05T05:00:28",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "#TOTVS-NETWORK - SNC_FW-SENECA-N2 - Cpu - 26022122181527"
     },
     {
@@ -14676,7 +14676,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-07-30T22:25:05",
       "modificado": "2025-08-08T05:00:17",
-      "idade_dias": 284,
+      "idade_dias": 285,
       "assunto": "Solicitação de acesso"
     },
     {
@@ -17160,7 +17160,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-30T22:23:29",
       "modificado": "2025-06-12T05:00:10",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "Continuação chamado 2025040926000061 - Parametrização Sped Contábil e ECF"
     },
     {
@@ -18432,7 +18432,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-04-30T22:27:41",
       "modificado": "2025-05-18T05:00:08",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "Continuação chamado 2025032726000233 - Provisão de Férias/13"
     },
     {
@@ -18960,7 +18960,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-30T22:30:20",
       "modificado": "2025-05-10T05:00:19",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "Alerta Recorrente - Backup Policies"
     },
     {
