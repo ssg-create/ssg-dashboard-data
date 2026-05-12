@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778612443,
-  "generated_at_iso": "2026-05-12T19:00:43Z",
+  "generated_at": 1778613030,
+  "generated_at_iso": "2026-05-12T19:10:30Z",
   "count": 5206,
   "filas": [
     "DATASUL",
@@ -19,7 +19,7 @@
       "num": "2026051226000283",
       "assunto": "Refaz saldos - PD9 - USGAAP - 11.05 - Já executado",
       "criado": "2026-05-12T15:56:04",
-      "modificado": "2026-05-12T15:58:15",
+      "modificado": "2026-05-12T16:01:54",
       "fila": "SSG",
       "estado": "open",
       "prioridade": "3 normal",
@@ -2579,9 +2579,9 @@
       "num": "2026050726000061",
       "assunto": "Berneck - alterar o monitoramento",
       "criado": "2026-05-07T07:35:06",
-      "modificado": "2026-05-12T10:54:22",
+      "modificado": "2026-05-12T16:05:39",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "closed successful",
       "prioridade": "1 very low",
       "atendente": "Joao Santos",
       "primeiro_nome": "Joao",
@@ -2589,10 +2589,10 @@
       "cli_id": "TELETEX",
       "cli_user": "servicedesk@teletex.com",
       "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
+      "fechado": "2026-05-12T16:05:39",
       "resp_min_raw": 2125,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 7710,
+      "sol_min_bh": 2045,
       "resp_min_bh": 1080
     },
     {
