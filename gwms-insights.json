@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778594441,
-  "generated_at_iso": "2026-05-12T14:00:41Z",
+  "generated_at": 1778595033,
+  "generated_at_iso": "2026-05-12T14:10:33Z",
   "counts": {
     "crit": 1,
-    "warn": 3,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -62,29 +62,6 @@
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "fila_concentrada_SSG_AUTOZONE",
-      "severity": "warn",
-      "category": "distribuicao",
-      "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "5 de 8 tickets silenciosos na fila SSG (62%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
-      "evidence": [
-        {
-          "fila": "SSG",
-          "cliente_top": "AUTOZONE",
-          "n_top": 5,
-          "n_total": 8,
-          "pct_top": 0.62,
-          "distribuicao": {
-            "AUTOZONE": 5,
-            "ALMEIDA JR": 2,
-            "NSX": 1
-          }
-        }
-      ],
-      "recommendation": "Revisar contrato/SLA de AUTOZONE na fila SSG. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
