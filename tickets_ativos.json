@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778607627,
-  "generated_at_iso": "2026-05-12T17:40:27Z",
+  "generated_at": 1778608224,
+  "generated_at_iso": "2026-05-12T17:50:24Z",
   "count": 2362,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042226000613",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-04-22T21:58:19",
+      "modificado": "2026-05-12T14:45:20",
+      "idade_dias": 19,
+      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
+    },
+    {
+      "ticket": "2026051226000194",
+      "cliente": "ALMEIDA JR",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T11:40:22",
+      "modificado": "2026-05-12T14:45:09",
+      "idade_dias": 0,
+      "assunto": "Integração Movidesk x OTRS"
+    },
+    {
+      "ticket": "2026051226000176",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-12T10:56:27",
+      "modificado": "2026-05-12T14:44:06",
+      "idade_dias": 0,
+      "assunto": "Alteração no Dashboard PJE Geral"
+    },
     {
       "ticket": "2026042326000111",
       "cliente": "PECVAL",
@@ -40,18 +76,6 @@
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
-      "ticket": "2026051226000194",
-      "cliente": "ALMEIDA JR",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-12T11:40:22",
-      "modificado": "2026-05-12T14:35:11",
-      "idade_dias": 0,
-      "assunto": "Integração Movidesk x OTRS"
-    },
-    {
       "ticket": "2026051126000454",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -74,18 +98,6 @@
       "modificado": "2026-05-12T14:35:11",
       "idade_dias": 0,
       "assunto": "Verificação de permissões Level2"
-    },
-    {
-      "ticket": "2026051226000176",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "4 high",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-12T10:56:27",
-      "modificado": "2026-05-12T14:24:12",
-      "idade_dias": 0,
-      "assunto": "Alteração no Dashboard PJE Geral"
     },
     {
       "ticket": "2026050626000179",
@@ -206,18 +218,6 @@
       "modificado": "2026-05-12T12:01:26",
       "idade_dias": 0,
       "assunto": "SPE NS - Não contabiliza a baixa dos títulos com pref GES"
-    },
-    {
-      "ticket": "2026042226000613",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-04-22T21:58:19",
-      "modificado": "2026-05-12T12:00:26",
-      "idade_dias": 19,
-      "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE"
     },
     {
       "ticket": "2026051126000436",
@@ -900,7 +900,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-08T14:45:26",
       "modificado": "2026-05-12T05:00:12",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Civil BS - Lançamentos não contabilizaram o IC e o C custo"
     },
     {
@@ -1236,7 +1236,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-30T14:49:16",
       "modificado": "2026-05-12T05:00:10",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "INSERT/ SELECT - TIPO 9 - 30.04 - W13 PD09"
     },
     {
@@ -2100,7 +2100,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-03-26T14:45:52",
       "modificado": "2026-05-11T08:06:03",
-      "idade_dias": 46,
+      "idade_dias": 47,
       "assunto": "V3 NETLEX"
     },
     {
@@ -2700,7 +2700,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-05T14:50:15",
       "modificado": "2026-05-06T16:43:47",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Implantação novo Servidor de Banco"
     },
     {
@@ -3828,7 +3828,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-06-24T14:45:09",
       "modificado": "2026-04-20T16:24:29",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "Novo Processo Compras"
     },
     {
@@ -4200,7 +4200,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-02T14:42:03",
       "modificado": "2026-04-10T05:00:17",
-      "idade_dias": 39,
+      "idade_dias": 40,
       "assunto": "Relatório Relação de Títulos em Aberto - AJ Realty"
     },
     {
@@ -5124,7 +5124,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-02-05T14:43:42",
       "modificado": "2026-03-20T05:00:26",
-      "idade_dias": 95,
+      "idade_dias": 96,
       "assunto": "Inconsistência no cálculo de margem com frete destacado"
     },
     {
@@ -6732,7 +6732,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-04T14:42:35",
       "modificado": "2026-02-13T05:00:34",
-      "idade_dias": 96,
+      "idade_dias": 97,
       "assunto": "AJUSTE NAS CASAS DECIMAIS - CONTAS A PAGAR"
     },
     {
@@ -6852,7 +6852,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-10-02T14:45:16",
       "modificado": "2026-02-11T05:00:19",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "Diferença de saldo - Balancete 1° trimestre 2025 (BRGAAP)"
     },
     {
@@ -6876,7 +6876,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-01T14:47:38",
       "modificado": "2026-02-10T05:00:25",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "Diferença de valores ao criar o VST - Empresa: 301001."
     },
     {
@@ -7656,7 +7656,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-01-12T14:50:23",
       "modificado": "2026-01-24T05:00:13",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "AZ - GWMS - Totvs Transmite ajuste"
     },
     {
@@ -8076,7 +8076,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-11-07T14:50:07",
       "modificado": "2026-01-15T05:00:09",
-      "idade_dias": 185,
+      "idade_dias": 186,
       "assunto": "Re: Emissão NF Entrada Própria"
     },
     {
@@ -8220,7 +8220,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-12T14:45:22",
       "modificado": "2026-01-12T14:45:25",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "Exclusão Lançamento Lote 8840 - Data 18/12/25"
     },
     {
@@ -8664,7 +8664,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-31T14:45:12",
       "modificado": "2025-12-27T05:00:22",
-      "idade_dias": 192,
+      "idade_dias": 193,
       "assunto": "Certificado SSL - proxy"
     },
     {
@@ -10752,7 +10752,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-10-15T14:50:17",
       "modificado": "2025-10-24T05:00:24",
-      "idade_dias": 208,
+      "idade_dias": 209,
       "assunto": "Protheus - envio dos pedidos de compras aos fornecedores e comprador"
     },
     {
@@ -11052,7 +11052,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-09-03T14:49:34",
       "modificado": "2025-10-17T05:00:30",
-      "idade_dias": 250,
+      "idade_dias": 251,
       "assunto": "AZ - Revisão da contabilização para Vendor Funding - 2025063026000507"
     },
     {
@@ -11616,7 +11616,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-10-02T14:45:18",
       "modificado": "2025-10-02T14:45:21",
-      "idade_dias": 221,
+      "idade_dias": 222,
       "assunto": "Diferença de saldo - Balancete 1° trimestre 2025 (BRGAAP)"
     },
     {
@@ -12060,7 +12060,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-17T14:45:06",
       "modificado": "2025-09-25T05:00:20",
-      "idade_dias": 236,
+      "idade_dias": 237,
       "assunto": "Verificar"
     },
     {
@@ -12852,7 +12852,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-02T14:45:25",
       "modificado": "2025-09-16T05:00:23",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "RES: 1283390 - Configurar SMART VIEW de Compras e Contratos - PRODUÇÂO"
     },
     {
@@ -12948,7 +12948,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-04T14:43:10",
       "modificado": "2025-09-12T05:00:36",
-      "idade_dias": 249,
+      "idade_dias": 250,
       "assunto": "AZ - CTB - Extrair Contas a pagar e conta a receber com vencimento até 31/12/2024"
     },
     {
@@ -13020,7 +13020,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-01T14:50:19",
       "modificado": "2025-09-12T05:00:27",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "TOTVS - Equipe Voice"
     },
     {
@@ -14196,7 +14196,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-08-08T14:41:25",
       "modificado": "2025-08-16T05:00:29",
-      "idade_dias": 276,
+      "idade_dias": 277,
       "assunto": "Erro no Protheus"
     },
     {
@@ -16428,7 +16428,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-06-17T14:45:11",
       "modificado": "2025-06-26T05:00:21",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "Erros nos Dashboards cliente - Bernoulli (TIS)"
     },
     {
@@ -17040,7 +17040,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-04T14:49:28",
       "modificado": "2025-06-13T05:00:31",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "NOTAS NÃO INTEGRADAS - LOJA 0076"
     },
     {
@@ -17412,7 +17412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-23T14:49:20",
       "modificado": "2025-06-04T05:00:15",
-      "idade_dias": 353,
+      "idade_dias": 354,
       "assunto": "ITEM BLOQUEADO"
     },
     {
@@ -18060,7 +18060,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-14T14:45:15",
       "modificado": "2025-05-23T05:00:20",
-      "idade_dias": 362,
+      "idade_dias": 363,
       "assunto": "Descrição LP CUSTOS"
     },
     {
@@ -19512,7 +19512,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-15T14:43:14",
       "modificado": "2025-05-01T05:00:20",
-      "idade_dias": 391,
+      "idade_dias": 392,
       "assunto": "ZURICH - Verificação de Alerta"
     },
     {
@@ -19728,7 +19728,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-14T14:45:06",
       "modificado": "2025-04-25T05:00:07",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "[TOTVS] - Solicitação Monitoramento"
     },
     {
@@ -19992,7 +19992,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-12T14:50:09",
       "modificado": "2025-04-22T05:00:24",
-      "idade_dias": 394,
+      "idade_dias": 395,
       "assunto": "Remover Host da Monitoria ARCO"
     },
     {
@@ -20244,7 +20244,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-04T14:48:50",
       "modificado": "2025-04-17T05:00:18",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "ACESSO GRUPO 80"
     },
     {
@@ -20328,7 +20328,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-03-27T14:45:18",
       "modificado": "2025-04-15T05:00:14",
-      "idade_dias": 410,
+      "idade_dias": 411,
       "assunto": "Pedido de compra excluído indevidamente"
     },
     {
@@ -20352,7 +20352,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-03-24T14:50:05",
       "modificado": "2025-04-15T05:00:13",
-      "idade_dias": 413,
+      "idade_dias": 414,
       "assunto": "RES: RES: RES: [EXTERNAL] Re: Erro lote 008840 - Item 07604"
     },
     {
@@ -20508,7 +20508,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-02T14:50:15",
       "modificado": "2025-04-11T05:00:18",
-      "idade_dias": 404,
+      "idade_dias": 405,
       "assunto": "RES: Instalação Agente GW Windows 2025"
     },
     {
@@ -21408,7 +21408,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-12T14:45:08",
       "modificado": "2025-03-20T05:00:21",
-      "idade_dias": 425,
+      "idade_dias": 426,
       "assunto": "Select Ativo 2"
     },
     {
@@ -23088,7 +23088,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-01-30T14:50:15",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 466,
+      "idade_dias": 467,
       "assunto": "TOTVS Network"
     },
     {
@@ -23340,7 +23340,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-09T14:40:52",
       "modificado": "2025-02-09T05:00:11",
-      "idade_dias": 487,
+      "idade_dias": 488,
       "assunto": "erro ao gerar acordo - empresa 303001"
     },
     {
@@ -23520,7 +23520,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-14T14:44:49",
       "modificado": "2025-01-21T17:00:04",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "Inconsistência - Saldos PCO Protheus"
     },
     {
@@ -23604,7 +23604,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-10T14:47:48",
       "modificado": "2025-01-20T11:00:14",
-      "idade_dias": 486,
+      "idade_dias": 487,
       "assunto": "AZ - Analisar a extração da Variações de Custo Médio via acompanha Custos."
     },
     {
@@ -24072,7 +24072,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-02T14:44:50",
       "modificado": "2025-01-09T17:30:00",
-      "idade_dias": 494,
+      "idade_dias": 495,
       "assunto": "Informações Cancelamento de Pedido de Compra"
     },
     {
@@ -25032,7 +25032,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-29T14:47:18",
       "modificado": "2024-12-17T17:30:18",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "PA não está vinculando"
     },
     {
@@ -26472,7 +26472,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-10-24T14:45:09",
       "modificado": "2024-11-01T08:30:19",
-      "idade_dias": 564,
+      "idade_dias": 565,
       "assunto": "RE: PD02 - Select"
     },
     {
@@ -26832,7 +26832,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-07-24T14:49:30",
       "modificado": "2024-10-23T12:30:19",
-      "idade_dias": 656,
+      "idade_dias": 657,
       "assunto": "Suporte/Orientação para aplicação de reajuste e gestão de limite de crédito"
     },
     {
@@ -26940,7 +26940,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-14T14:41:05",
       "modificado": "2024-10-21T15:30:06",
-      "idade_dias": 574,
+      "idade_dias": 575,
       "assunto": "RELATORIO DE FORNECEDORES ATIVOS"
     },
     {
@@ -27468,7 +27468,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-08-29T14:48:52",
       "modificado": "2024-10-04T07:30:15",
-      "idade_dias": 620,
+      "idade_dias": 621,
       "assunto": "Integração de Recebimento PIX"
     },
     {
