@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778550029,
-  "generated_at_iso": "2026-05-12T01:40:29Z",
+  "generated_at": 1778550625,
+  "generated_at_iso": "2026-05-12T01:50:25Z",
   "count": 2367,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000462",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-04-27T18:05:17",
+      "modificado": "2026-05-11T22:44:08",
+      "idade_dias": 14,
+      "assunto": "RE: Monitoração - Unidade Jundiai"
+    },
+    {
+      "ticket": "2026050726000061",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-07T07:35:06",
+      "modificado": "2026-05-11T22:41:54",
+      "idade_dias": 4,
+      "assunto": "Berneck - alterar o monitoramento"
+    },
     {
       "ticket": "2026051126000356",
       "cliente": "TJBA (TELETEX)",
@@ -496,18 +520,6 @@
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
     },
     {
-      "ticket": "2026042726000462",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-04-27T18:05:17",
-      "modificado": "2026-05-11T16:30:11",
-      "idade_dias": 14,
-      "assunto": "RE: Monitoração - Unidade Jundiai"
-    },
-    {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
       "fila": "SSG",
@@ -900,7 +912,7 @@
       "atendente": "Fernando Ribeiro",
       "criado": "2026-05-07T22:45:09",
       "modificado": "2026-05-11T12:19:35",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26050722384899"
     },
     {
@@ -1274,18 +1286,6 @@
       "modificado": "2026-05-11T08:32:35",
       "idade_dias": 2,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - HOST DOWN - 26050921492185"
-    },
-    {
-      "ticket": "2026050726000061",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Joao Santos",
-      "criado": "2026-05-07T07:35:06",
-      "modificado": "2026-05-11T08:30:25",
-      "idade_dias": 4,
-      "assunto": "Berneck - alterar o monitoramento"
     },
     {
       "ticket": "2026051126000025",
@@ -1860,7 +1860,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-22T22:43:28",
       "modificado": "2026-05-11T05:00:11",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "CASAS DECIMAIS IMPOSTO DE PIS E COFINS - NOTAS FISCAIS SAIDAS."
     },
     {
@@ -21864,7 +21864,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-02T22:45:13",
       "modificado": "2025-03-11T05:00:09",
-      "idade_dias": 434,
+      "idade_dias": 435,
       "assunto": "ARCO - Alertas recorrentes"
     },
     {
