@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778570432,
-  "generated_at_iso": "2026-05-12T07:20:32Z",
+  "generated_at": 1778571033,
+  "generated_at_iso": "2026-05-12T07:30:33Z",
   "count": 2368,
   "filas": [
     "DATASUL",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051126000516",
+      "cliente": "AUTOZONE",
+      "fila": "NOC",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Elizeu Brasil",
+      "criado": "2026-05-11T21:05:04",
+      "modificado": "2026-05-12T04:27:56",
+      "idade_dias": 0,
+      "assunto": "Confirmação de Downtime GWMS para Serviços AUTOZONE"
+    },
+    {
+      "ticket": "2026051226000014",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T00:50:13",
+      "modificado": "2026-05-12T04:25:50",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051200453980"
+    },
+    {
       "ticket": "2026051226000023",
       "cliente": "PLASTIGLAS",
       "fila": "DATASUL",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-12T01:23:41",
       "idade_dias": 0,
       "assunto": "Errores en Ambiente de Prebas"
-    },
-    {
-      "ticket": "2026051226000014",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T00:50:13",
-      "modificado": "2026-05-12T00:50:16",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051200453980"
     },
     {
       "ticket": "2026042726000462",
@@ -134,18 +146,6 @@
       "modificado": "2026-05-11T21:32:09",
       "idade_dias": 0,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051121281314"
-    },
-    {
-      "ticket": "2026051126000516",
-      "cliente": "AUTOZONE",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Jeferson Fretta",
-      "criado": "2026-05-11T21:05:04",
-      "modificado": "2026-05-11T21:20:29",
-      "idade_dias": 0,
-      "assunto": "Confirmação de Downtime GWMS para Serviços AUTOZONE"
     },
     {
       "ticket": "2026042826000237",
