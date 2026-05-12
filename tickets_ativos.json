@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778619033,
-  "generated_at_iso": "2026-05-12T20:50:33Z",
-  "count": 2370,
+  "generated_at": 1778619445,
+  "generated_at_iso": "2026-05-12T20:57:25Z",
+  "count": 2371,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051226000372",
+      "cliente": "AUTOZONE",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-12T17:45:11",
+      "modificado": "2026-05-12T17:56:12",
+      "idade_dias": 0,
+      "assunto": "Servidor AZ HML - ligado"
+    },
+    {
+      "ticket": "2026051226000381",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T17:55:13",
+      "modificado": "2026-05-12T17:55:14",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051217521389"
+    },
+    {
       "ticket": "2026050826000175",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-12T17:46:37",
       "idade_dias": 4,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
-    },
-    {
-      "ticket": "2026051226000372",
-      "cliente": "weskley.silva@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T17:45:11",
-      "modificado": "2026-05-12T17:45:13",
-      "idade_dias": 0,
-      "assunto": "Servidor AZ HML - ligado"
     },
     {
       "ticket": "2026051226000345",
@@ -2712,7 +2724,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 80,
+      "idade_dias": 81,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
@@ -4020,7 +4032,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-08T17:55:08",
       "modificado": "2026-04-17T05:00:14",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "ENC: #TOTVS-SERVERS - CHECK_EMAIL - Google Workspace Alert - Smart host failure - 26040813082858"
     },
     {
@@ -4284,7 +4296,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-02T17:54:50",
       "modificado": "2026-04-10T05:00:18",
-      "idade_dias": 39,
+      "idade_dias": 40,
       "assunto": "LIEBRAÇÃO/CADASTRO NO PROTHEUS"
     },
     {
@@ -5712,7 +5724,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2025-12-17T17:56:03",
       "modificado": "2026-03-13T05:00:14",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Incluir Código do Vendedor e Nome do Vendedor na consulta de Pedidos"
     },
     {
@@ -7224,7 +7236,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-05T17:54:52",
       "modificado": "2026-02-05T05:00:18",
-      "idade_dias": 126,
+      "idade_dias": 127,
       "assunto": "AZ | Contabilização das Compras - LP 650 Seq. 001, 002, 012 e 020"
     },
     {
@@ -8088,7 +8100,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-05T17:50:33",
       "modificado": "2026-01-16T05:00:16",
-      "idade_dias": 126,
+      "idade_dias": 127,
       "assunto": "Acesso consultor 18 ao servidor Pfin"
     },
     {
@@ -8400,7 +8412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-29T17:51:33",
       "modificado": "2026-01-07T05:00:30",
-      "idade_dias": 133,
+      "idade_dias": 134,
       "assunto": "Acesso ao sistema Compras"
     },
     {
@@ -10932,7 +10944,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-26T17:55:12",
       "modificado": "2025-10-21T05:00:28",
-      "idade_dias": 227,
+      "idade_dias": 228,
       "assunto": "AZ - CUSTOS - GTGEN047 TaxId"
     },
     {
@@ -12648,7 +12660,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-08-08T17:55:41",
       "modificado": "2025-09-19T05:00:22",
-      "idade_dias": 276,
+      "idade_dias": 277,
       "assunto": "Ativo Imobilizado com crédito CIAP"
     },
     {
@@ -13740,7 +13752,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-11T17:55:07",
       "modificado": "2025-08-27T18:24:06",
-      "idade_dias": 273,
+      "idade_dias": 274,
       "assunto": "COPEL | Verificação de alarme"
     },
     {
@@ -19248,7 +19260,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-17T17:53:49",
       "modificado": "2025-05-06T05:00:20",
-      "idade_dias": 389,
+      "idade_dias": 390,
       "assunto": "Erro no Item Conta"
     },
     {
@@ -19956,7 +19968,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-14T17:55:09",
       "modificado": "2025-04-23T05:00:23",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -21444,7 +21456,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-12T17:56:47",
       "modificado": "2025-03-21T05:00:07",
-      "idade_dias": 425,
+      "idade_dias": 426,
       "assunto": "CAMPO OBSERVAÇÕES"
     },
     {
@@ -21924,7 +21936,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-21T17:55:12",
       "modificado": "2025-03-11T05:00:08",
-      "idade_dias": 444,
+      "idade_dias": 445,
       "assunto": "BBP - Solicitação de Análise GW – XMLs Não Recebidos no FTP"
     },
     {
@@ -22704,7 +22716,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2025-01-28T17:55:16",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "RE: #TOTVS-NETWORK - SP_BRSPDCSWCORE2-SALAWAN - Interface:Gi2-0-6 - ALGAR 2 - 25012817324461"
     },
     {
@@ -24504,7 +24516,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-11T17:56:36",
       "modificado": "2025-01-02T10:00:11",
-      "idade_dias": 516,
+      "idade_dias": 517,
       "assunto": "NF CANCELADA COM STATUS AUTORIZADA"
     },
     {
@@ -27588,7 +27600,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-25T17:53:34",
       "modificado": "2024-10-03T11:30:03",
-      "idade_dias": 593,
+      "idade_dias": 594,
       "assunto": "DEPRECIAÇÃO"
     },
     {
