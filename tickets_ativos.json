@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778606837,
-  "generated_at_iso": "2026-05-12T17:27:17Z",
+  "generated_at": 1778607024,
+  "generated_at_iso": "2026-05-12T17:30:24Z",
   "count": 2362,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000194",
+      "cliente": "ALMEIDA JR",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T11:40:22",
+      "modificado": "2026-05-12T14:30:06",
+      "idade_dias": 0,
+      "assunto": "Integração Movidesk x OTRS"
+    },
     {
       "ticket": "2026051226000167",
       "cliente": "FADEL",
@@ -62,18 +74,6 @@
       "modificado": "2026-05-12T14:15:35",
       "idade_dias": 18,
       "assunto": "Inserir Servidor Monitoramento"
-    },
-    {
-      "ticket": "2026051226000194",
-      "cliente": "ALMEIDA JR",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-12T11:40:22",
-      "modificado": "2026-05-12T14:10:24",
-      "idade_dias": 0,
-      "assunto": "Integração Movidesk x OTRS"
     },
     {
       "ticket": "2026051226000158",
@@ -2712,7 +2712,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-03-04T14:30:09",
       "modificado": "2026-05-06T10:50:01",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "Criar dados para ambiente demo Protheus"
     },
     {
@@ -3372,7 +3372,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-22T14:30:14",
       "modificado": "2026-04-27T09:42:55",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Ajuste no plugin de monitoramento gw_check_oracle.py, modo:autoextend_disabled"
     },
     {
@@ -6648,7 +6648,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-06T14:29:41",
       "modificado": "2026-02-14T05:00:25",
-      "idade_dias": 94,
+      "idade_dias": 95,
       "assunto": "Acesso"
     },
     {
@@ -8376,7 +8376,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-12-24T14:30:20",
       "modificado": "2026-01-07T05:00:23",
-      "idade_dias": 138,
+      "idade_dias": 139,
       "assunto": "Ticket AUTOZONE - Schedular job para limpeza das pastas RECEIVE_FILES do servidor SRV-MASTER-PRD - 10.228.128.6"
     },
     {
@@ -8556,7 +8556,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-10-09T14:28:58",
       "modificado": "2025-12-30T05:00:09",
-      "idade_dias": 214,
+      "idade_dias": 215,
       "assunto": "Integração Paytrack - Despesas/Reembolsos"
     },
     {
@@ -11760,7 +11760,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-22T14:27:49",
       "modificado": "2025-10-01T05:00:34",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "NK_Problemas com o uso"
     },
     {
@@ -13092,7 +13092,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-01T14:30:16",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "Verificar informação do gráfico"
     },
     {
@@ -14760,7 +14760,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-28T14:30:14",
       "modificado": "2025-08-06T05:00:30",
-      "idade_dias": 287,
+      "idade_dias": 288,
       "assunto": "Criação de guia para IS"
     },
     {
@@ -16572,7 +16572,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-16T14:28:37",
       "modificado": "2025-06-24T05:00:28",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "AZ - Erro Depreciação."
     },
     {
@@ -17328,7 +17328,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-20T14:30:18",
       "modificado": "2025-06-06T05:00:25",
-      "idade_dias": 356,
+      "idade_dias": 357,
       "assunto": "Implantação GWMS cliente BERNOULLI (TIS)."
     },
     {
@@ -17940,7 +17940,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-29T14:30:12",
       "modificado": "2025-05-27T05:00:20",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "Notas de entrada que movimentam Estoque e que não foram contabilizadas em PD08"
     },
     {
@@ -18024,7 +18024,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-15T14:30:21",
       "modificado": "2025-05-23T05:00:24",
-      "idade_dias": 361,
+      "idade_dias": 362,
       "assunto": "Revisão do monitoramento BRAVEO"
     },
     {
@@ -22848,7 +22848,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-01-15T14:30:03",
       "modificado": "2025-02-12T05:00:12",
-      "idade_dias": 481,
+      "idade_dias": 482,
       "assunto": "[BERNECK] Alteração no Grafana"
     },
     {
@@ -23568,7 +23568,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2025-01-20T14:30:12",
       "modificado": "2025-01-21T10:11:49",
-      "idade_dias": 476,
+      "idade_dias": 477,
       "assunto": "TESTE TICKET 0001"
     },
     {
@@ -25416,7 +25416,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-28T14:27:17",
       "modificado": "2024-12-05T15:30:11",
-      "idade_dias": 529,
+      "idade_dias": 530,
       "assunto": "Alteração de aprovador - Consórcio CS"
     },
     {
