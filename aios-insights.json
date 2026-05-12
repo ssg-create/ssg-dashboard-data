@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12T13:30:47.256728",
+  "generated_at": "2026-05-12T13:40:41.666167",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A taxa de conclusão está em <strong>56%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>105 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 102.0h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>segunda-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
+    "narrativa": "A taxa de conclusão está em <strong>56%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>105 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 102.0h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
     "kpis": [
       {
         "label": "Score Operacional",
@@ -26,7 +26,7 @@
       {
         "label": "Previsão 7 dias",
         "value": "~490/semana",
-        "sub": "pico: segunda-feira 9h",
+        "sub": "pico: terça-feira 9h",
         "color": "var(--purple)"
       }
     ],
@@ -40,7 +40,7 @@
     },
     "previsao": {
       "label": "~98/dia",
-      "desc": "pico: segunda-feira 9h"
+      "desc": "pico: terça-feira 9h"
     }
   },
   "riscos_operacionais": [
@@ -63,7 +63,7 @@
       "confianca": 95
     },
     {
-      "titulo": "Pico de volume na segunda-feira às 9h",
+      "titulo": "Pico de volume na terça-feira às 9h",
       "desc": "Concentração identificada neste intervalo. Sem escalonamento preventivo, a equipe absorve o pico com capacidade regular, elevando o tempo de resposta.",
       "nivel": "low",
       "confianca": 65
