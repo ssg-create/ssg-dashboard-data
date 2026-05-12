@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778615433,
-  "generated_at_iso": "2026-05-12T19:50:33Z",
-  "count": 5205,
+  "generated_at": 1778616044,
+  "generated_at_iso": "2026-05-12T20:00:44Z",
+  "count": 5206,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051226000318",
+      "assunto": "Refaz saldos - PD9 - USGAAP - 12.05.2026 - Pós report",
+      "criado": "2026-05-12T16:51:34",
+      "modificado": "2026-05-12T16:59:47",
+      "fila": "SSG",
+      "estado": "open",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "primeiro_nome": "Robert",
+      "ultimo_nome": "Rodrigues dos Santos",
+      "cli_id": "AUTOZONE",
+      "cli_user": "antonio.neto@autozone.com",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "fechado": null,
+      "resp_min_raw": 8,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": 8
+    },
     {
       "num": "2026051226000309",
       "assunto": "Erro de autenticação | Centreon Berneck Brasnorte",
@@ -13639,9 +13659,9 @@
       "num": "2026041426000371",
       "assunto": "Relatório de Lucratividade.",
       "criado": "2026-04-14T16:19:19",
-      "modificado": "2026-05-04T09:35:26",
+      "modificado": "2026-05-12T16:54:19",
       "fila": "DATASUL",
-      "estado": "melhoria",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Guilherme Rosa",
       "primeiro_nome": "Guilherme",
