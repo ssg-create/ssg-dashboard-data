@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778606425,
-  "generated_at_iso": "2026-05-12T17:20:25Z",
+  "generated_at": 1778606837,
+  "generated_at_iso": "2026-05-12T17:27:17Z",
   "count": 2362,
   "filas": [
     "DATASUL",
@@ -19,13 +19,37 @@
       "ticket": "2026051226000167",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
       "atendente": "Fabiano Souza",
       "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-12T14:17:19",
+      "modificado": "2026-05-12T14:26:38",
       "idade_dias": 0,
       "assunto": "Verificação de permissões Level2"
+    },
+    {
+      "ticket": "2026051226000176",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "4 high",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-12T10:56:27",
+      "modificado": "2026-05-12T14:24:12",
+      "idade_dias": 0,
+      "assunto": "Alteração no Dashboard PJE Geral"
+    },
+    {
+      "ticket": "2026050626000179",
+      "cliente": "TELETEX",
+      "fila": "DBA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-06T10:25:04",
+      "modificado": "2026-05-12T14:21:34",
+      "idade_dias": 6,
+      "assunto": "Atendimento Zurich - CS0016767"
     },
     {
       "ticket": "2026042326000451",
@@ -254,18 +278,6 @@
       "modificado": "2026-05-12T11:41:55",
       "idade_dias": 5,
       "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
-    },
-    {
-      "ticket": "2026051226000176",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-12T10:56:27",
-      "modificado": "2026-05-12T11:40:22",
-      "idade_dias": 0,
-      "assunto": "Alteração no Dashboard PJE Geral"
     },
     {
       "ticket": "2026050526000108",
@@ -600,7 +612,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2026-05-11T14:25:11",
       "modificado": "2026-05-12T09:37:35",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Move de datas - Apontamentos - Rech"
     },
     {
@@ -912,7 +924,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-28T14:25:16",
       "modificado": "2026-05-12T05:00:11",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Criação de nova visualização"
     },
     {
@@ -1562,18 +1574,6 @@
       "modificado": "2026-05-11T16:10:37",
       "idade_dias": 0,
       "assunto": "Criação de usuário parceiro"
-    },
-    {
-      "ticket": "2026050626000179",
-      "cliente": "TELETEX",
-      "fila": "DBA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-06T10:25:04",
-      "modificado": "2026-05-11T16:10:10",
-      "idade_dias": 6,
-      "assunto": "Atendimento Zurich - CS0016767"
     },
     {
       "ticket": "2026042226000104",
@@ -3936,7 +3936,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-04-07T14:24:26",
       "modificado": "2026-04-17T05:00:12",
-      "idade_dias": 34,
+      "idade_dias": 35,
       "assunto": "Verificação de monitoramento"
     },
     {
@@ -4416,7 +4416,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-19T14:23:30",
       "modificado": "2026-04-07T05:00:12",
-      "idade_dias": 234,
+      "idade_dias": 235,
       "assunto": "Geração do Reinf e MIT"
     },
     {
@@ -4452,7 +4452,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-27T14:25:08",
       "modificado": "2026-04-04T05:00:34",
-      "idade_dias": 45,
+      "idade_dias": 46,
       "assunto": "Inclusão de Contato no grupo de Whatsapp - GWMS Alertas - TOTVS HORACIUS"
     },
     {
@@ -5412,7 +5412,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-03-06T14:21:35",
       "modificado": "2026-03-18T05:00:22",
-      "idade_dias": 66,
+      "idade_dias": 67,
       "assunto": "Erro - DESCONTO 6 NÃO ESTÁ PUXANDO"
     },
     {
@@ -5496,7 +5496,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-02T14:25:12",
       "modificado": "2026-03-17T05:00:16",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "Erro - Baixa Manual"
     },
     {
@@ -6624,7 +6624,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-02-04T14:24:54",
       "modificado": "2026-02-17T05:00:29",
-      "idade_dias": 96,
+      "idade_dias": 97,
       "assunto": "AZ | Downgrade da Versão do WebAgent (1º HML e 2º PRD)"
     },
     {
@@ -6936,7 +6936,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-29T14:20:57",
       "modificado": "2026-02-06T05:00:45",
-      "idade_dias": 102,
+      "idade_dias": 103,
       "assunto": "Subsituição de aprovador do Protheus do MKT Continente Shopping"
     },
     {
@@ -8388,7 +8388,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-17T14:24:23",
       "modificado": "2026-01-07T05:00:21",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Protheus com erro"
     },
     {
@@ -11916,7 +11916,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-09-10T14:22:24",
       "modificado": "2025-09-30T05:00:21",
-      "idade_dias": 243,
+      "idade_dias": 244,
       "assunto": "[EXTERNAL] Re: AZ diferença na contabilização de ESTOQUE"
     },
     {
@@ -12672,7 +12672,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-09T14:25:06",
       "modificado": "2025-09-17T05:00:44",
-      "idade_dias": 244,
+      "idade_dias": 245,
       "assunto": "ENC: Migração TAF para Middleware"
     },
     {
@@ -13068,7 +13068,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-08-28T14:25:24",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 256,
+      "idade_dias": 257,
       "assunto": "Adicionar servidores monitoramento - ARCO"
     },
     {
@@ -13992,7 +13992,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-14T14:24:01",
       "modificado": "2025-08-22T05:00:17",
-      "idade_dias": 270,
+      "idade_dias": 271,
       "assunto": "AZ - CTB - PD13 AJUSTE DE BENS - BR (ZO) E US (ZP)"
     },
     {
@@ -14520,7 +14520,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-01T14:21:20",
       "modificado": "2025-08-09T05:00:22",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Acesso ao ambiente 05 faturamento (Protheus)"
     },
     {
@@ -15300,7 +15300,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-11T14:25:03",
       "modificado": "2025-07-22T05:00:27",
-      "idade_dias": 304,
+      "idade_dias": 305,
       "assunto": "Acesso ao Monitor"
     },
     {
@@ -16128,7 +16128,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-06-24T14:25:08",
       "modificado": "2025-07-02T05:00:26",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "Criação de portal para abertura de chamado Seconci"
     },
     {
@@ -16392,7 +16392,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-26T14:25:19",
       "modificado": "2025-06-26T14:25:21",
-      "idade_dias": 319,
+      "idade_dias": 320,
       "assunto": "AZ - ACESSO SERVIDOR TOTVS"
     },
     {
@@ -17052,7 +17052,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-04T14:25:13",
       "modificado": "2025-06-13T05:00:30",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "Inserção de certificado no monitoramento."
     },
     {
@@ -17256,7 +17256,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-22T14:25:05",
       "modificado": "2025-06-07T05:00:12",
-      "idade_dias": 354,
+      "idade_dias": 355,
       "assunto": "Re: Cadastro Fluig"
     },
     {
@@ -18984,7 +18984,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-22T14:25:11",
       "modificado": "2025-05-09T05:00:10",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "Servidores Core Fadel"
     },
     {
@@ -20172,7 +20172,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-04T14:25:14",
       "modificado": "2025-04-19T05:00:21",
-      "idade_dias": 402,
+      "idade_dias": 403,
       "assunto": "BERNECK | Migração de VMs de monitoramento"
     },
     {
@@ -22188,7 +22188,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-30T14:25:29",
       "modificado": "2025-03-02T05:00:08",
-      "idade_dias": 466,
+      "idade_dias": 467,
       "assunto": "Rejuste de contrato em Lote"
     },
     {
@@ -24264,7 +24264,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-20T14:25:10",
       "modificado": "2025-01-06T08:30:03",
-      "idade_dias": 507,
+      "idade_dias": 508,
       "assunto": "NF'S INTEGRADAS AZ"
     },
     {
@@ -25728,7 +25728,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-12T14:23:29",
       "modificado": "2024-11-21T14:00:12",
-      "idade_dias": 545,
+      "idade_dias": 546,
       "assunto": "Notas Inutilizadas constando como Canceladas"
     },
     {
