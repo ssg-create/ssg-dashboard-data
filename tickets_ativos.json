@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778545228,
-  "generated_at_iso": "2026-05-12T00:20:28Z",
-  "count": 2366,
+  "generated_at": 1778545832,
+  "generated_at_iso": "2026-05-12T00:30:32Z",
+  "count": 2367,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,14 +16,26 @@
   ],
   "rows": [
     {
+      "ticket": "2026051126000525",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-11T21:30:07",
+      "modificado": "2026-05-11T21:30:10",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051121281314"
+    },
+    {
       "ticket": "2026051126000516",
       "cliente": "AUTOZONE",
       "fila": "NOC",
-      "estado": "OPEN",
+      "estado": "AGUARDANDO CLIENTE",
       "prioridade": "3 normal",
       "atendente": "Jeferson Fretta",
       "criado": "2026-05-11T21:05:04",
-      "modificado": "2026-05-11T21:17:48",
+      "modificado": "2026-05-11T21:20:29",
       "idade_dias": 0,
       "assunto": "Confirmação de Downtime GWMS para Serviços AUTOZONE"
     },
@@ -1212,7 +1224,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-09T21:25:16",
       "modificado": "2026-05-11T08:33:58",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-MSQ01 - Load - 26050921232610"
     },
     {
@@ -5784,7 +5796,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-02-26T21:25:12",
       "modificado": "2026-03-10T05:00:29",
-      "idade_dias": 73,
+      "idade_dias": 74,
       "assunto": "NOVO TICKET AUTOZONE - ENC: Ticket AUTOZONE - Verificar problema no GWMS com placa de rede do servid [...]"
     },
     {
@@ -8916,7 +8928,7 @@
       "atendente": "Jeferson Fretta",
       "criado": "2025-12-14T21:30:06",
       "modificado": "2025-12-20T05:00:28",
-      "idade_dias": 147,
+      "idade_dias": 148,
       "assunto": "RE: ARCO - Alertas CRITICAL - 25121301063136"
     },
     {
@@ -12576,7 +12588,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-28T21:30:18",
       "modificado": "2025-09-19T05:00:26",
-      "idade_dias": 255,
+      "idade_dias": 256,
       "assunto": "Re: #TOTVS-SERVERS - ACESSO_POLLER_JV - tdn.totvs.com - authentication and response time - 25082820392834"
     },
     {
@@ -13536,7 +13548,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-14T21:25:16",
       "modificado": "2025-09-02T05:00:22",
-      "idade_dias": 269,
+      "idade_dias": 270,
       "assunto": "Erro gerar lote em 'transf. parte relac' - gp 30 e filial 302001"
     },
     {
