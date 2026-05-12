@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778605829,
-  "generated_at_iso": "2026-05-12T17:10:29Z",
+  "generated_at": 1778606425,
+  "generated_at_iso": "2026-05-12T17:20:25Z",
   "count": 2362,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000167",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-12T10:55:15",
+      "modificado": "2026-05-12T14:17:19",
+      "idade_dias": 0,
+      "assunto": "Verificação de permissões Level2"
+    },
+    {
+      "ticket": "2026042326000451",
+      "cliente": "BRAVEO",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-04-23T18:00:06",
+      "modificado": "2026-05-12T14:15:35",
+      "idade_dias": 18,
+      "assunto": "Inserir Servidor Monitoramento"
+    },
     {
       "ticket": "2026051226000194",
       "cliente": "ALMEIDA JR",
@@ -60,7 +84,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-07T14:11:59",
       "modificado": "2026-05-12T13:34:51",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa"
     },
     {
@@ -86,18 +110,6 @@
       "modificado": "2026-05-12T13:25:17",
       "idade_dias": 102,
       "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
-    },
-    {
-      "ticket": "2026051226000167",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-12T12:10:07",
-      "idade_dias": 0,
-      "assunto": "Verificação de permissões Level2"
     },
     {
       "ticket": "2026010826000262",
@@ -206,18 +218,6 @@
       "modificado": "2026-05-12T11:50:23",
       "idade_dias": 0,
       "assunto": "Plataformas Digitais / Zendesk Totvs Gestão"
-    },
-    {
-      "ticket": "2026042326000451",
-      "cliente": "BRAVEO",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-04-23T18:00:06",
-      "modificado": "2026-05-12T11:49:25",
-      "idade_dias": 18,
-      "assunto": "Inserir Servidor Monitoramento"
     },
     {
       "ticket": "2026050526000242",
@@ -756,7 +756,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-29T14:19:25",
       "modificado": "2026-05-12T05:00:21",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
@@ -1332,7 +1332,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-28T14:19:11",
       "modificado": "2026-05-11T18:59:08",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
@@ -3516,7 +3516,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-15T14:15:06",
       "modificado": "2026-04-24T05:00:22",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Alinhamento: Processo de Contatos Telefônicos"
     },
     {
@@ -10032,7 +10032,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-24T14:15:06",
       "modificado": "2025-11-17T05:00:17",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "RES: Book Indicadores"
     },
     {
@@ -13056,7 +13056,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-25T14:15:09",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 259,
+      "idade_dias": 260,
       "assunto": "Monitoramento BGP"
     },
     {
@@ -13848,7 +13848,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-13T14:13:58",
       "modificado": "2025-08-27T05:00:27",
-      "idade_dias": 271,
+      "idade_dias": 272,
       "assunto": "Reprocessamento notas"
     },
     {
@@ -13920,7 +13920,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-14T14:15:18",
       "modificado": "2025-08-23T05:00:19",
-      "idade_dias": 270,
+      "idade_dias": 271,
       "assunto": "ENC: ERROS EFD REINF 07.2025 CONTINENTAL"
     },
     {
@@ -16212,7 +16212,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T14:19:36",
       "modificado": "2025-07-02T05:00:15",
-      "idade_dias": 327,
+      "idade_dias": 328,
       "assunto": "ESSENTIA | Problemas com dashboard"
     },
     {
@@ -16344,7 +16344,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-17T14:11:23",
       "modificado": "2025-06-28T05:00:21",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "Alteração dos dados dos títulos"
     },
     {
@@ -18684,7 +18684,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-04T14:16:53",
       "modificado": "2025-05-13T05:00:25",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "Extrator fiscal"
     },
     {
@@ -18816,7 +18816,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-30T14:20:22",
       "modificado": "2025-05-12T05:00:19",
-      "idade_dias": 376,
+      "idade_dias": 377,
       "assunto": "AZ - Liberar acesso ao OTRS GW"
     },
     {
@@ -19404,7 +19404,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T14:20:14",
       "modificado": "2025-05-01T05:00:24",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "PAM Acessos"
     },
     {
@@ -19536,7 +19536,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-22T14:20:12",
       "modificado": "2025-04-30T05:00:17",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "Verificar alertas Braveo"
     },
     {
@@ -21912,7 +21912,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-24T14:19:46",
       "modificado": "2025-03-08T05:00:16",
-      "idade_dias": 441,
+      "idade_dias": 442,
       "assunto": "AZ - Incluir campos dt.baixa e juros no FINR190."
     },
     {
@@ -22896,7 +22896,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-03T14:15:15",
       "modificado": "2025-02-11T05:00:12",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Alteração acionamento - TOTVS"
     },
     {
@@ -23052,7 +23052,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-29T14:20:20",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 467,
+      "idade_dias": 468,
       "assunto": "Re: Erro refaz saldos BrGaap- Ago/24"
     },
     {
@@ -23124,7 +23124,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-01-28T14:15:09",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "859224 - Bordero indevido no contas a receber (Processo RV) - HOMOLOGAÇÂO"
     },
     {
@@ -23232,7 +23232,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-22T14:13:18",
       "modificado": "2025-02-09T05:00:16",
-      "idade_dias": 474,
+      "idade_dias": 475,
       "assunto": "AZ - Erro Conta Contábil 54625 - Lançamento Sem Store  - verificar o LP 562-01"
     },
     {
@@ -23832,7 +23832,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-08T14:13:01",
       "modificado": "2025-01-15T15:30:08",
-      "idade_dias": 488,
+      "idade_dias": 489,
       "assunto": "Vencimentos das Parcelas errados - Cond Pag"
     },
     {
@@ -23868,7 +23868,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-01T14:16:30",
       "modificado": "2025-01-15T13:30:03",
-      "idade_dias": 587,
+      "idade_dias": 588,
       "assunto": "Importação SAT"
     },
     {
@@ -25056,7 +25056,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-10T14:20:24",
       "modificado": "2024-12-17T15:30:13",
-      "idade_dias": 517,
+      "idade_dias": 518,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 24121014181458"
     },
     {
@@ -25572,7 +25572,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-14T14:15:46",
       "modificado": "2024-11-29T18:30:04",
-      "idade_dias": 543,
+      "idade_dias": 544,
       "assunto": "Contabilização Errada - Cond. NS 10.2024"
     },
     {
@@ -28164,7 +28164,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-09-05T14:20:07",
       "modificado": "2024-09-17T11:30:15",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "Dashboards para Atento"
     },
     {
