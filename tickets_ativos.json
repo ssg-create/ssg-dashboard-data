@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778584225,
-  "generated_at_iso": "2026-05-12T11:10:25Z",
-  "count": 2369,
+  "generated_at": 1778584828,
+  "generated_at_iso": "2026-05-12T11:20:28Z",
+  "count": 2370,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042926000128",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-29T09:50:04",
+      "modificado": "2026-05-12T08:19:50",
+      "idade_dias": 12,
+      "assunto": "Movimentações Itaú 03/2026."
+    },
+    {
+      "ticket": "2026050826000031",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Marcelo David",
+      "criado": "2026-05-08T08:21:33",
+      "modificado": "2026-05-12T08:16:27",
+      "idade_dias": 3,
+      "assunto": "Progress OpenEdge - Vulnerabilidade"
+    },
+    {
+      "ticket": "2026051226000041",
+      "cliente": "cyntia.maia@totvs.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T08:15:13",
+      "modificado": "2026-05-12T08:15:15",
+      "idade_dias": 0,
+      "assunto": "Plataformas Digitais / Zendesk Totvs Gestão"
+    },
     {
       "ticket": "2026051126000481",
       "cliente": "TOTVS",
@@ -384,7 +420,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-07T08:13:00",
       "modificado": "2026-05-12T05:00:11",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "EXCLUSÃO DE TITULO A PAGAR"
     },
     {
@@ -972,7 +1008,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2026-05-04T08:15:14",
       "modificado": "2026-05-11T17:47:03",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Downtime monitoramento Central de Clientes"
     },
     {
@@ -1108,18 +1144,6 @@
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
     },
     {
-      "ticket": "2026042926000128",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-29T09:50:04",
-      "modificado": "2026-05-11T16:25:08",
-      "idade_dias": 12,
-      "assunto": "Movimentações Itaú 03/2026."
-    },
-    {
       "ticket": "2026041626000198",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1238,18 +1262,6 @@
       "modificado": "2026-05-11T15:38:17",
       "idade_dias": 2,
       "assunto": "MAQUINA INOPERANTE - hstbrvdim030044"
-    },
-    {
-      "ticket": "2026050826000031",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Marcelo David",
-      "criado": "2026-05-08T08:21:33",
-      "modificado": "2026-05-11T15:25:14",
-      "idade_dias": 3,
-      "assunto": "Progress OpenEdge - Vulnerabilidade"
     },
     {
       "ticket": "2026050726000499",
@@ -2424,7 +2436,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2025-11-11T08:15:07",
       "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 181,
+      "idade_dias": 182,
       "assunto": "Re: DEVOLUÇÕES"
     },
     {
@@ -5748,7 +5760,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-03-02T08:15:09",
       "modificado": "2026-03-12T05:00:23",
-      "idade_dias": 70,
+      "idade_dias": 71,
       "assunto": "RES: AD - Perfil Copia de Perfil para criar perfil de estagiario.labeletronica"
     },
     {
@@ -6912,7 +6924,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-01-26T08:15:20",
       "modificado": "2026-02-11T05:00:23",
-      "idade_dias": 105,
+      "idade_dias": 106,
       "assunto": "ARCO - Alertas UNKNOWN - 26012608095231"
     },
     {
@@ -7644,7 +7656,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-01-19T08:15:20",
       "modificado": "2026-01-28T05:00:33",
-      "idade_dias": 112,
+      "idade_dias": 113,
       "assunto": "ALERTA CLIENTE ARCO"
     },
     {
@@ -10392,7 +10404,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-10-27T08:20:17",
       "modificado": "2025-11-08T05:00:31",
-      "idade_dias": 196,
+      "idade_dias": 197,
       "assunto": "ENC: Inclusão de VM no monitoramento."
     },
     {
@@ -13536,7 +13548,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-20T08:18:12",
       "modificado": "2025-09-03T05:00:26",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "Erro - Baixa de titulo em bordero"
     },
     {
@@ -13800,7 +13812,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-19T08:14:22",
       "modificado": "2025-08-27T18:24:05",
-      "idade_dias": 265,
+      "idade_dias": 266,
       "assunto": "BANRISUL - BANCO DO ESTADO DO RIO GRANDE DO SUL S.A | Criação de monitoração na aplicação SOAR do cliente Banrisul na Infra da TLTX."
     },
     {
@@ -14460,7 +14472,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-08-01T08:15:21",
       "modificado": "2025-08-14T05:00:25",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "PROBLEMA HORARIO"
     },
     {
@@ -15564,7 +15576,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-07-16T08:20:24",
       "modificado": "2025-07-16T08:20:27",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "ERRO - IMPORTAÇÃO ARQUIVO RETORNO SITEF"
     },
     {
@@ -17376,7 +17388,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-29T08:15:22",
       "modificado": "2025-06-06T05:00:30",
-      "idade_dias": 347,
+      "idade_dias": 348,
       "assunto": "Select contas de Ativo"
     },
     {
@@ -18756,7 +18768,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-05T08:11:48",
       "modificado": "2025-05-13T05:00:26",
-      "idade_dias": 371,
+      "idade_dias": 372,
       "assunto": "Mudança de filial no Protheus"
     },
     {
@@ -21792,7 +21804,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-04T08:12:17",
       "modificado": "2025-03-13T05:00:20",
-      "idade_dias": 433,
+      "idade_dias": 434,
       "assunto": "Acesso ao Protheus"
     },
     {
@@ -23112,7 +23124,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2025-01-22T08:15:24",
       "modificado": "2025-02-10T05:00:07",
-      "idade_dias": 474,
+      "idade_dias": 475,
       "assunto": "ENC: Revisão Alertas Braveo"
     },
     {
@@ -23400,7 +23412,7 @@
       "atendente": "Alisson Silva",
       "criado": "2025-01-14T08:19:47",
       "modificado": "2025-02-09T05:00:12",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "CSC Filial - Valores entre emissão do título e baixa com rateio"
     },
     {
@@ -24912,7 +24924,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2024-12-12T08:10:50",
       "modificado": "2024-12-20T19:00:11",
-      "idade_dias": 515,
+      "idade_dias": 516,
       "assunto": "Ajustes DashBoard"
     },
     {
@@ -27828,7 +27840,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-16T08:20:22",
       "modificado": "2024-09-30T10:00:16",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "Monitoramento de atividade de VM (ping)"
     },
     {
