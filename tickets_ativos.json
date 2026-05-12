@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778573429,
-  "generated_at_iso": "2026-05-12T08:10:29Z",
+  "generated_at": 1778574027,
+  "generated_at_iso": "2026-05-12T08:20:27Z",
   "count": 2369,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000032",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T05:00:09",
+      "modificado": "2026-05-12T05:15:37",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051204561525"
+    },
     {
       "ticket": "2026050426000271",
       "cliente": "BRAVEO",
@@ -86,18 +98,6 @@
       "modificado": "2026-05-12T05:00:16",
       "idade_dias": 28,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
-    },
-    {
-      "ticket": "2026051226000032",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T05:00:09",
-      "modificado": "2026-05-12T05:00:14",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051204561525"
     },
     {
       "ticket": "2026043026000321",
@@ -888,7 +888,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-11T05:15:14",
       "modificado": "2026-05-11T18:16:38",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
     },
     {
@@ -16920,7 +16920,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-08T05:20:05",
       "modificado": "2025-06-18T05:00:16",
-      "idade_dias": 337,
+      "idade_dias": 338,
       "assunto": "ARCO - Poller02 - Load - 25060805165820"
     },
     {
@@ -20772,7 +20772,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-03-30T05:15:07",
       "modificado": "2025-04-08T05:00:12",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "#TOTVS-SERVERS - Alertas CRITICAL - 25033005112025"
     },
     {
