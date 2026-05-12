@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778585431,
-  "generated_at_iso": "2026-05-12T11:30:31Z",
+  "generated_at": 1778586023,
+  "generated_at_iso": "2026-05-12T11:40:23Z",
   "count": 2370,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050426000281",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-04T14:08:45",
+      "modificado": "2026-05-12T08:30:48",
+      "idade_dias": 7,
+      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
+    },
     {
       "ticket": "2026050726000113",
       "cliente": "GDBR",
@@ -276,7 +288,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-04T08:40:17",
       "modificado": "2026-05-12T05:00:12",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Entendimento de alertas"
     },
     {
@@ -640,18 +652,6 @@
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
     },
     {
-      "ticket": "2026050426000281",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-04T14:08:45",
-      "modificado": "2026-05-12T05:00:10",
-      "idade_dias": 7,
-      "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
-    },
-    {
       "ticket": "2026050526000528",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -720,7 +720,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-02T08:35:38",
       "modificado": "2026-05-12T05:00:09",
-      "idade_dias": 39,
+      "idade_dias": 40,
       "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
@@ -3708,7 +3708,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T08:31:48",
       "modificado": "2026-04-22T09:14:40",
-      "idade_dias": 21,
+      "idade_dias": 22,
       "assunto": "E-mails do portal não estão disparando"
     },
     {
@@ -4920,7 +4920,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-16T08:40:12",
       "modificado": "2026-03-25T05:00:26",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "RE: Revisão GWMS"
     },
     {
@@ -4932,7 +4932,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-16T08:40:10",
       "modificado": "2026-03-25T05:00:25",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "Cliente GDBR Monitoramento Desatualizado"
     },
     {
@@ -6240,7 +6240,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-19T08:32:53",
       "modificado": "2026-02-28T05:00:26",
-      "idade_dias": 81,
+      "idade_dias": 82,
       "assunto": "BERNECK - BRASNORTE | Alertas Docker container"
     },
     {
@@ -7308,7 +7308,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-23T08:37:06",
       "modificado": "2026-02-03T05:00:23",
-      "idade_dias": 108,
+      "idade_dias": 109,
       "assunto": "Possivel inconsistência no sistema - baixa CEA NS - baixa 21/01/2026"
     },
     {
@@ -8232,7 +8232,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-01-05T08:35:14",
       "modificado": "2026-01-13T05:00:39",
-      "idade_dias": 126,
+      "idade_dias": 127,
       "assunto": "RES: RES: RES: Mapeamento - HD Mídias"
     },
     {
@@ -10296,7 +10296,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-03T08:38:20",
       "modificado": "2025-11-12T05:00:25",
-      "idade_dias": 189,
+      "idade_dias": 190,
       "assunto": "RPWs Clássicos Desativados"
     },
     {
@@ -12264,7 +12264,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-16T08:31:57",
       "modificado": "2025-09-24T05:00:35",
-      "idade_dias": 237,
+      "idade_dias": 238,
       "assunto": "ATUALIZAR PART NUMBER"
     },
     {
@@ -14052,7 +14052,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-01T08:36:48",
       "modificado": "2025-08-23T05:00:14",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Problema para acessar o Protheus"
     },
     {
@@ -14520,7 +14520,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-01T08:40:10",
       "modificado": "2025-08-13T05:00:18",
-      "idade_dias": 283,
+      "idade_dias": 284,
       "assunto": "Cancelamento/Inutilização de Notas"
     },
     {
@@ -15684,7 +15684,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-16T08:35:12",
       "modificado": "2025-07-15T05:00:24",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "PD11 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -16908,7 +16908,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-11T08:38:49",
       "modificado": "2025-06-19T05:00:16",
-      "idade_dias": 395,
+      "idade_dias": 396,
       "assunto": "EFD Contribuições - Almeida Junior"
     },
     {
@@ -18264,7 +18264,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-08T08:31:47",
       "modificado": "2025-05-22T05:00:14",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "IMPORTADOR PROTHEUS GRUPO 80"
     },
     {
@@ -22224,7 +22224,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-02-24T08:35:08",
       "modificado": "2025-03-04T05:00:04",
-      "idade_dias": 441,
+      "idade_dias": 442,
       "assunto": "REINF"
     },
     {
@@ -22344,7 +22344,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-18T08:38:04",
       "modificado": "2025-02-28T05:00:15",
-      "idade_dias": 447,
+      "idade_dias": 448,
       "assunto": "Notas importadas errada"
     },
     {
@@ -24900,7 +24900,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-16T08:35:05",
       "modificado": "2024-12-23T09:30:08",
-      "idade_dias": 511,
+      "idade_dias": 512,
       "assunto": "Liberar acesso ao Dash de Proposta"
     },
     {
@@ -26040,7 +26040,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2024-11-08T08:40:14",
       "modificado": "2024-11-18T13:30:07",
-      "idade_dias": 549,
+      "idade_dias": 550,
       "assunto": "Re: INTEGRAÇÃO DE XML - NFSE [URGENTE]"
     },
     {
