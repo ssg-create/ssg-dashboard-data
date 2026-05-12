@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778549427,
-  "generated_at_iso": "2026-05-12T01:30:27Z",
+  "generated_at": 1778550034,
+  "generated_at_iso": "2026-05-12T01:40:34Z",
   "count": 5197,
   "filas": [
     "DATASUL",
@@ -359,9 +359,9 @@
       "num": "2026051126000356",
       "assunto": "Verificação de coleta dos hosts abaixo:",
       "criado": "2026-05-11T15:05:55",
-      "modificado": "2026-05-11T15:51:23",
+      "modificado": "2026-05-11T22:38:09",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "4 high",
       "atendente": "Joao Santos",
       "primeiro_nome": "Joao",
@@ -370,10 +370,10 @@
       "cli_user": "adson.macedo@teletex.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::Agente GWMS",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 452,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 174
     },
     {
       "num": "2026051126000347",
