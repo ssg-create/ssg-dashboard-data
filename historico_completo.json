@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778622034,
-  "generated_at_iso": "2026-05-12T21:40:34Z",
-  "count": 5208,
+  "generated_at": 1778622631,
+  "generated_at_iso": "2026-05-12T21:50:31Z",
+  "count": 5209,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051226000416",
+      "assunto": "Berneck - case CS0017116",
+      "criado": "2026-05-12T18:50:20",
+      "modificado": "2026-05-12T18:50:22",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "servicedesk@teletex.com",
+      "cli_user": "servicedesk@teletex.com",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051226000407",
       "assunto": "Inclusão do Servidor de Banco de Dados PostgreSQL ao GWMS - IMCD",
@@ -739,9 +759,9 @@
       "num": "2026051126000454",
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA",
       "criado": "2026-05-11T16:50:11",
-      "modificado": "2026-05-12T14:35:11",
+      "modificado": "2026-05-12T18:44:19",
       "fila": "GWMS",
-      "estado": "retorno cliente",
+      "estado": "aguardando cliente",
       "prioridade": "3 normal",
       "atendente": "Joao Santos",
       "primeiro_nome": "Joao",
@@ -750,10 +770,10 @@
       "cli_user": "marcio.guimaraes@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 1554,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 609
     },
     {
       "num": "2026051126000445",
