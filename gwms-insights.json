@@ -1,31 +1,12 @@
 {
-  "generated_at": 1778588441,
-  "generated_at_iso": "2026-05-12T12:20:41Z",
+  "generated_at": 1778589070,
+  "generated_at_iso": "2026-05-12T12:31:10Z",
   "counts": {
     "crit": 1,
-    "warn": 3,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
-    {
-      "id": "sobrecarga_Bruno_Fagundes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Bruno Fagundes com carga real de 5 tickets",
-      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 9 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Bruno Fagundes",
-          "carga_real": 5,
-          "em_atendimento": 0,
-          "abertos": 5,
-          "aguardando_terceiros": 9,
-          "ativos_total": 14
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
