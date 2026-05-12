@@ -1,31 +1,12 @@
 {
-  "generated_at": 1778586030,
-  "generated_at_iso": "2026-05-12T11:40:30Z",
+  "generated_at": 1778586638,
+  "generated_at_iso": "2026-05-12T11:50:38Z",
   "counts": {
     "crit": 1,
     "warn": 3,
     "ok": 0
   },
   "insights": [
-    {
-      "id": "sobrecarga_Jean_Pierre_Rocha",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 11 tickets",
-      "summary": "Jean Pierre Rocha tem 11 tickets ativos sob sua responsabilidade: 3 em atendimento + 8 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Jean Pierre Rocha",
-          "carga_real": 11,
-          "em_atendimento": 3,
-          "abertos": 8,
-          "aguardando_terceiros": 0,
-          "ativos_total": 11
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
     {
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "warn",
@@ -39,6 +20,25 @@
           "em_atendimento": 1,
           "abertos": 6,
           "aguardando_terceiros": 4,
+          "ativos_total": 11
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Jean_Pierre_Rocha",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Jean Pierre Rocha com carga real de 11 tickets",
+      "summary": "Jean Pierre Rocha tem 11 tickets ativos sob sua responsabilidade: 3 em atendimento + 8 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Jean Pierre Rocha",
+          "carga_real": 11,
+          "em_atendimento": 3,
+          "abertos": 8,
+          "aguardando_terceiros": 0,
           "ativos_total": 11
         }
       ],
