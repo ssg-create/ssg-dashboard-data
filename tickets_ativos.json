@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778598899,
-  "generated_at_iso": "2026-05-12T15:14:59Z",
+  "generated_at": 1778599223,
+  "generated_at_iso": "2026-05-12T15:20:23Z",
   "count": 2364,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026012926000455",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Tiago Silva",
+      "criado": "2026-01-29T18:25:55",
+      "modificado": "2026-05-12T12:15:09",
+      "idade_dias": 102,
+      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
+    },
     {
       "ticket": "2026051226000167",
       "cliente": "FADEL",
@@ -180,7 +192,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-05T12:20:08",
       "modificado": "2026-05-12T11:46:01",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Falha na importação de Pedidos de Vendas"
     },
     {
@@ -1404,7 +1416,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-11T12:15:12",
       "modificado": "2026-05-11T18:01:52",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Alteração de Porta Monitoramento GWMS - AUTOZONE"
     },
     {
@@ -1802,18 +1814,6 @@
       "modificado": "2026-05-11T10:52:58",
       "idade_dias": 56,
       "assunto": "CIAP - loja 150"
-    },
-    {
-      "ticket": "2026012926000455",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Tiago Silva",
-      "criado": "2026-01-29T18:25:55",
-      "modificado": "2026-05-11T10:46:10",
-      "idade_dias": 102,
-      "assunto": "LP - TES COMPLEMENTO DE ICMS + IPI"
     },
     {
       "ticket": "2026041426000389",
@@ -2760,7 +2760,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-27T12:20:10",
       "modificado": "2026-05-06T09:48:26",
-      "idade_dias": 45,
+      "idade_dias": 46,
       "assunto": "Ajuste Monitoria Grupo AD"
     },
     {
@@ -2904,7 +2904,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-04-01T12:19:14",
       "modificado": "2026-05-06T05:00:17",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "Implantação de um PE"
     },
     {
@@ -4332,7 +4332,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-04-08T12:20:22",
       "modificado": "2026-04-08T12:20:27",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "[EXTERNAL]  [AutoZone - PD08 - FY26] - Rotina de custos USGAAP"
     },
     {
@@ -4740,7 +4740,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-19T12:15:23",
       "modificado": "2026-03-27T05:00:29",
-      "idade_dias": 53,
+      "idade_dias": 54,
       "assunto": "Criação de portal para abertura de chamado - Atitus"
     },
     {
@@ -5172,7 +5172,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-11-13T12:15:10",
       "modificado": "2026-03-20T05:00:21",
-      "idade_dias": 179,
+      "idade_dias": 180,
       "assunto": "RES: RES: [EXTERNAL] Re: AZ - PAGAR - Erro Rateio cartão de crédito"
     },
     {
@@ -7668,7 +7668,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-01-14T12:15:21",
       "modificado": "2026-01-24T05:00:16",
-      "idade_dias": 117,
+      "idade_dias": 118,
       "assunto": "Ajustes dashboard de Nobreaks - ARCO"
     },
     {
@@ -9420,7 +9420,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2025-11-30T12:15:08",
       "modificado": "2025-12-08T05:00:21",
-      "idade_dias": 162,
+      "idade_dias": 163,
       "assunto": "#TOTVS-NETWORK - Alertas HOST DOWN - 25113012105119"
     },
     {
@@ -13812,7 +13812,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-08-15T12:20:07",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 269,
+      "idade_dias": 270,
       "assunto": "RES: Acesso ao GWMS"
     },
     {
@@ -15852,7 +15852,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-01T12:20:18",
       "modificado": "2025-07-09T05:00:22",
-      "idade_dias": 314,
+      "idade_dias": 315,
       "assunto": "RE: SELECT_51061"
     },
     {
@@ -17016,7 +17016,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-04T12:19:47",
       "modificado": "2025-06-14T05:00:16",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "Importação paytrack com diferença no rateio e título a pagar"
     },
     {
@@ -17052,7 +17052,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-21T12:20:22",
       "modificado": "2025-06-14T05:00:09",
-      "idade_dias": 355,
+      "idade_dias": 356,
       "assunto": "Extração de dados."
     },
     {
@@ -17388,7 +17388,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-28T12:16:47",
       "modificado": "2025-06-05T05:00:24",
-      "idade_dias": 348,
+      "idade_dias": 349,
       "assunto": "Vencimento PA - trava"
     },
     {
@@ -19128,7 +19128,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-28T12:15:07",
       "modificado": "2025-05-06T05:00:23",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "[TOTVS] - EXCLUSÃO MONITORAMENTO"
     },
     {
@@ -19200,7 +19200,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-04T12:15:05",
       "modificado": "2025-05-04T13:13:45",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 25050412134782"
     },
     {
@@ -20076,7 +20076,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-11T12:20:21",
       "modificado": "2025-04-22T05:00:22",
-      "idade_dias": 395,
+      "idade_dias": 396,
       "assunto": "Cliente Fadel - Host HSTBRVDIM030015 alguns serviços Erro getting Data"
     },
     {
@@ -20784,7 +20784,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-30T12:18:51",
       "modificado": "2025-04-06T05:00:09",
-      "idade_dias": 466,
+      "idade_dias": 467,
       "assunto": "NOTA FISCAL DE DEVOLUÇÃO"
     },
     {
@@ -21756,7 +21756,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-25T12:15:12",
       "modificado": "2025-03-13T05:00:19",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "Criação monitoramento ZTNA CloudFlare"
     },
     {
@@ -22164,7 +22164,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-21T12:15:50",
       "modificado": "2025-03-04T05:00:04",
-      "idade_dias": 444,
+      "idade_dias": 445,
       "assunto": "Filial 0170 - Emissão de nota"
     },
     {
@@ -23412,7 +23412,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-12-02T12:15:22",
       "modificado": "2025-02-09T05:00:09",
-      "idade_dias": 525,
+      "idade_dias": 526,
       "assunto": "Querys - Receita Recorrente Totvs"
     },
     {
@@ -23460,7 +23460,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-22T12:15:12",
       "modificado": "2025-02-07T05:00:15",
-      "idade_dias": 474,
+      "idade_dias": 475,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -25608,7 +25608,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-11-29T12:15:12",
       "modificado": "2024-11-29T14:01:18",
-      "idade_dias": 528,
+      "idade_dias": 529,
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 24112912144599"
     },
     {
@@ -25812,7 +25812,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2024-11-04T12:15:20",
       "modificado": "2024-11-20T19:00:17",
-      "idade_dias": 553,
+      "idade_dias": 554,
       "assunto": "ARCO - desenvolvimento de plugin - switch/AP"
     },
     {
@@ -27888,7 +27888,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-18T12:20:04",
       "modificado": "2024-09-25T16:30:02",
-      "idade_dias": 600,
+      "idade_dias": 601,
       "assunto": "RES: chamado Autozone"
     },
     {
@@ -28140,7 +28140,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-04T12:20:09",
       "modificado": "2024-09-18T15:00:03",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "parametrização"
     },
     {
