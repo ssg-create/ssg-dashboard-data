@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778584828,
-  "generated_at_iso": "2026-05-12T11:20:28Z",
+  "generated_at": 1778585431,
+  "generated_at_iso": "2026-05-12T11:30:31Z",
   "count": 2370,
   "filas": [
     "DATASUL",
@@ -15,6 +15,42 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000113",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-07T09:02:50",
+      "modificado": "2026-05-12T08:28:37",
+      "idade_dias": 4,
+      "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
+    },
+    {
+      "ticket": "2026051126000294",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-11T14:03:02",
+      "modificado": "2026-05-12T08:27:15",
+      "idade_dias": 0,
+      "assunto": "Select - Combo rules  - W4 PD09 FY26 - pt3"
+    },
+    {
+      "ticket": "2026051226000041",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T08:15:13",
+      "modificado": "2026-05-12T08:24:44",
+      "idade_dias": 0,
+      "assunto": "Plataformas Digitais / Zendesk Totvs Gestão"
+    },
     {
       "ticket": "2026042926000128",
       "cliente": "FINPEC",
@@ -36,20 +72,8 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-08T08:21:33",
       "modificado": "2026-05-12T08:16:27",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Progress OpenEdge - Vulnerabilidade"
-    },
-    {
-      "ticket": "2026051226000041",
-      "cliente": "cyntia.maia@totvs.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-12T08:15:13",
-      "modificado": "2026-05-12T08:15:15",
-      "idade_dias": 0,
-      "assunto": "Plataformas Digitais / Zendesk Totvs Gestão"
     },
     {
       "ticket": "2026051126000481",
@@ -290,18 +314,6 @@
       "modificado": "2026-05-12T05:00:12",
       "idade_dias": 3,
       "assunto": "Civil BS - Lançamentos não contabilizaram o IC e o C custo"
-    },
-    {
-      "ticket": "2026050726000113",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Debora Gomes",
-      "criado": "2026-05-07T09:02:50",
-      "modificado": "2026-05-12T05:00:12",
-      "idade_dias": 4,
-      "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
     },
     {
       "ticket": "2026050426000226",
@@ -684,7 +696,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-30T08:30:27",
       "modificado": "2026-05-12T05:00:09",
-      "idade_dias": 11,
+      "idade_dias": 12,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
@@ -1358,18 +1370,6 @@
       "modificado": "2026-05-11T14:20:14",
       "idade_dias": 14,
       "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
-    },
-    {
-      "ticket": "2026051126000294",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-11T14:03:02",
-      "modificado": "2026-05-11T14:18:23",
-      "idade_dias": 0,
-      "assunto": "Select - Combo rules  - W4 PD09 FY26 - pt3"
     },
     {
       "ticket": "2026051126000285",
@@ -2640,7 +2640,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-05T08:30:19",
       "modificado": "2026-05-07T08:29:12",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Fwd: #TOTVS-SERVERS - SGTC_X_JAMF - SGTC X JAMF - Total Mac Computers - 26050309322921"
     },
     {
@@ -2928,7 +2928,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-27T08:26:47",
       "modificado": "2026-05-06T05:00:20",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Erro de  -L no servidor"
     },
     {
@@ -4752,7 +4752,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-23T08:30:09",
       "modificado": "2026-03-31T05:00:31",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Acesso ao OTRS"
     },
     {
@@ -5736,7 +5736,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-03T08:30:05",
       "modificado": "2026-03-12T05:00:26",
-      "idade_dias": 69,
+      "idade_dias": 70,
       "assunto": "Re: #TOTVS-SERVERS - Alertas UNKNOWN - 26030306494210"
     },
     {
@@ -6300,7 +6300,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-18T08:30:15",
       "modificado": "2026-02-26T05:00:14",
-      "idade_dias": 82,
+      "idade_dias": 83,
       "assunto": "Certificado digital Lucas do Rio Verde - CNPJ 29.886.187/0052-02"
     },
     {
@@ -9600,7 +9600,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-11-24T08:28:32",
       "modificado": "2025-12-05T05:00:32",
-      "idade_dias": 168,
+      "idade_dias": 169,
       "assunto": "INTEGRAÇÃO SIENGE X PROTHEUS (CONTRATO VENDAS)"
     },
     {
@@ -12732,7 +12732,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-04T08:26:33",
       "modificado": "2025-09-18T05:00:17",
-      "idade_dias": 249,
+      "idade_dias": 250,
       "assunto": "Data de Vencimento dos Impostos"
     },
     {
@@ -13104,7 +13104,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-09-04T08:30:13",
       "modificado": "2025-09-12T05:00:28",
-      "idade_dias": 249,
+      "idade_dias": 250,
       "assunto": "Poder de Terceiros Yamaha / Solicitação de Reunião - Melhor Entendimento da Demanda"
     },
     {
@@ -13224,7 +13224,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-26T08:25:09",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 258,
+      "idade_dias": 259,
       "assunto": "Validação de Monitoramento Hosts Hyper-V + Saúde de Hardware via IPMI"
     },
     {
@@ -14892,7 +14892,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T08:30:23",
       "modificado": "2025-08-06T05:00:26",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "PD12 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -16584,7 +16584,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-17T08:23:17",
       "modificado": "2025-06-25T05:00:17",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "Novo usuário Emmanuel Silvano"
     },
     {
@@ -19188,7 +19188,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-06T08:30:10",
       "modificado": "2025-05-06T08:30:13",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "Alteração de Data "
     },
     {
@@ -19392,7 +19392,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-04-24T08:30:25",
       "modificado": "2025-05-02T05:00:24",
-      "idade_dias": 382,
+      "idade_dias": 383,
       "assunto": "AutoZone | Robô inoperante"
     },
     {
@@ -21780,7 +21780,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-03-13T08:30:16",
       "modificado": "2025-03-13T08:30:19",
-      "idade_dias": 424,
+      "idade_dias": 425,
       "assunto": "Configuração Protheus "
     },
     {
@@ -23292,7 +23292,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-01-27T08:30:13",
       "modificado": "2025-02-09T05:00:17",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "Monitoramento externo links"
     },
     {
@@ -24024,7 +24024,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-01-14T08:30:11",
       "modificado": "2025-01-14T08:30:15",
-      "idade_dias": 482,
+      "idade_dias": 483,
       "assunto": "Erro Rotina de Depreciação US"
     },
     {
@@ -26328,7 +26328,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-11-05T08:28:49",
       "modificado": "2024-11-13T06:30:01",
-      "idade_dias": 552,
+      "idade_dias": 553,
       "assunto": "Alteração de favorecido"
     },
     {
@@ -28308,7 +28308,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-23T08:25:16",
       "modificado": "2024-09-16T14:00:02",
-      "idade_dias": 626,
+      "idade_dias": 627,
       "assunto": "MONITORAMENTO NOTAS DE REVENDA - TAX ID"
     },
     {
@@ -28428,7 +28428,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2024-09-05T08:25:21",
       "modificado": "2024-09-13T09:00:16",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "jirasqlserverxqefunq5nxru2.database.windows.net"
     },
     {
