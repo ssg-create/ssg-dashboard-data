@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778589068,
-  "generated_at_iso": "2026-05-12T12:31:08Z",
+  "generated_at": 1778589639,
+  "generated_at_iso": "2026-05-12T12:40:39Z",
   "count": 5202,
   "filas": [
     "DATASUL",
@@ -539,9 +539,9 @@
       "num": "2026051126000311",
       "assunto": "Move de datas - Apontamentos - Rech",
       "criado": "2026-05-11T14:25:11",
-      "modificado": "2026-05-11T14:52:01",
+      "modificado": "2026-05-12T09:37:35",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Adriano Luiz",
       "primeiro_nome": "Adriano",
@@ -549,11 +549,11 @@
       "cli_id": "GroundWork",
       "cli_user": "rodrigo.cuani@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-05-12T09:37:35",
+      "resp_min_raw": 1152,
+      "sol_min_raw": 1152,
+      "sol_min_bh": 311,
+      "resp_min_bh": 311
     },
     {
       "num": "2026051126000294",
@@ -53879,7 +53879,7 @@
       "num": "2026012726000468",
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)",
       "criado": "2026-01-27T16:44:15",
-      "modificado": "2026-05-07T12:19:57",
+      "modificado": "2026-05-12T09:33:08",
       "fila": "SSG",
       "estado": "aguardando atendente (interno)",
       "prioridade": "4 high",
