@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T20:30:36.717106",
+  "generated_at": "2026-05-12T20:40:36.208839",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
@@ -72,11 +72,11 @@
   "riscos_clientes": [
     {
       "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 1296 chamados (25% do total). <strong>10 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 5 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 1298 chamados (25% do total). <strong>10 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 5 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "1296 chamados (25% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "1298 chamados (25% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -180,7 +180,7 @@
     },
     {
       "cliente": "FADEL",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 359 chamados (7% do total). O módulo <strong>Infraestrutura e Cloud</strong> concentra 44% dos chamados desta conta — possível reincidência.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 359 chamados (7% do total). O módulo <strong>Infraestrutura e Cloud</strong> concentra 45% dos chamados desta conta — possível reincidência.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
@@ -190,7 +190,7 @@
         },
         {
           "titulo": "Reincidência no módulo Infraestrutura e Cloud",
-          "desc": "44% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
+          "desc": "45% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
           "nivel": "medium",
           "confianca": 75
         }
