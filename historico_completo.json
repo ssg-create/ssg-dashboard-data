@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778700639,
-  "generated_at_iso": "2026-05-13T19:30:39Z",
-  "count": 5208,
+  "generated_at": 1778701236,
+  "generated_at_iso": "2026-05-13T19:40:36Z",
+  "count": 5209,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000405",
+      "assunto": "Novo usuário Protheus",
+      "criado": "2026-05-13T16:40:18",
+      "modificado": "2026-05-13T16:40:20",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "FINPEC",
+      "cli_user": "almir.paschoal@finpec.com",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000389",
       "assunto": "Checagem de certificado, host: k8sigcmp001",
@@ -119,7 +139,7 @@
       "num": "2026051326000334",
       "assunto": "Criação de DNS",
       "criado": "2026-05-13T14:50:23",
-      "modificado": "2026-05-13T16:01:53",
+      "modificado": "2026-05-13T16:30:50",
       "fila": "INFRAESTUTURA",
       "estado": "resolvido",
       "prioridade": "3 normal",
@@ -129,10 +149,10 @@
       "cli_id": "GroundWork",
       "cli_user": "jonathan.oliveira@groundwork.com.br",
       "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "fechado": "2026-05-13T16:01:53",
+      "fechado": "2026-05-13T16:30:50",
       "resp_min_raw": 11,
-      "sol_min_raw": 71,
-      "sol_min_bh": 71,
+      "sol_min_raw": 100,
+      "sol_min_bh": 100,
       "resp_min_bh": 11
     },
     {
@@ -5159,9 +5179,9 @@
       "num": "2026050426000137",
       "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE",
       "criado": "2026-05-04T09:25:51",
-      "modificado": "2026-05-13T10:16:56",
+      "modificado": "2026-05-13T16:39:12",
       "fila": "SSG",
-      "estado": "retorno cliente",
+      "estado": "Aguardando agentes externos",
       "prioridade": "3 normal",
       "atendente": "Diego Cardoso",
       "primeiro_nome": "Diego",
