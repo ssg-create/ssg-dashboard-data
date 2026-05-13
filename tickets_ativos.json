@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778674226,
-  "generated_at_iso": "2026-05-13T12:10:26Z",
-  "count": 2379,
+  "generated_at": 1778674832,
+  "generated_at_iso": "2026-05-13T12:20:32Z",
+  "count": 2380,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000147",
+      "cliente": "DKT",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T09:17:02",
+      "modificado": "2026-05-13T09:17:04",
+      "idade_dias": 0,
+      "assunto": "Alerta do serviço do Acronis"
+    },
+    {
+      "ticket": "2026042726000382",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-04-27T16:30:05",
+      "modificado": "2026-05-13T09:15:20",
+      "idade_dias": 15,
+      "assunto": "Alteração Dashboard Logmein"
+    },
     {
       "ticket": "2026051226000167",
       "cliente": "FADEL",
@@ -664,18 +688,6 @@
       "assunto": "Derrubar usuários no ToTvs"
     },
     {
-      "ticket": "2026042726000382",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-13T05:00:08",
-      "idade_dias": 15,
-      "assunto": "Alteração Dashboard Logmein"
-    },
-    {
       "ticket": "2026043026000331",
       "cliente": "TOTVS",
       "fila": "GWMS",
@@ -1248,7 +1260,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-12T09:11:11",
       "modificado": "2026-05-12T15:55:28",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Exclusão de titulo a pagar da conciliação bancária"
     },
     {
@@ -1548,7 +1560,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-12T09:14:58",
       "modificado": "2026-05-12T11:54:21",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Titulos RJ"
     },
     {
@@ -1980,7 +1992,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-13T09:10:28",
       "modificado": "2026-05-12T05:00:16",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -2076,7 +2088,7 @@
       "atendente": "Gesiel Silva",
       "criado": "2026-04-16T09:20:09",
       "modificado": "2026-05-11T16:16:46",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
     },
     {
@@ -3000,7 +3012,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-10-20T09:11:43",
       "modificado": "2026-05-06T08:25:35",
-      "idade_dias": 204,
+      "idade_dias": 205,
       "assunto": "RPA - Para Arquivos de DDA"
     },
     {
@@ -3072,7 +3084,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-28T09:18:12",
       "modificado": "2026-05-06T05:00:23",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Help \"NOCLVL\" ao deletar título financeiro"
     },
     {
@@ -3360,7 +3372,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-12T09:15:14",
       "modificado": "2026-04-30T15:17:08",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "AUTOZONE - SRV-MASTER-PRD - AppServer:.Z11-TOTVS-P12-Autozone_S12-12031-FECHAMENTO - 26041209095268"
     },
     {
@@ -3996,7 +4008,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-13T09:20:08",
       "modificado": "2026-04-21T05:00:30",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -4368,7 +4380,7 @@
       "atendente": "Weskley Silva",
       "criado": "2026-04-09T09:15:10",
       "modificado": "2026-04-13T10:23:20",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "Solicitação de Ajuste - WebService WEBA016 (Inclusão de PA)"
     },
     {
@@ -4524,7 +4536,7 @@
       "atendente": "George Eivazian",
       "criado": "2026-04-01T09:14:12",
       "modificado": "2026-04-08T10:32:44",
-      "idade_dias": 41,
+      "idade_dias": 42,
       "assunto": "inconsistencia no Rateio"
     },
     {
@@ -5016,7 +5028,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-16T09:20:15",
       "modificado": "2026-03-25T05:00:27",
-      "idade_dias": 57,
+      "idade_dias": 58,
       "assunto": "Exclusão de monitoramento"
     },
     {
@@ -5652,7 +5664,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-09T09:17:49",
       "modificado": "2026-03-17T05:00:26",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "Requisição - PA 005427 - DPV ANDREO"
     },
     {
@@ -6036,7 +6048,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-26T09:10:37",
       "modificado": "2026-03-06T05:00:29",
-      "idade_dias": 75,
+      "idade_dias": 76,
       "assunto": "Classificação de notas"
     },
     {
@@ -6948,7 +6960,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-02-03T09:20:19",
       "modificado": "2026-02-13T05:00:33",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
     },
     {
@@ -7704,7 +7716,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-20T09:15:06",
       "modificado": "2026-01-28T05:00:41",
-      "idade_dias": 112,
+      "idade_dias": 113,
       "assunto": "BERNECK-CURITIBANOS - SW Aruba Monitoramento  INTERFACE 24 UPLINK"
     },
     {
@@ -8352,7 +8364,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-03T09:20:20",
       "modificado": "2026-01-13T05:00:38",
-      "idade_dias": 129,
+      "idade_dias": 130,
       "assunto": "Solicitação de verificação – Hostname/VDI indisponível"
     },
     {
@@ -11196,7 +11208,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-08T09:15:12",
       "modificado": "2025-10-17T05:00:37",
-      "idade_dias": 216,
+      "idade_dias": 217,
       "assunto": "Monitoramento poller Seneca"
     },
     {
@@ -12588,7 +12600,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-12T09:20:17",
       "modificado": "2025-09-20T05:00:35",
-      "idade_dias": 242,
+      "idade_dias": 243,
       "assunto": "#TOTVS-NETWORK - Alertas UNKNOWN - 25091209121727"
     },
     {
@@ -13356,7 +13368,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-01T09:13:44",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 253,
+      "idade_dias": 254,
       "assunto": "BERNECK S.A. PAINÉIS E SERRADOS | Incluir no monitoramento Heliponto"
     },
     {
@@ -13368,7 +13380,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-02T09:20:26",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "RES: ARCO - Alertas UNKNOWN - 25090117541819"
     },
     {
@@ -13620,7 +13632,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-07-04T09:19:42",
       "modificado": "2025-09-04T05:00:17",
-      "idade_dias": 312,
+      "idade_dias": 313,
       "assunto": "Tabela em excel"
     },
     {
@@ -13860,7 +13872,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-07T09:19:05",
       "modificado": "2025-08-27T18:24:06",
-      "idade_dias": 278,
+      "idade_dias": 279,
       "assunto": "FRAPORT | Visualização de Alertas"
     },
     {
@@ -14880,7 +14892,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-30T09:20:12",
       "modificado": "2025-08-07T05:00:11",
-      "idade_dias": 286,
+      "idade_dias": 287,
       "assunto": "Remoção de monitoramento"
     },
     {
@@ -14988,7 +15000,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-07-24T09:16:55",
       "modificado": "2025-08-06T05:00:28",
-      "idade_dias": 292,
+      "idade_dias": 293,
       "assunto": "Controle de Poder de Terceiro"
     },
     {
@@ -15396,7 +15408,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-29T09:15:55",
       "modificado": "2025-07-24T05:00:07",
-      "idade_dias": 348,
+      "idade_dias": 349,
       "assunto": "PODER DE TERCEIROS - CLIENTE LG"
     },
     {
@@ -16176,7 +16188,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-16T09:14:00",
       "modificado": "2025-07-08T05:00:09",
-      "idade_dias": 330,
+      "idade_dias": 331,
       "assunto": "FRAPORT | WLC de POA no monitoramento porém sem as informações dos AP"
     },
     {
@@ -16224,7 +16236,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-16T09:20:19",
       "modificado": "2025-07-05T05:00:12",
-      "idade_dias": 330,
+      "idade_dias": 331,
       "assunto": "Diferença de saldo - Balancete 1° trimestre 2025 (BRGAAP)"
     },
     {
@@ -17520,7 +17532,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-27T09:20:17",
       "modificado": "2025-06-06T05:00:26",
-      "idade_dias": 350,
+      "idade_dias": 351,
       "assunto": "Sistema Protheus - Liberação colaborador para cobrir férias"
     },
     {
@@ -17832,7 +17844,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-05-20T09:15:15",
       "modificado": "2025-05-30T05:00:16",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "PEDIDO DE VENDA"
     },
     {
@@ -18456,7 +18468,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-09T09:15:17",
       "modificado": "2025-05-21T05:00:34",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "Fwd: #TOTVS-SERVERS - SP_SPOSRVSQLPRD001 - MssqlHealth:SQLPRD02_basecentralizada:Last Tickets - 25050902011877"
     },
     {
@@ -18624,7 +18636,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-09T09:10:51",
       "modificado": "2025-05-17T05:00:21",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "Rotina Limpeza de Flag"
     },
     {
@@ -18732,7 +18744,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-07T09:20:06",
       "modificado": "2025-05-16T05:00:20",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "Re: #TOTVS-SERVERS - RPTO_SENSOR_TEMP_STE-RPTO22 - Temperature - 25050706093856"
     },
     {
@@ -18744,7 +18756,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-07T09:16:08",
       "modificado": "2025-05-15T05:00:20",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "ZURICH | Remover monitoramento"
     },
     {
@@ -18936,7 +18948,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-05-02T09:20:05",
       "modificado": "2025-05-13T05:00:23",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "Recorrência Mensal - AUTOZONE"
     },
     {
@@ -19512,7 +19524,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-24T09:15:12",
       "modificado": "2025-05-02T05:00:24",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:DB Log Files - 25042409141613"
     },
     {
@@ -20244,7 +20256,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-11T09:20:20",
       "modificado": "2025-04-22T05:00:22",
-      "idade_dias": 396,
+      "idade_dias": 397,
       "assunto": "ARCO - Host Down"
     },
     {
@@ -20568,7 +20580,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-27T09:15:20",
       "modificado": "2025-04-15T05:00:13",
-      "idade_dias": 411,
+      "idade_dias": 412,
       "assunto": "RES: [EXTERNAL] Re: AZ - Notas de devolução gerando títulos a pagar no financeiro."
     },
     {
@@ -21432,7 +21444,7 @@
       "atendente": "Wesley Araujo",
       "criado": "2025-03-17T09:20:24",
       "modificado": "2025-03-25T05:00:22",
-      "idade_dias": 421,
+      "idade_dias": 422,
       "assunto": "ENC: Servidor físico - PowerEdge R620 - 192.168.182.21 (MAKSERVER17) - Fault detected on drive 4 in disk drive bay 1"
     },
     {
@@ -21996,7 +22008,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-03T09:20:12",
       "modificado": "2025-03-11T05:00:10",
-      "idade_dias": 435,
+      "idade_dias": 436,
       "assunto": "RES: Alertas recorrentes"
     },
     {
@@ -22056,7 +22068,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-03-10T09:20:22",
       "modificado": "2025-03-10T10:06:33",
-      "idade_dias": 428,
+      "idade_dias": 429,
       "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 25031009173477"
     },
     {
@@ -22980,7 +22992,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-04T09:15:12",
       "modificado": "2025-02-12T05:00:14",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Monitoramento - Envio dos E-mails"
     },
     {
@@ -22992,7 +23004,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-04T09:15:14",
       "modificado": "2025-02-12T05:00:14",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "Monitoramento - Alertas Telefônicos"
     },
     {
@@ -23136,7 +23148,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-03T09:18:45",
       "modificado": "2025-02-11T05:00:11",
-      "idade_dias": 463,
+      "idade_dias": 464,
       "assunto": "AZ - Configurar o Schedule para a rotina MATA190"
     },
     {
@@ -24492,7 +24504,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-26T09:17:14",
       "modificado": "2025-01-03T12:00:06",
-      "idade_dias": 502,
+      "idade_dias": 503,
       "assunto": "Descrição do Produto Divergente"
     },
     {
@@ -24552,7 +24564,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-26T09:16:46",
       "modificado": "2025-01-02T17:00:12",
-      "idade_dias": 502,
+      "idade_dias": 503,
       "assunto": "Erro de bloqueio por outro usuario"
     },
     {
@@ -24708,7 +24720,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-23T09:19:48",
       "modificado": "2024-12-30T10:00:03",
-      "idade_dias": 505,
+      "idade_dias": 506,
       "assunto": "Erro de baixa"
     },
     {
@@ -25104,7 +25116,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-22T09:15:24",
       "modificado": "2024-12-19T15:00:10",
-      "idade_dias": 536,
+      "idade_dias": 537,
       "assunto": "AZ - RES: COGs Motul itens novos - Incorreto URGENTE!"
     },
     {
@@ -25908,7 +25920,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2024-11-04T09:20:19",
       "modificado": "2024-11-21T19:00:06",
-      "idade_dias": 554,
+      "idade_dias": 555,
       "assunto": "Licenças excedidas na homologação."
     },
     {
@@ -26256,7 +26268,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-04T09:16:38",
       "modificado": "2024-11-15T09:00:14",
-      "idade_dias": 554,
+      "idade_dias": 555,
       "assunto": "Nota de terceiros (transferência entre filiais) como formulário próprio"
     },
     {
