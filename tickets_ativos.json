@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778698832,
-  "generated_at_iso": "2026-05-13T19:00:32Z",
-  "count": 2386,
+  "generated_at": 1778699425,
+  "generated_at_iso": "2026-05-13T19:10:25Z",
+  "count": 2387,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,64 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000371",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T16:10:14",
+      "modificado": "2026-05-13T16:10:16",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - Alertas CRITICAL - 26051316072148"
+    },
+    {
+      "ticket": "2026051326000307",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-13T14:15:17",
+      "modificado": "2026-05-13T16:09:51",
+      "idade_dias": 0,
+      "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
+    },
+    {
       "ticket": "2026051326000361",
       "cliente": "AUTOZONE",
-      "fila": "NOC",
+      "fila": "DBA",
       "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Marcelo Pavanate Silva",
+      "atendente": "Eduardo Candido",
       "criado": "2026-05-13T15:35:09",
-      "modificado": "2026-05-13T15:56:43",
+      "modificado": "2026-05-13T16:02:09",
       "idade_dias": 0,
       "assunto": "AUTOZONE - Alertas CRITICAL - 26051315305983"
+    },
+    {
+      "ticket": "2026051326000334",
+      "cliente": "GroundWork",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-13T14:50:23",
+      "modificado": "2026-05-13T16:01:53",
+      "idade_dias": 0,
+      "assunto": "Criação de DNS"
+    },
+    {
+      "ticket": "2026051226000167",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-12T10:55:15",
+      "modificado": "2026-05-13T16:01:18",
+      "idade_dias": 1,
+      "assunto": "Verificação de permissões Level2"
     },
     {
       "ticket": "2026051326000291",
@@ -38,18 +86,6 @@
       "modificado": "2026-05-13T15:55:13",
       "idade_dias": 0,
       "assunto": "VDI SEM CONEXÃO"
-    },
-    {
-      "ticket": "2026051326000334",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-13T14:50:23",
-      "modificado": "2026-05-13T15:44:21",
-      "idade_dias": 0,
-      "assunto": "Criação de DNS"
     },
     {
       "ticket": "2026051226000327",
@@ -112,18 +148,6 @@
       "assunto": "LIEBRAÇÃO/CADASTRO NO PROTHEUS"
     },
     {
-      "ticket": "2026051326000307",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-13T14:15:17",
-      "modificado": "2026-05-13T15:12:50",
-      "idade_dias": 0,
-      "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
-    },
-    {
       "ticket": "2026051326000325",
       "cliente": "PECVAL",
       "fila": "DATASUL",
@@ -134,18 +158,6 @@
       "modificado": "2026-05-13T15:12:48",
       "idade_dias": 0,
       "assunto": "Relatório de Notas Fiscais de Saida"
-    },
-    {
-      "ticket": "2026051226000167",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-13T15:05:07",
-      "idade_dias": 1,
-      "assunto": "Verificação de permissões Level2"
     },
     {
       "ticket": "2026050726000113",
@@ -552,7 +564,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T16:10:05",
       "modificado": "2026-05-13T10:17:00",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
     },
     {
@@ -648,7 +660,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-11T16:05:24",
       "modificado": "2026-05-13T10:00:28",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Alteração Portal NOC - TELETEX"
     },
     {
@@ -1824,7 +1836,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-08T16:09:01",
       "modificado": "2026-05-12T12:03:19",
-      "idade_dias": 124,
+      "idade_dias": 125,
       "assunto": "Atualização tabela Imposto de Renda - 2026"
     },
     {
@@ -5592,7 +5604,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T16:05:22",
       "modificado": "2026-03-18T05:00:33",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Campo CBS e IBS - Notas fiscais Finpec"
     },
     {
@@ -6684,7 +6696,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-02-03T16:03:44",
       "modificado": "2026-02-20T05:00:33",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "Atualização no WF de aprovação - Email"
     },
     {
@@ -6708,7 +6720,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-29T16:05:24",
       "modificado": "2026-02-20T05:00:31",
-      "idade_dias": 103,
+      "idade_dias": 104,
       "assunto": "Dúvida"
     },
     {
@@ -8316,7 +8328,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-07T16:10:13",
       "modificado": "2026-01-15T05:00:18",
-      "idade_dias": 125,
+      "idade_dias": 126,
       "assunto": "Conta contábil não subindo valor no balancete"
     },
     {
@@ -9192,7 +9204,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-12-11T16:05:22",
       "modificado": "2025-12-19T05:00:30",
-      "idade_dias": 152,
+      "idade_dias": 153,
       "assunto": "RE: SUSPENSÃO DE ALERTAS PARA SERVIDOR DO COFRE"
     },
     {
@@ -10128,7 +10140,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-16T16:10:17",
       "modificado": "2025-11-26T05:00:25",
-      "idade_dias": 208,
+      "idade_dias": 209,
       "assunto": "Monitoramento TIER 0"
     },
     {
@@ -10236,7 +10248,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-11-03T16:01:39",
       "modificado": "2025-11-22T05:00:14",
-      "idade_dias": 190,
+      "idade_dias": 191,
       "assunto": "Falha de segurança no servidor de proxy reverso"
     },
     {
@@ -10644,7 +10656,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-10-30T16:10:19",
       "modificado": "2025-11-07T05:00:21",
-      "idade_dias": 194,
+      "idade_dias": 195,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -11220,7 +11232,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-09T16:05:13",
       "modificado": "2025-10-17T05:00:42",
-      "idade_dias": 215,
+      "idade_dias": 216,
       "assunto": "RE: #TOTVS-SERVERS - SP_SPO-VCENTER01 - Datastore_SP:DS_SPO_PRD08 - 25100915055238"
     },
     {
@@ -11592,7 +11604,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-19T16:10:12",
       "modificado": "2025-10-11T05:00:16",
-      "idade_dias": 235,
+      "idade_dias": 236,
       "assunto": "Monitoramento"
     },
     {
@@ -12192,7 +12204,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-17T16:05:18",
       "modificado": "2025-09-30T05:00:22",
-      "idade_dias": 237,
+      "idade_dias": 238,
       "assunto": "AZ - MT120LOK para tratamento da 2a Unid.Medida"
     },
     {
@@ -12732,7 +12744,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T16:06:16",
       "modificado": "2025-09-19T05:00:34",
-      "idade_dias": 243,
+      "idade_dias": 244,
       "assunto": "AZ - Acesso - Criar novo usuário Protheus"
     },
     {
@@ -14556,7 +14568,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-08-06T16:04:58",
       "modificado": "2025-08-15T05:00:32",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "AZ - FIN - Desenvolvimento de RPA - SITEF"
     },
     {
@@ -15744,7 +15756,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-01T16:10:23",
       "modificado": "2025-07-18T05:00:20",
-      "idade_dias": 315,
+      "idade_dias": 316,
       "assunto": "Liberação de acesso a tela OLCS0013"
     },
     {
@@ -15852,7 +15864,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-07T16:03:49",
       "modificado": "2025-07-15T05:00:27",
-      "idade_dias": 309,
+      "idade_dias": 310,
       "assunto": "Usuario sem acesso"
     },
     {
@@ -16692,7 +16704,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T16:05:17",
       "modificado": "2025-06-26T05:00:23",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "Entendimento de regra - Painel de JOBS"
     },
     {
@@ -18528,7 +18540,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-12T16:05:18",
       "modificado": "2025-05-21T05:00:36",
-      "idade_dias": 365,
+      "idade_dias": 366,
       "assunto": "Revisão do monitoramento WILLY"
     },
     {
@@ -20604,7 +20616,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-04-07T16:04:02",
       "modificado": "2025-04-15T05:00:15",
-      "idade_dias": 400,
+      "idade_dias": 401,
       "assunto": "Copiar y Restaurar BD"
     },
     {
@@ -21204,7 +21216,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-12T16:05:18",
       "modificado": "2025-04-01T12:57:42",
-      "idade_dias": 426,
+      "idade_dias": 427,
       "assunto": "FW: Support Needed – XMLs Not Sent to TaxID"
     },
     {
@@ -22500,7 +22512,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-20T16:05:23",
       "modificado": "2025-03-01T05:00:07",
-      "idade_dias": 446,
+      "idade_dias": 447,
       "assunto": "Ativação de link - Fw Ibiapina CE"
     },
     {
@@ -22920,7 +22932,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-02-03T16:10:09",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 463,
+      "idade_dias": 464,
       "assunto": "Analisar valores apresentados"
     },
     {
@@ -24132,7 +24144,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-01-06T16:10:06",
       "modificado": "2025-01-15T14:30:05",
-      "idade_dias": 491,
+      "idade_dias": 492,
       "assunto": "ARCO - SW_SAE-DC-SW-SRV01-10G - Cpu - 25010616041826"
     },
     {
@@ -24588,7 +24600,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-30T16:01:59",
       "modificado": "2025-01-03T11:00:03",
-      "idade_dias": 559,
+      "idade_dias": 560,
       "assunto": "Erro lote 008840 - Item 07604"
     },
     {
@@ -25464,7 +25476,7 @@
       "atendente": "Geyson Albano",
       "criado": "2024-10-28T16:09:37",
       "modificado": "2024-12-12T13:00:16",
-      "idade_dias": 561,
+      "idade_dias": 562,
       "assunto": "Integração Novo Conciliador Financeiro"
     },
     {
@@ -26964,7 +26976,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T16:06:20",
       "modificado": "2024-10-25T13:30:16",
-      "idade_dias": 574,
+      "idade_dias": 575,
       "assunto": "Acesso ao protheus para realização de compras"
     },
     {
@@ -26988,7 +27000,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-17T16:09:58",
       "modificado": "2024-10-24T17:30:19",
-      "idade_dias": 572,
+      "idade_dias": 573,
       "assunto": "Alteração de titulos"
     },
     {
@@ -27576,7 +27588,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-01T16:10:12",
       "modificado": "2024-10-10T16:00:19",
-      "idade_dias": 588,
+      "idade_dias": 589,
       "assunto": "Sugestões de Melhoria | Tela de Aprovação de Pedidos de Compra "
     },
     {
@@ -27612,7 +27624,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-06-04T16:05:19",
       "modificado": "2024-10-10T11:30:07",
-      "idade_dias": 707,
+      "idade_dias": 708,
       "assunto": "Servidor de Ad esta fora"
     },
     {
@@ -28440,7 +28452,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-10T16:07:41",
       "modificado": "2024-09-17T17:00:10",
-      "idade_dias": 609,
+      "idade_dias": 610,
       "assunto": "Tax.ID - Carga Unificada - 0144"
     },
     {
