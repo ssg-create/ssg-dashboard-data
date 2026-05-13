@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778680834,
-  "generated_at_iso": "2026-05-13T14:00:34Z",
-  "count": 2383,
+  "generated_at": 1778681426,
+  "generated_at_iso": "2026-05-13T14:10:26Z",
+  "count": 2384,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,54 @@
   ],
   "rows": [
     {
+      "ticket": "2026050826000175",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-08T11:40:09",
+      "modificado": "2026-05-13T11:07:43",
+      "idade_dias": 4,
+      "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
+    },
+    {
+      "ticket": "2026051326000245",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-13T10:51:22",
+      "modificado": "2026-05-13T11:06:22",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051326000254",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-13T11:02:35",
+      "modificado": "2026-05-13T11:06:01",
+      "idade_dias": 0,
+      "assunto": "Serviço do TSS parando"
+    },
+    {
+      "ticket": "2026041526000565",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-15T18:11:21",
+      "modificado": "2026-05-13T11:02:36",
+      "idade_dias": 27,
+      "assunto": "Descoberta de Topologia automática"
+    },
+    {
       "ticket": "2026041726000034",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -26,30 +74,6 @@
       "modificado": "2026-05-13T11:00:14",
       "idade_dias": 26,
       "assunto": "Re: 30.000 documentos em fila de processamento"
-    },
-    {
-      "ticket": "2026051326000245",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-13T10:51:22",
-      "modificado": "2026-05-13T10:56:47",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026041526000565",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-15T18:11:21",
-      "modificado": "2026-05-13T10:56:28",
-      "idade_dias": 27,
-      "assunto": "Descoberta de Topologia automática"
     },
     {
       "ticket": "2026051326000209",
@@ -732,7 +756,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-06T11:02:01",
       "modificado": "2026-05-13T05:00:11",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Novo espelhamento USGAAP - PD09"
     },
     {
@@ -1248,7 +1272,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-11T11:05:23",
       "modificado": "2026-05-12T18:20:26",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
     },
     {
@@ -1298,18 +1322,6 @@
       "modificado": "2026-05-12T17:59:19",
       "idade_dias": 0,
       "assunto": "Melhorias nos dockersfiles dos containers do GWMS"
-    },
-    {
-      "ticket": "2026050826000175",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-08T11:40:09",
-      "modificado": "2026-05-12T17:46:37",
-      "idade_dias": 4,
-      "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
     },
     {
       "ticket": "2026012926000455",
@@ -3348,7 +3360,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-23T11:01:21",
       "modificado": "2026-05-01T05:00:34",
-      "idade_dias": 19,
+      "idade_dias": 20,
       "assunto": "Relatório do planejamento e orçamento - Informação Incompleta de NF AJ Midia"
     },
     {
@@ -4512,7 +4524,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-02-27T11:08:52",
       "modificado": "2026-04-10T05:00:10",
-      "idade_dias": 74,
+      "idade_dias": 75,
       "assunto": "Requisição - Pedido caindo em rentabilidade"
     },
     {
@@ -5796,7 +5808,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-05T11:04:49",
       "modificado": "2026-03-14T05:00:22",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "Endereço Pedido CNPJ10.257.908/0001-39"
     },
     {
@@ -6768,7 +6780,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-02-10T11:05:22",
       "modificado": "2026-02-18T05:00:21",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "Remoção de monitoramento + dúvida."
     },
     {
@@ -7284,7 +7296,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-28T11:08:41",
       "modificado": "2026-02-05T05:00:28",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "CODIGO DE BARRAS DANDO ERRO AO LANÇAR NOTA"
     },
     {
@@ -7692,7 +7704,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-01-05T11:05:14",
       "modificado": "2026-01-29T05:00:28",
-      "idade_dias": 127,
+      "idade_dias": 128,
       "assunto": "Controle de Ambientes"
     },
     {
@@ -9420,7 +9432,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-04T11:05:03",
       "modificado": "2025-12-12T05:00:33",
-      "idade_dias": 159,
+      "idade_dias": 160,
       "assunto": "acesso login em outro computador"
     },
     {
@@ -9528,7 +9540,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-24T11:10:07",
       "modificado": "2025-12-11T05:00:15",
-      "idade_dias": 169,
+      "idade_dias": 170,
       "assunto": "Encerramento do Chamado"
     },
     {
@@ -10332,7 +10344,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-06T11:08:24",
       "modificado": "2025-11-15T05:00:21",
-      "idade_dias": 187,
+      "idade_dias": 188,
       "assunto": "COND COMERCIAL CS - ERRO REINF"
     },
     {
@@ -11412,7 +11424,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-06-23T11:00:43",
       "modificado": "2025-10-16T05:00:18",
-      "idade_dias": 323,
+      "idade_dias": 324,
       "assunto": "AZ -  Verificação da LP.520-01- Conta 51061/Baixa Para Perdas"
     },
     {
@@ -12504,7 +12516,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-08-18T11:10:18",
       "modificado": "2025-09-24T05:00:29",
-      "idade_dias": 267,
+      "idade_dias": 268,
       "assunto": "AZ - Criação robo daily sales - produção"
     },
     {
@@ -13224,7 +13236,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-04T11:04:56",
       "modificado": "2025-09-12T05:00:34",
-      "idade_dias": 250,
+      "idade_dias": 251,
       "assunto": "Parametro MV_IMPFECP ="
     },
     {
@@ -13548,7 +13560,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-06-18T11:09:51",
       "modificado": "2025-09-09T05:00:18",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "AZ - Dúvida sobre Apuração de Resultados"
     },
     {
@@ -13836,7 +13848,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-20T11:07:17",
       "modificado": "2025-08-28T05:00:18",
-      "idade_dias": 265,
+      "idade_dias": 266,
       "assunto": "Exclusão movimento bancário"
     },
     {
@@ -14076,7 +14088,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-19T11:09:57",
       "modificado": "2025-08-27T05:00:30",
-      "idade_dias": 266,
+      "idade_dias": 267,
       "assunto": "MENU homologação"
     },
     {
@@ -14460,7 +14472,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-08T11:01:26",
       "modificado": "2025-08-16T05:00:28",
-      "idade_dias": 277,
+      "idade_dias": 278,
       "assunto": "Substituição de aprovador"
     },
     {
@@ -16284,7 +16296,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-12T11:10:19",
       "modificado": "2025-07-05T05:00:10",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "RES: [EXTERNAL] Solicitação Recebida"
     },
     {
@@ -16932,7 +16944,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-05T11:10:19",
       "modificado": "2025-06-21T05:00:14",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "Rotina de extrator fiscal - AZ"
     },
     {
@@ -18132,7 +18144,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-16T11:05:07",
       "modificado": "2025-05-27T05:00:27",
-      "idade_dias": 361,
+      "idade_dias": 362,
       "assunto": "TOTVS SUPERMECADOS - Entendimento Monitoramento de máquina"
     },
     {
@@ -18204,7 +18216,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-14T11:10:20",
       "modificado": "2025-05-26T05:00:08",
-      "idade_dias": 393,
+      "idade_dias": 394,
       "assunto": "Aumento de monitoramento Fluig Az"
     },
     {
@@ -18804,7 +18816,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-29T11:09:51",
       "modificado": "2025-05-15T05:00:19",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "AZ - Criar LP para a contabilização do DIFAL"
     },
     {
@@ -18996,7 +19008,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-28T11:05:19",
       "modificado": "2025-05-13T05:00:22",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "[TOTVS] - MONITORAMENTO"
     },
     {
@@ -19476,7 +19488,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-04-25T11:10:08",
       "modificado": "2025-05-03T05:00:26",
-      "idade_dias": 382,
+      "idade_dias": 383,
       "assunto": "AD - Acesso WI FI solicitando senha"
     },
     {
@@ -19608,7 +19620,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-17T11:05:06",
       "modificado": "2025-05-02T05:00:21",
-      "idade_dias": 390,
+      "idade_dias": 391,
       "assunto": "RES: Empodera - Atualização do dashboard de monitoramento"
     },
     {
@@ -21360,7 +21372,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-01-24T11:04:53",
       "modificado": "2025-03-27T05:00:08",
-      "idade_dias": 473,
+      "idade_dias": 474,
       "assunto": "Conciliador FINANCEIRO - Lançamentos não aparecem para ser conciliado"
     },
     {
@@ -21828,7 +21840,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-05T11:05:21",
       "modificado": "2025-03-16T05:00:03",
-      "idade_dias": 433,
+      "idade_dias": 434,
       "assunto": "RES: RES: [EXTERNAL] Ticket Aguardando Retorno"
     },
     {
@@ -23112,7 +23124,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-16T11:06:33",
       "modificado": "2025-02-12T05:00:11",
-      "idade_dias": 573,
+      "idade_dias": 574,
       "assunto": "Desenvolvimenot de ponto de entrada"
     },
     {
@@ -23364,7 +23376,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-01-28T11:05:07",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "Duvidas alerta."
     },
     {
@@ -23400,7 +23412,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-29T11:06:37",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "AZ - Liberar acesso para criação de pedidos de compras: Karina.conrado"
     },
     {
@@ -23844,7 +23856,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-13T11:10:18",
       "modificado": "2025-01-20T11:30:16",
-      "idade_dias": 484,
+      "idade_dias": 485,
       "assunto": "Liberação de acesso ao Sistema"
     },
     {
@@ -24168,7 +24180,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-07T11:10:17",
       "modificado": "2025-01-14T15:30:19",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "AZ - POs com o campo XPED preenchidas no SAP mas não integradas no Protheus."
     },
     {
@@ -24636,7 +24648,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-23T11:03:54",
       "modificado": "2025-01-02T12:00:17",
-      "idade_dias": 505,
+      "idade_dias": 506,
       "assunto": "Acerto de taxas e valores do cadastro do Ativo"
     },
     {
@@ -25788,7 +25800,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-25T11:06:26",
       "modificado": "2024-12-02T16:00:20",
-      "idade_dias": 533,
+      "idade_dias": 534,
       "assunto": "Lançamento NFS -Protheus Filial 0165-04"
     },
     {
@@ -27804,7 +27816,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-09-25T11:10:12",
       "modificado": "2024-10-02T15:30:12",
-      "idade_dias": 594,
+      "idade_dias": 595,
       "assunto": "Acesso GWMS"
     },
     {
