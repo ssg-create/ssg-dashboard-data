@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778685638,
-  "generated_at_iso": "2026-05-13T15:20:38Z",
-  "count": 5214,
+  "generated_at": 1778686234,
+  "generated_at_iso": "2026-05-13T15:30:34Z",
+  "count": 5216,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,46 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000281",
+      "assunto": "CASTROLANDA | A central está sem receber informações do servidor de monitoramento do ambiente",
+      "criado": "2026-05-13T12:30:23",
+      "modificado": "2026-05-13T12:30:25",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "andrei.honorio@teletex.com",
+      "cli_user": "andrei.honorio@teletex.com",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
+    {
+      "num": "2026051326000272",
+      "assunto": "TROCA DE USUÁRIO",
+      "criado": "2026-05-13T12:30:10",
+      "modificado": "2026-05-13T12:30:13",
+      "fila": "INFRAESTUTURA",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "FADEL",
+      "cli_user": "yuri.oliveira@fadeltransportes.com.br",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000263",
       "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051312070273",
