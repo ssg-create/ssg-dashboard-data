@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778650821,
-  "generated_at_iso": "2026-05-13T05:40:21Z",
+  "generated_at": 1778651427,
+  "generated_at_iso": "2026-05-13T05:50:27Z",
   "count": 2373,
   "filas": [
     "DATASUL",
@@ -16,6 +16,18 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000012",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T00:45:08",
+      "modificado": "2026-05-13T02:44:28",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051300412421"
+    },
+    {
       "ticket": "2026051326000021",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
@@ -26,18 +38,6 @@
       "modificado": "2026-05-13T01:00:12",
       "idade_dias": 0,
       "assunto": "SHIMADZU - GWMS-SERVER - Load - 26051300571687"
-    },
-    {
-      "ticket": "2026051326000012",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T00:45:08",
-      "modificado": "2026-05-13T00:45:09",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051300412421"
     },
     {
       "ticket": "2026051126000285",
@@ -16608,7 +16608,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-26T02:45:14",
       "modificado": "2025-06-26T02:47:39",
-      "idade_dias": 320,
+      "idade_dias": 321,
       "assunto": "GROUNDWORK - GROUNDWORK_URLS - URL:SITE GROUNDWORK - 25062602432494"
     },
     {
