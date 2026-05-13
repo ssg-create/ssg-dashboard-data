@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778652030,
-  "generated_at_iso": "2026-05-13T06:00:30Z",
-  "count": 2373,
+  "generated_at": 1778652624,
+  "generated_at_iso": "2026-05-13T06:10:24Z",
+  "count": 2374,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000031",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T03:05:06",
+      "modificado": "2026-05-13T03:05:09",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051303013222"
+    },
+    {
+      "ticket": "2026051326000021",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T01:00:10",
+      "modificado": "2026-05-13T03:01:20",
+      "idade_dias": 0,
+      "assunto": "SHIMADZU - GWMS-SERVER - Load - 26051300571687"
+    },
+    {
       "ticket": "2026051326000012",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-13T02:44:28",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051300412421"
-    },
-    {
-      "ticket": "2026051326000021",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T01:00:10",
-      "modificado": "2026-05-13T01:00:12",
-      "idade_dias": 0,
-      "assunto": "SHIMADZU - GWMS-SERVER - Load - 26051300571687"
     },
     {
       "ticket": "2026051126000285",
@@ -17472,7 +17484,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-05-17T03:05:42",
       "modificado": "2025-06-06T05:00:24",
-      "idade_dias": 360,
+      "idade_dias": 361,
       "assunto": "AZ - Novo painel GWMS - Contabilização ESTOQUE"
     },
     {
