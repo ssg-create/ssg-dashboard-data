@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778701230,
-  "generated_at_iso": "2026-05-13T19:40:30Z",
-  "count": 2389,
+  "generated_at": 1778701821,
+  "generated_at_iso": "2026-05-13T19:50:21Z",
+  "count": 2391,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,66 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000423",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T16:50:19",
+      "modificado": "2026-05-13T16:50:20",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR20-TOTVS-P12-Autozone_ws_rest-22022-rest 8090-RELEASE - 26051316471741"
+    },
+    {
+      "ticket": "2026051326000414",
+      "cliente": "ARCO EDUCAÇÃO",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T16:45:18",
+      "modificado": "2026-05-13T16:45:20",
+      "idade_dias": 0,
+      "assunto": "Atualização de hostname - AP(s) Curitiba"
+    },
+    {
+      "ticket": "2026051326000291",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-13T12:45:06",
+      "modificado": "2026-05-13T16:44:27",
+      "idade_dias": 0,
+      "assunto": "VDI SEM CONEXÃO"
+    },
+    {
+      "ticket": "2026051326000389",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-13T16:14:49",
+      "modificado": "2026-05-13T16:44:00",
+      "idade_dias": 0,
+      "assunto": "Checagem de certificado, host: k8sigcmp001"
+    },
+    {
+      "ticket": "2026050426000333",
+      "cliente": "CONTINENTAL",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-04T14:54:50",
+      "modificado": "2026-05-13T16:43:38",
+      "idade_dias": 9,
+      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
+    },
     {
       "ticket": "2026051326000405",
       "cliente": "FINPEC",
@@ -76,18 +136,6 @@
       "assunto": "Derrubar usuários no ToTvs"
     },
     {
-      "ticket": "2026051326000389",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-13T16:14:49",
-      "modificado": "2026-05-13T16:22:49",
-      "idade_dias": 0,
-      "assunto": "Checagem de certificado, host: k8sigcmp001"
-    },
-    {
       "ticket": "2026051326000371",
       "cliente": "AUTOZONE",
       "fila": "DBA",
@@ -134,18 +182,6 @@
       "modificado": "2026-05-13T16:01:18",
       "idade_dias": 1,
       "assunto": "Verificação de permissões Level2"
-    },
-    {
-      "ticket": "2026051326000291",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-13T12:45:06",
-      "modificado": "2026-05-13T15:55:13",
-      "idade_dias": 0,
-      "assunto": "VDI SEM CONEXÃO"
     },
     {
       "ticket": "2026051226000327",
@@ -612,7 +648,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-11T16:50:11",
       "modificado": "2026-05-13T10:20:13",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Monitoramento comunicação IP(s) cliente FADEL/FADEL AFRICA"
     },
     {
@@ -996,7 +1032,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2026-05-11T16:45:09",
       "modificado": "2026-05-13T05:00:11",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "RE: #TOTVS-NETWORK - Alertas CRITICAL - 26051110104932"
     },
     {
@@ -1248,7 +1284,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-05T16:45:05",
       "modificado": "2026-05-13T05:00:08",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "UNIMED CURITIBA | Monitoria da nova unidade Unimed: Fundação Copel."
     },
     {
@@ -1360,18 +1396,6 @@
       "assunto": "Your message could not be delivered"
     },
     {
-      "ticket": "2026050426000333",
-      "cliente": "CONTINENTAL",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-04T14:54:50",
-      "modificado": "2026-05-13T05:00:08",
-      "idade_dias": 9,
-      "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
       "ticket": "2026032426000424",
       "cliente": "NSX",
       "fila": "PROTHEUS",
@@ -1428,7 +1452,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-07T16:42:18",
       "modificado": "2026-05-13T05:00:08",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Select - Combo rules e exclusão de lançamentos - W4 PD09 FY26 - pt2"
     },
     {
@@ -2100,7 +2124,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-01-27T16:44:15",
       "modificado": "2026-05-12T09:33:08",
-      "idade_dias": 105,
+      "idade_dias": 106,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)"
     },
     {
@@ -2196,7 +2220,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-24T16:50:19",
       "modificado": "2026-05-12T05:00:20",
-      "idade_dias": 18,
+      "idade_dias": 19,
       "assunto": "SCP NS - ERRO EFD REINF"
     },
     {
@@ -2988,7 +3012,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-29T16:49:35",
       "modificado": "2026-05-07T05:00:27",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "excluir sc 006111 - NR"
     },
     {
@@ -3264,7 +3288,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-04T16:47:56",
       "modificado": "2026-05-05T19:31:35",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Validar configuraciones"
     },
     {
@@ -3492,7 +3516,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-28T16:45:15",
       "modificado": "2026-04-30T10:05:14",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Troca de impressora Zebra - Programa OLRE0011"
     },
     {
@@ -3672,7 +3696,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-13T16:50:08",
       "modificado": "2026-04-28T05:00:21",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "Testar SQL Audit em ambiente de Homologação AUTOZONE"
     },
     {
@@ -4764,7 +4788,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-24T16:50:15",
       "modificado": "2026-04-05T05:00:21",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Criação de usuário SQL - Consulta "
     },
     {
@@ -5592,7 +5616,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-13T16:40:31",
       "modificado": "2026-03-19T05:00:28",
-      "idade_dias": 88,
+      "idade_dias": 89,
       "assunto": "Erro - Títulos não sendo exibidos no relatório de comissão - Vendedor VD0041"
     },
     {
@@ -6732,7 +6756,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-01-30T16:48:55",
       "modificado": "2026-02-20T05:00:32",
-      "idade_dias": 102,
+      "idade_dias": 103,
       "assunto": "Aprovador dos pedidos e solicitações de compras FPP BS"
     },
     {
@@ -7020,7 +7044,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-01-13T16:45:22",
       "modificado": "2026-02-14T05:00:15",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "NF cancelada no fiscal que subiu na integração contábil"
     },
     {
@@ -7320,7 +7344,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-01-27T16:50:06",
       "modificado": "2026-02-06T05:00:28",
-      "idade_dias": 105,
+      "idade_dias": 106,
       "assunto": "Solicitação de erro no GWMS"
     },
     {
@@ -7836,7 +7860,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-19T16:45:11",
       "modificado": "2026-01-28T05:00:40",
-      "idade_dias": 113,
+      "idade_dias": 114,
       "assunto": "UNIMED CURITIBA  | Atualização "
     },
     {
@@ -9120,7 +9144,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-11T16:48:01",
       "modificado": "2025-12-23T05:00:24",
-      "idade_dias": 152,
+      "idade_dias": 153,
       "assunto": "Relatório - Contas a Pagar (Com rateios)"
     },
     {
@@ -9852,7 +9876,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-04T16:50:11",
       "modificado": "2025-12-04T16:50:14",
-      "idade_dias": 159,
+      "idade_dias": 160,
       "assunto": "RES: Problemas de Conversão no TOTVS (NF 227882 SKU 100111678)"
     },
     {
@@ -12732,7 +12756,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T16:41:56",
       "modificado": "2025-09-20T05:00:33",
-      "idade_dias": 243,
+      "idade_dias": 244,
       "assunto": "Protheus Contigencia"
     },
     {
@@ -15648,7 +15672,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-07-10T16:50:11",
       "modificado": "2025-07-22T05:00:23",
-      "idade_dias": 306,
+      "idade_dias": 307,
       "assunto": "RE: #TOTVS-SERVERS - ACTIVE_DIRECTORY_CHECKS - SP01.LOCAL - Authentication - 25071015431487"
     },
     {
@@ -18312,7 +18336,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-14T16:44:19",
       "modificado": "2025-05-24T05:00:26",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "Inclusão de movimentação no relatório Fluxo Financeiro"
     },
     {
@@ -21072,7 +21096,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-27T16:45:15",
       "modificado": "2025-04-06T05:00:10",
-      "idade_dias": 411,
+      "idade_dias": 412,
       "assunto": "RES: Braveo - Projeto OCI - FQDNs/URLs"
     },
     {
@@ -21228,7 +21252,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-18T16:45:48",
       "modificado": "2025-04-02T05:00:14",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "AZ - Revisar controle de numeração do pedido de compra"
     },
     {
@@ -21948,7 +21972,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-06T16:42:53",
       "modificado": "2025-03-15T05:00:23",
-      "idade_dias": 432,
+      "idade_dias": 433,
       "assunto": "ERRO PODER DE TERCEIROS."
     },
     {
@@ -23580,7 +23604,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-01-20T16:45:04",
       "modificado": "2025-02-09T05:00:14",
-      "idade_dias": 477,
+      "idade_dias": 478,
       "assunto": "Criação Monitoramento"
     },
     {
@@ -23592,7 +23616,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-20T16:45:08",
       "modificado": "2025-02-09T05:00:14",
-      "idade_dias": 477,
+      "idade_dias": 478,
       "assunto": "RES: RES: RES: [EXTERNAL] Re: Erro lote 008840 - Item 07604"
     },
     {
@@ -23784,7 +23808,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-01-28T16:45:06",
       "modificado": "2025-02-04T11:27:42",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "TESTE GMAIL ADRIANO"
     },
     {
@@ -24096,7 +24120,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-07T16:42:01",
       "modificado": "2025-01-16T15:00:16",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "AZ - Documentos antigos pendentes no TAX-ID"
     },
     {
@@ -24792,7 +24816,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-30T16:45:22",
       "modificado": "2024-12-30T15:00:18",
-      "idade_dias": 559,
+      "idade_dias": 560,
       "assunto": "Saldos Razões"
     },
     {
@@ -25200,7 +25224,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-26T16:50:06",
       "modificado": "2024-12-19T16:30:15",
-      "idade_dias": 532,
+      "idade_dias": 533,
       "assunto": "[EXTERNAL] Re: Baixa de Adiantamento PAs"
     },
     {
@@ -25608,7 +25632,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-02T16:49:17",
       "modificado": "2024-12-09T17:30:02",
-      "idade_dias": 526,
+      "idade_dias": 527,
       "assunto": "Excluir baixa no título 000137217  (MOTIVO DAC)  - 305001"
     },
     {
@@ -28524,7 +28548,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-27T16:45:07",
       "modificado": "2024-09-16T14:00:03",
-      "idade_dias": 623,
+      "idade_dias": 624,
       "assunto": "MONITORAMENTO NOTAS DE REVENDA - TAX ID"
     },
     {
