@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778674232,
-  "generated_at_iso": "2026-05-13T12:10:32Z",
-  "count": 5216,
+  "generated_at": 1778674838,
+  "generated_at_iso": "2026-05-13T12:20:38Z",
+  "count": 5217,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000147",
+      "assunto": "Alerta do serviço do Acronis",
+      "criado": "2026-05-13T09:17:02",
+      "modificado": "2026-05-13T09:17:04",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "DKT",
+      "cli_user": "fuezu@dkt.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000138",
       "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26051309074132",
@@ -7799,9 +7819,9 @@
       "num": "2026042726000382",
       "assunto": "Alteração Dashboard Logmein",
       "criado": "2026-04-27T16:30:05",
-      "modificado": "2026-05-13T05:00:08",
+      "modificado": "2026-05-13T09:15:20",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "retorno cliente",
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
