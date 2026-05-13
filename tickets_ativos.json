@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778632221,
-  "generated_at_iso": "2026-05-13T00:30:21Z",
-  "count": 2370,
+  "generated_at": 1778632822,
+  "generated_at_iso": "2026-05-13T00:40:22Z",
+  "count": 2371,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000285",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-11T13:35:23",
+      "modificado": "2026-05-12T21:35:40",
+      "idade_dias": 1,
+      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
+    },
+    {
+      "ticket": "2026051226000443",
+      "cliente": "no-reply@outlook.mail.microsoft",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-12T21:30:21",
+      "modificado": "2026-05-12T21:34:51",
+      "idade_dias": 0,
+      "assunto": "Resumo Diário de Reação - terça-feira, 12 de maio de 2026"
+    },
     {
       "ticket": "2026051226000434",
       "cliente": "fernando.ribeiro@groundwork.com.br",
@@ -1934,18 +1958,6 @@
       "modificado": "2026-05-11T14:22:38",
       "idade_dias": 8,
       "assunto": "Chamado para apontamento de horas."
-    },
-    {
-      "ticket": "2026051126000285",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-11T13:35:23",
-      "modificado": "2026-05-11T14:17:01",
-      "idade_dias": 1,
-      "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
     },
     {
       "ticket": "2026051026000072",
@@ -10632,7 +10644,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-17T21:40:11",
       "modificado": "2025-11-01T05:00:09",
-      "idade_dias": 206,
+      "idade_dias": 207,
       "assunto": "RE: #TOTVS-SERVERS - SP_SEG-AIREPV02 - HOST DOWN - 25101719005879"
     },
     {
