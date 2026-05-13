@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778684437,
-  "generated_at_iso": "2026-05-13T15:00:37Z",
-  "count": 2379,
+  "generated_at": 1778685033,
+  "generated_at_iso": "2026-05-13T15:10:33Z",
+  "count": 2380,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000263",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T12:10:20",
+      "modificado": "2026-05-13T12:10:23",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051312070273"
+    },
+    {
+      "ticket": "2026050826000111",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-08T09:45:13",
+      "modificado": "2026-05-13T12:04:05",
+      "idade_dias": 5,
+      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
+    },
+    {
       "ticket": "2026050826000175",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-13T11:58:36",
       "idade_dias": 5,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
-    },
-    {
-      "ticket": "2026050826000111",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-08T09:45:13",
-      "modificado": "2026-05-13T11:53:24",
-      "idade_dias": 5,
-      "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
     },
     {
       "ticket": "2026042726000382",
@@ -2844,7 +2856,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-07T12:10:09",
       "modificado": "2026-05-07T12:10:11",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "[EXTERNAL]  [AutoZone - PD09 - FY26] - Rotina de custos USGAAP"
     },
     {
@@ -4440,7 +4452,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-03-30T12:03:37",
       "modificado": "2026-04-10T05:00:13",
-      "idade_dias": 43,
+      "idade_dias": 44,
       "assunto": "Alerta de serviços de Locks no servidores PJE"
     },
     {
@@ -5136,7 +5148,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-13T12:06:00",
       "modificado": "2026-03-21T05:00:36",
-      "idade_dias": 60,
+      "idade_dias": 61,
       "assunto": "Notas fora da Reinf"
     },
     {
@@ -6240,7 +6252,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-23T12:03:02",
       "modificado": "2026-03-03T05:00:23",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Aprovações de contingências BS"
     },
     {
@@ -6504,7 +6516,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-11T12:07:23",
       "modificado": "2026-02-20T05:00:45",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "Solicitação de inclusão de filtros no Alerts History"
     },
     {
@@ -6528,7 +6540,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-10T12:10:19",
       "modificado": "2026-02-20T05:00:43",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "LIBERAÇÃO PARA PEDIDOS DE COMPRAS NO PROTHEUS"
     },
     {
@@ -6888,7 +6900,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-01T12:05:08",
       "modificado": "2026-02-14T05:00:20",
-      "idade_dias": 100,
+      "idade_dias": 101,
       "assunto": "RES: Downtime Ambiente totvs"
     },
     {
@@ -9300,7 +9312,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T12:00:43",
       "modificado": "2025-12-16T05:00:24",
-      "idade_dias": 162,
+      "idade_dias": 163,
       "assunto": "SEFAZ HOMOLOGAÇÃO - AMBIENTE DE PRD"
     },
     {
@@ -9312,7 +9324,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-11-28T12:09:43",
       "modificado": "2025-12-16T05:00:23",
-      "idade_dias": 165,
+      "idade_dias": 166,
       "assunto": "Pedido em aberto"
     },
     {
@@ -9972,7 +9984,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-09T12:05:16",
       "modificado": "2025-11-27T05:00:27",
-      "idade_dias": 184,
+      "idade_dias": 185,
       "assunto": "ALERTAS ANTIGOS BRAVEO - ERRO PLUGIN"
     },
     {
@@ -10464,7 +10476,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-11-10T12:05:17",
       "modificado": "2025-11-10T12:05:20",
-      "idade_dias": 183,
+      "idade_dias": 184,
       "assunto": "[AutoZone - BR/ US] - Contas patrimoniais - 8"
     },
     {
@@ -11544,7 +11556,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-26T12:05:20",
       "modificado": "2025-10-10T05:00:16",
-      "idade_dias": 228,
+      "idade_dias": 229,
       "assunto": "TOTVS - Exclusão Monitoramento"
     },
     {
@@ -11700,7 +11712,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-09-14T12:10:21",
       "modificado": "2025-10-07T05:00:16",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "Guardar dados API"
     },
     {
@@ -11772,7 +11784,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-25T12:04:07",
       "modificado": "2025-10-03T05:00:20",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "Relatório Fornecedores"
     },
     {
@@ -11784,7 +11796,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-24T12:06:44",
       "modificado": "2025-10-03T05:00:19",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "PIS e COFINS negativo -  Setembro/2025"
     },
     {
@@ -12660,7 +12672,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T12:06:13",
       "modificado": "2025-09-19T05:00:33",
-      "idade_dias": 243,
+      "idade_dias": 244,
       "assunto": "Alteração da Descrição do Pedido"
     },
     {
@@ -13320,7 +13332,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-25T12:05:11",
       "modificado": "2025-09-11T09:27:07",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": ""
     },
     {
@@ -14352,7 +14364,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-08-07T12:09:19",
       "modificado": "2025-08-19T05:00:13",
-      "idade_dias": 278,
+      "idade_dias": 279,
       "assunto": "Notas Fiscais PJ"
     },
     {
@@ -14388,7 +14400,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-24T12:10:31",
       "modificado": "2025-08-19T05:00:08",
-      "idade_dias": 383,
+      "idade_dias": 384,
       "assunto": "DEVOLUÇÃO DE COMPRA - CONTABILIZAÇÃO DO CANCELAMENTO (ESTORNO)"
     },
     {
@@ -14520,7 +14532,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-29T12:01:23",
       "modificado": "2025-08-15T05:00:28",
-      "idade_dias": 287,
+      "idade_dias": 288,
       "assunto": "AZ - PAGAR - Automatizar baixas."
     },
     {
@@ -15144,7 +15156,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-24T12:05:12",
       "modificado": "2025-08-01T05:00:29",
-      "idade_dias": 292,
+      "idade_dias": 293,
       "assunto": "RE: Select 2407_Conta 51061"
     },
     {
@@ -17328,7 +17340,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-03T12:05:16",
       "modificado": "2025-06-11T05:00:29",
-      "idade_dias": 343,
+      "idade_dias": 344,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -18912,7 +18924,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-02T12:06:22",
       "modificado": "2025-05-13T05:00:24",
-      "idade_dias": 375,
+      "idade_dias": 376,
       "assunto": "AZ -  Solicitação de Exclusão de Baixas Indevidas – PIX em Feriado (18/04)"
     },
     {
@@ -19272,7 +19284,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-23T12:05:19",
       "modificado": "2025-05-07T05:00:12",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "Select conta 51061"
     },
     {
@@ -19572,7 +19584,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-04-15T12:05:18",
       "modificado": "2025-05-02T05:00:21",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "NOVA VPN - AMB_RIO (configuração)"
     },
     {
@@ -19956,7 +19968,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-14T12:04:28",
       "modificado": "2025-04-25T05:00:07",
-      "idade_dias": 393,
+      "idade_dias": 394,
       "assunto": "Totvs Transmite"
     },
     {
@@ -20400,7 +20412,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-10T12:05:11",
       "modificado": "2025-04-18T05:00:21",
-      "idade_dias": 397,
+      "idade_dias": 398,
       "assunto": "GDBR :: Erro no monitoramento dos nobreak"
     },
     {
@@ -21072,7 +21084,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-26T12:10:10",
       "modificado": "2025-04-03T05:00:21",
-      "idade_dias": 412,
+      "idade_dias": 413,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -22668,7 +22680,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-02-12T12:10:16",
       "modificado": "2025-02-21T05:00:06",
-      "idade_dias": 454,
+      "idade_dias": 455,
       "assunto": "940732 - FIS014 - Atualização procedure 27 TAFx SPED - HOMOLOGAÇÂO"
     },
     {
@@ -23364,7 +23376,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-28T12:01:52",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "RETENÇÃO"
     },
     {
@@ -25068,7 +25080,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-12-04T12:05:24",
       "modificado": "2024-12-19T18:00:19",
-      "idade_dias": 524,
+      "idade_dias": 525,
       "assunto": "GWMS - Atuações na AZ/ Ajustes"
     },
     {
@@ -26760,7 +26772,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-10-22T12:10:15",
       "modificado": "2024-10-30T16:00:15",
-      "idade_dias": 567,
+      "idade_dias": 568,
       "assunto": "GROUNDWORK - GWMS-Server - Check Backup Clientes - 24102212080841"
     },
     {
@@ -28560,7 +28572,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-05T12:03:23",
       "modificado": "2024-09-12T17:00:19",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "REVISAR MEU USUARIO"
     }
   ]
