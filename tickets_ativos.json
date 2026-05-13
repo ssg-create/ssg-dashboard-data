@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778699425,
-  "generated_at_iso": "2026-05-13T19:10:25Z",
-  "count": 2387,
+  "generated_at": 1778700029,
+  "generated_at_iso": "2026-05-13T19:20:29Z",
+  "count": 2388,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000307",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-13T14:15:17",
+      "modificado": "2026-05-13T16:19:52",
+      "idade_dias": 0,
+      "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
+    },
+    {
+      "ticket": "2026051326000389",
+      "cliente": "TJBA",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T16:14:49",
+      "modificado": "2026-05-13T16:14:51",
+      "idade_dias": 0,
+      "assunto": "Checagem de certificado, host: k8sigcmp001"
+    },
+    {
       "ticket": "2026051326000371",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "NOC",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-13T16:10:16",
       "idade_dias": 0,
       "assunto": "AUTOZONE - Alertas CRITICAL - 26051316072148"
-    },
-    {
-      "ticket": "2026051326000307",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-13T14:15:17",
-      "modificado": "2026-05-13T16:09:51",
-      "idade_dias": 0,
-      "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
     },
     {
       "ticket": "2026051326000361",
@@ -1428,7 +1440,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-12-16T16:15:09",
       "modificado": "2026-05-13T05:00:07",
-      "idade_dias": 147,
+      "idade_dias": 148,
       "assunto": "RES: RES: [EXTERNAL] Re: LIVRO FISCAL"
     },
     {
@@ -1584,7 +1596,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-04-14T16:19:19",
       "modificado": "2026-05-12T16:54:19",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "Relatório de Lucratividade."
     },
     {
@@ -1596,7 +1608,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2026-05-12T16:20:19",
       "modificado": "2026-05-12T16:24:53",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Downtime"
     },
     {
@@ -2220,7 +2232,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-06T16:20:11",
       "modificado": "2026-05-11T21:58:38",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "IDRAC GWMS - DKT"
     },
     {
@@ -2832,7 +2844,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-30T16:20:23",
       "modificado": "2026-05-08T05:00:30",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "Criação de Serviços Protheus"
     },
     {
@@ -3480,7 +3492,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:20:10",
       "modificado": "2026-04-30T09:16:11",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Implementação ELK - GWMS DKT"
     },
     {
@@ -3540,7 +3552,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-16T16:15:15",
       "modificado": "2026-04-30T05:00:23",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "Revisão Sebrae"
     },
     {
@@ -3900,7 +3912,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-25T16:20:08",
       "modificado": "2026-04-22T10:36:34",
-      "idade_dias": 48,
+      "idade_dias": 49,
       "assunto": "Ativar SNMPv3 equipamentos TOTVS"
     },
     {
@@ -3984,7 +3996,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-09T16:20:09",
       "modificado": "2026-04-22T05:00:29",
-      "idade_dias": 33,
+      "idade_dias": 34,
       "assunto": "CASTROLANDA | Relatório de servidores Windows e Linux monitorado via SNMP"
     },
     {
@@ -5316,7 +5328,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-02-26T16:20:09",
       "modificado": "2026-03-21T05:00:28",
-      "idade_dias": 75,
+      "idade_dias": 76,
       "assunto": "AD - Inclusão de Usuário em Grupo de Permissão – Acesso USB-CD-DVD Comp."
     },
     {
@@ -5496,7 +5508,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T16:13:22",
       "modificado": "2026-03-19T05:00:38",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Acesso ao protheus - Gabriela"
     },
     {
@@ -5808,7 +5820,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-05T16:15:12",
       "modificado": "2026-03-14T05:00:27",
-      "idade_dias": 68,
+      "idade_dias": 69,
       "assunto": "RES: Pooler Joinville - Groundwork"
     },
     {
@@ -5928,7 +5940,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-03-03T16:16:02",
       "modificado": "2026-03-12T05:00:29",
-      "idade_dias": 70,
+      "idade_dias": 71,
       "assunto": "Aglutinação"
     },
     {
@@ -7896,7 +7908,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2026-01-13T16:15:20",
       "modificado": "2026-01-28T05:00:29",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "Lançamentos não integrados 12/2025"
     },
     {
@@ -7908,7 +7920,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-09-03T16:11:45",
       "modificado": "2026-01-28T05:00:25",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "INUTILIZAÇÃO NF"
     },
     {
@@ -9060,7 +9072,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-12-15T16:15:04",
       "modificado": "2025-12-24T05:00:20",
-      "idade_dias": 148,
+      "idade_dias": 149,
       "assunto": "TOTVS NETWORK - Adição de Switche"
     },
     {
@@ -11340,7 +11352,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-09-08T16:15:09",
       "modificado": "2025-10-17T05:00:31",
-      "idade_dias": 246,
+      "idade_dias": 247,
       "assunto": "CT2 Duplicidades - Causa Raiz"
     },
     {
@@ -12840,7 +12852,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-11T16:18:17",
       "modificado": "2025-09-19T05:00:23",
-      "idade_dias": 274,
+      "idade_dias": 275,
       "assunto": "ACESSO PROTHEUS"
     },
     {
@@ -15516,7 +15528,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-07-14T16:15:22",
       "modificado": "2025-07-23T05:00:27",
-      "idade_dias": 302,
+      "idade_dias": 303,
       "assunto": "Re: #TOTVS-SERVERS - AZURE_TENANT_TOTVS-SA - BI TOTVS: Subscription - Users MFA [Owners/Contributors] - 25071323353524"
     },
     {
@@ -15552,7 +15564,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-14T16:20:21",
       "modificado": "2025-07-22T05:00:31",
-      "idade_dias": 302,
+      "idade_dias": 303,
       "assunto": "Re: #TOTVS-SERVERS - DNS_CHECKS - NS Check: Totvs.com.br - 25071203074721"
     },
     {
@@ -17700,7 +17712,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-27T16:20:19",
       "modificado": "2025-06-04T05:00:16",
-      "idade_dias": 350,
+      "idade_dias": 351,
       "assunto": "RE: IMPORTANTE - Monitoramentos RM - Migração de DataCenter"
     },
     {
@@ -18396,7 +18408,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-13T16:15:13",
       "modificado": "2025-05-22T05:00:22",
-      "idade_dias": 364,
+      "idade_dias": 365,
       "assunto": "Ajustar o dashboard do servidor PCFACTORY - BUNTECH"
     },
     {
@@ -18636,7 +18648,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-08T16:13:23",
       "modificado": "2025-05-20T05:00:23",
-      "idade_dias": 369,
+      "idade_dias": 370,
       "assunto": "Documentos de entrada não contabilizados"
     },
     {
@@ -18684,7 +18696,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-09T16:20:09",
       "modificado": "2025-05-17T05:00:23",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25050916171660"
     },
     {
@@ -18876,7 +18888,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-05-06T16:11:50",
       "modificado": "2025-05-14T05:00:23",
-      "idade_dias": 371,
+      "idade_dias": 372,
       "assunto": "Verificar DBAccess Base Teste"
     },
     {
@@ -19104,7 +19116,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-05-12T16:20:18",
       "modificado": "2025-05-12T16:20:20",
-      "idade_dias": 365,
+      "idade_dias": 366,
       "assunto": "Solicitação de ajustes operacionais no módulo de Compras – Filiais e Sessão"
     },
     {
@@ -19164,7 +19176,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-03-26T16:15:18",
       "modificado": "2025-05-12T05:00:17",
-      "idade_dias": 412,
+      "idade_dias": 413,
       "assunto": "Revisão - LP 640/650 Devolução de Vendas"
     },
     {
@@ -19632,7 +19644,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-22T16:20:04",
       "modificado": "2025-05-02T05:00:22",
-      "idade_dias": 385,
+      "idade_dias": 386,
       "assunto": "Braveo - GWMS - Criação de acessos"
     },
     {
@@ -20820,7 +20832,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-01T16:15:14",
       "modificado": "2025-04-10T05:00:16",
-      "idade_dias": 406,
+      "idade_dias": 407,
       "assunto": "Braveo - Projeto OCI - Lista Servidores"
     },
     {
@@ -21804,7 +21816,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-07T16:15:15",
       "modificado": "2025-03-18T05:00:13",
-      "idade_dias": 431,
+      "idade_dias": 432,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -22236,7 +22248,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-13T16:20:14",
       "modificado": "2025-03-07T05:00:12",
-      "idade_dias": 637,
+      "idade_dias": 638,
       "assunto": "Alteração/ Exclusão de Contratos"
     },
     {
@@ -22740,7 +22752,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-12T16:20:17",
       "modificado": "2025-02-21T05:00:06",
-      "idade_dias": 454,
+      "idade_dias": 455,
       "assunto": "Criação de pedido Grupo 80"
     },
     {
@@ -23976,7 +23988,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-09T16:14:09",
       "modificado": "2025-01-17T12:30:04",
-      "idade_dias": 488,
+      "idade_dias": 489,
       "assunto": "Acesso aos usuário do time fiscal para retroceder a data até o ultimo dia útil do mês anterior"
     },
     {
@@ -24156,7 +24168,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-06T16:14:26",
       "modificado": "2025-01-15T14:30:05",
-      "idade_dias": 491,
+      "idade_dias": 492,
       "assunto": "Filial 0013 - Cadastro de Inscrição Estadual Substituição Tributário"
     },
     {
@@ -25500,7 +25512,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-03T16:18:17",
       "modificado": "2024-12-11T11:00:00",
-      "idade_dias": 525,
+      "idade_dias": 526,
       "assunto": "erro ao gerar acordo - empresa 305001"
     },
     {
@@ -26304,7 +26316,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-08T16:13:32",
       "modificado": "2024-11-15T18:30:00",
-      "idade_dias": 550,
+      "idade_dias": 551,
       "assunto": "Erro de bloqueio por outro usuario"
     },
     {
@@ -27324,7 +27336,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-10-11T16:20:24",
       "modificado": "2024-10-18T17:00:13",
-      "idade_dias": 578,
+      "idade_dias": 579,
       "assunto": "RES: AD - Área de trabalho do Usuário apaga o atalho do Protheus"
     },
     {
@@ -27828,7 +27840,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2024-09-25T16:17:00",
       "modificado": "2024-10-02T17:00:15",
-      "idade_dias": 594,
+      "idade_dias": 595,
       "assunto": "Usuário Bloqueado"
     },
     {
@@ -28440,7 +28452,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-07-11T16:15:05",
       "modificado": "2024-09-17T18:30:13",
-      "idade_dias": 670,
+      "idade_dias": 671,
       "assunto": "Parâmetros Financeiro"
     },
     {
@@ -28572,7 +28584,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-06T16:20:16",
       "modificado": "2024-09-13T18:30:20",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "Remoção Alerta dashboard - ATITUS"
     },
     {
