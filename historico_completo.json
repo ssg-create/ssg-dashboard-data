@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778684442,
-  "generated_at_iso": "2026-05-13T15:00:42Z",
-  "count": 5213,
+  "generated_at": 1778685039,
+  "generated_at_iso": "2026-05-13T15:10:39Z",
+  "count": 5214,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000263",
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051312070273",
+      "criado": "2026-05-13T12:10:20",
+      "modificado": "2026-05-13T12:10:23",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000254",
       "assunto": "Serviço do TSS parando",
@@ -2499,9 +2519,9 @@
       "num": "2026050826000111",
       "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard",
       "criado": "2026-05-08T09:45:13",
-      "modificado": "2026-05-13T11:53:24",
+      "modificado": "2026-05-13T12:04:05",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Guilherme Jonck",
       "primeiro_nome": "Guilherme",
