@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778674841,
-  "generated_at_iso": "2026-05-13T12:20:41Z",
+  "generated_at": 1778675433,
+  "generated_at_iso": "2026-05-13T12:30:33Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -11,16 +11,16 @@
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
       "category": "capacidade",
-      "title": "Jean Pierre Rocha com carga real de 12 tickets",
-      "summary": "Jean Pierre Rocha tem 12 tickets ativos sob sua responsabilidade: 3 em atendimento + 9 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Jean Pierre Rocha com carga real de 13 tickets",
+      "summary": "Jean Pierre Rocha tem 13 tickets ativos sob sua responsabilidade: 3 em atendimento + 10 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Jean Pierre Rocha",
-          "carga_real": 12,
+          "carga_real": 13,
           "em_atendimento": 3,
-          "abertos": 9,
+          "abertos": 10,
           "aguardando_terceiros": 0,
-          "ativos_total": 12
+          "ativos_total": 13
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -40,6 +40,25 @@
           "abertos": 6,
           "aguardando_terceiros": 3,
           "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Sergio Luiz Glovatinski Jr com carga real de 6 tickets",
+      "summary": "Sergio Luiz Glovatinski Jr tem 6 tickets ativos sob sua responsabilidade: 1 em atendimento + 5 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Sergio Luiz Glovatinski Jr",
+          "carga_real": 6,
+          "em_atendimento": 1,
+          "abertos": 5,
+          "aguardando_terceiros": 2,
+          "ativos_total": 8
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -78,25 +97,6 @@
           "abertos": 0,
           "aguardando_terceiros": 3,
           "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 5 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
-          "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
-          "aguardando_terceiros": 2,
-          "ativos_total": 7
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
