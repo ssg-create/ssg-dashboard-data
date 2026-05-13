@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778706031,
-  "generated_at_iso": "2026-05-13T21:00:31Z",
+  "generated_at": 1778706629,
+  "generated_at_iso": "2026-05-13T21:10:29Z",
   "count": 2392,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000469",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-13T17:50:07",
+      "modificado": "2026-05-13T18:01:48",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - Alertas CRITICAL - 26051317472021"
+    },
+    {
+      "ticket": "2026051326000451",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-13T17:45:08",
+      "modificado": "2026-05-13T18:01:00",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_MonUX-Server - Process:UX-START.ps1 - 26051317431916"
+    },
     {
       "ticket": "2026051326000307",
       "cliente": "TOTVS",
@@ -52,18 +76,6 @@
       "assunto": "Novo usuário Protheus"
     },
     {
-      "ticket": "2026051326000469",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T17:50:07",
-      "modificado": "2026-05-13T17:50:09",
-      "idade_dias": 0,
-      "assunto": "AUTOZONE - Alertas CRITICAL - 26051317472021"
-    },
-    {
       "ticket": "2026051326000291",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -86,18 +98,6 @@
       "modificado": "2026-05-13T17:45:10",
       "idade_dias": 0,
       "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO"
-    },
-    {
-      "ticket": "2026051326000451",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T17:45:08",
-      "modificado": "2026-05-13T17:45:10",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_MonUX-Server - Process:UX-START.ps1 - 26051317431916"
     },
     {
       "ticket": "2026051326000441",
@@ -528,7 +528,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-05-04T18:05:12",
       "modificado": "2026-05-13T12:50:50",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
@@ -720,7 +720,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-27T18:05:17",
       "modificado": "2026-05-13T10:20:13",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "RE: Monitoração - Unidade Jundiai"
     },
     {
@@ -1728,7 +1728,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-06T18:02:47",
       "modificado": "2026-05-12T16:18:52",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
     {
@@ -3312,7 +3312,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-05-05T18:05:21",
       "modificado": "2026-05-05T18:05:29",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Recall: AutoZone - Correção de combo rules - 05.05 - PD09 FY26 W4 - pt1"
     },
     {
@@ -3936,7 +3936,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-13T18:07:15",
       "modificado": "2026-04-23T05:00:21",
-      "idade_dias": 29,
+      "idade_dias": 30,
       "assunto": "COMPENSAÇÃO DE PA"
     },
     {
@@ -4536,7 +4536,7 @@
       "atendente": "Jeferson Fretta",
       "criado": "2026-04-02T18:05:16",
       "modificado": "2026-04-10T05:00:19",
-      "idade_dias": 40,
+      "idade_dias": 41,
       "assunto": "#TOTVS-NETWORK - RBP_AP_RBPPAV12-AP11 - HOST DOWN - 26040217592340"
     },
     {
@@ -5136,7 +5136,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-17T18:10:21",
       "modificado": "2026-03-26T05:00:23",
-      "idade_dias": 56,
+      "idade_dias": 57,
       "assunto": "Solicitação de lista  de usuarios com acesso a  Infra"
     },
     {
@@ -8724,7 +8724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-26T18:05:27",
       "modificado": "2026-01-07T05:00:25",
-      "idade_dias": 137,
+      "idade_dias": 138,
       "assunto": "Alteração de aprovação - Movidesk"
     },
     {
@@ -11064,7 +11064,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-09T18:05:11",
       "modificado": "2025-10-28T05:00:14",
-      "idade_dias": 215,
+      "idade_dias": 216,
       "assunto": "#TOTVS-SERVERS - ACESSO_POLLER_JV - tdn.totvs.com - authentication and response time - 2508282039283 [...]"
     },
     {
@@ -13584,7 +13584,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-01T18:09:19",
       "modificado": "2025-09-10T05:00:20",
-      "idade_dias": 253,
+      "idade_dias": 254,
       "assunto": "Solicito liberação de acesso ao Protheus"
     },
     {
@@ -20964,7 +20964,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-03-31T18:10:12",
       "modificado": "2025-04-09T05:00:13",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Re: #TOTVS-NETWORK - POA_BRPOASWCORE01 - Global Status - 25033117540464"
     },
     {
@@ -22236,7 +22236,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-26T18:05:47",
       "modificado": "2025-03-08T05:00:17",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "Acesso ao Protheus"
     },
     {
@@ -23304,7 +23304,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-01-28T18:10:16",
       "modificado": "2025-02-11T05:00:10",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "Discovery de hosts do vCenter"
     },
     {
@@ -24756,7 +24756,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-09-05T18:05:14",
       "modificado": "2025-01-02T12:00:16",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "CNAB AR - ANÁLISE DA POSSIBLIDADE DE IMPLANTAÇÃO"
     },
     {
@@ -26952,7 +26952,7 @@
       "atendente": "Geyson Albano",
       "criado": "2024-09-05T18:05:15",
       "modificado": "2024-10-29T12:30:17",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "Divergencia Dash de acessos."
     },
     {
@@ -27204,7 +27204,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T18:06:24",
       "modificado": "2024-10-23T09:00:10",
-      "idade_dias": 574,
+      "idade_dias": 575,
       "assunto": "INTERFACE DE INTEGRAÇÃO - XML - Matriz 0001"
     },
     {
@@ -27504,7 +27504,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-18T18:04:05",
       "modificado": "2024-10-17T18:30:12",
-      "idade_dias": 601,
+      "idade_dias": 602,
       "assunto": "TAXID - Data de Vencimento"
     },
     {
@@ -28020,7 +28020,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-06T18:05:47",
       "modificado": "2024-10-01T09:00:06",
-      "idade_dias": 613,
+      "idade_dias": 614,
       "assunto": "PO EXCLUIDA - TAXID"
     },
     {
