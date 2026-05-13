@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778670047,
-  "generated_at_iso": "2026-05-13T11:00:47Z",
+  "generated_at": 1778670606,
+  "generated_at_iso": "2026-05-13T11:10:06Z",
   "count": 2379,
   "filas": [
     "DATASUL",
@@ -16,6 +16,78 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000049",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-13T04:45:21",
+      "modificado": "2026-05-13T08:10:05",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/var - 26051304425623"
+    },
+    {
+      "ticket": "2026051326000058",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-13T05:00:23",
+      "modificado": "2026-05-13T08:09:13",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051304565335"
+    },
+    {
+      "ticket": "2026051326000067",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-13T07:05:19",
+      "modificado": "2026-05-13T08:05:13",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:psa - 26051307022254"
+    },
+    {
+      "ticket": "2026051226000318",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-12T16:51:34",
+      "modificado": "2026-05-13T08:03:57",
+      "idade_dias": 0,
+      "assunto": "Refaz saldos - PD9 - USGAAP - 12.05.2026 - Pós report"
+    },
+    {
+      "ticket": "2026051326000076",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-13T07:35:23",
+      "modificado": "2026-05-13T08:03:50",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051307311574"
+    },
+    {
+      "ticket": "2026051326000085",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-13T07:45:06",
+      "modificado": "2026-05-13T08:02:17",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051307445262"
+    },
+    {
       "ticket": "2026051126000463",
       "cliente": "TOTVS",
       "fila": "GWMS",
@@ -26,66 +98,6 @@
       "modificado": "2026-05-13T07:55:07",
       "idade_dias": 1,
       "assunto": "Validação do monitoramento Identity"
-    },
-    {
-      "ticket": "2026051326000085",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T07:45:06",
-      "modificado": "2026-05-13T07:45:08",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051307445262"
-    },
-    {
-      "ticket": "2026051326000076",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T07:35:23",
-      "modificado": "2026-05-13T07:35:26",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051307311574"
-    },
-    {
-      "ticket": "2026051326000067",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T07:05:19",
-      "modificado": "2026-05-13T07:19:02",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL01 - UX:psa - 26051307022254"
-    },
-    {
-      "ticket": "2026051326000058",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T05:00:23",
-      "modificado": "2026-05-13T05:11:19",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051304565335"
-    },
-    {
-      "ticket": "2026051326000049",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-13T04:45:21",
-      "modificado": "2026-05-13T05:10:58",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/var - 26051304425623"
     },
     {
       "ticket": "2026050426000101",
@@ -1106,18 +1118,6 @@
       "modificado": "2026-05-12T17:25:10",
       "idade_dias": 1,
       "assunto": "Alteração Portal NOC - TELETEX"
-    },
-    {
-      "ticket": "2026051226000318",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-12T16:51:34",
-      "modificado": "2026-05-12T17:02:13",
-      "idade_dias": 0,
-      "assunto": "Refaz saldos - PD9 - USGAAP - 12.05.2026 - Pós report"
     },
     {
       "ticket": "2026041426000371",
@@ -4308,7 +4308,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-03-31T08:04:16",
       "modificado": "2026-04-14T05:00:19",
-      "idade_dias": 42,
+      "idade_dias": 43,
       "assunto": "cBenef SP nas NF-e e NFC-e a partir de abril de 2026"
     },
     {
@@ -15264,7 +15264,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-18T08:05:18",
       "modificado": "2025-07-29T05:00:11",
-      "idade_dias": 298,
+      "idade_dias": 299,
       "assunto": "Relatório de Usuários"
     },
     {
@@ -20124,7 +20124,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-20T08:08:43",
       "modificado": "2025-04-23T05:00:21",
-      "idade_dias": 418,
+      "idade_dias": 419,
       "assunto": "Orientação na Documentação do Limite de Crédito"
     },
     {
@@ -22716,7 +22716,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-02-06T08:05:08",
       "modificado": "2025-02-20T05:00:25",
-      "idade_dias": 460,
+      "idade_dias": 461,
       "assunto": "Recuperação de arquivo - base Julho/24"
     },
     {
@@ -27360,7 +27360,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-04T08:05:19",
       "modificado": "2024-10-17T16:30:07",
-      "idade_dias": 585,
+      "idade_dias": 586,
       "assunto": "Criação - Grupo de aprovadores Jurídico "
     },
     {
