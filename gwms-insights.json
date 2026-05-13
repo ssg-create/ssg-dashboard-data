@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778703651,
-  "generated_at_iso": "2026-05-13T20:20:51Z",
+  "generated_at": 1778704244,
+  "generated_at_iso": "2026-05-13T20:30:44Z",
   "counts": {
     "crit": 2,
     "warn": 3,
@@ -30,16 +30,16 @@
       "id": "sobrecarga_Eduardo_Candido",
       "severity": "crit",
       "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 9 tickets",
-      "summary": "Eduardo Candido tem 9 tickets ativos sob sua responsabilidade: 1 em atendimento + 8 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Eduardo Candido com carga real de 10 tickets",
+      "summary": "Eduardo Candido tem 10 tickets ativos sob sua responsabilidade: 1 em atendimento + 9 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Eduardo Candido",
-          "carga_real": 9,
+          "carga_real": 10,
           "em_atendimento": 1,
-          "abertos": 8,
+          "abertos": 9,
           "aguardando_terceiros": 1,
-          "ativos_total": 11
+          "ativos_total": 12
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -92,19 +92,18 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "7 de 11 tickets silenciosos na fila SSG (63%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "7 de 10 tickets silenciosos na fila SSG (70%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
           "n_top": 7,
-          "n_total": 11,
-          "pct_top": 0.64,
+          "n_total": 10,
+          "pct_top": 0.7,
           "distribuicao": {
             "AUTOZONE": 7,
             "ALMEIDA JR": 2,
-            "NSX": 1,
-            "FADEL": 1
+            "NSX": 1
           }
         }
       ],
