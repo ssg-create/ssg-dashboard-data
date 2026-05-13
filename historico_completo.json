@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778632225,
-  "generated_at_iso": "2026-05-13T00:30:25Z",
+  "generated_at": 1778632828,
+  "generated_at_iso": "2026-05-13T00:40:28Z",
   "count": 5208,
   "filas": [
     "DATASUL",
@@ -19,8 +19,8 @@
       "num": "2026051226000443",
       "assunto": "Resumo Diário de Reação - terça-feira, 12 de maio de 2026",
       "criado": "2026-05-12T21:30:21",
-      "modificado": "2026-05-12T21:30:22",
-      "fila": "NOC",
+      "modificado": "2026-05-12T21:34:51",
+      "fila": "GWMS",
       "estado": "new",
       "prioridade": "3 normal",
       "atendente": "Admin OTRS",
@@ -1139,9 +1139,9 @@
       "num": "2026051126000285",
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420",
       "criado": "2026-05-11T13:35:23",
-      "modificado": "2026-05-11T14:17:01",
+      "modificado": "2026-05-12T21:35:40",
       "fila": "DBA",
-      "estado": "open",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Eduardo Candido",
       "primeiro_nome": "Eduardo",
@@ -1149,11 +1149,11 @@
       "cli_id": "AUTOZONE",
       "cli_user": "monitoramento@groundwork.com.br",
       "servico": "Banco de Horas::Banco de Dados",
-      "fechado": null,
-      "resp_min_raw": null,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
-      "resp_min_bh": null
+      "fechado": "2026-05-12T21:35:39",
+      "resp_min_raw": 1920,
+      "sol_min_raw": 1920,
+      "sol_min_bh": 804,
+      "resp_min_bh": 804
     },
     {
       "num": "2026051126000276",
