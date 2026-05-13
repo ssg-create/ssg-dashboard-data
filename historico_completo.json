@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778703311,
-  "generated_at_iso": "2026-05-13T20:15:11Z",
-  "count": 5210,
+  "generated_at": 1778703649,
+  "generated_at_iso": "2026-05-13T20:20:49Z",
+  "count": 5211,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000432",
+      "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO",
+      "criado": "2026-05-13T17:15:23",
+      "modificado": "2026-05-13T17:15:27",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "robert.santos@groundwork.com.br",
+      "cli_user": "robert.santos@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000423",
       "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR20-TOTVS-P12-Autozone_ws_rest-22022-rest 8090-RELEASE - 26051316471741",
@@ -399,7 +419,7 @@
       "num": "2026051326000218",
       "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação",
       "criado": "2026-05-13T10:31:31",
-      "modificado": "2026-05-13T15:40:12",
+      "modificado": "2026-05-13T17:20:25",
       "fila": "SSG",
       "estado": "retorno cliente",
       "prioridade": "3 normal",
@@ -1099,9 +1119,9 @@
       "num": "2026051226000167",
       "assunto": "Verificação de permissões Level2",
       "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-13T16:01:18",
+      "modificado": "2026-05-13T17:17:06",
       "fila": "INFRAESTUTURA",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Fabiano Souza",
       "primeiro_nome": "Fabiano",
@@ -1109,10 +1129,10 @@
       "cli_id": "FADEL",
       "cli_user": "giovana.franca@fadeltransportes.com.br",
       "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "fechado": "2026-05-13T15:05:05",
+      "fechado": "2026-05-13T17:17:06",
       "resp_min_raw": 38,
-      "sol_min_raw": 1689,
-      "sol_min_bh": 729,
+      "sol_min_raw": 1821,
+      "sol_min_bh": 861,
       "resp_min_bh": 38
     },
     {
