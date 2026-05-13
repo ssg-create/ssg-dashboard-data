@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778673630,
-  "generated_at_iso": "2026-05-13T12:00:30Z",
-  "count": 2377,
+  "generated_at": 1778674226,
+  "generated_at_iso": "2026-05-13T12:10:26Z",
+  "count": 2379,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,54 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000167",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-12T10:55:15",
+      "modificado": "2026-05-13T09:10:20",
+      "idade_dias": 0,
+      "assunto": "Verificação de permissões Level2"
+    },
+    {
+      "ticket": "2026051326000138",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T09:10:18",
+      "modificado": "2026-05-13T09:10:20",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Health - 26051309074132"
+    },
+    {
+      "ticket": "2026051226000194",
+      "cliente": "ALMEIDA JR",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-12T11:40:22",
+      "modificado": "2026-05-13T09:08:20",
+      "idade_dias": 0,
+      "assunto": "Integração Movidesk x OTRS"
+    },
+    {
+      "ticket": "2026051326000129",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T09:05:16",
+      "modificado": "2026-05-13T09:05:18",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_ELK-Server - Disk:/var - 26051309034550"
+    },
     {
       "ticket": "2026050826000111",
       "cliente": "TOTVS",
@@ -516,7 +564,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-08T09:05:08",
       "modificado": "2026-05-13T05:00:09",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Calibragem de monitoramento"
     },
     {
@@ -1180,18 +1228,6 @@
       "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
     {
-      "ticket": "2026051226000194",
-      "cliente": "ALMEIDA JR",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-12T11:40:22",
-      "modificado": "2026-05-12T16:11:06",
-      "idade_dias": 0,
-      "assunto": "Integração Movidesk x OTRS"
-    },
-    {
       "ticket": "2026051226000274",
       "cliente": "GroundWork",
       "fila": "DBA",
@@ -1396,18 +1432,6 @@
       "assunto": "Arquivos XML e ASN's não estão sendo direcionados para pasta de envio"
     },
     {
-      "ticket": "2026051226000167",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-12T10:55:15",
-      "modificado": "2026-05-12T14:35:11",
-      "idade_dias": 0,
-      "assunto": "Verificação de permissões Level2"
-    },
-    {
       "ticket": "2026050626000179",
       "cliente": "TELETEX",
       "fila": "DBA",
@@ -1584,7 +1608,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-05-07T09:02:50",
       "modificado": "2026-05-12T11:41:55",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "SIGACTB :: Motivo de baixa \"IRF\" não é possível de estornar no contas a pagar do financeiro"
     },
     {
@@ -1596,7 +1620,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T09:01:37",
       "modificado": "2026-05-12T11:33:48",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Contabilização Aplicação - Gesplan"
     },
     {
@@ -2172,7 +2196,7 @@
       "atendente": "Fernando Ribeiro",
       "criado": "2026-05-09T09:10:18",
       "modificado": "2026-05-11T12:25:15",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26050907590822"
     },
     {
@@ -2544,7 +2568,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-05-08T09:10:09",
       "modificado": "2026-05-08T18:47:54",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Tss Finpec - Caindo"
     },
     {
@@ -3732,7 +3756,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-15T09:10:15",
       "modificado": "2026-04-23T05:00:24",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Solicitação de  acesso  ao  GWMS para  monitoramento de infra."
     },
     {
@@ -4476,7 +4500,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-31T09:08:22",
       "modificado": "2026-04-09T05:00:14",
-      "idade_dias": 42,
+      "idade_dias": 43,
       "assunto": "Liberação de acesso - Anna (Jovem aprendiz)"
     },
     {
@@ -5256,7 +5280,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-10T09:01:25",
       "modificado": "2026-03-20T05:00:31",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "COPEL | Health Check Itens de Rede/Conectividade"
     },
     {
@@ -5532,7 +5556,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T09:06:19",
       "modificado": "2026-03-18T05:00:29",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Erro - PEDIDO CANCELADO E SALDO NAO VOLTOU PARA SISTEMA / SALDO NEGATIVO DE PRODUTO"
     },
     {
@@ -5640,7 +5664,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-09T09:05:12",
       "modificado": "2026-03-17T05:00:25",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "Renovação certificados digitais."
     },
     {
@@ -5892,7 +5916,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-02T09:05:17",
       "modificado": "2026-03-11T05:00:32",
-      "idade_dias": 71,
+      "idade_dias": 72,
       "assunto": "Incluir servidores no painel Banco de Dados - Check List"
     },
     {
@@ -6372,7 +6396,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-18T09:03:11",
       "modificado": "2026-02-26T05:00:16",
-      "idade_dias": 83,
+      "idade_dias": 84,
       "assunto": "ERRO GERAÇÃO DE VST"
     },
     {
@@ -7500,7 +7524,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-01-22T09:04:18",
       "modificado": "2026-01-30T05:00:32",
-      "idade_dias": 110,
+      "idade_dias": 111,
       "assunto": "IBS e CBS NOTAS FISCAIS DE SERVIÇO"
     },
     {
@@ -8196,7 +8220,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-12-22T09:01:13",
       "modificado": "2026-01-16T05:00:11",
-      "idade_dias": 141,
+      "idade_dias": 142,
       "assunto": "Atualização programa GATI/RE1001"
     },
     {
@@ -9120,7 +9144,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-12-11T09:07:02",
       "modificado": "2025-12-19T05:00:27",
-      "idade_dias": 152,
+      "idade_dias": 153,
       "assunto": "[TJBA] Alarme Packets Per Second - All Ports - Dashboards"
     },
     {
@@ -10092,7 +10116,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-11-14T09:05:07",
       "modificado": "2025-11-22T05:00:20",
-      "idade_dias": 179,
+      "idade_dias": 180,
       "assunto": "Add FW AWS GWMS Atual ARCO"
     },
     {
@@ -10776,7 +10800,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-24T09:05:09",
       "modificado": "2025-10-31T05:00:18",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "XML - CNPJ 0001; 0005 e 0006"
     },
     {
@@ -11652,7 +11676,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-29T09:09:20",
       "modificado": "2025-10-07T05:00:20",
-      "idade_dias": 225,
+      "idade_dias": 226,
       "assunto": "Substituição de Aprovador_Prothues_ Férias"
     },
     {
@@ -13800,7 +13824,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-26T09:00:36",
       "modificado": "2025-08-28T05:00:13",
-      "idade_dias": 320,
+      "idade_dias": 321,
       "assunto": "TES de anulação para retornar saldo (CFOP: 5.902/5.903)"
     },
     {
@@ -14184,7 +14208,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-08-14T09:10:22",
       "modificado": "2025-08-22T05:00:16",
-      "idade_dias": 271,
+      "idade_dias": 272,
       "assunto": "RES: Encerramento do Chamado"
     },
     {
@@ -14304,7 +14328,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-12T09:09:34",
       "modificado": "2025-08-20T05:00:16",
-      "idade_dias": 273,
+      "idade_dias": 274,
       "assunto": "Parametrização de acesso - Nayara Reis"
     },
     {
@@ -15204,7 +15228,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-06-06T09:06:48",
       "modificado": "2025-07-31T05:00:18",
-      "idade_dias": 340,
+      "idade_dias": 341,
       "assunto": "AZ - Validação da remoção do bloco de baixa automática PIX da integração de notas."
     },
     {
@@ -16368,7 +16392,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-24T09:05:09",
       "modificado": "2025-07-02T05:00:18",
-      "idade_dias": 322,
+      "idade_dias": 323,
       "assunto": "Solicito call para revisão de alertas antigos"
     },
     {
@@ -16644,7 +16668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-09T09:05:47",
       "modificado": "2025-06-26T05:00:16",
-      "idade_dias": 337,
+      "idade_dias": 338,
       "assunto": "Usuário Giuliano Bragaglia - Superintendente Norte"
     },
     {
@@ -16920,7 +16944,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-12T09:10:05",
       "modificado": "2025-06-20T05:00:30",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "RES: Acionamentos AUTOZONE"
     },
     {
@@ -17052,7 +17076,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-05-20T09:05:18",
       "modificado": "2025-06-18T05:00:11",
-      "idade_dias": 357,
+      "idade_dias": 358,
       "assunto": "PD10 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -17712,7 +17736,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-23T09:01:01",
       "modificado": "2025-05-31T05:00:31",
-      "idade_dias": 354,
+      "idade_dias": 355,
       "assunto": "Remover Serviço Prophix do Host RPW02"
     },
     {
@@ -18444,7 +18468,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-09T09:05:04",
       "modificado": "2025-05-21T05:00:32",
-      "idade_dias": 368,
+      "idade_dias": 369,
       "assunto": "INTEGRAÇÃO NF SAIDA - HOMOLOGAÇÃO"
     },
     {
@@ -18648,7 +18672,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-08T09:05:47",
       "modificado": "2025-05-17T05:00:16",
-      "idade_dias": 369,
+      "idade_dias": 370,
       "assunto": "Erro na revisão de contrato"
     },
     {
@@ -19128,7 +19152,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-28T09:10:06",
       "modificado": "2025-05-09T05:00:12",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "RES: [EXTERNAL] Re: Revisão LP 650 - (Contabilização da Despesa)"
     },
     {
@@ -19884,7 +19908,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-15T09:02:50",
       "modificado": "2025-04-25T05:00:08",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "troca de Aprovação"
     },
     {
@@ -20448,7 +20472,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-20T09:05:12",
       "modificado": "2025-04-17T05:00:17",
-      "idade_dias": 446,
+      "idade_dias": 447,
       "assunto": "Baixa do Custo"
     },
     {
@@ -20628,7 +20652,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-02-21T09:06:24",
       "modificado": "2025-04-12T05:00:03",
-      "idade_dias": 445,
+      "idade_dias": 446,
       "assunto": "Nota Bom dia , a pedido do Fabiano foi dividido o chamado !!"
     },
     {
@@ -21312,7 +21336,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-03-05T09:10:08",
       "modificado": "2025-03-26T05:00:05",
-      "idade_dias": 433,
+      "idade_dias": 434,
       "assunto": "Monitoramento Parametros Base teste/Prod"
     },
     {
@@ -22680,7 +22704,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-11T09:10:08",
       "modificado": "2025-02-20T05:00:25",
-      "idade_dias": 455,
+      "idade_dias": 456,
       "assunto": "Alteração acionamento - TOTVS"
     },
     {
@@ -24924,7 +24948,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-13T09:09:47",
       "modificado": "2024-12-24T10:00:06",
-      "idade_dias": 515,
+      "idade_dias": 516,
       "assunto": "Liberação de títulos tipo TB na função copiar do contas a pagar - Condomínios e FPP"
     },
     {
@@ -24972,7 +24996,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-13T09:02:06",
       "modificado": "2024-12-23T12:00:20",
-      "idade_dias": 515,
+      "idade_dias": 516,
       "assunto": "Acesso ao GRUPO 80"
     },
     {
@@ -26016,7 +26040,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2024-11-11T09:05:17",
       "modificado": "2024-11-20T16:30:11",
-      "idade_dias": 547,
+      "idade_dias": 548,
       "assunto": "RES: Acesso GWMS"
     },
     {
@@ -26448,7 +26472,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-04T09:05:19",
       "modificado": "2024-11-11T17:30:19",
-      "idade_dias": 554,
+      "idade_dias": 555,
       "assunto": "Monitoramento em cinza Plataformas Digitais > TDN"
     },
     {
@@ -26640,7 +26664,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-17T09:02:55",
       "modificado": "2024-11-01T18:30:06",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "Baixa de Adiantamento PAs"
     },
     {
@@ -27180,7 +27204,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-14T09:10:07",
       "modificado": "2024-10-21T10:30:13",
-      "idade_dias": 575,
+      "idade_dias": 576,
       "assunto": "Novo monitoramento bh-eng-cni-cp.sp01.local"
     },
     {
@@ -27420,7 +27444,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-07T09:10:08",
       "modificado": "2024-10-14T09:30:20",
-      "idade_dias": 582,
+      "idade_dias": 583,
       "assunto": "AZ - Reset de senha do portal"
     },
     {
