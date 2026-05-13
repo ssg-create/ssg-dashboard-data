@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778692229,
-  "generated_at_iso": "2026-05-13T17:10:29Z",
-  "count": 2383,
+  "generated_at": 1778692829,
+  "generated_at_iso": "2026-05-13T17:20:29Z",
+  "count": 2384,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,90 @@
   ],
   "rows": [
     {
+      "ticket": "2026051226000407",
+      "cliente": "IMCD",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-12T18:20:16",
+      "modificado": "2026-05-13T14:20:27",
+      "idade_dias": 0,
+      "assunto": "Inclusão do Servidor de Banco de Dados PostgreSQL ao GWMS - IMCD"
+    },
+    {
+      "ticket": "2026051126000061",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-11T05:30:16",
+      "modificado": "2026-05-13T14:18:17",
+      "idade_dias": 2,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
+    },
+    {
+      "ticket": "2026051326000281",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Joao Santos",
+      "criado": "2026-05-13T12:30:23",
+      "modificado": "2026-05-13T14:17:31",
+      "idade_dias": 0,
+      "assunto": "CASTROLANDA | A central está sem receber informações do servidor de monitoramento do ambiente"
+    },
+    {
+      "ticket": "2026051126000043",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-11T05:15:14",
+      "modificado": "2026-05-13T14:17:09",
+      "idade_dias": 2,
+      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
+    },
+    {
+      "ticket": "2026051326000316",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T14:15:49",
+      "modificado": "2026-05-13T14:15:51",
+      "idade_dias": 0,
+      "assunto": "ATIBUIÇÃO DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051326000307",
+      "cliente": "rodrigues.rosane@totvs.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-13T14:15:17",
+      "modificado": "2026-05-13T14:15:20",
+      "idade_dias": 0,
+      "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
+    },
+    {
+      "ticket": "2026051326000272",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-13T12:30:10",
+      "modificado": "2026-05-13T14:12:02",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
       "ticket": "2026051326000291",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
@@ -26,18 +110,6 @@
       "modificado": "2026-05-13T14:03:09",
       "idade_dias": 0,
       "assunto": "VDI SEM CONEXÃO"
-    },
-    {
-      "ticket": "2026051326000272",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-13T12:30:10",
-      "modificado": "2026-05-13T13:54:50",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026051226000167",
@@ -62,30 +134,6 @@
       "modificado": "2026-05-13T13:22:07",
       "idade_dias": 0,
       "assunto": "Downtime"
-    },
-    {
-      "ticket": "2026051326000281",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-13T12:30:23",
-      "modificado": "2026-05-13T13:03:59",
-      "idade_dias": 0,
-      "assunto": "CASTROLANDA | A central está sem receber informações do servidor de monitoramento do ambiente"
-    },
-    {
-      "ticket": "2026051326000263",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-13T12:10:20",
-      "modificado": "2026-05-13T13:01:23",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-PNCE01 - Check Backup Clientes - 26051312070273"
     },
     {
       "ticket": "2026050426000404",
@@ -604,18 +652,6 @@
       "assunto": "Ajustes do Monitoramento do Servidor de Aplicação - IMCD"
     },
     {
-      "ticket": "2026051226000407",
-      "cliente": "IMCD",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-12T18:20:16",
-      "modificado": "2026-05-13T08:50:53",
-      "idade_dias": 0,
-      "assunto": "Inclusão do Servidor de Banco de Dados PostgreSQL ao GWMS - IMCD"
-    },
-    {
       "ticket": "2026051226000211",
       "cliente": "ALMEIDA JR",
       "fila": "SSG",
@@ -1116,7 +1152,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-28T14:19:11",
       "modificado": "2026-05-13T05:00:08",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Trava para exclusão de títulos importados não baixado"
     },
     {
@@ -1324,18 +1360,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
     },
     {
-      "ticket": "2026051126000043",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-11T05:15:14",
-      "modificado": "2026-05-12T18:20:47",
-      "idade_dias": 2,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - gwmsautozone.groundwork.com.br - 26051105131363"
-    },
-    {
       "ticket": "2026051126000203",
       "cliente": "TOTVS",
       "fila": "GWMS",
@@ -1358,18 +1382,6 @@
       "modificado": "2026-05-12T18:19:57",
       "idade_dias": 0,
       "assunto": "Servidor AZ HML - ligado"
-    },
-    {
-      "ticket": "2026051126000061",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-11T05:30:16",
-      "modificado": "2026-05-12T18:19:46",
-      "idade_dias": 2,
-      "assunto": "GROUNDWORK - GROUNDWORK_CERTIFICADOS - Validade - remoteagentgwms.groundwork.com.br - 26051105270088"
     },
     {
       "ticket": "2026051226000283",
@@ -1704,7 +1716,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-07T14:11:59",
       "modificado": "2026-05-12T13:34:51",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa"
     },
     {
@@ -2076,7 +2088,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-29T14:19:25",
       "modificado": "2026-05-12T05:00:21",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Inconsistência no Schema ao gerar evento S2210 E-SOCIAL"
     },
     {
@@ -3768,7 +3780,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-15T14:15:06",
       "modificado": "2026-04-24T05:00:22",
-      "idade_dias": 27,
+      "idade_dias": 28,
       "assunto": "Alinhamento: Processo de Contatos Telefônicos"
     },
     {
@@ -10284,7 +10296,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-09-24T14:15:06",
       "modificado": "2025-11-17T05:00:17",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "RES: Book Indicadores"
     },
     {
@@ -13308,7 +13320,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-25T14:15:09",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "Monitoramento BGP"
     },
     {
@@ -14100,7 +14112,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-13T14:13:58",
       "modificado": "2025-08-27T05:00:27",
-      "idade_dias": 272,
+      "idade_dias": 273,
       "assunto": "Reprocessamento notas"
     },
     {
@@ -14172,7 +14184,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-14T14:15:18",
       "modificado": "2025-08-23T05:00:19",
-      "idade_dias": 271,
+      "idade_dias": 272,
       "assunto": "ENC: ERROS EFD REINF 07.2025 CONTINENTAL"
     },
     {
@@ -16464,7 +16476,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T14:19:36",
       "modificado": "2025-07-02T05:00:15",
-      "idade_dias": 328,
+      "idade_dias": 329,
       "assunto": "ESSENTIA | Problemas com dashboard"
     },
     {
@@ -16596,7 +16608,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-17T14:11:23",
       "modificado": "2025-06-28T05:00:21",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "Alteração dos dados dos títulos"
     },
     {
@@ -18936,7 +18948,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-04T14:16:53",
       "modificado": "2025-05-13T05:00:25",
-      "idade_dias": 373,
+      "idade_dias": 374,
       "assunto": "Extrator fiscal"
     },
     {
@@ -19068,7 +19080,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-30T14:20:22",
       "modificado": "2025-05-12T05:00:19",
-      "idade_dias": 377,
+      "idade_dias": 378,
       "assunto": "AZ - Liberar acesso ao OTRS GW"
     },
     {
@@ -19656,7 +19668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T14:20:14",
       "modificado": "2025-05-01T05:00:24",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "PAM Acessos"
     },
     {
@@ -19788,7 +19800,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-22T14:20:12",
       "modificado": "2025-04-30T05:00:17",
-      "idade_dias": 385,
+      "idade_dias": 386,
       "assunto": "Verificar alertas Braveo"
     },
     {
@@ -22164,7 +22176,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-24T14:19:46",
       "modificado": "2025-03-08T05:00:16",
-      "idade_dias": 442,
+      "idade_dias": 443,
       "assunto": "AZ - Incluir campos dt.baixa e juros no FINR190."
     },
     {
@@ -23148,7 +23160,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-02-03T14:15:15",
       "modificado": "2025-02-11T05:00:12",
-      "idade_dias": 463,
+      "idade_dias": 464,
       "assunto": "Alteração acionamento - TOTVS"
     },
     {
@@ -23304,7 +23316,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-29T14:20:20",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "Re: Erro refaz saldos BrGaap- Ago/24"
     },
     {
@@ -23376,7 +23388,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-01-28T14:15:09",
       "modificado": "2025-02-09T05:00:18",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "859224 - Bordero indevido no contas a receber (Processo RV) - HOMOLOGAÇÂO"
     },
     {
@@ -23484,7 +23496,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-22T14:13:18",
       "modificado": "2025-02-09T05:00:16",
-      "idade_dias": 475,
+      "idade_dias": 476,
       "assunto": "AZ - Erro Conta Contábil 54625 - Lançamento Sem Store  - verificar o LP 562-01"
     },
     {
@@ -24084,7 +24096,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-08T14:13:01",
       "modificado": "2025-01-15T15:30:08",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "Vencimentos das Parcelas errados - Cond Pag"
     },
     {
@@ -24120,7 +24132,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-10-01T14:16:30",
       "modificado": "2025-01-15T13:30:03",
-      "idade_dias": 588,
+      "idade_dias": 589,
       "assunto": "Importação SAT"
     },
     {
@@ -25308,7 +25320,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-10T14:20:24",
       "modificado": "2024-12-17T15:30:13",
-      "idade_dias": 518,
+      "idade_dias": 519,
       "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 24121014181458"
     },
     {
@@ -25824,7 +25836,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-11-14T14:15:46",
       "modificado": "2024-11-29T18:30:04",
-      "idade_dias": 544,
+      "idade_dias": 545,
       "assunto": "Contabilização Errada - Cond. NS 10.2024"
     },
     {
@@ -28416,7 +28428,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2024-09-05T14:20:07",
       "modificado": "2024-09-17T11:30:15",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "Dashboards para Atento"
     },
     {
