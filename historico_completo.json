@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778704242,
-  "generated_at_iso": "2026-05-13T20:30:42Z",
+  "generated_at": 1778704825,
+  "generated_at_iso": "2026-05-13T20:40:25Z",
   "count": 5211,
   "filas": [
     "DATASUL",
@@ -1979,9 +1979,9 @@
       "num": "2026051126000132",
       "assunto": "Iniciar Scan Pecval",
       "criado": "2026-05-11T09:00:07",
-      "modificado": "2026-05-11T09:16:04",
+      "modificado": "2026-05-13T17:39:16",
       "fila": "INFRAESTUTURA",
-      "estado": "Em atendimento",
+      "estado": "resolvido",
       "prioridade": "3 normal",
       "atendente": "Vinicius Vedove",
       "primeiro_nome": "Vinicius",
@@ -1989,10 +1989,10 @@
       "cli_id": "PECVAL",
       "cli_user": "vinicius.vedove@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
+      "fechado": "2026-05-13T17:39:16",
       "resp_min_raw": 15,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 3399,
+      "sol_min_bh": 1538,
       "resp_min_bh": 15
     },
     {
