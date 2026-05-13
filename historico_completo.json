@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778694051,
-  "generated_at_iso": "2026-05-13T17:40:51Z",
-  "count": 5212,
+  "generated_at": 1778694639,
+  "generated_at_iso": "2026-05-13T17:50:39Z",
+  "count": 5213,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000334",
+      "assunto": "Criação de DNS",
+      "criado": "2026-05-13T14:50:23",
+      "modificado": "2026-05-13T14:50:26",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "jonathan.oliveira@groundwork.com.br",
+      "cli_user": "jonathan.oliveira@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000325",
       "assunto": "Relatório de Notas Fiscais de Saida",
@@ -639,9 +659,9 @@
       "num": "2026051226000327",
       "assunto": "Pedidos de compras Filial 405001",
       "criado": "2026-05-12T17:10:40",
-      "modificado": "2026-05-12T17:31:31",
+      "modificado": "2026-05-13T14:50:26",
       "fila": "SSG",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "5 very high",
       "atendente": "Debora Gomes",
       "primeiro_nome": "Debora",
