@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778699432,
-  "generated_at_iso": "2026-05-13T19:10:32Z",
-  "count": 5207,
+  "generated_at": 1778700035,
+  "generated_at_iso": "2026-05-13T19:20:35Z",
+  "count": 5208,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051326000389",
+      "assunto": "Checagem de certificado, host: k8sigcmp001",
+      "criado": "2026-05-13T16:14:49",
+      "modificado": "2026-05-13T16:14:51",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "5 very high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "TJBA",
+      "cli_user": "lucas.sales@teletex.com.br",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051326000371",
       "assunto": "AUTOZONE - Alertas CRITICAL - 26051316072148",
@@ -159,9 +179,9 @@
       "num": "2026051326000307",
       "assunto": "Acesso Plataformas TI / HLCLOUD Produção",
       "criado": "2026-05-13T14:15:17",
-      "modificado": "2026-05-13T16:09:51",
+      "modificado": "2026-05-13T16:19:52",
       "fila": "GWMS",
-      "estado": "Em atendimento",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
