@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778776434,
-  "generated_at_iso": "2026-05-14T16:33:54Z",
+  "generated_at": 1778776831,
+  "generated_at_iso": "2026-05-14T16:40:31Z",
   "count": 5212,
   "filas": [
     "DATASUL",
@@ -2179,9 +2179,9 @@
       "num": "2026051126000203",
       "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353",
       "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-14T05:00:06",
+      "modificado": "2026-05-14T13:38:15",
       "fila": "GWMS",
-      "estado": "aguardando cliente",
+      "estado": "resolvido",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -2189,10 +2189,10 @@
       "cli_id": "TOTVS",
       "cli_user": "monitoramento-noc@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
-      "fechado": null,
+      "fechado": "2026-05-14T13:38:15",
       "resp_min_raw": 354,
-      "sol_min_raw": null,
-      "sol_min_bh": null,
+      "sol_min_raw": 4472,
+      "sol_min_bh": 1712,
       "resp_min_bh": 293
     },
     {
