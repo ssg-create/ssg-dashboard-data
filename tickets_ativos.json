@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778792539,
-  "generated_at_iso": "2026-05-14T21:02:19Z",
+  "generated_at": 1778792666,
+  "generated_at_iso": "2026-05-14T21:04:26Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000441",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-13T17:42:06",
+      "modificado": "2026-05-14T18:04:22",
+      "idade_dias": 1,
+      "assunto": "Notas da SCP do Nações não subiram na Reinf"
+    },
     {
       "ticket": "2026051426000403",
       "cli_id": "TELETEX",
@@ -1206,20 +1220,6 @@
       "assunto": "Monitoramento de links SD-WAN no Sophos"
     },
     {
-      "ticket": "2026051326000441",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-13T17:42:06",
-      "modificado": "2026-05-14T08:16:09",
-      "idade_dias": 1,
-      "assunto": "Notas da SCP do Nações não subiram na Reinf"
-    },
-    {
       "ticket": "2026051126000356",
       "cli_id": "TJBA (TELETEX)",
       "cliente": "TJBA (TELETEX)",
@@ -1804,7 +1804,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-06T18:02:47",
       "modificado": "2026-05-14T05:00:05",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Alterar trigger \"Swap Usage\" nos servidores Linux"
     },
     {
@@ -32072,7 +32072,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-18T18:04:05",
       "modificado": "2024-10-17T18:30:12",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "TAXID - Data de Vencimento"
     },
     {
