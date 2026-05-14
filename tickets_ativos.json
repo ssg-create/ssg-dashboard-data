@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778745634,
-  "generated_at_iso": "2026-05-14T08:00:34Z",
+  "generated_at": 1778746232,
+  "generated_at_iso": "2026-05-14T08:10:32Z",
   "count": 2392,
   "filas": [
     "DATASUL",
@@ -15,6 +15,18 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042726000346",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-04-27T15:05:15",
+      "modificado": "2026-05-14T05:05:21",
+      "idade_dias": 16,
+      "assunto": "Your message could not be delivered"
+    },
     {
       "ticket": "2026051426000047",
       "cliente": "monitoramento@groundwork.com.br",
@@ -434,18 +446,6 @@
       "modificado": "2026-05-14T05:00:06",
       "idade_dias": 21,
       "assunto": "LANÇAMENTO NCC NÃO ESTA AMARRANDO NF E NÃO ESTA GERANDO MOVIMENTO NO CONTÁBIL"
-    },
-    {
-      "ticket": "2026042726000346",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-04-27T15:05:15",
-      "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 16,
-      "assunto": "Your message could not be delivered"
     },
     {
       "ticket": "2026050526000304",
@@ -1788,7 +1788,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-29T05:05:08",
       "modificado": "2026-05-13T05:00:24",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "AUTOZONE - SRV-DC01 - Directory Server Diagnosis - dcdiag - 26042904161782"
     },
     {
@@ -5352,7 +5352,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2026-03-10T05:05:11",
       "modificado": "2026-03-21T05:00:30",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "Recorrência de Ambiente -  AGROSUL MAQUINAS LTDA"
     },
     {
@@ -5532,7 +5532,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-11T05:05:23",
       "modificado": "2026-03-19T05:00:40",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Alerta TOTVS - CHECK_EMAIL - SendMail: GW to TotvsJOI"
     },
     {
@@ -10680,7 +10680,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-24T05:10:22",
       "modificado": "2025-11-08T05:00:30",
-      "idade_dias": 201,
+      "idade_dias": 202,
       "assunto": "#TOTVS-NETWORK - MEX_MXQROSW01 - Interface:ge-0-0-17 - AP01 - DOWNTIME ate as 12hs de 24-10-2025"
     },
     {
@@ -16980,7 +16980,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-21T05:10:07",
       "modificado": "2025-06-21T05:34:35",
-      "idade_dias": 326,
+      "idade_dias": 327,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 25062105094532"
     },
     {
