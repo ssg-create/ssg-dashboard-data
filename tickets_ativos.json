@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778776429,
-  "generated_at_iso": "2026-05-14T16:33:49Z",
+  "generated_at": 1778776824,
+  "generated_at_iso": "2026-05-14T16:40:24Z",
   "count": 2381,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051126000203",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-11T11:05:23",
+      "modificado": "2026-05-14T13:38:15",
+      "idade_dias": 3,
+      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
+    },
     {
       "ticket": "2026051426000225",
       "cli_id": "GroundWork",
@@ -1106,20 +1120,6 @@
       "modificado": "2026-05-14T05:00:06",
       "idade_dias": 7,
       "assunto": "Incluir UPTIME Switchs"
-    },
-    {
-      "ticket": "2026051126000203",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-11T11:05:23",
-      "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 3,
-      "assunto": "Remoção Monitoramento -  #TOTVS-SERVERS - SP_SP-VEEAM-REPO05 - HOST DOWN - 26051107024353"
     },
     {
       "ticket": "2026051126000338",
@@ -2448,7 +2448,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-11T13:35:23",
       "modificado": "2026-05-12T21:35:40",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051113322420"
     },
     {
@@ -9532,7 +9532,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2026-01-06T13:35:11",
       "modificado": "2026-01-17T05:00:18",
-      "idade_dias": 127,
+      "idade_dias": 128,
       "assunto": "Adicionar Monitoramento Serviços e VMs"
     },
     {
@@ -10316,7 +10316,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-18T13:35:24",
       "modificado": "2025-12-27T05:00:27",
-      "idade_dias": 146,
+      "idade_dias": 147,
       "assunto": "RES: Catalogo de serviços GWMS"
     },
     {
@@ -11072,7 +11072,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-11-25T13:40:12",
       "modificado": "2025-12-11T05:00:18",
-      "idade_dias": 169,
+      "idade_dias": 170,
       "assunto": "TSS servidor .65 - Ajustes na base e instalação do serviço atualizado do eSocial"
     },
     {
@@ -11996,7 +11996,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-11-07T13:36:33",
       "modificado": "2025-11-15T05:00:23",
-      "idade_dias": 187,
+      "idade_dias": 188,
       "assunto": "Verificação do host: PJE2GDBP005"
     },
     {
@@ -12598,7 +12598,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-16T13:40:14",
       "modificado": "2025-10-31T05:00:22",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "LIBERAÇÃO DE ACESSO"
     },
     {
@@ -12780,7 +12780,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-16T13:37:52",
       "modificado": "2025-10-25T05:00:28",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "CASTROLANDA | Verificação de SW"
     },
     {
@@ -14432,7 +14432,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-16T13:36:09",
       "modificado": "2025-09-24T05:00:39",
-      "idade_dias": 239,
+      "idade_dias": 240,
       "assunto": "Rotina - Homologação"
     },
     {
@@ -16028,7 +16028,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2025-08-22T13:38:59",
       "modificado": "2025-08-30T05:00:18",
-      "idade_dias": 264,
+      "idade_dias": 265,
       "assunto": "AZ - TAX - Downtime do serviço TAXID - 12035 TAXID - dia 24/08 - 10h."
     },
     {
@@ -17358,7 +17358,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2025-05-19T13:40:19",
       "modificado": "2025-08-07T11:37:49",
-      "idade_dias": 359,
+      "idade_dias": 360,
       "assunto": "RES: Braveo - Projeto OCI - Monitoramento"
     },
     {
@@ -22440,7 +22440,7 @@
       "atendente": "Felipe Cardoso Pessoa",
       "criado": "2025-04-30T13:35:16",
       "modificado": "2025-05-08T05:00:16",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "liberação aplicativo"
     },
     {
@@ -22930,7 +22930,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-23T13:35:51",
       "modificado": "2025-05-01T05:00:24",
-      "idade_dias": 385,
+      "idade_dias": 386,
       "assunto": "APROVAÇÃO PROTHEUS"
     },
     {
@@ -23854,7 +23854,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-04-08T13:35:22",
       "modificado": "2025-04-18T05:00:20",
-      "idade_dias": 400,
+      "idade_dias": 401,
       "assunto": "RE: Acesso SQL Server"
     },
     {
@@ -24386,7 +24386,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-04-08T13:35:24",
       "modificado": "2025-04-08T13:35:27",
-      "idade_dias": 400,
+      "idade_dias": 401,
       "assunto": "Lentidão no Fluig "
     },
     {
@@ -25282,7 +25282,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-11T13:40:08",
       "modificado": "2025-03-19T05:00:17",
-      "idade_dias": 428,
+      "idade_dias": 429,
       "assunto": "[EXTERNAL] Re: Nota"
     },
     {
@@ -28124,7 +28124,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-06T13:34:47",
       "modificado": "2025-01-15T13:30:03",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -29398,7 +29398,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-12-06T13:40:13",
       "modificado": "2024-12-19T08:00:09",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "USINA-COLOMBO - Downtime Retroativo e Alertas"
     },
     {
@@ -32324,7 +32324,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2024-09-18T13:37:51",
       "modificado": "2024-10-03T15:00:12",
-      "idade_dias": 602,
+      "idade_dias": 603,
       "assunto": "HABILITAR CAMPOS DE AUDITORIA DE REGISTRO"
     },
     {
