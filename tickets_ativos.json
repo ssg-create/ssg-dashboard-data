@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778785237,
-  "generated_at_iso": "2026-05-14T19:00:37Z",
+  "generated_at": 1778785826,
+  "generated_at_iso": "2026-05-14T19:10:26Z",
   "count": 2386,
   "filas": [
     "DATASUL",
@@ -16,18 +16,74 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000387",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T16:04:28",
+      "modificado": "2026-05-14T16:08:15",
+      "idade_dias": 0,
+      "assunto": "Alteração no Dashboard PJE Geral - PJE2GDBP001 para PJE2G Cloud"
+    },
+    {
       "ticket": "2026051426000136",
       "cli_id": "ARCO",
       "cliente": "ARCO",
       "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
+      "estado": "RETORNO CLIENTE",
       "prioridade": "1 very low",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "atendente": "Pedro Luiz",
       "criado": "2026-05-14T10:15:22",
-      "modificado": "2026-05-14T15:58:09",
+      "modificado": "2026-05-14T16:05:11",
       "idade_dias": 0,
       "assunto": "criação de nova dashboard"
+    },
+    {
+      "ticket": "2026042826000648",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-04-28T18:35:08",
+      "modificado": "2026-05-14T16:03:09",
+      "idade_dias": 15,
+      "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
+    },
+    {
+      "ticket": "2026051426000314",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::Firewall",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-14T14:47:55",
+      "modificado": "2026-05-14T16:02:55",
+      "idade_dias": 0,
+      "assunto": "TESTE NO-IP PARA SCANNER"
+    },
+    {
+      "ticket": "2026051326000389",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-13T16:14:49",
+      "modificado": "2026-05-14T16:01:48",
+      "idade_dias": 0,
+      "assunto": "Checagem de certificado, host: k8sigcmp001"
     },
     {
       "ticket": "2026051426000378",
@@ -56,20 +112,6 @@
       "modificado": "2026-05-14T15:52:19",
       "idade_dias": 0,
       "assunto": "PA com duas baixas em contas diferentes"
-    },
-    {
-      "ticket": "2026051426000314",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::Firewall",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-14T14:47:55",
-      "modificado": "2026-05-14T15:51:02",
-      "idade_dias": 0,
-      "assunto": "TESTE NO-IP PARA SCANNER"
     },
     {
       "ticket": "2026040126000091",
@@ -224,20 +266,6 @@
       "modificado": "2026-05-14T14:54:41",
       "idade_dias": 0,
       "assunto": "Importação planilha emissão NF - TX ADM (sócios)"
-    },
-    {
-      "ticket": "2026051326000389",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-13T16:14:49",
-      "modificado": "2026-05-14T14:48:28",
-      "idade_dias": 0,
-      "assunto": "Checagem de certificado, host: k8sigcmp001"
     },
     {
       "ticket": "2026051326000227",
@@ -572,7 +600,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-11T16:05:24",
       "modificado": "2026-05-14T11:10:13",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Alteração Portal NOC - TELETEX"
     },
     {
@@ -586,7 +614,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-08T16:09:01",
       "modificado": "2026-05-14T11:05:12",
-      "idade_dias": 125,
+      "idade_dias": 126,
       "assunto": "Atualização tabela Imposto de Renda - 2026"
     },
     {
@@ -894,7 +922,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-13T16:10:14",
       "modificado": "2026-05-14T09:36:56",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "AUTOZONE - Alertas CRITICAL - 26051316072148"
     },
     {
@@ -2238,7 +2266,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-11T16:10:05",
       "modificado": "2026-05-13T10:17:00",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "MAQUINAS SERVIÇOS DLP - FORCEPOINT"
     },
     {
@@ -2282,20 +2310,6 @@
       "modificado": "2026-05-13T10:12:23",
       "idade_dias": 1,
       "assunto": "RE: #TOTVS-SERVERS - URLS_HLCLOUD_NEGOCIO - Integracoes - 26051208043375"
-    },
-    {
-      "ticket": "2026051226000112",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "MELHORIA",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-12T09:45:06",
-      "modificado": "2026-05-13T10:10:10",
-      "idade_dias": 2,
-      "assunto": "UX - Atualizações/melhorias"
     },
     {
       "ticket": "2026051326000111",
@@ -3612,20 +3626,6 @@
       "modificado": "2026-05-06T10:50:01",
       "idade_dias": 71,
       "assunto": "Criar dados para ambiente demo Protheus"
-    },
-    {
-      "ticket": "2026042826000648",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-04-28T18:35:08",
-      "modificado": "2026-05-06T10:10:03",
-      "idade_dias": 15,
-      "assunto": "Melhorias tela Portal do NOC (TJBA) - Filtro por Criticidade"
     },
     {
       "ticket": "2026032726000204",
@@ -6522,7 +6522,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-03-10T16:05:22",
       "modificado": "2026-03-18T05:00:33",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "Campo CBS e IBS - Notas fiscais Finpec"
     },
     {
@@ -7796,7 +7796,7 @@
       "atendente": "Geyson Albano",
       "criado": "2026-02-03T16:03:44",
       "modificado": "2026-02-20T05:00:33",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "Atualização no WF de aprovação - Email"
     },
     {
@@ -7824,7 +7824,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-29T16:05:24",
       "modificado": "2026-02-20T05:00:31",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "Dúvida"
     },
     {
@@ -9700,7 +9700,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-07T16:10:13",
       "modificado": "2026-01-15T05:00:18",
-      "idade_dias": 126,
+      "idade_dias": 127,
       "assunto": "Conta contábil não subindo valor no balancete"
     },
     {
@@ -10722,7 +10722,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-12-11T16:05:22",
       "modificado": "2025-12-19T05:00:30",
-      "idade_dias": 153,
+      "idade_dias": 154,
       "assunto": "RE: SUSPENSÃO DE ALERTAS PARA SERVIDOR DO COFRE"
     },
     {
@@ -11814,7 +11814,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-16T16:10:17",
       "modificado": "2025-11-26T05:00:25",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "Monitoramento TIER 0"
     },
     {
@@ -11940,7 +11940,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-11-03T16:01:39",
       "modificado": "2025-11-22T05:00:14",
-      "idade_dias": 191,
+      "idade_dias": 192,
       "assunto": "Falha de segurança no servidor de proxy reverso"
     },
     {
@@ -12416,7 +12416,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-10-30T16:10:19",
       "modificado": "2025-11-07T05:00:21",
-      "idade_dias": 195,
+      "idade_dias": 196,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -13088,7 +13088,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-09T16:05:13",
       "modificado": "2025-10-17T05:00:42",
-      "idade_dias": 216,
+      "idade_dias": 217,
       "assunto": "RE: #TOTVS-SERVERS - SP_SPO-VCENTER01 - Datastore_SP:DS_SPO_PRD08 - 25100915055238"
     },
     {
@@ -13522,7 +13522,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-09-19T16:10:12",
       "modificado": "2025-10-11T05:00:16",
-      "idade_dias": 236,
+      "idade_dias": 237,
       "assunto": "Monitoramento"
     },
     {
@@ -14222,7 +14222,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-17T16:05:18",
       "modificado": "2025-09-30T05:00:22",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "AZ - MT120LOK para tratamento da 2a Unid.Medida"
     },
     {
@@ -14852,7 +14852,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-11T16:06:16",
       "modificado": "2025-09-19T05:00:34",
-      "idade_dias": 244,
+      "idade_dias": 245,
       "assunto": "AZ - Acesso - Criar novo usuário Protheus"
     },
     {
@@ -16980,7 +16980,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-08-06T16:04:58",
       "modificado": "2025-08-15T05:00:32",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "AZ - FIN - Desenvolvimento de RPA - SITEF"
     },
     {
@@ -18366,7 +18366,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-07-01T16:10:23",
       "modificado": "2025-07-18T05:00:20",
-      "idade_dias": 316,
+      "idade_dias": 317,
       "assunto": "Liberação de acesso a tela OLCS0013"
     },
     {
@@ -18492,7 +18492,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-07T16:03:49",
       "modificado": "2025-07-15T05:00:27",
-      "idade_dias": 310,
+      "idade_dias": 311,
       "assunto": "Usuario sem acesso"
     },
     {
@@ -19472,7 +19472,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-18T16:05:17",
       "modificado": "2025-06-26T05:00:23",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "Entendimento de regra - Painel de JOBS"
     },
     {
@@ -21614,7 +21614,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-12T16:05:18",
       "modificado": "2025-05-21T05:00:36",
-      "idade_dias": 366,
+      "idade_dias": 367,
       "assunto": "Revisão do monitoramento WILLY"
     },
     {
@@ -24036,7 +24036,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-04-07T16:04:02",
       "modificado": "2025-04-15T05:00:15",
-      "idade_dias": 401,
+      "idade_dias": 402,
       "assunto": "Copiar y Restaurar BD"
     },
     {
@@ -24736,7 +24736,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-12T16:05:18",
       "modificado": "2025-04-01T12:57:42",
-      "idade_dias": 427,
+      "idade_dias": 428,
       "assunto": "FW: Support Needed – XMLs Not Sent to TaxID"
     },
     {
@@ -26248,7 +26248,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-02-20T16:05:23",
       "modificado": "2025-03-01T05:00:07",
-      "idade_dias": 447,
+      "idade_dias": 448,
       "assunto": "Ativação de link - Fw Ibiapina CE"
     },
     {
@@ -26738,7 +26738,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-02-03T16:10:09",
       "modificado": "2025-02-18T05:00:10",
-      "idade_dias": 464,
+      "idade_dias": 465,
       "assunto": "Analisar valores apresentados"
     },
     {
@@ -28152,7 +28152,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-01-06T16:10:06",
       "modificado": "2025-01-15T14:30:05",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "ARCO - SW_SAE-DC-SW-SRV01-10G - Cpu - 25010616041826"
     },
     {
@@ -28684,7 +28684,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-30T16:01:59",
       "modificado": "2025-01-03T11:00:03",
-      "idade_dias": 560,
+      "idade_dias": 561,
       "assunto": "Erro lote 008840 - Item 07604"
     },
     {
@@ -29706,7 +29706,7 @@
       "atendente": "Geyson Albano",
       "criado": "2024-10-28T16:09:37",
       "modificado": "2024-12-12T13:00:16",
-      "idade_dias": 562,
+      "idade_dias": 563,
       "assunto": "Integração Novo Conciliador Financeiro"
     },
     {
@@ -31456,7 +31456,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T16:06:20",
       "modificado": "2024-10-25T13:30:16",
-      "idade_dias": 575,
+      "idade_dias": 576,
       "assunto": "Acesso ao protheus para realização de compras"
     },
     {
@@ -31484,7 +31484,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-17T16:09:58",
       "modificado": "2024-10-24T17:30:19",
-      "idade_dias": 573,
+      "idade_dias": 574,
       "assunto": "Alteração de titulos"
     },
     {
@@ -32170,7 +32170,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-01T16:10:12",
       "modificado": "2024-10-10T16:00:19",
-      "idade_dias": 589,
+      "idade_dias": 590,
       "assunto": "Sugestões de Melhoria | Tela de Aprovação de Pedidos de Compra "
     },
     {
@@ -32212,7 +32212,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-06-04T16:05:19",
       "modificado": "2024-10-10T11:30:07",
-      "idade_dias": 708,
+      "idade_dias": 709,
       "assunto": "Servidor de Ad esta fora"
     },
     {
@@ -33178,7 +33178,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-10T16:07:41",
       "modificado": "2024-09-17T17:00:10",
-      "idade_dias": 610,
+      "idade_dias": 611,
       "assunto": "Tax.ID - Carga Unificada - 0144"
     },
     {
