@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778795540,
-  "generated_at_iso": "2026-05-14T21:52:20Z",
+  "generated_at": 1778795668,
+  "generated_at_iso": "2026-05-14T21:54:28Z",
   "count": 2392,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000485",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-14T17:05:18",
+      "modificado": "2026-05-14T18:53:41",
+      "idade_dias": 0,
+      "assunto": "Filtro razão contábil",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051426000494",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -380,29 +403,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051426000485",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-14T17:05:18",
-      "modificado": "2026-05-14T17:15:28",
-      "idade_dias": 0,
-      "assunto": "Filtro razão contábil",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
