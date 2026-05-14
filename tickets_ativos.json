@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778779828,
-  "generated_at_iso": "2026-05-14T17:30:28Z",
+  "generated_at": 1778780427,
+  "generated_at_iso": "2026-05-14T17:40:27Z",
   "count": 2380,
   "filas": [
     "DATASUL",
@@ -15,6 +15,34 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000261",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T14:25:15",
+      "modificado": "2026-05-14T14:36:45",
+      "idade_dias": 0,
+      "assunto": "ARCO - GWMS-SERVER - Influxdb Check Writes - 26051414241488"
+    },
+    {
+      "ticket": "2026051426000252",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-14T14:10:14",
+      "modificado": "2026-05-14T14:34:56",
+      "idade_dias": 0,
+      "assunto": "Visão de todas as filiais"
+    },
     {
       "ticket": "2026051326000227",
       "cli_id": "ARCO",
@@ -58,20 +86,6 @@
       "assunto": "RES: ARCO - AP05_-_2_ANDAR_-_ESTUDIOS - HOST DOWN - 26051309110882"
     },
     {
-      "ticket": "2026051426000261",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T14:25:15",
-      "modificado": "2026-05-14T14:25:17",
-      "idade_dias": 0,
-      "assunto": "ARCO - GWMS-SERVER - Influxdb Check Writes - 26051414241488"
-    },
-    {
       "ticket": "2026050426000333",
       "cli_id": "CONTINENTAL",
       "cliente": "CONTINENTAL",
@@ -84,20 +98,6 @@
       "modificado": "2026-05-14T14:18:22",
       "idade_dias": 9,
       "assunto": "Utilizar CNAB 240 para envio de arquivos eletrônicos aos bancos"
-    },
-    {
-      "ticket": "2026051426000252",
-      "cli_id": "sofia.pinheiro@finpec.com",
-      "cliente": "sofia.pinheiro@finpec.com",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T14:10:14",
-      "modificado": "2026-05-14T14:10:16",
-      "idade_dias": 0,
-      "assunto": "Visão de todas as filiais"
     },
     {
       "ticket": "2026051426000243",
@@ -642,7 +642,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-06T14:38:18",
       "modificado": "2026-05-14T10:05:58",
-      "idade_dias": 7,
+      "idade_dias": 8,
       "assunto": "Cadastro novo usuário Luiz Gustavo"
     },
     {
@@ -1034,7 +1034,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-11T14:31:19",
       "modificado": "2026-05-14T05:00:09",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "SPE CS - Não contabiliza a baixa dos títulos com pref GES"
     },
     {
@@ -1230,7 +1230,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-11T14:40:13",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Acesso GWMS - Wellington"
     },
     {
@@ -1328,7 +1328,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T14:34:16",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Contabilização de Estorno de Resgate"
     },
     {
@@ -3722,7 +3722,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-12T14:31:46",
       "modificado": "2026-05-06T05:00:14",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "CRIAÇÃO DE LP's DE BAIXA E TRANSFERENCIA DE ATIVOS FIXO"
     },
     {
@@ -8888,7 +8888,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-01-20T14:40:14",
       "modificado": "2026-01-29T05:00:32",
-      "idade_dias": 113,
+      "idade_dias": 114,
       "assunto": "ENC: [#1171241] - Política de segurança: restrição de uso de dispositivos USB"
     },
     {
@@ -10246,7 +10246,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-29T14:35:12",
       "modificado": "2025-12-29T14:35:14",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "RE: [AutoZone] | Abertura de chamado GW"
     },
     {
@@ -11450,7 +11450,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-11-17T14:31:24",
       "modificado": "2025-12-03T05:00:21",
-      "idade_dias": 177,
+      "idade_dias": 178,
       "assunto": "Configuração Oauth2 para o e-mail nfe"
     },
     {
@@ -12234,7 +12234,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-28T14:40:19",
       "modificado": "2025-11-08T05:00:34",
-      "idade_dias": 197,
+      "idade_dias": 198,
       "assunto": "Adicionar servidores no GWMS"
     },
     {
@@ -12570,7 +12570,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-22T14:40:05",
       "modificado": "2025-10-31T05:00:23",
-      "idade_dias": 203,
+      "idade_dias": 204,
       "assunto": "[TJBA] Centreon -  Ajuste de incidentes"
     },
     {
@@ -13424,7 +13424,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-30T14:40:07",
       "modificado": "2025-10-11T05:00:22",
-      "idade_dias": 225,
+      "idade_dias": 226,
       "assunto": "Monitoramento Maquina Gesplan"
     },
     {
@@ -13578,7 +13578,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-29T14:32:22",
       "modificado": "2025-10-08T05:00:23",
-      "idade_dias": 226,
+      "idade_dias": 227,
       "assunto": "Acesso Importador - AJ Midia Filial 2"
     },
     {
@@ -13816,7 +13816,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-10-02T14:40:17",
       "modificado": "2025-10-02T14:40:22",
-      "idade_dias": 223,
+      "idade_dias": 224,
       "assunto": "Recall: Diferença de saldo - Balancete 1° trimestre 2025 (BRGAAP)"
     },
     {
@@ -14334,7 +14334,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-17T14:40:06",
       "modificado": "2025-09-25T05:00:19",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25091714384936"
     },
     {
@@ -14348,7 +14348,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-09-17T14:40:05",
       "modificado": "2025-09-25T05:00:18",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "BRAVEO - Alertas HOST DOWN - 25091714352590"
     },
     {
@@ -14460,7 +14460,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-15T14:40:10",
       "modificado": "2025-09-24T05:00:34",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "Programa OLRE0012"
     },
     {
@@ -15118,7 +15118,7 @@
       "atendente": "Marcelo David",
       "criado": "2025-09-04T14:35:15",
       "modificado": "2025-09-17T05:00:37",
-      "idade_dias": 251,
+      "idade_dias": 252,
       "assunto": "Não conseguindo registrar funcionários - FP1500"
     },
     {
@@ -16308,7 +16308,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-08-14T14:40:21",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 272,
+      "idade_dias": 273,
       "assunto": "Inclusão no alerta de monitoramento APs"
     },
     {
@@ -18828,7 +18828,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-27T14:40:18",
       "modificado": "2025-07-08T05:00:15",
-      "idade_dias": 320,
+      "idade_dias": 321,
       "assunto": "Liberação ambiente 57"
     },
     {
@@ -18842,7 +18842,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-06-27T14:40:16",
       "modificado": "2025-07-08T05:00:13",
-      "idade_dias": 320,
+      "idade_dias": 321,
       "assunto": "Sem acesso ao GWMS"
     },
     {
@@ -20102,7 +20102,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-05-29T14:37:11",
       "modificado": "2025-06-14T05:00:13",
-      "idade_dias": 349,
+      "idade_dias": 350,
       "assunto": "[BERNECK] Alteração no Dashboard"
     },
     {
@@ -20494,7 +20494,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-28T14:40:18",
       "modificado": "2025-06-05T05:00:24",
-      "idade_dias": 350,
+      "idade_dias": 351,
       "assunto": "RES: #TOTVS-SERVERS - Alertas CRITICAL - 25030711313420"
     },
     {
@@ -20578,7 +20578,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-23T14:37:04",
       "modificado": "2025-06-04T05:00:14",
-      "idade_dias": 355,
+      "idade_dias": 356,
       "assunto": "ESTOQUE BLOQUEADO"
     },
     {
@@ -20998,7 +20998,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-03-19T14:35:52",
       "modificado": "2025-05-28T05:00:26",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "AZ - Correção de erros do ambiente Protheus"
     },
     {
@@ -24708,7 +24708,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-01-30T14:30:38",
       "modificado": "2025-03-31T05:00:21",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "Melhoria na Emissão de NF"
     },
     {
@@ -25380,7 +25380,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-07T14:35:47",
       "modificado": "2025-03-18T05:00:11",
-      "idade_dias": 432,
+      "idade_dias": 433,
       "assunto": "Acesso Protheus"
     },
     {
@@ -26724,7 +26724,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-03T14:33:21",
       "modificado": "2025-02-15T05:00:23",
-      "idade_dias": 464,
+      "idade_dias": 465,
       "assunto": "Saldos bancários DEZ/2024"
     },
     {
@@ -27172,7 +27172,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-30T14:32:24",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 468,
+      "idade_dias": 469,
       "assunto": "Aumento de Caracteres na NF"
     },
     {
@@ -28040,7 +28040,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-02T14:32:00",
       "modificado": "2025-01-15T18:30:16",
-      "idade_dias": 496,
+      "idade_dias": 497,
       "assunto": "Numero de nota sumiu no relatório de erros de integração"
     },
     {
@@ -28250,7 +28250,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-02T14:32:28",
       "modificado": "2025-01-13T08:30:08",
-      "idade_dias": 496,
+      "idade_dias": 497,
       "assunto": "TITULO NÃO ENCONTRADO NO TOTVS - NF 101335"
     },
     {
@@ -28446,7 +28446,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-30T14:37:17",
       "modificado": "2025-01-06T16:00:05",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "NR - Acesso aos pedidos de compra"
     },
     {
@@ -28824,7 +28824,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-09T14:34:23",
       "modificado": "2024-12-30T11:30:07",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "erro ao gerar acordo - empresa 305001"
     },
     {
@@ -29846,7 +29846,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2024-11-28T14:30:53",
       "modificado": "2024-12-07T11:30:02",
-      "idade_dias": 531,
+      "idade_dias": 532,
       "assunto": "TELETEX | Erro ao adicionar Vcenter"
     },
     {
@@ -30504,7 +30504,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-11T14:38:16",
       "modificado": "2024-11-18T15:30:14",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Superintendência interina - NR (aprovações)"
     },
     {
@@ -30560,7 +30560,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-05T14:39:24",
       "modificado": "2024-11-18T09:00:15",
-      "idade_dias": 554,
+      "idade_dias": 555,
       "assunto": "Inconsistência nos Valores de Estoque após Processamento de Custo e Virada de Saldos - USGAAP"
     },
     {
@@ -30658,7 +30658,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-24T14:31:18",
       "modificado": "2024-11-15T08:00:11",
-      "idade_dias": 596,
+      "idade_dias": 597,
       "assunto": "CONTABILIZAÇÃO DIFERENCIAL DE ALIQUOTA"
     },
     {
@@ -31498,7 +31498,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-16T14:35:08",
       "modificado": "2024-10-23T17:30:13",
-      "idade_dias": 574,
+      "idade_dias": 575,
       "assunto": "RES: Alteração no monitoramento e inclusão de usuários."
     },
     {
@@ -32044,7 +32044,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-10T14:35:22",
       "modificado": "2024-10-11T16:00:05",
-      "idade_dias": 610,
+      "idade_dias": 611,
       "assunto": "WILLY - Centreon-Server - Monitoring License - 24091014302080"
     },
     {
