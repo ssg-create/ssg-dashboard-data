@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778775628,
-  "generated_at_iso": "2026-05-14T16:20:28Z",
+  "generated_at": 1778776245,
+  "generated_at_iso": "2026-05-14T16:30:45Z",
   "count": 2381,
   "filas": [
     "DATASUL",
@@ -16,30 +16,86 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000225",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T12:20:19",
+      "modificado": "2026-05-14T13:30:31",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051412160855"
+    },
+    {
+      "ticket": "2026051326000414",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-13T16:45:18",
+      "modificado": "2026-05-14T13:29:00",
+      "idade_dias": 0,
+      "assunto": "Atualização de hostname - AP(s) Curitiba"
+    },
+    {
+      "ticket": "2026051426000136",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-14T10:15:22",
+      "modificado": "2026-05-14T13:28:46",
+      "idade_dias": 0,
+      "assunto": "criação de nova dashboard"
+    },
+    {
       "ticket": "2026051426000234",
       "cli_id": "FADEL",
       "cliente": "FADEL",
-      "fila": "NOC",
-      "estado": "NEW",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Vinicius Vedove",
       "criado": "2026-05-14T13:20:07",
-      "modificado": "2026-05-14T13:20:10",
+      "modificado": "2026-05-14T13:25:44",
       "idade_dias": 0,
       "assunto": "Verificação de permissões"
+    },
+    {
+      "ticket": "2026051326000094",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-13T08:25:10",
+      "modificado": "2026-05-14T13:22:15",
+      "idade_dias": 1,
+      "assunto": "Monitoramento Zendesk Gestão Fora."
     },
     {
       "ticket": "2026051226000176",
       "cli_id": "TJBA (TELETEX)",
       "cliente": "TJBA (TELETEX)",
       "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
+      "estado": "RESOLVIDO",
       "prioridade": "4 high",
       "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-12T10:56:27",
-      "modificado": "2026-05-14T13:17:13",
+      "modificado": "2026-05-14T13:21:53",
       "idade_dias": 2,
       "assunto": "Alteração no Dashboard PJE Geral"
     },
@@ -70,20 +126,6 @@
       "modificado": "2026-05-14T13:08:07",
       "idade_dias": 43,
       "assunto": "inconsistencia no Rateio"
-    },
-    {
-      "ticket": "2026051426000225",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T12:20:19",
-      "modificado": "2026-05-14T13:03:19",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051412160855"
     },
     {
       "ticket": "2026051326000389",
@@ -408,20 +450,6 @@
       "assunto": "Relatorio de Ativo Customizado"
     },
     {
-      "ticket": "2026051326000094",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-13T08:25:10",
-      "modificado": "2026-05-14T10:30:27",
-      "idade_dias": 1,
-      "assunto": "Monitoramento Zendesk Gestão Fora."
-    },
-    {
       "ticket": "2026051426000127",
       "cli_id": "FADEL",
       "cliente": "FADEL",
@@ -434,20 +462,6 @@
       "modificado": "2026-05-14T10:30:12",
       "idade_dias": 0,
       "assunto": "LIBERAÇÃO IP "
-    },
-    {
-      "ticket": "2026051426000136",
-      "cli_id": "ARCO",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T10:15:22",
-      "modificado": "2026-05-14T10:20:54",
-      "idade_dias": 0,
-      "assunto": "criação de nova dashboard"
     },
     {
       "ticket": "2026051426000118",
@@ -1526,20 +1540,6 @@
       "modificado": "2026-05-13T17:28:34",
       "idade_dias": 3,
       "assunto": "AJUSTE DE CUSTOMIZAÇÃO"
-    },
-    {
-      "ticket": "2026051326000414",
-      "cli_id": "ARCO",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-13T16:45:18",
-      "modificado": "2026-05-13T17:23:01",
-      "idade_dias": 0,
-      "assunto": "Atualização de hostname - AP(s) Curitiba"
     },
     {
       "ticket": "2026051226000167",
@@ -5024,7 +5024,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-03-17T13:29:28",
       "modificado": "2026-04-15T05:00:21",
-      "idade_dias": 57,
+      "idade_dias": 58,
       "assunto": "Acesso a informações"
     },
     {
@@ -5598,7 +5598,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-03-23T13:25:10",
       "modificado": "2026-04-02T05:00:17",
-      "idade_dias": 51,
+      "idade_dias": 52,
       "assunto": "Reunião – Alinhamento VPN TOTVS"
     },
     {
@@ -6438,7 +6438,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-01-21T13:21:46",
       "modificado": "2026-03-19T05:00:25",
-      "idade_dias": 112,
+      "idade_dias": 113,
       "assunto": "Erro na tabela de preço - (Jira9446)"
     },
     {
@@ -7908,7 +7908,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-12-30T13:23:21",
       "modificado": "2026-02-18T05:00:16",
-      "idade_dias": 134,
+      "idade_dias": 135,
       "assunto": "AZ | Analise Conjunta da Procedure de Espelhamento NF Entrada - Ajustada"
     },
     {
@@ -9406,7 +9406,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-01-06T13:21:20",
       "modificado": "2026-01-21T05:00:23",
-      "idade_dias": 127,
+      "idade_dias": 128,
       "assunto": "Estamos com problemas para efetivar pedido com a Natureza de Operação 5101c2"
     },
     {
@@ -12738,7 +12738,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-17T13:25:23",
       "modificado": "2025-10-28T05:00:17",
-      "idade_dias": 208,
+      "idade_dias": 209,
       "assunto": "RES: Atualização Build Windows"
     },
     {
@@ -15188,7 +15188,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-07-29T13:20:48",
       "modificado": "2025-09-17T05:00:33",
-      "idade_dias": 288,
+      "idade_dias": 289,
       "assunto": "PCC nao gerado"
     },
     {
@@ -16938,7 +16938,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-04T13:25:14",
       "modificado": "2025-08-15T05:00:30",
-      "idade_dias": 282,
+      "idade_dias": 283,
       "assunto": "Acesso ao programa/tela OF0311"
     },
     {
@@ -24106,7 +24106,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-10T13:28:19",
       "modificado": "2025-04-12T05:00:04",
-      "idade_dias": 429,
+      "idade_dias": 430,
       "assunto": "REJEIÇÃO 701-Não informado NF referenciada -FILIAL 0070-09"
     },
     {
@@ -25450,7 +25450,7 @@
       "atendente": "Humberto Sicchieri",
       "criado": "2025-03-07T13:25:14",
       "modificado": "2025-03-15T05:00:25",
-      "idade_dias": 432,
+      "idade_dias": 433,
       "assunto": "VPN"
     },
     {
@@ -25604,7 +25604,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-03-03T13:25:46",
       "modificado": "2025-03-13T05:00:20",
-      "idade_dias": 436,
+      "idade_dias": 437,
       "assunto": "A/C Débora - Excluir Medições | Módulo Contratos - URGENTE"
     },
     {
@@ -26626,7 +26626,7 @@
       "atendente": "Alisson Silva",
       "criado": "2025-02-05T13:25:13",
       "modificado": "2025-02-18T05:00:11",
-      "idade_dias": 462,
+      "idade_dias": 463,
       "assunto": "BBP - Erro na Inclusão de Reembolsos - TaxID X Protheus AZ"
     },
     {
@@ -29328,7 +29328,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-11-26T13:30:23",
       "modificado": "2024-12-19T14:30:09",
-      "idade_dias": 533,
+      "idade_dias": 534,
       "assunto": "AZ - Erro nas entradas de vendas LOJA 7629 (nova)"
     },
     {
@@ -31750,7 +31750,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-11T13:21:54",
       "modificado": "2024-10-21T10:30:13",
-      "idade_dias": 579,
+      "idade_dias": 580,
       "assunto": "VENCIMENTO ISS"
     },
     {
