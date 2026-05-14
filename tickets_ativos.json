@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778790390,
-  "generated_at_iso": "2026-05-14T20:26:30Z",
+  "generated_at": 1778790509,
+  "generated_at_iso": "2026-05-14T20:28:29Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -23,11 +23,25 @@
       "estado": "OPEN",
       "prioridade": "1 very low",
       "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Luciano Katsumi Shiraishi",
+      "atendente": "Marcio Guimaraes",
       "criado": "2026-05-14T10:30:23",
-      "modificado": "2026-05-14T17:25:48",
+      "modificado": "2026-05-14T17:28:22",
       "idade_dias": 0,
       "assunto": "Monitoração de base dados Mongo-Atlas"
+    },
+    {
+      "ticket": "2026051226000434",
+      "cli_id": "IMCD",
+      "cliente": "IMCD",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-12T20:45:15",
+      "modificado": "2026-05-14T17:26:34",
+      "idade_dias": 1,
+      "assunto": "Ajustes do Monitoramento do Servidor de Aplicação - IMCD"
     },
     {
       "ticket": "2026051426000421",
@@ -826,20 +840,6 @@
       "modificado": "2026-05-14T10:44:43",
       "idade_dias": 69,
       "assunto": "Suporte  - Ajuste de Ativos na empresa 40"
-    },
-    {
-      "ticket": "2026051226000434",
-      "cli_id": "IMCD",
-      "cliente": "IMCD",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-12T20:45:15",
-      "modificado": "2026-05-14T10:41:38",
-      "idade_dias": 1,
-      "assunto": "Ajustes do Monitoramento do Servidor de Aplicação - IMCD"
     },
     {
       "ticket": "2026040826000319",
@@ -2098,7 +2098,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-12T17:27:44",
       "modificado": "2026-05-13T14:26:29",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "BOLETO POLO WEAR GS"
     },
     {
@@ -14950,7 +14950,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-18T17:28:02",
       "modificado": "2025-09-20T05:00:28",
-      "idade_dias": 268,
+      "idade_dias": 269,
       "assunto": "INTEGRAÇÃO TAXID"
     },
     {
@@ -26738,7 +26738,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-21T17:26:49",
       "modificado": "2025-02-20T05:00:23",
-      "idade_dias": 477,
+      "idade_dias": 478,
       "assunto": "Baixa do Custo"
     },
     {
@@ -29258,7 +29258,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-17T17:28:19",
       "modificado": "2024-12-24T18:00:11",
-      "idade_dias": 512,
+      "idade_dias": 513,
       "assunto": "Filial 0088 - Cadastro de Certificado Digital"
     },
     {
