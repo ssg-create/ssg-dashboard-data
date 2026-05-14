@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778763030,
-  "generated_at_iso": "2026-05-14T12:50:30Z",
+  "generated_at": 1778763639,
+  "generated_at_iso": "2026-05-14T13:00:39Z",
   "counts": {
     "crit": 1,
-    "warn": 4,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -21,25 +21,6 @@
           "abertos": 10,
           "aguardando_terceiros": 0,
           "ativos_total": 13
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Marcio_Guimaraes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 7 tickets",
-      "summary": "Marcio Guimaraes tem 7 tickets ativos sob sua responsabilidade: 2 em atendimento + 5 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcio Guimaraes",
-          "carga_real": 7,
-          "em_atendimento": 2,
-          "abertos": 5,
-          "aguardando_terceiros": 4,
-          "ativos_total": 11
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -88,18 +69,19 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "7 de 10 tickets silenciosos na fila SSG (70%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "8 de 13 tickets silenciosos na fila SSG (61%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
-          "n_top": 7,
-          "n_total": 10,
-          "pct_top": 0.7,
+          "n_top": 8,
+          "n_total": 13,
+          "pct_top": 0.62,
           "distribuicao": {
-            "AUTOZONE": 7,
-            "ALMEIDA JR": 2,
-            "NSX": 1
+            "AUTOZONE": 8,
+            "ALMEIDA JR": 3,
+            "NSX": 1,
+            "GDBR": 1
           }
         }
       ],
