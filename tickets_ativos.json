@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778789748,
-  "generated_at_iso": "2026-05-14T20:15:48Z",
+  "generated_at": 1778790023,
+  "generated_at_iso": "2026-05-14T20:20:23Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -15,6 +15,34 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000476",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-14T17:00:20",
+      "modificado": "2026-05-14T17:18:45",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051416595378"
+    },
+    {
+      "ticket": "2026051426000136",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-14T10:15:22",
+      "modificado": "2026-05-14T17:17:10",
+      "idade_dias": 0,
+      "assunto": "criação de nova dashboard"
+    },
     {
       "ticket": "2026051426000485",
       "cli_id": "FINPEC",
@@ -70,20 +98,6 @@
       "modificado": "2026-05-14T17:11:16",
       "idade_dias": 0,
       "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026051426000476",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T17:00:20",
-      "modificado": "2026-05-14T17:02:43",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051416595378"
     },
     {
       "ticket": "2026051426000403",
@@ -198,20 +212,6 @@
       "assunto": "Checagem de certificado, host: k8sigcmp001"
     },
     {
-      "ticket": "2026051426000136",
-      "cli_id": "ARCO",
-      "cliente": "ARCO",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-14T10:15:22",
-      "modificado": "2026-05-14T16:05:11",
-      "idade_dias": 0,
-      "assunto": "criação de nova dashboard"
-    },
-    {
       "ticket": "2026042826000648",
       "cli_id": "GroundWork",
       "cliente": "GroundWork",
@@ -278,7 +278,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-11T17:20:14",
       "modificado": "2026-05-14T15:37:18",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "[Acesso] - TI Negócios Digitais"
     },
     {
@@ -950,7 +950,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-05T17:19:36",
       "modificado": "2026-05-14T10:04:51",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Cadastro novo usuário - IARA CECÍLIA MATIAS"
     },
     {
@@ -2392,7 +2392,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-12T17:20:10",
       "modificado": "2026-05-13T10:16:35",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "REUTILIZAÇÃO DE SERVIDORES OBSOLETOS"
     },
     {
@@ -3078,7 +3078,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-12T17:18:11",
       "modificado": "2026-05-12T09:49:11",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "Fonte CFOP 2409"
     },
     {
@@ -4562,7 +4562,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-04-15T17:20:11",
       "modificado": "2026-04-24T05:00:23",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "BERNECK | Migração do ambiente Berneck para o monitoramento interno Teletex."
     },
     {
@@ -7152,7 +7152,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-02-24T17:19:22",
       "modificado": "2026-03-10T05:00:26",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Varredura de Vulnerabilidades"
     },
     {
@@ -7292,7 +7292,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-02-18T17:20:10",
       "modificado": "2026-03-06T05:00:25",
-      "idade_dias": 84,
+      "idade_dias": 85,
       "assunto": "Inclusão de Servidores ao GWMS - IMCD"
     },
     {
@@ -7306,7 +7306,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-02-24T17:18:27",
       "modificado": "2026-03-05T05:00:35",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "servidores SFA (linux)"
     },
     {
@@ -7418,7 +7418,7 @@
       "atendente": "Wiglas Reis",
       "criado": "2026-02-24T17:16:47",
       "modificado": "2026-03-04T05:00:25",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Update de Windows Server"
     },
     {
@@ -8370,7 +8370,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-01-26T17:20:14",
       "modificado": "2026-02-12T05:00:21",
-      "idade_dias": 107,
+      "idade_dias": 108,
       "assunto": "Erro SSL HML - Autozone"
     },
     {
@@ -8944,7 +8944,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2026-01-14T17:19:32",
       "modificado": "2026-01-31T05:00:10",
-      "idade_dias": 119,
+      "idade_dias": 120,
       "assunto": "Inclusão de Cliente - Permitir CNPJ alfanumérico e criar validação de CNPJ."
     },
     {
@@ -10344,7 +10344,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-22T17:18:12",
       "modificado": "2025-12-31T05:00:21",
-      "idade_dias": 142,
+      "idade_dias": 143,
       "assunto": "Alterar Centro de Custo Ativo Fixo"
     },
     {
@@ -11100,7 +11100,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-12-14T17:20:11",
       "modificado": "2025-12-14T17:47:55",
-      "idade_dias": 150,
+      "idade_dias": 151,
       "assunto": "#TOTVS-SERVERS - JV_JV-MON-CL01 - UX:JIRADC - 25121417190365"
     },
     {
@@ -11450,7 +11450,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-27T17:20:15",
       "modificado": "2025-12-06T05:00:20",
-      "idade_dias": 167,
+      "idade_dias": 168,
       "assunto": "Re: #TOTVS-SERVERS - Alertas CRITICAL - 25112717023076"
     },
     {
@@ -13438,7 +13438,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-03T17:20:20",
       "modificado": "2025-10-16T05:00:24",
-      "idade_dias": 222,
+      "idade_dias": 223,
       "assunto": "Ajuste de monitoramento - Unidade Cascavel"
     },
     {
@@ -14446,7 +14446,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-09-09T17:20:10",
       "modificado": "2025-09-27T05:00:26",
-      "idade_dias": 246,
+      "idade_dias": 247,
       "assunto": "SERVIDOR nWay"
     },
     {
@@ -15524,7 +15524,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-03T17:15:58",
       "modificado": "2025-09-13T05:00:26",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "URGENTE - ERRO AO GERAR ACORDO 248467 (PARCELA 02) GP 30  FILIAL 305001"
     },
     {
@@ -17960,7 +17960,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-02T17:18:37",
       "modificado": "2025-07-31T05:00:21",
-      "idade_dias": 315,
+      "idade_dias": 316,
       "assunto": "AZ - Dúvida - Analisar como o sistema escolhe a TES 1DP em devoluções."
     },
     {
@@ -18282,7 +18282,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-11T17:17:18",
       "modificado": "2025-07-22T05:00:28",
-      "idade_dias": 306,
+      "idade_dias": 307,
       "assunto": "403001"
     },
     {
@@ -20228,7 +20228,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-06T17:20:07",
       "modificado": "2025-06-14T05:00:20",
-      "idade_dias": 341,
+      "idade_dias": 342,
       "assunto": "Permissão monitoramento - SI"
     },
     {
@@ -22006,7 +22006,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-07T17:20:03",
       "modificado": "2025-05-17T05:00:13",
-      "idade_dias": 371,
+      "idade_dias": 372,
       "assunto": "[BERNECK] Verificação de alertas"
     },
     {
@@ -23224,7 +23224,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-02T17:20:13",
       "modificado": "2025-05-01T05:00:19",
-      "idade_dias": 406,
+      "idade_dias": 407,
       "assunto": "RES: Teste Ajuste de Inventário TOTVS"
     },
     {
@@ -23476,7 +23476,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-04T17:16:50",
       "modificado": "2025-04-25T05:00:07",
-      "idade_dias": 404,
+      "idade_dias": 405,
       "assunto": "Alterar para que opção de pedido reativo venha como obrigatória"
     },
     {
@@ -24960,7 +24960,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-19T17:20:15",
       "modificado": "2025-03-28T05:00:09",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "Adição de monitoramento"
     },
     {
@@ -29426,7 +29426,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-06T17:19:28",
       "modificado": "2024-12-20T18:00:08",
-      "idade_dias": 523,
+      "idade_dias": 524,
       "assunto": "continuidade chamado [Ticket#2024120326000058]"
     },
     {
