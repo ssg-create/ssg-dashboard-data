@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778795305,
-  "generated_at_iso": "2026-05-14T21:48:25Z",
-  "count": 2391,
+  "generated_at": 1778795425,
+  "generated_at_iso": "2026-05-14T21:50:25Z",
+  "count": 2392,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000494",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T18:50:12",
+      "modificado": "2026-05-14T18:50:15",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051418460483",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051426000252",
       "cli_id": "FINPEC",
@@ -3936,7 +3959,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-12T18:50:20",
       "modificado": "2026-05-13T10:15:18",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Berneck - case CS0017116",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -32778,7 +32801,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-11T18:50:18",
       "modificado": "2025-06-20T05:00:28",
-      "idade_dias": 336,
+      "idade_dias": 337,
       "assunto": "Monitoramento - refinaria.totvs.io",
       "escalation_time": 0,
       "escalation_response_time": 0,
