@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778791458,
-  "generated_at_iso": "2026-05-14T20:44:18Z",
-  "count": 2394,
+  "generated_at": 1778791579,
+  "generated_at_iso": "2026-05-14T20:46:19Z",
+  "count": 2391,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051226000121",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-12T09:55:07",
+      "modificado": "2026-05-14T17:46:12",
+      "idade_dias": 2,
+      "assunto": "Broquear o usuario, quando estiver de Ferias ."
+    },
     {
       "ticket": "2026051426000458",
       "cli_id": "FADEL",
@@ -1934,20 +1948,6 @@
       "assunto": "ERRO AO PROCESSAR O FECHAMENTO DE ESTOQUE"
     },
     {
-      "ticket": "2026051326000334",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-13T14:50:23",
-      "modificado": "2026-05-13T16:30:50",
-      "idade_dias": 1,
-      "assunto": "Criação de DNS"
-    },
-    {
       "ticket": "2025102026000125",
       "cli_id": "AUTOZONE",
       "cliente": "AUTOZONE",
@@ -2602,7 +2602,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-30T17:45:15",
       "modificado": "2026-05-13T05:00:27",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Re: #TOTVS-NETWORK - Alertas UNKNOWN - 26043017281781"
     },
     {
@@ -2742,7 +2742,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-12T17:45:11",
       "modificado": "2026-05-12T18:19:57",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Servidor AZ HML - ligado"
     },
     {
@@ -3012,20 +3012,6 @@
       "assunto": "ALTERAÇÃO SERVIDOR (SVRFADDWH01)"
     },
     {
-      "ticket": "2026051226000121",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-12T09:55:07",
-      "modificado": "2026-05-12T10:03:29",
-      "idade_dias": 2,
-      "assunto": "Broquear o usuario, quando estiver de Ferias ."
-    },
-    {
       "ticket": "2026051026000018",
       "cli_id": "GroundWork",
       "cliente": "GroundWork",
@@ -3148,7 +3134,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T17:45:18",
       "modificado": "2026-05-12T09:12:02",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "AutoZone - Correção de combo rules - 27.04 - PD09 FY26 W1 e W2"
     },
     {
@@ -3332,34 +3318,6 @@
       "modificado": "2026-05-11T16:16:46",
       "idade_dias": 28,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura"
-    },
-    {
-      "ticket": "2026051126000374",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T15:35:19",
-      "modificado": "2026-05-11T16:13:43",
-      "idade_dias": 3,
-      "assunto": "Criação de usuário parceiro"
-    },
-    {
-      "ticket": "2026051126000383",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "INFRAESTUTURA",
-      "estado": "RESOLVIDO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-11T15:35:20",
-      "modificado": "2026-05-11T16:10:37",
-      "idade_dias": 3,
-      "assunto": "Criação de usuário parceiro"
     },
     {
       "ticket": "2026042226000104",
@@ -5850,7 +5808,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2026-03-23T17:45:05",
       "modificado": "2026-03-31T05:00:33",
-      "idade_dias": 51,
+      "idade_dias": 52,
       "assunto": "#TOTVS-NETWORK - JOI_BRJOISW02-PAVTER - Power Supply - 26032317410855"
     },
     {
@@ -12374,7 +12332,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-10-30T17:45:11",
       "modificado": "2025-11-12T05:00:20",
-      "idade_dias": 195,
+      "idade_dias": 196,
       "assunto": "Alertas ARCO"
     },
     {
@@ -13060,7 +13018,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-10-09T17:45:09",
       "modificado": "2025-10-22T05:00:10",
-      "idade_dias": 216,
+      "idade_dias": 217,
       "assunto": "RES: #TOTVS-SERVERS - SP_SPO-HT-PRD08.SP01.LOCAL - Cpu - 25100917034694"
     },
     {
@@ -14096,7 +14054,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-19T17:45:05",
       "modificado": "2025-10-02T05:00:13",
-      "idade_dias": 236,
+      "idade_dias": 237,
       "assunto": "AZ - Otimização Rotina SCHWSR01 - \"Expense\""
     },
     {
@@ -16238,7 +16196,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-20T17:44:22",
       "modificado": "2025-08-29T05:00:17",
-      "idade_dias": 266,
+      "idade_dias": 267,
       "assunto": "AZ - CTB - Ajustar valores do Ativo FIxo. Difal / ICMS V2"
     },
     {
@@ -17862,7 +17820,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-23T17:46:05",
       "modificado": "2025-08-01T05:00:29",
-      "idade_dias": 294,
+      "idade_dias": 295,
       "assunto": "AZ - Erro ao importar a PO  50086520"
     },
     {
@@ -18828,7 +18786,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-02T17:45:22",
       "modificado": "2025-07-11T05:00:26",
-      "idade_dias": 315,
+      "idade_dias": 316,
       "assunto": "acesso painel"
     },
     {
@@ -21460,7 +21418,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-15T17:44:26",
       "modificado": "2025-05-23T05:00:25",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "AZ - Bloqueio de acessos - Desligamento"
     },
     {
@@ -28810,7 +28768,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-26T17:45:20",
       "modificado": "2025-01-03T10:30:02",
-      "idade_dias": 503,
+      "idade_dias": 504,
       "assunto": "Alteração de IP Expressway"
     },
     {
@@ -29048,7 +29006,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-20T17:45:48",
       "modificado": "2024-12-30T09:30:02",
-      "idade_dias": 509,
+      "idade_dias": 510,
       "assunto": "Ajuste de aprovador no sistema Protheus"
     },
     {
@@ -29720,7 +29678,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-12-09T17:45:21",
       "modificado": "2024-12-17T09:30:15",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "AZ- Analise da Receita PD04 - WEEK 1"
     },
     {
@@ -31134,7 +31092,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-01T17:45:13",
       "modificado": "2024-11-11T12:00:03",
-      "idade_dias": 558,
+      "idade_dias": 559,
       "assunto": "Monitoramento Fluig Totvs"
     },
     {
