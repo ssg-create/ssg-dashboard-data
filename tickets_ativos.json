@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778790874,
-  "generated_at_iso": "2026-05-14T20:34:34Z",
+  "generated_at": 1778790990,
+  "generated_at_iso": "2026-05-14T20:36:30Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000458",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T16:50:55",
+      "modificado": "2026-05-14T17:36:21",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
     {
       "ticket": "2026051226000434",
       "cli_id": "IMCD",
@@ -140,20 +154,6 @@
       "modificado": "2026-05-14T17:12:29",
       "idade_dias": 9,
       "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
-    },
-    {
-      "ticket": "2026051426000458",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-14T16:50:55",
-      "modificado": "2026-05-14T17:11:16",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026051426000305",
@@ -4926,7 +4926,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T17:35:23",
       "modificado": "2026-04-20T18:13:02",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "Alteração de senha AD"
     },
     {
@@ -7460,7 +7460,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-10-15T17:34:50",
       "modificado": "2026-03-04T05:00:17",
-      "idade_dias": 210,
+      "idade_dias": 211,
       "assunto": "Migração consultas Boa Vista para API"
     },
     {
@@ -12948,7 +12948,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-18T17:35:17",
       "modificado": "2025-10-27T05:00:08",
-      "idade_dias": 237,
+      "idade_dias": 238,
       "assunto": "Levantamento - AuditTrail"
     },
     {
@@ -16476,7 +16476,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-08-07T17:35:10",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "TOTVS Network - Add Servidore NAC - Cisco ISE"
     },
     {
@@ -16644,7 +16644,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-26T17:35:16",
       "modificado": "2025-08-25T05:00:10",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "VALOR RESIDUAL - ATIVO FIXO"
     },
     {
@@ -27172,7 +27172,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-01-31T17:35:10",
       "modificado": "2025-02-11T05:00:11",
-      "idade_dias": 467,
+      "idade_dias": 468,
       "assunto": "#TOTVS-SERVERS - Alertas CRITICAL - 25013117300978"
     },
     {
@@ -31792,7 +31792,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2024-10-15T17:35:12",
       "modificado": "2024-10-22T18:00:08",
-      "idade_dias": 575,
+      "idade_dias": 576,
       "assunto": "Interrupção de monitoramento"
     },
     {
@@ -31862,7 +31862,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-14T17:35:15",
       "modificado": "2024-10-22T10:30:19",
-      "idade_dias": 576,
+      "idade_dias": 577,
       "assunto": "#TOTVS-SERVERS - SP_SP-MON-CL05 - Cpu - 24101417310684"
     },
     {
