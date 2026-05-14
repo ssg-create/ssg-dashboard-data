@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778791941,
-  "generated_at_iso": "2026-05-14T20:52:21Z",
+  "generated_at": 1778792070,
+  "generated_at_iso": "2026-05-14T20:54:30Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000403",
+      "cli_id": "TELETEX",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-14T16:15:12",
+      "modificado": "2026-05-14T17:53:17",
+      "idade_dias": 0,
+      "assunto": "API - gw da teletex"
+    },
     {
       "ticket": "2026032426000424",
       "cli_id": "NSX",
@@ -98,20 +112,6 @@
       "modificado": "2026-05-14T17:25:34",
       "idade_dias": 0,
       "assunto": "Dashboard MPN"
-    },
-    {
-      "ticket": "2026051426000403",
-      "cli_id": "TELETEX",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-14T16:15:12",
-      "modificado": "2026-05-14T17:25:10",
-      "idade_dias": 0,
-      "assunto": "API - gw da teletex"
     },
     {
       "ticket": "2026051426000467",
@@ -3540,7 +3540,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-02-20T17:54:10",
       "modificado": "2026-05-07T12:19:55",
-      "idade_dias": 82,
+      "idade_dias": 83,
       "assunto": "Atualização Moeda RON não está acontecendo"
     },
     {
@@ -22748,7 +22748,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-17T17:53:49",
       "modificado": "2025-05-06T05:00:20",
-      "idade_dias": 391,
+      "idade_dias": 392,
       "assunto": "Erro no Item Conta"
     },
     {
@@ -32478,7 +32478,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-25T17:53:34",
       "modificado": "2024-10-03T11:30:03",
-      "idade_dias": 595,
+      "idade_dias": 596,
       "assunto": "DEPRECIAÇÃO"
     },
     {
