@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778778041,
-  "generated_at_iso": "2026-05-14T17:00:41Z",
-  "count": 2378,
+  "generated_at": 1778778637,
+  "generated_at_iso": "2026-05-14T17:10:37Z",
+  "count": 2379,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,18 +16,46 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000252",
+      "cli_id": "sofia.pinheiro@finpec.com",
+      "cliente": "sofia.pinheiro@finpec.com",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T14:10:14",
+      "modificado": "2026-05-14T14:10:16",
+      "idade_dias": 0,
+      "assunto": "Visão de todas as filiais"
+    },
+    {
       "ticket": "2026051426000243",
       "cli_id": "LPA",
       "cliente": "LPA",
-      "fila": "NOC",
-      "estado": "NEW",
+      "fila": "DATASUL",
+      "estado": "OPEN",
       "prioridade": "4 high",
       "servico": "Banco de Horas::Banco de Dados",
-      "atendente": "Admin OTRS",
+      "atendente": "Diogo Cunha",
       "criado": "2026-05-14T13:59:08",
-      "modificado": "2026-05-14T13:59:10",
+      "modificado": "2026-05-14T14:09:53",
       "idade_dias": 0,
       "assunto": "Verificação espaço pasta Backup"
+    },
+    {
+      "ticket": "2026051426000234",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T13:20:07",
+      "modificado": "2026-05-14T14:05:20",
+      "idade_dias": 0,
+      "assunto": "Verificação de permissões"
     },
     {
       "ticket": "2026051326000192",
@@ -126,20 +154,6 @@
       "modificado": "2026-05-14T13:28:46",
       "idade_dias": 0,
       "assunto": "criação de nova dashboard"
-    },
-    {
-      "ticket": "2026051426000234",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-14T13:20:07",
-      "modificado": "2026-05-14T13:25:44",
-      "idade_dias": 0,
-      "assunto": "Verificação de permissões"
     },
     {
       "ticket": "2026051326000094",
@@ -1342,7 +1356,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-11T14:03:02",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Select - Combo rules  - W4 PD09 FY26 - pt3"
     },
     {
@@ -2798,7 +2812,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-05-04T14:08:45",
       "modificado": "2026-05-12T09:51:38",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "SIGAFIN :: FALHA AO ESTORNAR UMA BAIXA"
     },
     {
@@ -3064,7 +3078,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-04-13T14:03:55",
       "modificado": "2026-05-11T17:00:19",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "Erro ao matar usuários dos bancos"
     },
     {
@@ -5472,7 +5486,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-03-25T14:03:50",
       "modificado": "2026-04-03T05:00:13",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Analise dos Bancos"
     },
     {
@@ -5612,7 +5626,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-26T14:10:08",
       "modificado": "2026-04-01T13:15:34",
-      "idade_dias": 107,
+      "idade_dias": 108,
       "assunto": "Re: ERRO - Integração de XML"
     },
     {
@@ -6060,7 +6074,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-03-03T14:01:24",
       "modificado": "2026-03-21T05:00:29",
-      "idade_dias": 71,
+      "idade_dias": 72,
       "assunto": "Erro log na importação de documentos"
     },
     {
@@ -7754,7 +7768,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-11-24T14:10:28",
       "modificado": "2026-02-20T05:00:25",
-      "idade_dias": 170,
+      "idade_dias": 171,
       "assunto": "Ajustes Créditos de PIS e COFINS - GGR - V2"
     },
     {
@@ -8846,7 +8860,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-20T14:05:14",
       "modificado": "2026-01-29T05:00:32",
-      "idade_dias": 113,
+      "idade_dias": 114,
       "assunto": "Importação Comissões (A Receber) Sienge x Protheus"
     },
     {
@@ -8916,7 +8930,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-11-06T14:09:03",
       "modificado": "2026-01-29T05:00:27",
-      "idade_dias": 188,
+      "idade_dias": 189,
       "assunto": "Baixas de Pix - 28 e 29 de outubro"
     },
     {
@@ -12066,7 +12080,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-10-16T14:10:18",
       "modificado": "2025-11-14T05:00:11",
-      "idade_dias": 209,
+      "idade_dias": 210,
       "assunto": "Adicionar clientes Informar Saúde e Mackenzie no GWMS"
     },
     {
@@ -12822,7 +12836,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-10-14T14:10:21",
       "modificado": "2025-10-22T05:00:14",
-      "idade_dias": 211,
+      "idade_dias": 212,
       "assunto": "Re: #TOTVS-SERVERS - CORE_SERVICES - PROD-UX-JIRADC-NODES - 25101413573813"
     },
     {
@@ -13536,7 +13550,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-30T14:00:49",
       "modificado": "2025-10-08T05:00:24",
-      "idade_dias": 225,
+      "idade_dias": 226,
       "assunto": "Inconsistência de Saldos"
     },
     {
@@ -13676,7 +13690,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-26T14:09:50",
       "modificado": "2025-10-04T05:00:26",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "Setor Unidade na solicitação de compras"
     },
     {
@@ -13690,7 +13704,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-09-25T14:10:12",
       "modificado": "2025-10-04T05:00:24",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "Monitoramento de pooler Seneca"
     },
     {
@@ -13704,7 +13718,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-25T14:05:48",
       "modificado": "2025-10-04T05:00:21",
-      "idade_dias": 230,
+      "idade_dias": 231,
       "assunto": "CONSUMO DE VERBA"
     },
     {
@@ -15034,7 +15048,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-09-08T14:09:20",
       "modificado": "2025-09-17T05:00:40",
-      "idade_dias": 247,
+      "idade_dias": 248,
       "assunto": "AZ - TAX - Erro na integração com o TAX-ID - Campo em branco - 08/09/25"
     },
     {
@@ -16672,7 +16686,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-30T14:09:07",
       "modificado": "2025-08-21T05:00:12",
-      "idade_dias": 287,
+      "idade_dias": 288,
       "assunto": "AZ - CUSTOS - Ajuste de LP."
     },
     {
@@ -18982,7 +18996,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-26T14:10:16",
       "modificado": "2025-07-04T05:00:15",
-      "idade_dias": 321,
+      "idade_dias": 322,
       "assunto": "Select 57505"
     },
     {
@@ -20942,7 +20956,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-05-06T14:07:30",
       "modificado": "2025-05-28T05:00:28",
-      "idade_dias": 372,
+      "idade_dias": 373,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -22580,7 +22594,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-24T14:10:21",
       "modificado": "2025-05-05T05:00:17",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "[MONITORAMENTO] SP_SPOSRVSQLPRD001 (10.171.55.90) :: MssqlHealth:SQLPRD02_basecentralizada:Last Tickets"
     },
     {
@@ -23112,7 +23126,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-18T14:05:16",
       "modificado": "2025-04-28T05:00:09",
-      "idade_dias": 421,
+      "idade_dias": 422,
       "assunto": "Re: Alteração LP CUSTO - GARANTIA"
     },
     {
@@ -25954,7 +25968,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-10T14:07:44",
       "modificado": "2025-03-05T05:00:21",
-      "idade_dias": 457,
+      "idade_dias": 458,
       "assunto": "Aliquota interna Rio grande do Sul"
     },
     {
@@ -27676,7 +27690,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-30T14:04:14",
       "modificado": "2025-01-21T16:00:01",
-      "idade_dias": 499,
+      "idade_dias": 500,
       "assunto": "Incluir Informações em Lançamentos já realizados"
     },
     {
@@ -29328,7 +29342,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-11T14:03:17",
       "modificado": "2024-12-19T11:30:20",
-      "idade_dias": 518,
+      "idade_dias": 519,
       "assunto": "Nações - Erro na EFD Contribuições"
     },
     {
@@ -30770,7 +30784,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-05T14:08:06",
       "modificado": "2024-11-13T18:00:07",
-      "idade_dias": 554,
+      "idade_dias": 555,
       "assunto": "Inconsistência no Cálculo de Custos nas Transferências Intercompany - USGAAP"
     },
     {
@@ -31190,7 +31204,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2024-10-23T14:10:20",
       "modificado": "2024-10-30T16:00:16",
-      "idade_dias": 567,
+      "idade_dias": 568,
       "assunto": "RES: [TOTVS] - Solicitação Monitoramento"
     },
     {
@@ -31792,7 +31806,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-11T14:00:45",
       "modificado": "2024-10-18T14:30:06",
-      "idade_dias": 579,
+      "idade_dias": 580,
       "assunto": "Reset de senha"
     },
     {
