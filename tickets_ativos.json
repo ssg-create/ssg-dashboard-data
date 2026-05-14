@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778791698,
-  "generated_at_iso": "2026-05-14T20:48:18Z",
+  "generated_at": 1778791824,
+  "generated_at_iso": "2026-05-14T20:50:24Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026032426000424",
+      "cli_id": "NSX",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Financeiro",
+      "atendente": "Francisco Silva",
+      "criado": "2026-03-24T15:47:51",
+      "modificado": "2026-05-14T17:49:43",
+      "idade_dias": 51,
+      "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
+    },
     {
       "ticket": "2026051226000121",
       "cli_id": "GroundWork",
@@ -1038,20 +1052,6 @@
       "assunto": "AUTOZONE - SRV-SQL-PRD - Cpu - 26051114563293"
     },
     {
-      "ticket": "2026032426000424",
-      "cli_id": "NSX",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Financeiro",
-      "atendente": "Francisco Silva",
-      "criado": "2026-03-24T15:47:51",
-      "modificado": "2026-05-14T09:37:57",
-      "idade_dias": 51,
-      "assunto": "CONFIGURAR CNAB BANCO BTG - EMPRESA 40"
-    },
-    {
       "ticket": "2026051326000423",
       "cli_id": "AUTOZONE",
       "cliente": "AUTOZONE",
@@ -1132,7 +1132,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-13T17:50:07",
       "modificado": "2026-05-14T09:35:37",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "AUTOZONE - Alertas CRITICAL - 26051317472021"
     },
     {
@@ -1496,7 +1496,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-30T17:50:21",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "TOTVS NETWORK -> Ajustar plugins SNMP para incluir Versão 3 com os parâmetros da TOTVS "
     },
     {
@@ -1650,7 +1650,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-05T17:49:47",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Select - Combo rules - W4 PD09 FY26 - pt1"
     },
     {
@@ -7992,7 +7992,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2026-02-03T17:50:19",
       "modificado": "2026-02-19T05:00:16",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "#TOTVS-NETWORK - SP_BRSNCSWCORE-NX01 - Interface:Eth1/19 - VPC-UPLINK-BRSPSNC22-PAV1B2 - 26020317435211"
     },
     {
@@ -25198,7 +25198,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-03-14T17:50:12",
       "modificado": "2025-03-22T05:00:14",
-      "idade_dias": 425,
+      "idade_dias": 426,
       "assunto": "#TOTVS-NETWORK - SP_BRSPSNC11-SUB3B2 - Power Supply - 25031417463078"
     },
     {
@@ -27018,7 +27018,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-02-03T17:50:21",
       "modificado": "2025-02-12T05:00:13",
-      "idade_dias": 464,
+      "idade_dias": 465,
       "assunto": "Monitoramento Identity"
     },
     {
