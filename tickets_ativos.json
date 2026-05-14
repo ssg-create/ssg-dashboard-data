@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778766027,
-  "generated_at_iso": "2026-05-14T13:40:27Z",
-  "count": 2381,
+  "generated_at": 1778766630,
+  "generated_at_iso": "2026-05-14T13:50:30Z",
+  "count": 2382,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,16 +16,112 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000191",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "4 high",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T10:48:06",
+      "modificado": "2026-05-14T10:48:09",
+      "idade_dias": 0,
+      "assunto": "Refaz saldos BRGAAP - 2025"
+    },
+    {
+      "ticket": "2026020926000133",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "atendente": "Eduardo Souza",
+      "criado": "2026-02-09T09:39:02",
+      "modificado": "2026-05-14T10:47:20",
+      "idade_dias": 94,
+      "assunto": "URGENTEEEE- Centro de custos x ativos e passivos"
+    },
+    {
+      "ticket": "2026051426000172",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T10:39:37",
+      "modificado": "2026-05-14T10:45:34",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051426000163",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T10:39:12",
+      "modificado": "2026-05-14T10:44:57",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026030626000164",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "4 high",
+      "atendente": "Eduardo Souza",
+      "criado": "2026-03-06T11:21:07",
+      "modificado": "2026-05-14T10:44:43",
+      "idade_dias": 68,
+      "assunto": "Suporte  - Ajuste de Ativos na empresa 40"
+    },
+    {
+      "ticket": "2026051426000154",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T10:38:40",
+      "modificado": "2026-05-14T10:44:13",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
       "ticket": "2026051426000181",
       "cliente": "FADEL",
       "fila": "INFRAESTUTURA",
-      "estado": "NEW",
+      "estado": "OPEN",
       "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
+      "atendente": "Vinicius Vedove",
       "criado": "2026-05-14T10:40:14",
-      "modificado": "2026-05-14T10:40:16",
+      "modificado": "2026-05-14T10:43:22",
       "idade_dias": 0,
       "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051426000145",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T10:30:23",
+      "modificado": "2026-05-14T10:42:33",
+      "idade_dias": 0,
+      "assunto": "Monitoração de base dados Mongo-Atlas"
+    },
+    {
+      "ticket": "2026051226000434",
+      "cliente": "IMCD",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-12T20:45:15",
+      "modificado": "2026-05-14T10:41:38",
+      "idade_dias": 1,
+      "assunto": "Ajustes do Monitoramento do Servidor de Aplicação - IMCD"
     },
     {
       "ticket": "2026040826000319",
@@ -38,42 +134,6 @@
       "modificado": "2026-05-14T10:40:02",
       "idade_dias": 35,
       "assunto": "Relatorio de Ativo Customizado"
-    },
-    {
-      "ticket": "2026051426000172",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T10:39:37",
-      "modificado": "2026-05-14T10:39:39",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026051426000163",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T10:39:12",
-      "modificado": "2026-05-14T10:39:15",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026051426000154",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T10:38:40",
-      "modificado": "2026-05-14T10:38:43",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026051326000236",
@@ -98,18 +158,6 @@
       "modificado": "2026-05-14T10:30:27",
       "idade_dias": 1,
       "assunto": "Monitoramento Zendesk Gestão Fora."
-    },
-    {
-      "ticket": "2026051426000145",
-      "cliente": "tp.andre.martins@ext.totvs.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T10:30:23",
-      "modificado": "2026-05-14T10:30:27",
-      "idade_dias": 0,
-      "assunto": "Monitoração de base dados Mongo-Atlas"
     },
     {
       "ticket": "2026051426000127",
@@ -828,7 +876,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-28T10:45:20",
       "modificado": "2026-05-14T05:00:06",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "INSERT/ SELECT - TIPO 9"
     },
     {
@@ -1360,18 +1408,6 @@
       "assunto": "BOLETO POLO WEAR GS"
     },
     {
-      "ticket": "2026051226000434",
-      "cliente": "IMCD",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-12T20:45:15",
-      "modificado": "2026-05-13T14:20:43",
-      "idade_dias": 1,
-      "assunto": "Ajustes do Monitoramento do Servidor de Aplicação - IMCD"
-    },
-    {
       "ticket": "2026051226000407",
       "cliente": "IMCD",
       "fila": "GWMS",
@@ -1740,7 +1776,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-04-28T10:41:14",
       "modificado": "2026-05-13T09:59:29",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "SIGAPCP :: ERRO AO CONGELAR DEMANDAS"
     },
     {
@@ -2424,7 +2460,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-04-23T10:45:12",
       "modificado": "2026-05-12T05:00:19",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Monitoramento X10"
     },
     {
@@ -3508,18 +3544,6 @@
       "assunto": "BUG reload/restart centreon"
     },
     {
-      "ticket": "2026030626000164",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "atendente": "Eduardo Souza",
-      "criado": "2026-03-06T11:21:07",
-      "modificado": "2026-04-28T17:16:03",
-      "idade_dias": 68,
-      "assunto": "Suporte  - Ajuste de Ativos na empresa 40"
-    },
-    {
       "ticket": "2026031126000172",
       "cliente": "GroundWork",
       "fila": "GWMS",
@@ -4060,18 +4084,6 @@
       "assunto": "Novo Processo Compras"
     },
     {
-      "ticket": "2026020926000133",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "atendente": "Eduardo Souza",
-      "criado": "2026-02-09T09:39:02",
-      "modificado": "2026-04-20T11:18:25",
-      "idade_dias": 94,
-      "assunto": "URGENTEEEE- Centro de custos x ativos e passivos"
-    },
-    {
       "ticket": "2026020526000168",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -4476,7 +4488,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-30T10:48:04",
       "modificado": "2026-04-10T05:00:12",
-      "idade_dias": 44,
+      "idade_dias": 45,
       "assunto": "desativar permanentemente o monitoramento dos RPW - Integrada"
     },
     {
@@ -4512,7 +4524,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-31T10:50:13",
       "modificado": "2026-04-09T05:00:16",
-      "idade_dias": 43,
+      "idade_dias": 44,
       "assunto": "Novo Ticket - Placa de Rede Servidor SRV-MASTER-PRD AUTOZONE"
     },
     {
@@ -4704,7 +4716,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-25T10:40:26",
       "modificado": "2026-04-04T05:00:30",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Adicionar Monitoramento"
     },
     {
@@ -4752,7 +4764,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-03-25T10:45:24",
       "modificado": "2026-04-02T05:00:21",
-      "idade_dias": 49,
+      "idade_dias": 50,
       "assunto": "Adição de dashboard GWMS - ELETTROMEC"
     },
     {
@@ -4920,7 +4932,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-03-20T10:45:05",
       "modificado": "2026-03-28T05:00:22",
-      "idade_dias": 54,
+      "idade_dias": 55,
       "assunto": "Ajuste monitoramento - VPN S2S por host"
     },
     {
@@ -4956,7 +4968,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-03-19T10:50:08",
       "modificado": "2026-03-27T05:00:28",
-      "idade_dias": 55,
+      "idade_dias": 56,
       "assunto": "1665763 - Perda de dados"
     },
     {
@@ -5664,7 +5676,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-03-05T10:49:34",
       "modificado": "2026-03-18T05:00:20",
-      "idade_dias": 69,
+      "idade_dias": 70,
       "assunto": "CASTROLANDA | relatorio de servidores monitorados via SNMP"
     },
     {
@@ -6840,7 +6852,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-05T10:43:41",
       "modificado": "2026-02-17T05:00:31",
-      "idade_dias": 97,
+      "idade_dias": 98,
       "assunto": "TEMPO DE INATIVIDADE"
     },
     {
@@ -7032,7 +7044,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-02T10:50:12",
       "modificado": "2026-02-11T05:00:25",
-      "idade_dias": 100,
+      "idade_dias": 101,
       "assunto": "TICKET AUTOZONE - LOCK DE SESSÕES NO BANCO DE DADOS - USUÁRIO GWMSCONSULTA"
     },
     {
@@ -8496,7 +8508,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-08T10:50:10",
       "modificado": "2026-01-08T10:50:12",
-      "idade_dias": 125,
+      "idade_dias": 126,
       "assunto": "Canceled: Erro Abertura PO - Jessica Souza"
     },
     {
@@ -8772,7 +8784,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-12-16T10:45:21",
       "modificado": "2025-12-30T05:00:12",
-      "idade_dias": 148,
+      "idade_dias": 149,
       "assunto": "TOTVS UNIDADE CAMPINAS"
     },
     {
@@ -8940,7 +8952,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-17T10:45:19",
       "modificado": "2025-12-25T05:00:22",
-      "idade_dias": 147,
+      "idade_dias": 148,
       "assunto": "Substituição do Aprovador"
     },
     {
@@ -9144,7 +9156,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-12-11T10:50:18",
       "modificado": "2025-12-19T05:00:29",
-      "idade_dias": 153,
+      "idade_dias": 154,
       "assunto": "Fila de processamento na Tabela Muro - Braveo"
     },
     {
@@ -9216,7 +9228,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-10T10:42:02",
       "modificado": "2025-12-19T05:00:22",
-      "idade_dias": 154,
+      "idade_dias": 155,
       "assunto": "BERNECK - AUCS00247 - ausencia de alerta"
     },
     {
@@ -11448,7 +11460,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-09-24T10:41:31",
       "modificado": "2025-10-14T05:00:15",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "Validar se existe uma API de auditoria"
     },
     {
@@ -13260,7 +13272,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-26T10:44:35",
       "modificado": "2025-09-12T05:00:26",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "Alteração de Pedido"
     },
     {
@@ -13404,7 +13416,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-03T10:47:30",
       "modificado": "2025-09-11T05:00:21",
-      "idade_dias": 252,
+      "idade_dias": 253,
       "assunto": "TROCA DE APROVADOR"
     },
     {
@@ -13692,7 +13704,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-08-18T10:48:17",
       "modificado": "2025-09-03T05:00:25",
-      "idade_dias": 268,
+      "idade_dias": 269,
       "assunto": "Integração Totvs Transmite"
     },
     {
@@ -16092,7 +16104,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-01T10:50:06",
       "modificado": "2025-07-09T05:00:19",
-      "idade_dias": 316,
+      "idade_dias": 317,
       "assunto": "Acesso DashBoard GWMS - SEBRAE"
     },
     {
@@ -16512,7 +16524,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-06-29T10:50:09",
       "modificado": "2025-06-29T10:50:11",
-      "idade_dias": 318,
+      "idade_dias": 319,
       "assunto": "Your message could not be delivered"
     },
     {
@@ -16644,7 +16656,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-18T10:49:09",
       "modificado": "2025-06-26T05:00:22",
-      "idade_dias": 329,
+      "idade_dias": 330,
       "assunto": "AZ - Verificar os acessos do Antonio Neto"
     },
     {
@@ -17712,7 +17724,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-23T10:50:08",
       "modificado": "2025-06-03T05:00:29",
-      "idade_dias": 355,
+      "idade_dias": 356,
       "assunto": "Chamado para Verificar Lock Sessions no GWMS - AUTOZONE"
     },
     {
@@ -18888,7 +18900,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-05-05T10:50:18",
       "modificado": "2025-05-13T05:00:26",
-      "idade_dias": 373,
+      "idade_dias": 374,
       "assunto": "RES: Monitoramento Spanning Tree Castrolanda"
     },
     {
@@ -19104,7 +19116,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-02T10:50:16",
       "modificado": "2025-05-10T05:00:22",
-      "idade_dias": 376,
+      "idade_dias": 377,
       "assunto": "Revisão do monitoramento"
     },
     {
@@ -21684,7 +21696,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-03-06T10:50:18",
       "modificado": "2025-03-19T05:00:16",
-      "idade_dias": 433,
+      "idade_dias": 434,
       "assunto": "Ajuste monitoramento Jira Produção - VPN"
     },
     {
@@ -21924,7 +21936,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-05T10:45:19",
       "modificado": "2025-03-13T05:00:21",
-      "idade_dias": 434,
+      "idade_dias": 435,
       "assunto": "PD07 Select em 05.03"
     },
     {
@@ -22044,7 +22056,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-02-26T10:47:30",
       "modificado": "2025-03-11T05:00:09",
-      "idade_dias": 441,
+      "idade_dias": 442,
       "assunto": "AZ - Falha na integração de XMLs de transferência ( ZLWSF001)"
     },
     {
@@ -22116,7 +22128,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-27T10:47:46",
       "modificado": "2025-03-08T05:00:17",
-      "idade_dias": 440,
+      "idade_dias": 441,
       "assunto": "Melhoria Relatório: AJ06R007"
     },
     {
@@ -22212,7 +22224,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-02-26T10:41:16",
       "modificado": "2025-03-06T05:00:05",
-      "idade_dias": 441,
+      "idade_dias": 442,
       "assunto": "Erro no adiantamento"
     },
     {
@@ -24180,7 +24192,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-06T10:45:57",
       "modificado": "2025-01-13T20:30:03",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "Atualizar o Layout PagFor Itaú"
     },
     {
@@ -25116,7 +25128,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-03T10:50:08",
       "modificado": "2024-12-19T15:30:12",
-      "idade_dias": 526,
+      "idade_dias": 527,
       "assunto": "[EXTERNAL] Re: Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -25164,7 +25176,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-12T10:45:46",
       "modificado": "2024-12-19T12:30:03",
-      "idade_dias": 517,
+      "idade_dias": 518,
       "assunto": "MUDANÇA DE ALÇADA PARA APROVAÇÃO DE CONTIGÊNCIA"
     },
     {
@@ -26724,7 +26736,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-10-23T10:42:17",
       "modificado": "2024-10-31T16:00:14",
-      "idade_dias": 567,
+      "idade_dias": 568,
       "assunto": "Movimento bancário"
     },
     {
@@ -27612,7 +27624,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-01T10:41:20",
       "modificado": "2024-10-08T11:00:06",
-      "idade_dias": 589,
+      "idade_dias": 590,
       "assunto": "Arquivo AZO"
     },
     {
@@ -27852,7 +27864,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-09-24T10:48:05",
       "modificado": "2024-10-01T12:00:14",
-      "idade_dias": 596,
+      "idade_dias": 597,
       "assunto": "Pedidos de comprea de itens de revenda"
     },
     {
