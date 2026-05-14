@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778753431,
-  "generated_at_iso": "2026-05-14T10:10:31Z",
-  "count": 5210,
+  "generated_at": 1778754028,
+  "generated_at_iso": "2026-05-14T10:20:28Z",
+  "count": 5211,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051426000056",
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051407125983",
+      "criado": "2026-05-14T07:15:17",
+      "modificado": "2026-05-14T07:15:19",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051426000047",
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051404582077",
