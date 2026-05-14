@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778791947,
-  "generated_at_iso": "2026-05-14T20:52:27Z",
+  "generated_at": 1778792077,
+  "generated_at_iso": "2026-05-14T20:54:37Z",
   "count": 5216,
   "filas": [
     "DATASUL",
@@ -159,9 +159,9 @@
       "num": "2026051426000403",
       "assunto": "API - gw da teletex",
       "criado": "2026-05-14T16:15:12",
-      "modificado": "2026-05-14T17:25:10",
+      "modificado": "2026-05-14T17:53:17",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "aguardando cliente",
       "prioridade": "1 very low",
       "atendente": "Adriano Luiz",
       "primeiro_nome": "Adriano",
@@ -170,10 +170,10 @@
       "cli_user": "guilherme.franco@teletex.com",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 98,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 98
     },
     {
       "num": "2026051426000387",
