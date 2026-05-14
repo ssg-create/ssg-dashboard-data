@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778781638,
-  "generated_at_iso": "2026-05-14T18:00:38Z",
-  "count": 2386,
+  "generated_at": 1778782241,
+  "generated_at_iso": "2026-05-14T18:10:41Z",
+  "count": 2388,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,104 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000092",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-14T09:34:03",
+      "modificado": "2026-05-14T15:10:13",
+      "idade_dias": 0,
+      "assunto": "Adequação do Monitoramento de load dos servidores Linux"
+    },
+    {
+      "ticket": "2026051426000323",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T14:50:19",
+      "modificado": "2026-05-14T15:09:37",
+      "idade_dias": 0,
+      "assunto": "ARCO - GWMS-SERVER - Influxdb Check Writes - 26051414494573"
+    },
+    {
+      "ticket": "2026051426000314",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::Firewall",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T14:47:55",
+      "modificado": "2026-05-14T15:08:37",
+      "idade_dias": 0,
+      "assunto": "TESTE NO-IP PARA SCANNER"
+    },
+    {
+      "ticket": "2026051426000305",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-14T14:46:06",
+      "modificado": "2026-05-14T15:07:10",
+      "idade_dias": 0,
+      "assunto": "PA com duas baixas em contas diferentes"
+    },
+    {
+      "ticket": "2026051426000298",
+      "cli_id": "PAMPLASTICOS",
+      "cliente": "PAMPLASTICOS",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Enzo Fucitalo",
+      "criado": "2026-05-14T14:45:19",
+      "modificado": "2026-05-14T15:05:47",
+      "idade_dias": 0,
+      "assunto": "Base de homologação - PAM"
+    },
+    {
+      "ticket": "2026051426000332",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T15:05:21",
+      "modificado": "2026-05-14T15:05:27",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051415004613"
+    },
+    {
+      "ticket": "2026051426000341",
+      "cli_id": "vilante.alves@groundwork.com.br",
+      "cliente": "vilante.alves@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T15:05:23",
+      "modificado": "2026-05-14T15:05:27",
+      "idade_dias": 0,
+      "assunto": "Serviço não inicializa - PAM"
+    },
     {
       "ticket": "2026051426000289",
       "cli_id": "CONTINENTAL",
@@ -30,20 +128,6 @@
       "assunto": "Atualizar banco de dados teste - Fazer backup da base teste"
     },
     {
-      "ticket": "2026051426000305",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "4 high",
-      "servico": "",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-14T14:46:06",
-      "modificado": "2026-05-14T14:55:08",
-      "idade_dias": 0,
-      "assunto": "PA com duas baixas em contas diferentes"
-    },
-    {
       "ticket": "2026051426000271",
       "cli_id": "ALMEIDA JR",
       "cliente": "ALMEIDA JR",
@@ -56,20 +140,6 @@
       "modificado": "2026-05-14T14:54:41",
       "idade_dias": 0,
       "assunto": "Importação planilha emissão NF - TX ADM (sócios)"
-    },
-    {
-      "ticket": "2026051426000323",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T14:50:19",
-      "modificado": "2026-05-14T14:50:22",
-      "idade_dias": 0,
-      "assunto": "ARCO - GWMS-SERVER - Influxdb Check Writes - 26051414494573"
     },
     {
       "ticket": "2026051326000389",
@@ -98,34 +168,6 @@
       "modificado": "2026-05-14T14:48:23",
       "idade_dias": 0,
       "assunto": "Atualização de hostname - AP(s) Curitiba"
-    },
-    {
-      "ticket": "2026051426000314",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::Firewall",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T14:47:55",
-      "modificado": "2026-05-14T14:47:58",
-      "idade_dias": 0,
-      "assunto": "TESTE NO-IP PARA SCANNER"
-    },
-    {
-      "ticket": "2026051426000298",
-      "cli_id": "weskley.silva@groundwork.com.br",
-      "cliente": "weskley.silva@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T14:45:19",
-      "modificado": "2026-05-14T14:45:20",
-      "idade_dias": 0,
-      "assunto": "Base de homologação - PAM"
     },
     {
       "ticket": "2026051326000227",
@@ -562,20 +604,6 @@
       "assunto": "Ajuste portalnoc"
     },
     {
-      "ticket": "2026051426000092",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-14T09:34:03",
-      "modificado": "2026-05-14T10:58:10",
-      "idade_dias": 0,
-      "assunto": "Adequação do Monitoramento de load dos servidores Linux"
-    },
-    {
       "ticket": "2026020926000133",
       "cli_id": "NSX",
       "cliente": "NSX",
@@ -992,7 +1020,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-11T15:05:55",
       "modificado": "2026-05-14T07:51:21",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Verificação de coleta dos hosts abaixo:"
     },
     {
@@ -1034,7 +1062,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-04-27T15:05:15",
       "modificado": "2026-05-14T05:05:21",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "Your message could not be delivered"
     },
     {
@@ -2000,7 +2028,7 @@
       "atendente": "Gabriel Bruno",
       "criado": "2026-05-12T15:05:09",
       "modificado": "2026-05-13T13:22:07",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Downtime"
     },
     {
@@ -2728,7 +2756,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-05-12T15:04:44",
       "modificado": "2026-05-12T15:11:37",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Ficha de Produto - Exibe produtos apenas no perfil VENDEDOR, deixar liberado pra qualquer perfil"
     },
     {
@@ -3890,7 +3918,7 @@
       "atendente": "Jonathan Oliveira",
       "criado": "2026-04-29T15:10:07",
       "modificado": "2026-05-04T15:51:18",
-      "idade_dias": 14,
+      "idade_dias": 15,
       "assunto": "Ticket para verificar problema com abertura de tela no GWMS"
     },
     {
@@ -4646,7 +4674,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-13T15:04:35",
       "modificado": "2026-04-22T05:00:31",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "Monitoramento de Glassfish e JVM"
     },
     {
@@ -4772,7 +4800,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-04-13T15:09:53",
       "modificado": "2026-04-21T05:00:31",
-      "idade_dias": 30,
+      "idade_dias": 31,
       "assunto": "EXCLUSÃO DE PA"
     },
     {
@@ -4800,7 +4828,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-04-08T15:05:03",
       "modificado": "2026-04-21T05:00:25",
-      "idade_dias": 35,
+      "idade_dias": 36,
       "assunto": "ARCO - GWMS-SERVER - Cpu - 26040815041022"
     },
     {
@@ -5570,7 +5598,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-03-12T15:06:50",
       "modificado": "2026-04-04T05:00:26",
-      "idade_dias": 62,
+      "idade_dias": 63,
       "assunto": "Reenvio de Boletos já enviados na remessa NK"
     },
     {
@@ -5710,7 +5738,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2025-09-24T15:01:00",
       "modificado": "2026-04-02T05:00:11",
-      "idade_dias": 231,
+      "idade_dias": 232,
       "assunto": "Nova integração GWMS - ServiceNow"
     },
     {
@@ -6494,7 +6522,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-12T15:02:06",
       "modificado": "2026-03-19T05:00:27",
-      "idade_dias": 90,
+      "idade_dias": 91,
       "assunto": "Erro no relatorio de cliente."
     },
     {
@@ -7264,7 +7292,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-02-03T15:07:13",
       "modificado": "2026-03-05T05:00:25",
-      "idade_dias": 99,
+      "idade_dias": 100,
       "assunto": "Inconsistência na classificação em lote – Ativo Imobilizado"
     },
     {
@@ -10358,7 +10386,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-19T15:04:31",
       "modificado": "2025-12-27T05:00:29",
-      "idade_dias": 145,
+      "idade_dias": 146,
       "assunto": "Remover alerta Integrada"
     },
     {
@@ -10666,7 +10694,7 @@
       "atendente": "Wesley Araujo",
       "criado": "2025-12-10T15:06:00",
       "modificado": "2025-12-20T05:00:28",
-      "idade_dias": 154,
+      "idade_dias": 155,
       "assunto": "Erro no envio de email"
     },
     {
@@ -11506,7 +11534,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-11-24T15:10:21",
       "modificado": "2025-12-03T05:00:25",
-      "idade_dias": 170,
+      "idade_dias": 171,
       "assunto": "TOTVS NETWORK - Adição de Switches e APs"
     },
     {
@@ -12290,7 +12318,7 @@
       "atendente": "Marcelo Pavanate Silva",
       "criado": "2025-11-03T15:10:19",
       "modificado": "2025-11-11T05:00:17",
-      "idade_dias": 191,
+      "idade_dias": 192,
       "assunto": "ARCO - Alertas CRITICAL - 25110315023235"
     },
     {
@@ -13004,7 +13032,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-07T15:10:13",
       "modificado": "2025-10-21T05:00:23",
-      "idade_dias": 279,
+      "idade_dias": 280,
       "assunto": "Totvs Inteligência Tributária"
     },
     {
@@ -14152,7 +14180,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-22T15:06:51",
       "modificado": "2025-09-30T05:00:29",
-      "idade_dias": 233,
+      "idade_dias": 234,
       "assunto": "AZ - CTB - FECHAMENTO - Alterar data da depreciação do ativo (Ana Sousa)"
     },
     {
@@ -14488,7 +14516,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-15T15:09:23",
       "modificado": "2025-09-25T05:00:12",
-      "idade_dias": 240,
+      "idade_dias": 241,
       "assunto": "Fundo NR - Titulo já baixado aparecendo no relatório de PCLD"
     },
     {
@@ -14600,7 +14628,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-09-02T15:05:07",
       "modificado": "2025-09-24T05:00:31",
-      "idade_dias": 253,
+      "idade_dias": 254,
       "assunto": "RE: Atualização Certificado Digital no Site da Intranet e do protheus"
     },
     {
@@ -14992,7 +15020,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-10T15:10:24",
       "modificado": "2025-09-18T05:00:25",
-      "idade_dias": 245,
+      "idade_dias": 246,
       "assunto": "RE: Select_10.09 - Contas do Ativo"
     },
     {
@@ -15160,7 +15188,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-08T15:05:42",
       "modificado": "2025-09-17T05:00:40",
-      "idade_dias": 247,
+      "idade_dias": 248,
       "assunto": "ACESSO HML"
     },
     {
@@ -16350,7 +16378,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-06T15:05:04",
       "modificado": "2025-08-27T18:24:04",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "Erro plugin GWMS - PECVAL"
     },
     {
@@ -17932,7 +17960,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-18T15:03:47",
       "modificado": "2025-07-26T05:00:12",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "Problema de acesso"
     },
     {
@@ -18044,7 +18072,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-14T15:03:18",
       "modificado": "2025-07-24T05:00:11",
-      "idade_dias": 303,
+      "idade_dias": 304,
       "assunto": "Pedido 077124"
     },
     {
@@ -18324,7 +18352,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-10T15:05:20",
       "modificado": "2025-07-18T05:00:27",
-      "idade_dias": 307,
+      "idade_dias": 308,
       "assunto": "Monitoramento DTU - Jira produção"
     },
     {
@@ -19654,7 +19682,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-16T15:04:17",
       "modificado": "2025-06-24T05:00:29",
-      "idade_dias": 331,
+      "idade_dias": 332,
       "assunto": "Erro ao gerar acordo 247885 - empresa 305001"
     },
     {
@@ -19752,7 +19780,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-13T15:06:47",
       "modificado": "2025-06-21T05:00:19",
-      "idade_dias": 334,
+      "idade_dias": 335,
       "assunto": "Alteração de Senha do Protheus"
     },
     {
@@ -20046,7 +20074,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-09T15:05:07",
       "modificado": "2025-06-17T05:00:26",
-      "idade_dias": 338,
+      "idade_dias": 339,
       "assunto": "Revisão do monitoramento "
     },
     {
@@ -21572,7 +21600,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-13T15:07:47",
       "modificado": "2025-05-21T05:00:39",
-      "idade_dias": 365,
+      "idade_dias": 366,
       "assunto": "Inclusão de coluna \"Anterior e Posterior\" no relatório de PCLD"
     },
     {
@@ -23560,7 +23588,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-04T15:03:53",
       "modificado": "2025-04-23T05:00:22",
-      "idade_dias": 404,
+      "idade_dias": 405,
       "assunto": "Acesso Relatório PCLD Contábil - Protheus"
     },
     {
@@ -26276,7 +26304,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-01-22T15:05:12",
       "modificado": "2025-02-28T05:00:15",
-      "idade_dias": 476,
+      "idade_dias": 477,
       "assunto": "908938 - Configuração Smart View - Relatórios Fiscais - HOMOLOGAÇÂO"
     },
     {
@@ -26402,7 +26430,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-06T15:02:38",
       "modificado": "2025-02-25T05:00:20",
-      "idade_dias": 461,
+      "idade_dias": 462,
       "assunto": "AZ - Falha ao gerar NCCs no job FISZO002"
     },
     {
@@ -27690,7 +27718,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-17T15:07:33",
       "modificado": "2025-02-06T05:00:12",
-      "idade_dias": 512,
+      "idade_dias": 513,
       "assunto": "Arquivo Fopag"
     },
     {
@@ -29650,7 +29678,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-12-09T15:05:20",
       "modificado": "2024-12-16T16:30:03",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "Monitoramento Jira Produção - Informações detalhadas"
     },
     {
@@ -29664,7 +29692,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-12-16T15:05:13",
       "modificado": "2024-12-16T15:05:16",
-      "idade_dias": 513,
+      "idade_dias": 514,
       "assunto": "AZ - Problema na baixa de boletos"
     },
     {
@@ -31092,7 +31120,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-10-17T15:10:16",
       "modificado": "2024-11-06T11:00:07",
-      "idade_dias": 573,
+      "idade_dias": 574,
       "assunto": "Conciliador Bancário Protheus"
     },
     {
@@ -31386,7 +31414,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-08-08T15:05:31",
       "modificado": "2024-10-29T10:30:12",
-      "idade_dias": 643,
+      "idade_dias": 644,
       "assunto": "Cadastro Produto/fornecedor/natureza - Novo evento REINF"
     },
     {
@@ -31694,7 +31722,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-15T15:10:14",
       "modificado": "2024-10-22T17:30:07",
-      "idade_dias": 575,
+      "idade_dias": 576,
       "assunto": "Titulo 100830251 - PA SUPRICORP"
     },
     {
@@ -33094,7 +33122,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-10T15:05:06",
       "modificado": "2024-09-19T16:00:05",
-      "idade_dias": 610,
+      "idade_dias": 611,
       "assunto": "[TOTVS] - Monitoramento Firewall Cisco Goiania"
     },
     {
