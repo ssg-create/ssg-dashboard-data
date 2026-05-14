@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778735428,
-  "generated_at_iso": "2026-05-14T05:10:28Z",
-  "count": 2390,
+  "generated_at": 1778736028,
+  "generated_at_iso": "2026-05-14T05:20:28Z",
+  "count": 2391,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,30 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000038",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T02:15:16",
+      "modificado": "2026-05-14T02:15:18",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051402145263"
+    },
+    {
+      "ticket": "2026051426000029",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T00:45:05",
+      "modificado": "2026-05-14T02:10:34",
+      "idade_dias": 0,
+      "assunto": "AMEROPA - GWMS-Server - Time - 26051400440087"
+    },
+    {
       "ticket": "2026051426000011",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -26,18 +50,6 @@
       "modificado": "2026-05-14T02:10:26",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Check Times - 26051400435085"
-    },
-    {
-      "ticket": "2026051426000029",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T00:45:05",
-      "modificado": "2026-05-14T00:45:09",
-      "idade_dias": 0,
-      "assunto": "AMEROPA - GWMS-Server - Time - 26051400440087"
     },
     {
       "ticket": "2026051326000469",
@@ -6828,7 +6840,7 @@
       "atendente": "Eliandro Rochel",
       "criado": "2026-02-06T02:15:07",
       "modificado": "2026-02-19T05:00:19",
-      "idade_dias": 96,
+      "idade_dias": 97,
       "assunto": "#TOTVS-NETWORK - JOI_BRJOISW01-PV4B - Power Supply - Downtime ate as 12hs de 06-02-2026"
     },
     {
@@ -26424,7 +26436,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2024-11-08T02:15:06",
       "modificado": "2024-11-15T07:30:09",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Re: #TOTVS-SERVERS - Alertas CRITICAL - 24110801510934"
     },
     {
