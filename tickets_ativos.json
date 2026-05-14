@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778786422,
-  "generated_at_iso": "2026-05-14T19:20:22Z",
-  "count": 2387,
+  "generated_at": 1778787024,
+  "generated_at_iso": "2026-05-14T19:30:24Z",
+  "count": 2388,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,18 +16,46 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000421",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T16:25:13",
+      "modificado": "2026-05-14T16:28:49",
+      "idade_dias": 0,
+      "assunto": "Dashboard MPN"
+    },
+    {
       "ticket": "2026051426000403",
-      "cli_id": "guilherme.franco@teletex.com",
-      "cliente": "guilherme.franco@teletex.com",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
+      "cli_id": "TELETEX",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
       "criado": "2026-05-14T16:15:12",
-      "modificado": "2026-05-14T16:15:17",
+      "modificado": "2026-05-14T16:27:52",
       "idade_dias": 0,
       "assunto": "API - gw da teletex"
+    },
+    {
+      "ticket": "2026051426000387",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-14T16:04:28",
+      "modificado": "2026-05-14T16:23:24",
+      "idade_dias": 0,
+      "assunto": "Alteração no Dashboard PJE Geral - PJE2GDBP001 para PJE2G Cloud"
     },
     {
       "ticket": "2026051326000389",
@@ -42,20 +70,6 @@
       "modificado": "2026-05-14T16:13:14",
       "idade_dias": 1,
       "assunto": "Checagem de certificado, host: k8sigcmp001"
-    },
-    {
-      "ticket": "2026051426000387",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T16:04:28",
-      "modificado": "2026-05-14T16:08:15",
-      "idade_dias": 0,
-      "assunto": "Alteração no Dashboard PJE Geral - PJE2GDBP001 para PJE2G Cloud"
     },
     {
       "ticket": "2026051426000136",
@@ -1846,7 +1860,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-03-30T16:24:29",
       "modificado": "2026-05-13T16:29:35",
-      "idade_dias": 44,
+      "idade_dias": 45,
       "assunto": "Derrubar usuários no ToTvs"
     },
     {
@@ -2112,7 +2126,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-27T16:30:05",
       "modificado": "2026-05-13T11:45:37",
-      "idade_dias": 16,
+      "idade_dias": 17,
       "assunto": "Alteração Dashboard Logmein"
     },
     {
@@ -2196,7 +2210,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-11T16:21:35",
       "modificado": "2026-05-13T10:41:35",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "protheus com falha para acesso"
     },
     {
@@ -3372,7 +3386,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-04-30T16:20:23",
       "modificado": "2026-05-08T05:00:30",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Criação de Serviços Protheus"
     },
     {
@@ -3596,7 +3610,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-04-28T16:25:10",
       "modificado": "2026-05-06T18:34:24",
-      "idade_dias": 15,
+      "idade_dias": 16,
       "assunto": "Implementação ELK - GWMS - DIGNA"
     },
     {
@@ -3960,7 +3974,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T16:30:15",
       "modificado": "2026-05-02T05:00:34",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Acesso ao GWMS"
     },
     {
@@ -4156,7 +4170,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-04-17T16:21:22",
       "modificado": "2026-04-30T05:00:24",
-      "idade_dias": 26,
+      "idade_dias": 27,
       "assunto": "PROBLEMA AO ACESSAR"
     },
     {
@@ -4702,7 +4716,7 @@
       "atendente": "Francisco Silva",
       "criado": "2026-01-29T16:21:37",
       "modificado": "2026-04-22T05:00:23",
-      "idade_dias": 104,
+      "idade_dias": 105,
       "assunto": "Fazer carga para criar titulos de Imposto no financeiro"
     },
     {
@@ -5696,7 +5710,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-03-07T16:25:15",
       "modificado": "2026-04-02T05:00:14",
-      "idade_dias": 67,
+      "idade_dias": 68,
       "assunto": "Erro na integração de Produtos e Fornecedores AZ"
     },
     {
@@ -7292,7 +7306,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-01-28T16:28:49",
       "modificado": "2026-03-05T05:00:23",
-      "idade_dias": 105,
+      "idade_dias": 106,
       "assunto": "Natureza de operação 6201 - rejeição por IBS e CBS"
     },
     {
@@ -8090,7 +8104,7 @@
       "atendente": "Tiago Silva",
       "criado": "2025-10-01T16:27:14",
       "modificado": "2026-02-17T05:00:23",
-      "idade_dias": 224,
+      "idade_dias": 225,
       "assunto": "Configuração e treinamento do fluxo de compras (cotação)"
     },
     {
@@ -8538,7 +8552,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-01-21T16:30:22",
       "modificado": "2026-02-06T05:00:18",
-      "idade_dias": 112,
+      "idade_dias": 113,
       "assunto": "Monitoramento portal de TI"
     },
     {
@@ -8678,7 +8692,7 @@
       "atendente": "Adriano Luiz",
       "criado": "2025-12-16T16:25:11",
       "modificado": "2026-02-04T14:08:44",
-      "idade_dias": 148,
+      "idade_dias": 149,
       "assunto": "Monitoramento Storage HP 3PAR ARCO"
     },
     {
@@ -11240,7 +11254,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-01T16:25:05",
       "modificado": "2025-12-09T05:00:33",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "Substituição de Aprovador Arthur"
     },
     {
@@ -12164,7 +12178,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-11-05T16:25:24",
       "modificado": "2025-11-14T05:00:14",
-      "idade_dias": 189,
+      "idade_dias": 190,
       "assunto": "RES: Métricas de disponibilidade dos serviços do Vendas Digitais"
     },
     {
@@ -12220,7 +12234,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-30T16:30:20",
       "modificado": "2025-11-13T05:00:20",
-      "idade_dias": 195,
+      "idade_dias": 196,
       "assunto": "SFTP AZ"
     },
     {
@@ -14054,7 +14068,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-22T16:21:48",
       "modificado": "2025-10-01T05:00:35",
-      "idade_dias": 233,
+      "idade_dias": 234,
       "assunto": "acesso ao grupo 30 para criar e aprovar SC e pedidos"
     },
     {
@@ -15356,7 +15370,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-18T16:22:17",
       "modificado": "2025-09-16T05:00:19",
-      "idade_dias": 299,
+      "idade_dias": 300,
       "assunto": "NTFC - Erro Fechamento EFD-Reinf"
     },
     {
@@ -16532,7 +16546,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-06T16:21:21",
       "modificado": "2025-08-26T05:00:07",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "AZ - CTB - Validação DIFAL em Homologação"
     },
     {
@@ -16728,7 +16742,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-07-01T16:30:06",
       "modificado": "2025-08-22T05:00:10",
-      "idade_dias": 316,
+      "idade_dias": 317,
       "assunto": "Necessario ter acesso a impressao de relatorio da tela CD0401"
     },
     {
@@ -16742,7 +16756,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-13T16:29:17",
       "modificado": "2025-08-21T05:00:21",
-      "idade_dias": 273,
+      "idade_dias": 274,
       "assunto": "SEM ACESSO AO PROTHEUS -"
     },
     {
@@ -17148,7 +17162,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-07-28T16:29:40",
       "modificado": "2025-08-14T05:00:22",
-      "idade_dias": 289,
+      "idade_dias": 290,
       "assunto": "AZ - TAX - Nota integrada errada (SKU vs Cod. Produto)"
     },
     {
@@ -17904,7 +17918,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-07-20T16:30:09",
       "modificado": "2025-07-29T05:00:14",
-      "idade_dias": 297,
+      "idade_dias": 298,
       "assunto": "ARCO - Remover Host monitoria"
     },
     {
@@ -19248,7 +19262,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-06-23T16:30:12",
       "modificado": "2025-07-02T05:00:16",
-      "idade_dias": 324,
+      "idade_dias": 325,
       "assunto": "RES: #TOTVS-SERVERS - URLS_HORACIUS - RM - 25062209340016"
     },
     {
@@ -19654,7 +19668,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-06-16T16:26:56",
       "modificado": "2025-06-24T05:00:31",
-      "idade_dias": 331,
+      "idade_dias": 332,
       "assunto": "AZ - Criar novos usuários Protheus - # 145473"
     },
     {
@@ -21810,7 +21824,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-09T16:25:09",
       "modificado": "2025-05-17T05:00:23",
-      "idade_dias": 369,
+      "idade_dias": 370,
       "assunto": "Alerta Braveo"
     },
     {
@@ -22818,7 +22832,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-16T16:23:33",
       "modificado": "2025-05-03T05:00:24",
-      "idade_dias": 392,
+      "idade_dias": 393,
       "assunto": "DOCUMENTO DE ENTRADA - HOMOLOGAÇÃO"
     },
     {
@@ -23616,7 +23630,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-14T16:25:18",
       "modificado": "2025-04-22T05:00:26",
-      "idade_dias": 394,
+      "idade_dias": 395,
       "assunto": "Acesso ao Dash"
     },
     {
@@ -24134,7 +24148,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-03-31T16:26:03",
       "modificado": "2025-04-13T05:00:06",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "LIBERAÇÃO PORTAS - NWAY"
     },
     {
@@ -24624,7 +24638,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-03-27T16:30:12",
       "modificado": "2025-04-05T05:00:09",
-      "idade_dias": 412,
+      "idade_dias": 413,
       "assunto": "Revisão no monitoramento"
     },
     {
@@ -25044,7 +25058,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-21T16:22:56",
       "modificado": "2025-03-26T05:00:04",
-      "idade_dias": 477,
+      "idade_dias": 478,
       "assunto": "Notas não importadas para o TOTVS"
     },
     {
@@ -26402,7 +26416,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-02-25T16:25:23",
       "modificado": "2025-02-25T16:25:27",
-      "idade_dias": 442,
+      "idade_dias": 443,
       "assunto": "DANFE - Impressão Padrão"
     },
     {
@@ -27298,7 +27312,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-01-29T16:26:47",
       "modificado": "2025-02-09T05:00:19",
-      "idade_dias": 469,
+      "idade_dias": 470,
       "assunto": "Título Paytrack sem matrícula - 301001"
     },
     {
@@ -27816,7 +27830,7 @@
       "atendente": "Weskley Silva",
       "criado": "2024-10-21T16:30:11",
       "modificado": "2025-01-21T12:00:06",
-      "idade_dias": 569,
+      "idade_dias": 570,
       "assunto": "Abertura de OS via API"
     },
     {
@@ -28306,7 +28320,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-06T16:22:15",
       "modificado": "2025-01-13T20:30:03",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "AZ - Cadastro de novas filiais"
     },
     {
@@ -30798,7 +30812,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-10-22T16:25:06",
       "modificado": "2024-11-14T17:30:11",
-      "idade_dias": 568,
+      "idade_dias": 569,
       "assunto": "Ajustar thresholds dos links de internet"
     },
     {
@@ -31876,7 +31890,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-10-11T16:20:24",
       "modificado": "2024-10-18T17:00:13",
-      "idade_dias": 579,
+      "idade_dias": 580,
       "assunto": "RES: AD - Área de trabalho do Usuário apaga o atalho do Protheus"
     },
     {
@@ -33136,7 +33150,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-08-23T16:24:59",
       "modificado": "2024-09-19T12:00:15",
-      "idade_dias": 628,
+      "idade_dias": 629,
       "assunto": "PARAMETRIZAÇÃO - EFD CONTRIBUIÇÕES E ICMS (DIFAL)"
     },
     {
