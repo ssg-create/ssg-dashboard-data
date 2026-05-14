@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778748623,
-  "generated_at_iso": "2026-05-14T08:50:23Z",
+  "generated_at": 1778749230,
+  "generated_at_iso": "2026-05-14T09:00:30Z",
   "count": 2392,
   "filas": [
     "DATASUL",
@@ -16,6 +16,42 @@
   ],
   "rows": [
     {
+      "ticket": "2026051326000478",
+      "cliente": "ARCO",
+      "fila": "NOC",
+      "estado": "RESOLVIDO",
+      "prioridade": "3 normal",
+      "atendente": "Vinicius Mendes",
+      "criado": "2026-05-13T17:55:08",
+      "modificado": "2026-05-14T05:55:24",
+      "idade_dias": 0,
+      "assunto": "Manutenção Programada Protheus - ARCO"
+    },
+    {
+      "ticket": "2026051426000047",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T05:00:20",
+      "modificado": "2026-05-14T05:53:21",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051404582077"
+    },
+    {
+      "ticket": "2026051426000038",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-14T02:15:16",
+      "modificado": "2026-05-14T05:53:17",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051402145263"
+    },
+    {
       "ticket": "2026042726000346",
       "cliente": "AUTOZONE",
       "fila": "SSG",
@@ -26,18 +62,6 @@
       "modificado": "2026-05-14T05:05:21",
       "idade_dias": 16,
       "assunto": "Your message could not be delivered"
-    },
-    {
-      "ticket": "2026051426000047",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T05:00:20",
-      "modificado": "2026-05-14T05:00:23",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051404582077"
     },
     {
       "ticket": "2026050626000161",
@@ -736,18 +760,6 @@
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
     },
     {
-      "ticket": "2026051426000038",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T02:15:16",
-      "modificado": "2026-05-14T02:15:18",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26051402145263"
-    },
-    {
       "ticket": "2026051426000029",
       "cliente": "monitoramento@groundwork.com.br",
       "fila": "GWMS",
@@ -806,18 +818,6 @@
       "modificado": "2026-05-13T18:00:10",
       "idade_dias": 0,
       "assunto": "Acesso Plataformas TI / HLCLOUD Produção"
-    },
-    {
-      "ticket": "2026051326000478",
-      "cliente": "ARCO",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "atendente": "Marcelo Pavanate Silva",
-      "criado": "2026-05-13T17:55:08",
-      "modificado": "2026-05-13T17:56:49",
-      "idade_dias": 0,
-      "assunto": "Manutenção Programada Protheus - ARCO"
     },
     {
       "ticket": "2026051326000405",
