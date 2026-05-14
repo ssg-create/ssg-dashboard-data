@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778787029,
-  "generated_at_iso": "2026-05-14T19:30:29Z",
+  "generated_at": 1778787648,
+  "generated_at_iso": "2026-05-14T19:40:48Z",
   "count": 5215,
   "filas": [
     "DATASUL",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051426000431",
+      "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26051416291875",
+      "criado": "2026-05-14T16:35:14",
+      "modificado": "2026-05-14T16:35:16",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "3 normal",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cli_user": "monitoramento@groundwork.com.br",
+      "servico": "",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051426000421",
       "assunto": "Dashboard MPN",
@@ -59,9 +79,9 @@
       "num": "2026051426000387",
       "assunto": "Alteração no Dashboard PJE Geral - PJE2GDBP001 para PJE2G Cloud",
       "criado": "2026-05-14T16:04:28",
-      "modificado": "2026-05-14T16:23:24",
+      "modificado": "2026-05-14T16:36:12",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "4 high",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -70,10 +90,10 @@
       "cli_user": "lucas.nascimento@teletex.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 31,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 31
     },
     {
       "num": "2026051426000378",
@@ -3279,7 +3299,7 @@
       "num": "2026050826000175",
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2",
       "criado": "2026-05-08T11:40:09",
-      "modificado": "2026-05-13T11:58:36",
+      "modificado": "2026-05-14T16:33:27",
       "fila": "GWMS",
       "estado": "Em atendimento",
       "prioridade": "1 very low",
@@ -63374,26 +63394,6 @@
       "sol_min_raw": 7519,
       "sol_min_bh": 1879,
       "resp_min_bh": 246
-    },
-    {
-      "num": "2026011426000072",
-      "assunto": "Atualização/Migração GWMS - Berneck Curitibanos",
-      "criado": "2026-01-14T08:25:09",
-      "modificado": "2026-01-14T16:37:08",
-      "fila": "MONITORAMENTO",
-      "estado": "closed successful",
-      "prioridade": "1 very low",
-      "atendente": "Marcio Guimaraes",
-      "primeiro_nome": "Marcio",
-      "ultimo_nome": "Guimaraes",
-      "cli_id": "TELETEX",
-      "cli_user": "tgois@berneck.com.br",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Operacional",
-      "fechado": "2026-01-14T16:37:08",
-      "resp_min_raw": 423,
-      "sol_min_raw": 491,
-      "sol_min_bh": 431,
-      "resp_min_bh": 362
     },
     {
       "num": "2026011426000045",
