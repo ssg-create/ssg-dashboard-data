@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778802496,
-  "generated_at_iso": "2026-05-14T23:48:16Z",
+  "generated_at": 1778802626,
+  "generated_at_iso": "2026-05-14T23:50:26Z",
   "count": 2389,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050826000201",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RESOLVIDO",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-08T13:52:02",
+      "modificado": "2026-05-14T20:49:28",
+      "idade_dias": 6,
+      "assunto": "FISA131",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051426000118",
       "cli_id": "AUTOZONE",
@@ -4083,29 +4106,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026050826000201",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "4 high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-05-08T13:52:02",
-      "modificado": "2026-05-13T09:56:36",
-      "idade_dias": 6,
-      "assunto": "FISA131",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
