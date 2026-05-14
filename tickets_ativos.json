@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778758222,
-  "generated_at_iso": "2026-05-14T11:30:22Z",
+  "generated_at": 1778758821,
+  "generated_at_iso": "2026-05-14T11:40:21Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,30 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000056",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T07:15:17",
+      "modificado": "2026-05-14T08:39:49",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051407125983"
+    },
+    {
+      "ticket": "2026051426000029",
+      "cliente": "AMEROPA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T00:45:05",
+      "modificado": "2026-05-14T08:39:00",
+      "idade_dias": 0,
+      "assunto": "AMEROPA - GWMS-Server - Time - 26051400440087"
+    },
     {
       "ticket": "2026051426000065",
       "cliente": "monitoramento@groundwork.com.br",
@@ -62,18 +86,6 @@
       "modificado": "2026-05-14T07:38:36",
       "idade_dias": 8,
       "assunto": "Pedido de compra não está saindo com informações corretas"
-    },
-    {
-      "ticket": "2026051426000056",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T07:15:17",
-      "modificado": "2026-05-14T07:23:45",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051407125983"
     },
     {
       "ticket": "2026051326000478",
@@ -782,18 +794,6 @@
       "modificado": "2026-05-14T05:00:04",
       "idade_dias": 5,
       "assunto": "Novo espelhamento USGAAP - PD09 - 10.05.2026"
-    },
-    {
-      "ticket": "2026051426000029",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T00:45:05",
-      "modificado": "2026-05-14T02:10:34",
-      "idade_dias": 0,
-      "assunto": "AMEROPA - GWMS-Server - Time - 26051400440087"
     },
     {
       "ticket": "2026051326000469",
@@ -1548,7 +1548,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-13T08:40:14",
       "modificado": "2026-05-13T10:09:54",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "RE: #TOTVS-SERVERS - URLS_HLCLOUD_NEGOCIO - Integracoes - 26051208043375"
     },
     {
@@ -1728,7 +1728,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-05-04T08:40:17",
       "modificado": "2026-05-13T05:00:28",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Entendimento de alertas"
     },
     {
@@ -1764,7 +1764,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-30T08:30:27",
       "modificado": "2026-05-13T05:00:25",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Solicitação || A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
@@ -1848,7 +1848,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-02T08:35:38",
       "modificado": "2026-05-13T05:00:16",
-      "idade_dias": 41,
+      "idade_dias": 42,
       "assunto": "Bloqueio de fornecedores inativos no Protheus"
     },
     {
@@ -3960,7 +3960,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T08:31:48",
       "modificado": "2026-04-22T09:14:40",
-      "idade_dias": 23,
+      "idade_dias": 24,
       "assunto": "E-mails do portal não estão disparando"
     },
     {
@@ -5172,7 +5172,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2026-03-16T08:40:12",
       "modificado": "2026-03-25T05:00:26",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "RE: Revisão GWMS"
     },
     {
@@ -5184,7 +5184,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-16T08:40:10",
       "modificado": "2026-03-25T05:00:25",
-      "idade_dias": 58,
+      "idade_dias": 59,
       "assunto": "Cliente GDBR Monitoramento Desatualizado"
     },
     {
@@ -6492,7 +6492,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-19T08:32:53",
       "modificado": "2026-02-28T05:00:26",
-      "idade_dias": 83,
+      "idade_dias": 84,
       "assunto": "BERNECK - BRASNORTE | Alertas Docker container"
     },
     {
@@ -7560,7 +7560,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-01-23T08:37:06",
       "modificado": "2026-02-03T05:00:23",
-      "idade_dias": 110,
+      "idade_dias": 111,
       "assunto": "Possivel inconsistência no sistema - baixa CEA NS - baixa 21/01/2026"
     },
     {
@@ -8484,7 +8484,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2026-01-05T08:35:14",
       "modificado": "2026-01-13T05:00:39",
-      "idade_dias": 128,
+      "idade_dias": 129,
       "assunto": "RES: RES: RES: Mapeamento - HD Mídias"
     },
     {
@@ -10548,7 +10548,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-11-03T08:38:20",
       "modificado": "2025-11-12T05:00:25",
-      "idade_dias": 191,
+      "idade_dias": 192,
       "assunto": "RPWs Clássicos Desativados"
     },
     {
@@ -12516,7 +12516,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-16T08:31:57",
       "modificado": "2025-09-24T05:00:35",
-      "idade_dias": 239,
+      "idade_dias": 240,
       "assunto": "ATUALIZAR PART NUMBER"
     },
     {
@@ -14304,7 +14304,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-08-01T08:36:48",
       "modificado": "2025-08-23T05:00:14",
-      "idade_dias": 285,
+      "idade_dias": 286,
       "assunto": "Problema para acessar o Protheus"
     },
     {
@@ -14772,7 +14772,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2025-08-01T08:40:10",
       "modificado": "2025-08-13T05:00:18",
-      "idade_dias": 285,
+      "idade_dias": 286,
       "assunto": "Cancelamento/Inutilização de Notas"
     },
     {
@@ -15144,7 +15144,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T08:30:23",
       "modificado": "2025-08-06T05:00:26",
-      "idade_dias": 301,
+      "idade_dias": 302,
       "assunto": "PD12 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -15936,7 +15936,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-06-16T08:35:12",
       "modificado": "2025-07-15T05:00:24",
-      "idade_dias": 331,
+      "idade_dias": 332,
       "assunto": "PD11 - Integrações Contábeis (Dashboard GWMS)"
     },
     {
@@ -17160,7 +17160,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-11T08:38:49",
       "modificado": "2025-06-19T05:00:16",
-      "idade_dias": 397,
+      "idade_dias": 398,
       "assunto": "EFD Contribuições - Almeida Junior"
     },
     {
@@ -18516,7 +18516,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-05-08T08:31:47",
       "modificado": "2025-05-22T05:00:14",
-      "idade_dias": 370,
+      "idade_dias": 371,
       "assunto": "IMPORTADOR PROTHEUS GRUPO 80"
     },
     {
@@ -19644,7 +19644,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-04-24T08:30:25",
       "modificado": "2025-05-02T05:00:24",
-      "idade_dias": 384,
+      "idade_dias": 385,
       "assunto": "AutoZone | Robô inoperante"
     },
     {
@@ -22476,7 +22476,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-02-24T08:35:08",
       "modificado": "2025-03-04T05:00:04",
-      "idade_dias": 443,
+      "idade_dias": 444,
       "assunto": "REINF"
     },
     {
@@ -22596,7 +22596,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-18T08:38:04",
       "modificado": "2025-02-28T05:00:15",
-      "idade_dias": 449,
+      "idade_dias": 450,
       "assunto": "Notas importadas errada"
     },
     {
@@ -25152,7 +25152,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-12-16T08:35:05",
       "modificado": "2024-12-23T09:30:08",
-      "idade_dias": 513,
+      "idade_dias": 514,
       "assunto": "Liberar acesso ao Dash de Proposta"
     },
     {
@@ -26292,7 +26292,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2024-11-08T08:40:14",
       "modificado": "2024-11-18T13:30:07",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Re: INTEGRAÇÃO DE XML - NFSE [URGENTE]"
     },
     {
