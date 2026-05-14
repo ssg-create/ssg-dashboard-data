@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778792309,
-  "generated_at_iso": "2026-05-14T20:58:29Z",
+  "generated_at": 1778792424,
+  "generated_at_iso": "2026-05-14T21:00:24Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -16,6 +16,34 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000403",
+      "cli_id": "TELETEX",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-14T16:15:12",
+      "modificado": "2026-05-14T18:00:07",
+      "idade_dias": 0,
+      "assunto": "API - gw da teletex"
+    },
+    {
+      "ticket": "2026050826000175",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-08T11:40:09",
+      "modificado": "2026-05-14T17:59:52",
+      "idade_dias": 6,
+      "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
+    },
+    {
       "ticket": "2026050826000111",
       "cli_id": "TOTVS",
       "cliente": "TOTVS",
@@ -28,20 +56,6 @@
       "modificado": "2026-05-14T17:57:52",
       "idade_dias": 6,
       "assunto": "Adicionar informações dos Storages Dell Data Domain no Dashboard"
-    },
-    {
-      "ticket": "2026051426000403",
-      "cli_id": "TELETEX",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-14T16:15:12",
-      "modificado": "2026-05-14T17:53:17",
-      "idade_dias": 0,
-      "assunto": "API - gw da teletex"
     },
     {
       "ticket": "2026032426000424",
@@ -252,20 +266,6 @@
       "modificado": "2026-05-14T16:54:31",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26051416291875"
-    },
-    {
-      "ticket": "2026050826000175",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-08T11:40:09",
-      "modificado": "2026-05-14T16:33:27",
-      "idade_dias": 6,
-      "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
     },
     {
       "ticket": "2026051326000389",
@@ -2098,7 +2098,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-04-23T18:00:06",
       "modificado": "2026-05-13T14:29:04",
-      "idade_dias": 20,
+      "idade_dias": 21,
       "assunto": "Inserir Servidor Monitoramento"
     },
     {
@@ -6928,7 +6928,7 @@
       "atendente": "Guilherme Silva",
       "criado": "2026-01-19T17:59:18",
       "modificado": "2026-03-13T05:00:23",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "Gráfico Home - Valor faturado está zerado"
     },
     {
@@ -10078,7 +10078,7 @@
       "atendente": "Admin OTRS",
       "criado": "2026-01-07T18:00:11",
       "modificado": "2026-01-07T18:00:14",
-      "idade_dias": 126,
+      "idade_dias": 127,
       "assunto": "Erro Abertura PO - Jessica Souza"
     },
     {
@@ -10498,7 +10498,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-12-17T18:00:16",
       "modificado": "2025-12-27T05:00:23",
-      "idade_dias": 147,
+      "idade_dias": 148,
       "assunto": "Acesso OTRS Consultor Fabio Lentini"
     },
     {
@@ -14432,7 +14432,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-09-17T18:00:14",
       "modificado": "2025-09-26T05:00:22",
-      "idade_dias": 238,
+      "idade_dias": 239,
       "assunto": "RE: Select_17.09 - Contas 40100"
     },
     {
@@ -17708,7 +17708,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-27T18:00:12",
       "modificado": "2025-08-05T05:00:29",
-      "idade_dias": 290,
+      "idade_dias": 291,
       "assunto": "Discos I e P - Servidor SRV-SQL-PRD - 10.228.128.68 - AUTOZONE"
     },
     {
@@ -20242,7 +20242,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-29T18:00:14",
       "modificado": "2025-06-14T05:00:14",
-      "idade_dias": 349,
+      "idade_dias": 350,
       "assunto": "AZ - Erro de Notas de Entradas - Cancelamentos"
     },
     {
@@ -21096,7 +21096,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-05-19T18:00:11",
       "modificado": "2025-05-28T05:00:31",
-      "idade_dias": 359,
+      "idade_dias": 360,
       "assunto": "Adicionar Host na Monitoria"
     },
     {
@@ -22398,7 +22398,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-03-06T18:00:10",
       "modificado": "2025-05-12T05:00:17",
-      "idade_dias": 433,
+      "idade_dias": 434,
       "assunto": "AZ - Exception ao processar o SINC"
     },
     {
@@ -29524,7 +29524,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-12-11T17:58:53",
       "modificado": "2024-12-19T10:30:17",
-      "idade_dias": 518,
+      "idade_dias": 519,
       "assunto": "notas de terceiro como emissão propria"
     },
     {
@@ -29846,7 +29846,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-11-27T18:00:12",
       "modificado": "2024-12-10T09:30:07",
-      "idade_dias": 532,
+      "idade_dias": 533,
       "assunto": "AZ - Arquivo PO X SAP não integrando - P03 - FY2025P03"
     },
     {
@@ -31106,7 +31106,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-10-23T18:00:05",
       "modificado": "2024-11-11T11:30:03",
-      "idade_dias": 567,
+      "idade_dias": 568,
       "assunto": "Atualiação Dash"
     },
     {
