@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778790267,
-  "generated_at_iso": "2026-05-14T20:24:27Z",
+  "generated_at": 1778790390,
+  "generated_at_iso": "2026-05-14T20:26:30Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -15,6 +15,48 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000145",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-14T10:30:23",
+      "modificado": "2026-05-14T17:25:48",
+      "idade_dias": 0,
+      "assunto": "Monitoração de base dados Mongo-Atlas"
+    },
+    {
+      "ticket": "2026051426000421",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-14T16:25:13",
+      "modificado": "2026-05-14T17:25:34",
+      "idade_dias": 0,
+      "assunto": "Dashboard MPN"
+    },
+    {
+      "ticket": "2026051426000403",
+      "cli_id": "TELETEX",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-14T16:15:12",
+      "modificado": "2026-05-14T17:25:10",
+      "idade_dias": 0,
+      "assunto": "API - gw da teletex"
+    },
     {
       "ticket": "2026051426000467",
       "cli_id": "FADEL",
@@ -100,20 +142,6 @@
       "assunto": "TROCA DE USUÁRIO"
     },
     {
-      "ticket": "2026051426000403",
-      "cli_id": "TELETEX",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T16:15:12",
-      "modificado": "2026-05-14T17:00:22",
-      "idade_dias": 0,
-      "assunto": "API - gw da teletex"
-    },
-    {
       "ticket": "2026051426000305",
       "cli_id": "ALMEIDA JR",
       "cliente": "ALMEIDA JR",
@@ -182,20 +210,6 @@
       "modificado": "2026-05-14T16:33:27",
       "idade_dias": 6,
       "assunto": "Revisão dos dashboards dos clientes que estão no GWMS2"
-    },
-    {
-      "ticket": "2026051426000421",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T16:25:13",
-      "modificado": "2026-05-14T16:28:49",
-      "idade_dias": 0,
-      "assunto": "Dashboard MPN"
     },
     {
       "ticket": "2026051326000389",
@@ -812,20 +826,6 @@
       "modificado": "2026-05-14T10:44:43",
       "idade_dias": 69,
       "assunto": "Suporte  - Ajuste de Ativos na empresa 40"
-    },
-    {
-      "ticket": "2026051426000145",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-14T10:30:23",
-      "modificado": "2026-05-14T10:42:33",
-      "idade_dias": 0,
-      "assunto": "Monitoração de base dados Mongo-Atlas"
     },
     {
       "ticket": "2026051226000434",
@@ -7278,7 +7278,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-19T17:24:36",
       "modificado": "2026-03-06T05:00:26",
-      "idade_dias": 83,
+      "idade_dias": 84,
       "assunto": "RES: Monitoramento números 0800"
     },
     {
@@ -7852,7 +7852,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-09T17:25:11",
       "modificado": "2026-02-20T05:00:41",
-      "idade_dias": 93,
+      "idade_dias": 94,
       "assunto": "Erro ao subir serviço Arco"
     },
     {
@@ -10148,7 +10148,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-29T17:26:26",
       "modificado": "2026-01-07T05:00:29",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "PARAMETRO MV_RATINSS /MV_ACMINSS"
     },
     {
@@ -10582,7 +10582,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-12-12T17:25:18",
       "modificado": "2025-12-26T05:00:19",
-      "idade_dias": 152,
+      "idade_dias": 153,
       "assunto": "RES: Mapeamento - HD Mídias "
     },
     {
@@ -17064,7 +17064,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-23T17:25:16",
       "modificado": "2025-08-16T05:00:21",
-      "idade_dias": 294,
+      "idade_dias": 295,
       "assunto": "Validações da nova regra da NF-E"
     },
     {
@@ -17988,7 +17988,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-16T17:25:18",
       "modificado": "2025-07-30T05:00:13",
-      "idade_dias": 301,
+      "idade_dias": 302,
       "assunto": "Duplicidade credito depreciação ativo"
     },
     {
@@ -24274,7 +24274,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-28T17:25:11",
       "modificado": "2025-04-12T05:00:05",
-      "idade_dias": 411,
+      "idade_dias": 412,
       "assunto": "INCLUSÃO DE MONITORAMENTO"
     },
     {
@@ -32828,7 +32828,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-09-03T17:25:22",
       "modificado": "2024-09-30T10:00:15",
-      "idade_dias": 617,
+      "idade_dias": 618,
       "assunto": "ERRO SF3 VALOR DE IPIESTA SOMANDO NO ICMS OUTRAS"
     },
     {
