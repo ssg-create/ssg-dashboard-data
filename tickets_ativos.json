@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778788839,
-  "generated_at_iso": "2026-05-14T20:00:39Z",
-  "count": 2393,
+  "generated_at": 1778789437,
+  "generated_at_iso": "2026-05-14T20:10:37Z",
+  "count": 2394,
   "filas": [
     "DATASUL",
     "DBA",
@@ -16,6 +16,62 @@
   ],
   "rows": [
     {
+      "ticket": "2026051426000485",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-14T17:05:18",
+      "modificado": "2026-05-14T17:07:34",
+      "idade_dias": 0,
+      "assunto": "Filtro razão contábil"
+    },
+    {
+      "ticket": "2026051426000476",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T17:00:20",
+      "modificado": "2026-05-14T17:02:43",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051416595378"
+    },
+    {
+      "ticket": "2026051426000467",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T16:51:44",
+      "modificado": "2026-05-14T17:02:07",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051426000458",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T16:50:55",
+      "modificado": "2026-05-14T17:01:26",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
       "ticket": "2026051426000403",
       "cli_id": "TELETEX",
       "cliente": "TELETEX",
@@ -28,20 +84,6 @@
       "modificado": "2026-05-14T17:00:22",
       "idade_dias": 0,
       "assunto": "API - gw da teletex"
-    },
-    {
-      "ticket": "2026051426000476",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T17:00:20",
-      "modificado": "2026-05-14T17:00:22",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051416595378"
     },
     {
       "ticket": "2026051426000305",
@@ -112,34 +154,6 @@
       "modificado": "2026-05-14T16:54:31",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26051416291875"
-    },
-    {
-      "ticket": "2026051426000467",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T16:51:44",
-      "modificado": "2026-05-14T16:51:46",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026051426000458",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T16:50:55",
-      "modificado": "2026-05-14T16:50:58",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026050826000175",
@@ -3428,7 +3442,7 @@
       "atendente": "Vilante Marques Alves",
       "criado": "2025-09-18T17:09:56",
       "modificado": "2026-05-11T05:00:14",
-      "idade_dias": 237,
+      "idade_dias": 238,
       "assunto": "Criação de títulos de impostos gerados pelo configurador de tributos"
     },
     {
@@ -4968,7 +4982,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-11-10T17:00:44",
       "modificado": "2026-04-19T05:00:07",
-      "idade_dias": 184,
+      "idade_dias": 185,
       "assunto": "Integração notas CD antigo para o novo"
     },
     {
@@ -6130,7 +6144,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-03-10T17:05:07",
       "modificado": "2026-03-25T05:00:20",
-      "idade_dias": 64,
+      "idade_dias": 65,
       "assunto": "Falha Monitoramento"
     },
     {
@@ -6382,7 +6396,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-24T17:05:53",
       "modificado": "2026-03-20T05:00:28",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Recebimentos diferindo base de dados e relatório"
     },
     {
@@ -7768,7 +7782,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-11T17:05:59",
       "modificado": "2026-02-20T05:00:46",
-      "idade_dias": 91,
+      "idade_dias": 92,
       "assunto": "Adequar threshold de load servidor PJE1GDBP001"
     },
     {
@@ -8314,7 +8328,7 @@
       "atendente": "Marcos Silva",
       "criado": "2026-01-30T17:07:00",
       "modificado": "2026-02-13T05:00:31",
-      "idade_dias": 103,
+      "idade_dias": 104,
       "assunto": "Cond. NR - CR - PEQUENOSSAURO (249793) | PARQUE DOS DINOSSAUROS (000155130)"
     },
     {
@@ -9714,7 +9728,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-01-02T17:10:07",
       "modificado": "2026-01-17T05:00:16",
-      "idade_dias": 131,
+      "idade_dias": 132,
       "assunto": "ENC: Rotina de Custo - NF com problemas"
     },
     {
@@ -12654,7 +12668,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2025-10-22T17:05:05",
       "modificado": "2025-11-01T05:00:17",
-      "idade_dias": 203,
+      "idade_dias": 204,
       "assunto": "Solicitação de  Permissão"
     },
     {
@@ -13018,7 +13032,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-10-01T17:08:12",
       "modificado": "2025-10-23T05:00:13",
-      "idade_dias": 224,
+      "idade_dias": 225,
       "assunto": "Configuração de Nível de usuários"
     },
     {
@@ -13158,7 +13172,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2025-09-29T17:10:19",
       "modificado": "2025-10-18T05:00:18",
-      "idade_dias": 226,
+      "idade_dias": 227,
       "assunto": "Novo ambiente - Arco"
     },
     {
@@ -13298,7 +13312,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-10-06T17:10:15",
       "modificado": "2025-10-17T05:00:34",
-      "idade_dias": 219,
+      "idade_dias": 220,
       "assunto": "AZ | Acesso ao GWMS da AutoZone (Visão Cliente & GW)"
     },
     {
@@ -13508,7 +13522,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-10-03T17:10:19",
       "modificado": "2025-10-14T05:00:19",
-      "idade_dias": 222,
+      "idade_dias": 223,
       "assunto": "Parametrização REST para uso de API"
     },
     {
@@ -13830,7 +13844,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-26T17:05:07",
       "modificado": "2025-10-07T05:00:19",
-      "idade_dias": 229,
+      "idade_dias": 230,
       "assunto": "AZ - CTB - Classificação em lote - Bens para ajuste de valor"
     },
     {
@@ -14068,7 +14082,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-23T17:02:47",
       "modificado": "2025-10-02T05:00:16",
-      "idade_dias": 232,
+      "idade_dias": 233,
       "assunto": "Bloqueio de fornecedores  inativos"
     },
     {
@@ -14222,7 +14236,7 @@
       "atendente": "Pedro Luiz",
       "criado": "2025-08-19T17:05:09",
       "modificado": "2025-10-01T05:00:25",
-      "idade_dias": 267,
+      "idade_dias": 268,
       "assunto": "RES: Monitoramento Storage e UCS"
     },
     {
@@ -16252,7 +16266,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-08-11T17:08:47",
       "modificado": "2025-08-29T05:00:15",
-      "idade_dias": 275,
+      "idade_dias": 276,
       "assunto": "NK_Melhoria em Inclusão de Movimentação Multipla"
     },
     {
@@ -17162,7 +17176,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-06-02T17:02:28",
       "modificado": "2025-08-15T05:00:24",
-      "idade_dias": 345,
+      "idade_dias": 346,
       "assunto": "AZ - Tela de classificação Não carregando o Centro de custo do P.O. MATA103"
     },
     {
@@ -17316,7 +17330,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-07-07T17:10:21",
       "modificado": "2025-08-12T05:00:15",
-      "idade_dias": 310,
+      "idade_dias": 311,
       "assunto": "RES: [BERNOULLI] - Lista de Ips dos Servidores"
     },
     {
@@ -17750,7 +17764,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-07-21T17:10:20",
       "modificado": "2025-08-05T05:00:28",
-      "idade_dias": 296,
+      "idade_dias": 297,
       "assunto": "RE: Solicitação de apoio para esclarecimento de crescimento de datafile — Base DADOSPRD"
     },
     {
@@ -18366,7 +18380,7 @@
       "atendente": "Jomar Soares",
       "criado": "2025-07-09T17:02:02",
       "modificado": "2025-07-19T05:00:29",
-      "idade_dias": 308,
+      "idade_dias": 309,
       "assunto": "Conciliador"
     },
     {
@@ -19416,7 +19430,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-05-26T17:08:37",
       "modificado": "2025-06-30T05:00:13",
-      "idade_dias": 352,
+      "idade_dias": 353,
       "assunto": "AZ - Baixas Automáticas PIX - Data indevida."
     },
     {
@@ -21320,7 +21334,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-15T17:05:20",
       "modificado": "2025-05-27T05:00:25",
-      "idade_dias": 363,
+      "idade_dias": 364,
       "assunto": "Incluir Monitoramento de Novos Roteadores SP3"
     },
     {
@@ -22692,7 +22706,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-10T17:09:46",
       "modificado": "2025-05-07T05:00:11",
-      "idade_dias": 398,
+      "idade_dias": 399,
       "assunto": "REINF"
     },
     {
@@ -23350,7 +23364,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-04-17T17:10:07",
       "modificado": "2025-04-26T05:00:09",
-      "idade_dias": 391,
+      "idade_dias": 392,
       "assunto": "RES: Eventos para Monitoria WIndows"
     },
     {
@@ -24904,7 +24918,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-03-20T17:10:09",
       "modificado": "2025-03-29T05:00:14",
-      "idade_dias": 419,
+      "idade_dias": 420,
       "assunto": "Publicação Externa - WS AZ  Produção"
     },
     {
@@ -26514,7 +26528,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-09T17:04:41",
       "modificado": "2025-02-24T05:00:15",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "FECP SPED FISCAL"
     },
     {
@@ -28110,7 +28124,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2025-01-07T17:01:24",
       "modificado": "2025-01-16T18:30:14",
-      "idade_dias": 491,
+      "idade_dias": 492,
       "assunto": "TELETEX | Ajuste de alertas CTA-SERVICEVEEAM - 192.168.1.7"
     },
     {
@@ -28754,7 +28768,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-12-27T17:04:42",
       "modificado": "2025-01-03T18:00:03",
-      "idade_dias": 502,
+      "idade_dias": 503,
       "assunto": "Erro transmissão nota fiscal - NFe Sefaz - Módulo Faturamento Filial 0008"
     },
     {
@@ -29622,7 +29636,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2024-10-24T17:10:08",
       "modificado": "2024-12-17T18:00:20",
-      "idade_dias": 566,
+      "idade_dias": 567,
       "assunto": "MELHORIA NA AUTOMAÇÃO DO ROBÔ e RELATÓRIO SEMANAL DAS ANÁLISES"
     },
     {
@@ -29944,7 +29958,7 @@
       "atendente": "Admin OTRS",
       "criado": "2024-12-09T17:05:14",
       "modificado": "2024-12-09T17:29:55",
-      "idade_dias": 520,
+      "idade_dias": 521,
       "assunto": "ZEMA - ZEMA_Alpinopolis - Monitoring License - 24120917035921"
     },
     {
@@ -30182,7 +30196,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-25T17:06:47",
       "modificado": "2024-12-03T09:30:12",
-      "idade_dias": 534,
+      "idade_dias": 535,
       "assunto": "CRIAR ACESSO PROTHEUS"
     },
     {
@@ -30350,7 +30364,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-08T17:06:50",
       "modificado": "2024-11-26T15:30:05",
-      "idade_dias": 551,
+      "idade_dias": 552,
       "assunto": "Alterar CNPJ título 246013 - 303001"
     },
     {
@@ -30644,7 +30658,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-11-12T17:02:47",
       "modificado": "2024-11-19T18:00:09",
-      "idade_dias": 547,
+      "idade_dias": 548,
       "assunto": "Ajuste processo PJ"
     },
     {
@@ -31218,7 +31232,7 @@
       "atendente": "Debora Gomes",
       "criado": "2024-10-25T17:04:25",
       "modificado": "2024-11-05T15:30:14",
-      "idade_dias": 565,
+      "idade_dias": 566,
       "assunto": "Lançamento Manual Usuário Genérico (CUSTOS) Lote 008840 Estoque (MATA330)"
     },
     {
@@ -31246,7 +31260,7 @@
       "atendente": "Adriano Ribeiro",
       "criado": "2024-04-11T17:10:13",
       "modificado": "2024-11-04T15:30:09",
-      "idade_dias": 762,
+      "idade_dias": 763,
       "assunto": "Pagamento PIX > CNAB"
     },
     {
@@ -32240,7 +32254,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2024-08-01T17:05:15",
       "modificado": "2024-10-11T13:30:18",
-      "idade_dias": 650,
+      "idade_dias": 651,
       "assunto": "Monitoramento de Acessos - BYOD"
     },
     {
@@ -33122,7 +33136,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-09-13T17:05:12",
       "modificado": "2024-09-20T18:00:19",
-      "idade_dias": 607,
+      "idade_dias": 608,
       "assunto": "RES: USINA-COLOMBO - Redefinição de Senha"
     },
     {
