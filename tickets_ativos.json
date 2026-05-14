@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778789437,
-  "generated_at_iso": "2026-05-14T20:10:37Z",
+  "generated_at": 1778789748,
+  "generated_at_iso": "2026-05-14T20:15:48Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -25,9 +25,51 @@
       "servico": "Banco de Horas::ERP Protheus",
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-14T17:05:18",
-      "modificado": "2026-05-14T17:07:34",
+      "modificado": "2026-05-14T17:15:28",
       "idade_dias": 0,
       "assunto": "Filtro razão contábil"
+    },
+    {
+      "ticket": "2026050426000404",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Agente GWMS",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-04T18:05:12",
+      "modificado": "2026-05-14T17:12:29",
+      "idade_dias": 9,
+      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
+    },
+    {
+      "ticket": "2026051426000467",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T16:51:44",
+      "modificado": "2026-05-14T17:11:40",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
+    },
+    {
+      "ticket": "2026051426000458",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-14T16:50:55",
+      "modificado": "2026-05-14T17:11:16",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026051426000476",
@@ -42,34 +84,6 @@
       "modificado": "2026-05-14T17:02:43",
       "idade_dias": 0,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26051416595378"
-    },
-    {
-      "ticket": "2026051426000467",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-14T16:51:44",
-      "modificado": "2026-05-14T17:02:07",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
-    },
-    {
-      "ticket": "2026051426000458",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-14T16:50:55",
-      "modificado": "2026-05-14T17:01:26",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO"
     },
     {
       "ticket": "2026051426000403",
@@ -112,20 +126,6 @@
       "modificado": "2026-05-14T16:59:50",
       "idade_dias": 0,
       "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR20-TOTVS-P12-Autozone_ws_rest-22022-rest 8090-RELEASE - 26051416481742"
-    },
-    {
-      "ticket": "2026050426000404",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Agente GWMS",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-04T18:05:12",
-      "modificado": "2026-05-14T16:58:20",
-      "idade_dias": 9,
-      "assunto": "Instalação do Agente GWMS em Windows Server 2008 R2"
     },
     {
       "ticket": "2026051426000387",
@@ -600,7 +600,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-13T17:15:23",
       "modificado": "2026-05-14T12:24:26",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO"
     },
     {
@@ -1160,7 +1160,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-12T17:15:08",
       "modificado": "2026-05-14T09:33:43",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "AZ - Bloqueio no banco HML"
     },
     {
@@ -1986,7 +1986,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-05-12T17:10:40",
       "modificado": "2026-05-13T15:41:18",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Pedidos de compras Filial 405001"
     },
     {
@@ -7166,7 +7166,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-02-24T17:15:11",
       "modificado": "2026-03-10T05:00:24",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Restruturação rede"
     },
     {
@@ -7180,7 +7180,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-02-24T17:14:22",
       "modificado": "2026-03-10T05:00:22",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Servidor de arquivos"
     },
     {
@@ -7320,7 +7320,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2026-02-24T17:11:13",
       "modificado": "2026-03-05T05:00:34",
-      "idade_dias": 78,
+      "idade_dias": 79,
       "assunto": "Troca de senha domain Controler do AD"
     },
     {
@@ -7964,7 +7964,7 @@
       "atendente": "Tiago Silva",
       "criado": "2026-01-12T17:15:25",
       "modificado": "2026-02-20T05:00:27",
-      "idade_dias": 121,
+      "idade_dias": 122,
       "assunto": "Nota 000971397 - Inutilizada no BR(ZO) e ativa no US(ZP) - Fechamento P04  - Correção B9 - filial 003"
     },
     {
@@ -10330,7 +10330,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-23T17:13:26",
       "modificado": "2025-12-31T05:00:22",
-      "idade_dias": 141,
+      "idade_dias": 142,
       "assunto": "LIBERAÇÃO DE ACESSO A PASTAS DO GRUPO FISCAL"
     },
     {
@@ -11030,7 +11030,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-08T17:12:24",
       "modificado": "2025-12-16T05:00:30",
-      "idade_dias": 156,
+      "idade_dias": 157,
       "assunto": "AZ | Anuência de Permissão - Gestão de Contratos"
     },
     {
@@ -12234,7 +12234,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-11-05T17:14:13",
       "modificado": "2025-11-15T05:00:19",
-      "idade_dias": 189,
+      "idade_dias": 190,
       "assunto": "COND COMERCIAL NK - ERRO REINF"
     },
     {
@@ -14124,7 +14124,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-23T17:11:17",
       "modificado": "2025-10-01T05:00:38",
-      "idade_dias": 232,
+      "idade_dias": 233,
       "assunto": "Troca de aprovador"
     },
     {
@@ -16742,7 +16742,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-07-04T17:15:18",
       "modificado": "2025-08-23T05:00:13",
-      "idade_dias": 313,
+      "idade_dias": 314,
       "assunto": "Devolução de compra -  Valor ICMS ST no Livro"
     },
     {
@@ -17610,7 +17610,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-06T17:13:52",
       "modificado": "2025-08-06T17:13:54",
-      "idade_dias": 280,
+      "idade_dias": 281,
       "assunto": "TESTE ADRIANO - GMAIL"
     },
     {
@@ -18898,7 +18898,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-07-01T17:11:47",
       "modificado": "2025-07-09T05:00:23",
-      "idade_dias": 316,
+      "idade_dias": 317,
       "assunto": "Exclusão de lançamento incorreto"
     },
     {
@@ -20830,7 +20830,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-05-23T17:15:14",
       "modificado": "2025-06-03T05:00:30",
-      "idade_dias": 355,
+      "idade_dias": 356,
       "assunto": "Monitoração Links L2L"
     },
     {
@@ -22328,7 +22328,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2025-04-29T17:15:10",
       "modificado": "2025-05-13T05:00:22",
-      "idade_dias": 379,
+      "idade_dias": 380,
       "assunto": "TOTVS Network - Add Swith e Ajustes - Seneca"
     },
     {
@@ -23070,7 +23070,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-01T17:15:22",
       "modificado": "2025-05-02T05:00:19",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Monitoramento de health de disco/filesystem em todos os servidores Linux"
     },
     {
@@ -23994,7 +23994,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-01T17:15:19",
       "modificado": "2025-04-19T05:00:20",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Monitoramento serviços de filesystem, logs, health de disco/filesystem servidor SRV32-012 (172.21.48.87)"
     },
     {
@@ -24078,7 +24078,7 @@
       "atendente": "Debora Gomes",
       "criado": "2025-04-07T17:14:56",
       "modificado": "2025-04-17T05:00:18",
-      "idade_dias": 401,
+      "idade_dias": 402,
       "assunto": "Implementação Rotina PCLD"
     },
     {
@@ -24134,7 +24134,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-04-01T17:15:21",
       "modificado": "2025-04-15T05:00:15",
-      "idade_dias": 407,
+      "idade_dias": 408,
       "assunto": "Monitoramento de health de disco/filesystem em todos os servidores Windows"
     },
     {
@@ -24974,7 +24974,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-03-19T17:12:07",
       "modificado": "2025-03-28T05:00:09",
-      "idade_dias": 420,
+      "idade_dias": 421,
       "assunto": "Permissão para utilização do Centro de custo."
     },
     {
@@ -27242,7 +27242,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-09T17:13:13",
       "modificado": "2025-02-11T05:00:10",
-      "idade_dias": 489,
+      "idade_dias": 490,
       "assunto": "AZ - Corrigir AZFIN02 - Nova baixa de boletos [PRIORIDADE]"
     },
     {
@@ -30420,7 +30420,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2024-11-06T17:15:20",
       "modificado": "2024-11-25T09:00:16",
-      "idade_dias": 553,
+      "idade_dias": 554,
       "assunto": "Realizar ajuste"
     },
     {
@@ -33402,7 +33402,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2024-09-06T17:13:17",
       "modificado": "2024-09-13T19:00:02",
-      "idade_dias": 614,
+      "idade_dias": 615,
       "assunto": "FORNECER SEM CNPJ PREENCHIDO"
     },
     {
