@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778774434,
-  "generated_at_iso": "2026-05-14T16:00:34Z",
+  "generated_at": 1778775030,
+  "generated_at_iso": "2026-05-14T16:10:30Z",
   "count": 2380,
   "filas": [
     "DATASUL",
@@ -15,6 +15,34 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026040126000091",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "PROTHEUS",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Tiago Silva",
+      "criado": "2026-04-01T09:14:12",
+      "modificado": "2026-05-14T13:08:07",
+      "idade_dias": 43,
+      "assunto": "inconsistencia no Rateio"
+    },
+    {
+      "ticket": "2026051426000225",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-14T12:20:19",
+      "modificado": "2026-05-14T13:03:19",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051412160855"
+    },
     {
       "ticket": "2026051326000389",
       "cli_id": "TJBA (TELETEX)",
@@ -44,20 +72,6 @@
       "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO"
     },
     {
-      "ticket": "2026051426000225",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-14T12:20:19",
-      "modificado": "2026-05-14T12:20:21",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - Alertas CRITICAL - 26051412160855"
-    },
-    {
       "ticket": "2026051426000191",
       "cli_id": "AUTOZONE",
       "cliente": "AUTOZONE",
@@ -84,20 +98,6 @@
       "modificado": "2026-05-14T12:14:09",
       "idade_dias": 1,
       "assunto": "RES: RES: RES: RES: RES: RES: RES: Chamado 135947 - EFD Reinf - Informações DLs"
-    },
-    {
-      "ticket": "2026040126000091",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "PROTHEUS",
-      "estado": "CLASSIFICADO",
-      "prioridade": "5 very high",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Tiago Silva",
-      "criado": "2026-04-01T09:14:12",
-      "modificado": "2026-05-14T12:12:06",
-      "idade_dias": 43,
-      "assunto": "inconsistencia no Rateio"
     },
     {
       "ticket": "2026051326000165",
@@ -4338,7 +4338,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2025-12-18T13:02:21",
       "modificado": "2026-04-24T10:53:35",
-      "idade_dias": 146,
+      "idade_dias": 147,
       "assunto": "Cadastro de Cliente - Não está salvando o arquivo no servidor do ERP"
     },
     {
@@ -11002,7 +11002,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-12-01T13:10:10",
       "modificado": "2025-12-11T05:00:23",
-      "idade_dias": 163,
+      "idade_dias": 164,
       "assunto": "Inclusão no monitoramento - CD RBP"
     },
     {
@@ -11590,7 +11590,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-11-18T13:01:31",
       "modificado": "2025-11-29T05:00:19",
-      "idade_dias": 176,
+      "idade_dias": 177,
       "assunto": "Sugestão de melhoria BOLETOS"
     },
     {
@@ -15468,7 +15468,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2025-08-25T13:10:25",
       "modificado": "2025-09-11T09:27:08",
-      "idade_dias": 261,
+      "idade_dias": 262,
       "assunto": "[EXT] RE: [EXT] RES: [EXT] RES: [EXT] RES: [EXT] Re: [EXT] Re: [EXT] Re: RES: [EXT] RES: [EXT] RE: [ [...]"
     },
     {
@@ -15888,7 +15888,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2025-08-26T13:05:19",
       "modificado": "2025-09-04T05:00:25",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "windows propriedades recuperar versoes anteriores"
     },
     {
@@ -15916,7 +15916,7 @@
       "atendente": "Enzo Fucitalo",
       "criado": "2025-08-26T13:05:20",
       "modificado": "2025-09-03T05:00:30",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "Retirar arquivos de cópia para DR"
     },
     {
@@ -19836,7 +19836,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-05-26T13:10:20",
       "modificado": "2025-06-20T05:00:25",
-      "idade_dias": 352,
+      "idade_dias": 353,
       "assunto": "FW: Consolidado do dia: 14/05/2025 - Cliente aprovados e reprovados"
     },
     {
@@ -22216,7 +22216,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2025-04-23T13:05:11",
       "modificado": "2025-05-12T05:00:19",
-      "idade_dias": 385,
+      "idade_dias": 386,
       "assunto": "Re: Prazo Automatização Rotinas de Custos"
     },
     {
@@ -25212,7 +25212,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-03-12T13:10:17",
       "modificado": "2025-03-20T05:00:21",
-      "idade_dias": 427,
+      "idade_dias": 428,
       "assunto": "Select em 13.02"
     },
     {
@@ -27970,7 +27970,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-01-08T13:07:08",
       "modificado": "2025-01-16T15:30:17",
-      "idade_dias": 490,
+      "idade_dias": 491,
       "assunto": "Notas canceladas como autorizadas no TOTVS"
     },
     {
@@ -28012,7 +28012,7 @@
       "atendente": "Ricardo Pinheiro",
       "criado": "2025-01-06T13:09:14",
       "modificado": "2025-01-16T09:30:19",
-      "idade_dias": 492,
+      "idade_dias": 493,
       "assunto": "AZ - TAXID - Verificar arquivo na pasta"
     },
     {
@@ -28362,7 +28362,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-01-02T13:05:18",
       "modificado": "2025-01-09T14:30:12",
-      "idade_dias": 496,
+      "idade_dias": 497,
       "assunto": "Travamento rotina AZO"
     },
     {
@@ -31414,7 +31414,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2024-10-17T13:04:12",
       "modificado": "2024-10-24T16:00:16",
-      "idade_dias": 573,
+      "idade_dias": 574,
       "assunto": "Erro integração TAX ID"
     },
     {
@@ -32688,7 +32688,7 @@
       "atendente": "Gilberto Sousa",
       "criado": "2024-02-16T13:10:19",
       "modificado": "2024-09-27T16:00:05",
-      "idade_dias": 817,
+      "idade_dias": 818,
       "assunto": "Desativar a área de trabalho remota das máquinas "
     },
     {
