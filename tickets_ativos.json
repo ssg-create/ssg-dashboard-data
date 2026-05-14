@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778772027,
-  "generated_at_iso": "2026-05-14T15:20:27Z",
+  "generated_at": 1778772631,
+  "generated_at_iso": "2026-05-14T15:30:31Z",
   "count": 2380,
   "filas": [
     "DATASUL",
@@ -15,6 +15,20 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000432",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-13T17:15:23",
+      "modificado": "2026-05-14T12:24:26",
+      "idade_dias": 0,
+      "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO"
+    },
     {
       "ticket": "2026051426000225",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -1486,20 +1500,6 @@
       "assunto": "VDI SEM CONEXÃO"
     },
     {
-      "ticket": "2026051326000432",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-13T17:15:23",
-      "modificado": "2026-05-13T17:45:10",
-      "idade_dias": 0,
-      "assunto": "EMPRESA FARM (FINPEC) - ERRO DE FATURAMENTO"
-    },
-    {
       "ticket": "2026051126000151",
       "cli_id": "FADEL",
       "cliente": "FADEL",
@@ -1790,7 +1790,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-05-13T12:30:23",
       "modificado": "2026-05-13T14:17:31",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "CASTROLANDA | A central está sem receber informações do servidor de monitoramento do ambiente"
     },
     {
@@ -1818,7 +1818,7 @@
       "atendente": "Vinicius Vedove",
       "criado": "2026-05-13T12:30:10",
       "modificado": "2026-05-13T14:12:02",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "TROCA DE USUÁRIO"
     },
     {
@@ -5108,7 +5108,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-08T12:24:13",
       "modificado": "2026-04-13T14:16:32",
-      "idade_dias": 35,
+      "idade_dias": 36,
       "assunto": "Verificar agendamentos de atualização dos gráficos"
     },
     {
@@ -5934,7 +5934,7 @@
       "atendente": "Joao Santos",
       "criado": "2026-03-11T12:30:14",
       "modificado": "2026-03-25T05:00:21",
-      "idade_dias": 63,
+      "idade_dias": 64,
       "assunto": "Ticket para GWMS - Verificar report com bloqueio no banco de dados AUTOZONE"
     },
     {
@@ -7250,7 +7250,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-02-23T12:25:21",
       "modificado": "2026-03-04T05:00:19",
-      "idade_dias": 79,
+      "idade_dias": 80,
       "assunto": "RES: ARCO - Alertas UNKNOWN - 26021917235820"
     },
     {
@@ -8720,7 +8720,7 @@
       "atendente": "Weskley Silva",
       "criado": "2025-11-14T12:30:15",
       "modificado": "2026-02-02T05:00:12",
-      "idade_dias": 180,
+      "idade_dias": 181,
       "assunto": "BBP - Falha no Serviço Autozone - Retorno Protheus"
     },
     {
@@ -10400,7 +10400,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-12-17T12:20:54",
       "modificado": "2025-12-25T05:00:24",
-      "idade_dias": 147,
+      "idade_dias": 148,
       "assunto": "Falha ao acessar"
     },
     {
@@ -12640,7 +12640,7 @@
       "atendente": "Fabiano Souza",
       "criado": "2025-10-20T12:30:09",
       "modificado": "2025-10-29T05:00:27",
-      "idade_dias": 205,
+      "idade_dias": 206,
       "assunto": "Liberação de endereço "
     },
     {
@@ -13452,7 +13452,7 @@
       "atendente": "Diogo Cunha",
       "criado": "2025-10-01T12:20:36",
       "modificado": "2025-10-10T05:00:20",
-      "idade_dias": 224,
+      "idade_dias": 225,
       "assunto": "AJUSTE PARAMETRO"
     },
     {
@@ -14642,7 +14642,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2025-09-05T12:30:06",
       "modificado": "2025-09-22T05:00:19",
-      "idade_dias": 250,
+      "idade_dias": 251,
       "assunto": "RES: Relatório consolidado diário Análise de Crédito"
     },
     {
@@ -15930,7 +15930,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-08-25T12:23:35",
       "modificado": "2025-09-03T05:00:28",
-      "idade_dias": 261,
+      "idade_dias": 262,
       "assunto": "Testes Requisição ao Armazém"
     },
     {
@@ -22328,7 +22328,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-04-30T12:20:50",
       "modificado": "2025-05-10T05:00:18",
-      "idade_dias": 378,
+      "idade_dias": 379,
       "assunto": "Integração Partnumber"
     },
     {
@@ -23910,7 +23910,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-23T12:27:32",
       "modificado": "2025-04-16T05:00:17",
-      "idade_dias": 475,
+      "idade_dias": 476,
       "assunto": "AZ - GIFT não contabilizando."
     },
     {
@@ -24414,7 +24414,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-26T12:25:09",
       "modificado": "2025-04-08T05:00:10",
-      "idade_dias": 413,
+      "idade_dias": 414,
       "assunto": "GDBR - DESATUALIZADO - 25032612241752"
     },
     {
@@ -24792,7 +24792,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-03-18T12:25:23",
       "modificado": "2025-03-27T05:00:11",
-      "idade_dias": 421,
+      "idade_dias": 422,
       "assunto": "Adição de Servidores - Monitoramento"
     },
     {
@@ -24862,7 +24862,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-02-20T12:30:17",
       "modificado": "2025-03-27T05:00:08",
-      "idade_dias": 447,
+      "idade_dias": 448,
       "assunto": "BBP - Expenses parados na fila para integração do Protheus com o módulo Financeiro."
     },
     {
@@ -25394,7 +25394,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-23T12:25:11",
       "modificado": "2025-03-18T05:00:11",
-      "idade_dias": 475,
+      "idade_dias": 476,
       "assunto": "AZ - Processo AZO parado devido a falta de atualização na base de clientes"
     },
     {
@@ -29146,7 +29146,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2024-12-16T12:30:15",
       "modificado": "2024-12-23T18:30:01",
-      "idade_dias": 513,
+      "idade_dias": 514,
       "assunto": "Select - Conta 10236"
     },
     {
@@ -31442,7 +31442,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-09-17T12:25:17",
       "modificado": "2024-10-24T14:30:11",
-      "idade_dias": 603,
+      "idade_dias": 604,
       "assunto": "Analise da Receita WeeK 1 e 2 PD01 FY2025"
     },
     {
@@ -32814,7 +32814,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-08-28T12:25:17",
       "modificado": "2024-09-25T09:30:03",
-      "idade_dias": 623,
+      "idade_dias": 624,
       "assunto": "RES: Experidos - GIF - MERCH"
     },
     {
