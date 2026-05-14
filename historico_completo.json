@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778777436,
-  "generated_at_iso": "2026-05-14T16:50:36Z",
-  "count": 5211,
+  "generated_at": 1778778047,
+  "generated_at_iso": "2026-05-14T17:00:47Z",
+  "count": 5212,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,26 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "num": "2026051426000243",
+      "assunto": "Verificação espaço pasta Backup",
+      "criado": "2026-05-14T13:59:08",
+      "modificado": "2026-05-14T13:59:10",
+      "fila": "NOC",
+      "estado": "new",
+      "prioridade": "4 high",
+      "atendente": "Admin OTRS",
+      "primeiro_nome": "Admin",
+      "ultimo_nome": "OTRS",
+      "cli_id": "LPA",
+      "cli_user": "ti@laticiniosportoalegre.com.br",
+      "servico": "Banco de Horas::Banco de Dados",
+      "fechado": null,
+      "resp_min_raw": null,
+      "sol_min_raw": null,
+      "sol_min_bh": null,
+      "resp_min_bh": null
+    },
     {
       "num": "2026051426000234",
       "assunto": "Verificação de permissões",
@@ -799,9 +819,9 @@
       "num": "2026051326000192",
       "assunto": "RES: ARCO - AP05_-_2_ANDAR_-_ESTUDIOS - HOST DOWN - 26051309110882",
       "criado": "2026-05-13T10:20:07",
-      "modificado": "2026-05-13T14:32:45",
+      "modificado": "2026-05-14T13:52:55",
       "fila": "GWMS",
-      "estado": "open",
+      "estado": "Em atendimento",
       "prioridade": "1 very low",
       "atendente": "Bruno Fagundes",
       "primeiro_nome": "Bruno",
@@ -810,10 +830,10 @@
       "cli_user": "gabriel.bruno@groundwork.com.br",
       "servico": "Monitoramento & Observabilidade (GWMS)",
       "fechado": null,
-      "resp_min_raw": null,
+      "resp_min_raw": 1652,
       "sol_min_raw": null,
       "sol_min_bh": null,
-      "resp_min_bh": null
+      "resp_min_bh": 691
     },
     {
       "num": "2026051326000183",
