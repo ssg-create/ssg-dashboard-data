@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778884702,
-  "generated_at_iso": "2026-05-15T22:38:22Z",
-  "count": 2408,
+  "generated_at": 1778884822,
+  "generated_at_iso": "2026-05-15T22:40:22Z",
+  "count": 2409,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000518",
+      "cli_id": "ARCO EDUCAÇÃO",
+      "cliente": "ARCO EDUCAÇÃO",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T19:40:20",
+      "modificado": "2026-05-15T19:40:21",
+      "idade_dias": 0,
+      "assunto": "Inclusão no monitoramento",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051526000492",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -27166,7 +27189,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-08-27T19:40:18",
       "modificado": "2025-08-27T20:03:40",
-      "idade_dias": 260,
+      "idade_dias": 261,
       "assunto": "GDBR - GWMS-Server - Load - 25082719401219",
       "escalation_time": 0,
       "escalation_response_time": 0,
