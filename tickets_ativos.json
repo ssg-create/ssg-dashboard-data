@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778863225,
-  "generated_at_iso": "2026-05-15T16:40:25Z",
-  "count": 2395,
+  "generated_at": 1778863344,
+  "generated_at_iso": "2026-05-15T16:42:24Z",
+  "count": 2396,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000241",
+      "cli_id": "AUMOVIO",
+      "cliente": "AUMOVIO",
+      "fila": "DATASUL",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Fiscal",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T13:40:30",
+      "modificado": "2026-05-15T13:40:31",
+      "idade_dias": 0,
+      "assunto": "Nota Técnica nº 2026.004 v.1.00  - CNPJs alfanuméricos",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051426000305",
       "cli_id": "ALMEIDA JR",
@@ -38367,7 +38390,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2025-04-15T13:42:11",
       "modificado": "2025-04-28T05:00:09",
-      "idade_dias": 394,
+      "idade_dias": 395,
       "assunto": "AZ - Verificar diferença no fechamento da conta de custo.",
       "escalation_time": 0,
       "escalation_response_time": 0,
