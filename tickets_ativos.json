@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778832034,
-  "generated_at_iso": "2026-05-15T08:00:34Z",
+  "generated_at": 1778832261,
+  "generated_at_iso": "2026-05-15T08:04:21Z",
   "count": 2394,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000036",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "GWMS",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T05:00:16",
+      "modificado": "2026-05-15T05:02:58",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051504585371",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026050726000515",
       "cli_id": "GDBR",
@@ -37,29 +60,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000036",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-15T05:00:16",
-      "modificado": "2026-05-15T05:00:19",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051504585371",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026050626000188",
