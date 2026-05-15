@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778862520,
-  "generated_at_iso": "2026-05-15T16:28:40Z",
+  "generated_at": 1778862645,
+  "generated_at_iso": "2026-05-15T16:30:45Z",
   "counts": {
     "crit": 1,
-    "warn": 4,
+    "warn": 5,
     "ok": 0
   },
   "insights": [
@@ -73,6 +73,25 @@
       "evidence": [
         {
           "atendente": "Luciano Katsumi Shiraishi",
+          "carga_real": 5,
+          "em_atendimento": 4,
+          "abertos": 1,
+          "aguardando_terceiros": 2,
+          "ativos_total": 7
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Marcelo_David",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Marcelo David com carga real de 5 tickets",
+      "summary": "Marcelo David tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Marcelo David",
           "carga_real": 5,
           "em_atendimento": 4,
           "abertos": 1,
