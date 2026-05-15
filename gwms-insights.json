@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778852312,
-  "generated_at_iso": "2026-05-15T13:38:32Z",
+  "generated_at": 1778852431,
+  "generated_at_iso": "2026-05-15T13:40:31Z",
   "counts": {
     "crit": 1,
     "warn": 4,
@@ -68,15 +68,15 @@
       "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Luciano Katsumi Shiraishi com carga real de 6 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Luciano Katsumi Shiraishi",
-          "carga_real": 6,
-          "em_atendimento": 5,
+          "carga_real": 5,
+          "em_atendimento": 4,
           "abertos": 1,
-          "aguardando_terceiros": 1,
+          "aguardando_terceiros": 2,
           "ativos_total": 7
         }
       ],
