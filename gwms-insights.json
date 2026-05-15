@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778863115,
-  "generated_at_iso": "2026-05-15T16:38:35Z",
+  "generated_at": 1778863235,
+  "generated_at_iso": "2026-05-15T16:40:35Z",
   "counts": {
     "crit": 1,
     "warn": 5,
@@ -65,14 +65,14 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
+      "id": "sobrecarga_Marcelo_David",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcelo David com carga real de 5 tickets",
+      "summary": "Marcelo David tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Luciano Katsumi Shiraishi",
+          "atendente": "Marcelo David",
           "carga_real": 5,
           "em_atendimento": 4,
           "abertos": 1,
@@ -84,14 +84,14 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Marcelo_David",
+      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Marcelo David com carga real de 5 tickets",
-      "summary": "Marcelo David tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Marcelo David",
+          "atendente": "Luciano Katsumi Shiraishi",
           "carga_real": 5,
           "em_atendimento": 4,
           "abertos": 1,
