@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778852543,
-  "generated_at_iso": "2026-05-15T13:42:23Z",
+  "generated_at": 1778852658,
+  "generated_at_iso": "2026-05-15T13:44:18Z",
   "count": 2391,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000125",
+      "cli_id": "DKT",
+      "cliente": "DKT",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-15T10:40:23",
+      "modificado": "2026-05-15T10:43:10",
+      "idade_dias": 0,
+      "assunto": "Correções GWMS -> DKT",
+      "escalation_time": 1779108023,
+      "escalation_response_time": 1779108023,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051526000116",
       "cli_id": "TOTVS",
@@ -37,29 +60,6 @@
       "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000125",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-15T10:40:23",
-      "modificado": "2026-05-15T10:40:27",
-      "idade_dias": 0,
-      "assunto": "Correções GWMS -> DKT",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026051526000134",
@@ -13320,7 +13320,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-02-05T10:43:41",
       "modificado": "2026-02-17T05:00:31",
-      "idade_dias": 98,
+      "idade_dias": 99,
       "assunto": "TEMPO DE INATIVIDADE",
       "escalation_time": 0,
       "escalation_response_time": 0,
