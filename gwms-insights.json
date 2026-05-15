@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778874146,
-  "generated_at_iso": "2026-05-15T19:42:26Z",
+  "generated_at": 1778874266,
+  "generated_at_iso": "2026-05-15T19:44:26Z",
   "counts": {
     "crit": 1,
     "warn": 4,
@@ -49,15 +49,15 @@
       "id": "sobrecarga_Marcelo_David",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Marcelo David com carga real de 6 tickets",
-      "summary": "Marcelo David tem 6 tickets ativos sob sua responsabilidade: 4 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcelo David com carga real de 5 tickets",
+      "summary": "Marcelo David tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcelo David",
-          "carga_real": 6,
+          "carga_real": 5,
           "em_atendimento": 4,
-          "abertos": 2,
-          "aguardando_terceiros": 2,
+          "abertos": 1,
+          "aguardando_terceiros": 3,
           "ativos_total": 8
         }
       ],
