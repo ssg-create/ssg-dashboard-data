@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778862139,
-  "generated_at_iso": "2026-05-15T16:22:19Z",
-  "count": 2394,
+  "generated_at": 1778862264,
+  "generated_at_iso": "2026-05-15T16:24:24Z",
+  "count": 2395,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000232",
+      "cli_id": "PLASTIGLAS",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "NEW",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Sistema - Performance Rotinas",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T13:23:11",
+      "modificado": "2026-05-15T13:23:11",
+      "idade_dias": 0,
+      "assunto": "Error al rodar programa FT4060",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051526000116",
       "cli_id": "TOTVS",
@@ -13274,7 +13297,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-12-30T13:23:21",
       "modificado": "2026-02-18T05:00:16",
-      "idade_dias": 135,
+      "idade_dias": 136,
       "assunto": "AZ | Analise Conjunta da Procedure de Espelhamento NF Entrada - Ajustada",
       "escalation_time": 0,
       "escalation_response_time": 0,
