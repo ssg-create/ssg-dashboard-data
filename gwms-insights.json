@@ -1,6 +1,6 @@
 {
-  "generated_at": 1778854715,
-  "generated_at_iso": "2026-05-15T14:18:35Z",
+  "generated_at": 1778854837,
+  "generated_at_iso": "2026-05-15T14:20:37Z",
   "counts": {
     "crit": 1,
     "warn": 5,
@@ -65,25 +65,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Luciano Katsumi Shiraishi",
-          "carga_real": 5,
-          "em_atendimento": 4,
-          "abertos": 1,
-          "aguardando_terceiros": 2,
-          "ativos_total": 7
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Eduardo_Candido",
       "severity": "warn",
       "category": "capacidade",
@@ -96,6 +77,25 @@
           "em_atendimento": 2,
           "abertos": 3,
           "aguardando_terceiros": 1,
+          "ativos_total": 7
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Luciano Katsumi Shiraishi",
+          "carga_real": 5,
+          "em_atendimento": 4,
+          "abertos": 1,
+          "aguardando_terceiros": 2,
           "ativos_total": 7
         }
       ],
