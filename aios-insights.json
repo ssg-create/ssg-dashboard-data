@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T07:58:30.197562",
+  "generated_at": "2026-05-15T08:00:43.700326",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>115 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 101.6h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
+    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>106 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 101.6h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
     "kpis": [
       {
         "label": "Score Operacional",
@@ -31,7 +31,7 @@
       }
     ],
     "risco_principal": {
-      "label": "41 chamados +30 dias",
+      "label": "40 chamados +30 dias",
       "desc": "Chamados críticos sem resolução"
     },
     "oportunidade": {
@@ -52,12 +52,12 @@
     },
     {
       "titulo": "Volume crítico de chamados bloqueados",
-      "desc": "115 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
+      "desc": "106 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
       "nivel": "high",
       "confianca": 92
     },
     {
-      "titulo": "41 chamados abertos há mais de 30 dias",
+      "titulo": "40 chamados abertos há mais de 30 dias",
       "desc": "Chamados com aging superior a 30 dias representam risco de escalonamento pelo cliente e impacto direto no health score da conta.",
       "nivel": "high",
       "confianca": 95
@@ -72,7 +72,7 @@
   "riscos_clientes": [
     {
       "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 1283 chamados (25% do total). <strong>9 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 4 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 1283 chamados (25% do total). <strong>8 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 3 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
@@ -81,13 +81,13 @@
           "confianca": 78
         },
         {
-          "titulo": "9 chamado(s) com aging crítico (+30 dias)",
+          "titulo": "8 chamado(s) com aging crítico (+30 dias)",
           "desc": "Chamados acumulados sem resolução representam risco direto de insatisfação e possível escalonamento para a gestão do cliente.",
           "nivel": "high",
           "confianca": 93
         },
         {
-          "titulo": "4 chamados próximos do limite de aging",
+          "titulo": "3 chamados próximos do limite de aging",
           "desc": "Chamados entre 15–30 dias que podem virar críticos. Priorização nos próximos 2 dias evita escalonamento.",
           "nivel": "medium",
           "confianca": 80
@@ -200,7 +200,7 @@
   "cs_insights": [
     {
       "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>9 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.",
+      "narrativa": "Conta com <strong>8 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.",
       "proximo_contato": "em até 2 dias úteis",
       "tom_sugerido": "proativo · urgente",
       "prioridade": "alta"
