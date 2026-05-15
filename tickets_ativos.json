@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778883499,
-  "generated_at_iso": "2026-05-15T22:18:19Z",
-  "count": 2405,
+  "generated_at": 1778883623,
+  "generated_at_iso": "2026-05-15T22:20:23Z",
+  "count": 2406,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000483",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T19:20:17",
+      "modificado": "2026-05-15T19:20:19",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - JV_JV-MON-CL01 - UX:tdn.totvs.com - 26051519182620",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051526000116",
       "cli_id": "TOTVS",
@@ -17851,7 +17874,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2025-12-12T19:20:13",
       "modificado": "2025-12-23T05:00:24",
-      "idade_dias": 153,
+      "idade_dias": 154,
       "assunto": "AZ - Configuração TSS HML com protocolo HTTPS - Time DBA",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -40322,7 +40345,7 @@
       "atendente": "Joao Santos",
       "criado": "2025-04-01T19:20:15",
       "modificado": "2025-04-10T05:00:16",
-      "idade_dias": 408,
+      "idade_dias": 409,
       "assunto": "INCLUSÃO DE MONITORAMENTO",
       "escalation_time": 0,
       "escalation_response_time": 0,
