@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778839102,
-  "generated_at_iso": "2026-05-15T09:58:22Z",
-  "count": 2394,
+  "generated_at": 1778839226,
+  "generated_at_iso": "2026-05-15T10:00:26Z",
+  "count": 2395,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000045",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-15T07:00:12",
+      "modificado": "2026-05-15T07:00:14",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051506560385",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051526000036",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -35653,7 +35676,7 @@
       "atendente": "Luciano Katsumi Shiraishi",
       "criado": "2025-05-12T07:00:12",
       "modificado": "2025-05-21T05:00:36",
-      "idade_dias": 367,
+      "idade_dias": 368,
       "assunto": "[Nobreak] GDBR :: Atualização de nobreak",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -50373,7 +50396,7 @@
       "atendente": "Joao Santos",
       "criado": "2024-11-12T07:00:17",
       "modificado": "2024-11-19T13:30:18",
-      "idade_dias": 548,
+      "idade_dias": 549,
       "assunto": "Monitoramento em cinza Plataformas Digitais > TDN",
       "escalation_time": 0,
       "escalation_response_time": 0,
