@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779042383,
-  "generated_at_iso": "2026-05-17T18:26:23Z",
+  "generated_at": 1779042510,
+  "generated_at_iso": "2026-05-17T18:28:30Z",
   "counts": {
     "crit": 2,
     "warn": 3,
@@ -88,16 +88,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila DBA concentrada em AUTOZONE",
-      "summary": "10 de 12 tickets silenciosos na fila DBA (83%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "11 de 13 tickets silenciosos na fila DBA (84%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "DBA",
           "cliente_top": "AUTOZONE",
-          "n_top": 10,
-          "n_total": 12,
-          "pct_top": 0.83,
+          "n_top": 11,
+          "n_total": 13,
+          "pct_top": 0.85,
           "distribuicao": {
-            "AUTOZONE": 10,
+            "AUTOZONE": 11,
             "BUNTECH": 1,
             "CONTINENTAL": 1
           }
