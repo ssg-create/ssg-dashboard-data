@@ -1,7 +1,7 @@
 {
-  "generated_at": 1778983460,
-  "generated_at_iso": "2026-05-17T02:04:20Z",
-  "count": 2433,
+  "generated_at": 1778983578,
+  "generated_at_iso": "2026-05-17T02:06:18Z",
+  "count": 2434,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051626000267",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-16T23:05:11",
+      "modificado": "2026-05-16T23:05:14",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_AWS_ELK - Cluster Health - 26051623035497",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051626000221",
       "cli_id": "alicia.freitas@teletex.com",
@@ -53317,7 +53340,7 @@
       "atendente": "Francisco Silva",
       "criado": "2024-10-08T23:05:11",
       "modificado": "2024-10-21T10:30:13",
-      "idade_dias": 584,
+      "idade_dias": 585,
       "assunto": "Re: AZ Monthly Inventory Report - Set 2024 - Period P01FY25",
       "escalation_time": 0,
       "escalation_response_time": 0,
