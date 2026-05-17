@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779004825,
-  "generated_at_iso": "2026-05-17T08:00:25Z",
+  "generated_at": 1779004936,
+  "generated_at_iso": "2026-05-17T08:02:16Z",
   "count": 2442,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051726000051",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-17T05:00:18",
+      "modificado": "2026-05-17T05:00:24",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051704563477",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051126000445",
       "cli_id": "TOTVS",
@@ -796,29 +819,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051726000051",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-17T05:00:18",
-      "modificado": "2026-05-17T05:00:20",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 26051704563477",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026051426000243",
@@ -23095,7 +23095,7 @@
       "atendente": "Admin OTRS",
       "criado": "2025-10-16T05:00:25",
       "modificado": "2025-10-16T05:11:00",
-      "idade_dias": 212,
+      "idade_dias": 213,
       "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - POST incompleto - 25101605000360",
       "escalation_time": 0,
       "escalation_response_time": 0,
