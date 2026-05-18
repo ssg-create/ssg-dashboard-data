@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779110438,
-  "generated_at_iso": "2026-05-18T13:20:38Z",
+  "generated_at": 1779110560,
+  "generated_at_iso": "2026-05-18T13:22:40Z",
   "counts": {
     "crit": 1,
-    "warn": 7,
+    "warn": 6,
     "ok": 0
   },
   "insights": [
@@ -84,25 +84,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Marcelo_David",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Marcelo David com carga real de 6 tickets",
-      "summary": "Marcelo David tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcelo David",
-          "carga_real": 6,
-          "em_atendimento": 5,
-          "abertos": 1,
-          "aguardando_terceiros": 2,
-          "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
@@ -122,19 +103,19 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Joao_Santos",
+      "id": "sobrecarga_Marcelo_David",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Joao Santos com carga real de 5 tickets",
-      "summary": "Joao Santos tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcelo David com carga real de 6 tickets",
+      "summary": "Marcelo David tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Joao Santos",
-          "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
-          "aguardando_terceiros": 1,
-          "ativos_total": 6
+          "atendente": "Marcelo David",
+          "carga_real": 6,
+          "em_atendimento": 5,
+          "abertos": 1,
+          "aguardando_terceiros": 2,
+          "ativos_total": 8
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
