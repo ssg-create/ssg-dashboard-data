@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779071299,
-  "generated_at_iso": "2026-05-18T02:28:19Z",
-  "count": 2450,
+  "generated_at": 1779071427,
+  "generated_at_iso": "2026-05-18T02:30:27Z",
+  "count": 2451,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051726000158",
+      "cli_id": "cloud-admin@ess.cloud.elastic.co",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-17T23:30:18",
+      "modificado": "2026-05-17T23:30:20",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] Your storage space is running low",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051726000149",
       "cli_id": "monitoramento@groundwork.com.br",
