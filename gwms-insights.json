@@ -1,31 +1,12 @@
 {
-  "generated_at": 1779134065,
-  "generated_at_iso": "2026-05-18T19:54:25Z",
+  "generated_at": 1779134187,
+  "generated_at_iso": "2026-05-18T19:56:27Z",
   "counts": {
     "crit": 3,
     "warn": 2,
     "ok": 0
   },
   "insights": [
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 10 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 10 tickets ativos sob sua responsabilidade: 8 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
-          "carga_real": 10,
-          "em_atendimento": 8,
-          "abertos": 2,
-          "aguardando_terceiros": 2,
-          "ativos_total": 12
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
@@ -39,6 +20,25 @@
           "em_atendimento": 3,
           "abertos": 9,
           "aguardando_terceiros": 0,
+          "ativos_total": 12
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Sergio Luiz Glovatinski Jr com carga real de 10 tickets",
+      "summary": "Sergio Luiz Glovatinski Jr tem 10 tickets ativos sob sua responsabilidade: 8 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Sergio Luiz Glovatinski Jr",
+          "carga_real": 10,
+          "em_atendimento": 8,
+          "abertos": 2,
+          "aguardando_terceiros": 2,
           "ativos_total": 12
         }
       ],
