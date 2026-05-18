@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779136700,
-  "generated_at_iso": "2026-05-18T20:38:20Z",
+  "generated_at": 1779136820,
+  "generated_at_iso": "2026-05-18T20:40:20Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026042226000104",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-22T08:55:10",
+      "modificado": "2026-05-18T17:40:16",
+      "idade_dias": 26,
+      "assunto": "Projeto - Topologia automática",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000371",
       "cli_id": "TJBA (TELETEX)",
@@ -1139,29 +1162,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026042226000104",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-22T08:55:10",
-      "modificado": "2026-05-18T11:13:49",
-      "idade_dias": 26,
-      "assunto": "Projeto - Topologia automática",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
