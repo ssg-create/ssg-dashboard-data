@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779116441,
-  "generated_at_iso": "2026-05-18T15:00:41Z",
+  "generated_at": 1779116554,
+  "generated_at_iso": "2026-05-18T15:02:34Z",
   "counts": {
     "crit": 2,
-    "warn": 6,
+    "warn": 7,
     "ok": 0
   },
   "insights": [
@@ -84,25 +84,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Weskley_Silva",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Weskley Silva com carga real de 5 tickets",
-      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Weskley Silva",
-          "carga_real": 5,
-          "em_atendimento": 5,
-          "abertos": 0,
-          "aguardando_terceiros": 3,
-          "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Marcelo_David",
       "severity": "warn",
       "category": "capacidade",
@@ -122,17 +103,55 @@
       "impact_estimate": "médio"
     },
     {
+      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Luciano Katsumi Shiraishi",
+          "carga_real": 5,
+          "em_atendimento": 4,
+          "abertos": 1,
+          "aguardando_terceiros": 3,
+          "ativos_total": 8
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Weskley_Silva",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Weskley Silva com carga real de 5 tickets",
+      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Weskley Silva",
+          "carga_real": 5,
+          "em_atendimento": 5,
+          "abertos": 0,
+          "aguardando_terceiros": 3,
+          "ativos_total": 8
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
       "id": "sobrecarga_Vinicius_Vedove",
       "severity": "warn",
       "category": "capacidade",
       "title": "Vinicius Vedove com carga real de 5 tickets",
-      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Vinicius Vedove",
           "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
+          "em_atendimento": 3,
+          "abertos": 2,
           "aguardando_terceiros": 2,
           "ativos_total": 7
         }
