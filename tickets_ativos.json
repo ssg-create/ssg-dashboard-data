@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779117987,
-  "generated_at_iso": "2026-05-18T15:26:27Z",
-  "count": 2420,
+  "generated_at": 1779118101,
+  "generated_at_iso": "2026-05-18T15:28:21Z",
+  "count": 2421,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000316",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-18T12:26:47",
+      "modificado": "2026-05-18T12:26:50",
+      "idade_dias": 0,
+      "assunto": "Férias Marcela 26/05 a 07/06",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051626000123",
       "cli_id": "GroundWork",
@@ -40184,7 +40207,7 @@
       "atendente": "Francisco Silva",
       "criado": "2025-01-23T12:27:32",
       "modificado": "2025-04-16T05:00:17",
-      "idade_dias": 479,
+      "idade_dias": 480,
       "assunto": "AZ - GIFT não contabilizando.",
       "escalation_time": 0,
       "escalation_response_time": 0,
