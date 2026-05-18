@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779116554,
-  "generated_at_iso": "2026-05-18T15:02:34Z",
+  "generated_at": 1779116672,
+  "generated_at_iso": "2026-05-18T15:04:32Z",
   "counts": {
     "crit": 2,
     "warn": 7,
@@ -145,13 +145,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Vinicius Vedove com carga real de 5 tickets",
-      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 3 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Vinicius Vedove",
           "carga_real": 5,
-          "em_atendimento": 3,
-          "abertos": 2,
+          "em_atendimento": 5,
+          "abertos": 0,
           "aguardando_terceiros": 2,
           "ativos_total": 7
         }
