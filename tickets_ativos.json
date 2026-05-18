@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779133098,
-  "generated_at_iso": "2026-05-18T19:38:18Z",
-  "count": 186,
+  "generated_at": 1779133227,
+  "generated_at_iso": "2026-05-18T19:40:27Z",
+  "count": 187,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000414",
+      "cli_id": "cloud-admin@ess.cloud.elastic.co",
+      "cliente": "cloud-admin@ess.cloud.elastic.co",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-18T16:40:12",
+      "modificado": "2026-05-18T16:40:14",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] You now have sufficient storage space",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051826000405",
       "cli_id": "cloud-admin@ess.cloud.elastic.co",
@@ -1866,7 +1889,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-13T16:40:18",
       "modificado": "2026-05-18T05:00:15",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Novo usuário Protheus",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -2027,7 +2050,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-12T16:40:22",
       "modificado": "2026-05-18T05:00:14",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Erro de autenticação | Centreon Berneck Brasnorte",
       "escalation_time": 0,
       "escalation_response_time": 0,
