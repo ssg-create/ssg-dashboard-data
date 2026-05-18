@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779107072,
-  "generated_at_iso": "2026-05-18T12:24:32Z",
+  "generated_at": 1779107189,
+  "generated_at_iso": "2026-05-18T12:26:29Z",
   "counts": {
     "crit": 1,
-    "warn": 6,
+    "warn": 5,
     "ok": 0
   },
   "insights": [
@@ -39,25 +39,6 @@
           "em_atendimento": 2,
           "abertos": 5,
           "aguardando_terceiros": 1,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Luciano Katsumi Shiraishi",
-          "carga_real": 5,
-          "em_atendimento": 4,
-          "abertos": 1,
-          "aguardando_terceiros": 4,
           "ativos_total": 9
         }
       ],
