@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779136580,
-  "generated_at_iso": "2026-05-18T20:36:20Z",
+  "generated_at": 1779136700,
+  "generated_at_iso": "2026-05-18T20:38:20Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000371",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-18T15:35:28",
+      "modificado": "2026-05-18T17:37:27",
+      "idade_dias": 0,
+      "assunto": "AJUSTE DASH - Infrastructure / PJE Geral",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000469",
       "cli_id": "GroundWork",
@@ -334,29 +357,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051826000371",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Dashboards",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-18T15:35:28",
-      "modificado": "2026-05-18T15:54:37",
-      "idade_dias": 0,
-      "assunto": "AJUSTE DASH - Infrastructure / PJE Geral",
-      "escalation_time": 1779194128,
-      "escalation_response_time": 1779194128,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
