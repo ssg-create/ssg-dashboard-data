@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779127359,
-  "generated_at_iso": "2026-05-18T18:02:39Z",
+  "generated_at": 1779127468,
+  "generated_at_iso": "2026-05-18T18:04:28Z",
   "counts": {
     "crit": 3,
     "warn": 2,
@@ -27,25 +27,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 8 tickets",
-      "summary": "Eduardo Candido tem 8 tickets ativos sob sua responsabilidade: 2 em atendimento + 6 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Eduardo Candido",
-          "carga_real": 8,
-          "em_atendimento": 2,
-          "abertos": 6,
-          "aguardando_terceiros": 1,
-          "ativos_total": 10
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
       "severity": "crit",
       "category": "capacidade",
@@ -58,6 +39,25 @@
           "em_atendimento": 7,
           "abertos": 1,
           "aguardando_terceiros": 2,
+          "ativos_total": 10
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Eduardo_Candido",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Eduardo Candido com carga real de 8 tickets",
+      "summary": "Eduardo Candido tem 8 tickets ativos sob sua responsabilidade: 2 em atendimento + 6 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Eduardo Candido",
+          "carga_real": 8,
+          "em_atendimento": 2,
+          "abertos": 6,
+          "aguardando_terceiros": 1,
           "ativos_total": 10
         }
       ],
