@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779114105,
-  "generated_at_iso": "2026-05-18T14:21:45Z",
+  "generated_at": 1779114146,
+  "generated_at_iso": "2026-05-18T14:22:26Z",
   "count": 2416,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000183",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-18T11:20:11",
+      "modificado": "2026-05-18T11:21:52",
+      "idade_dias": 0,
+      "assunto": "Continuação - POC GWMS OZ MINERALS - Implementação ELK",
+      "escalation_time": 1779196811,
+      "escalation_response_time": 1779196811,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000174",
       "cli_id": "AUTOZONE",
@@ -37,29 +60,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051826000183",
-      "cli_id": "vinicius.eroico@groundwork.com.br",
-      "cliente": "vinicius.eroico@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-18T11:20:11",
-      "modificado": "2026-05-18T11:20:17",
-      "idade_dias": 0,
-      "assunto": "Continuação - POC GWMS OZ MINERALS - Implementação ELK",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026051826000192",
@@ -16655,7 +16655,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-06T11:21:52",
       "modificado": "2026-01-15T05:00:14",
-      "idade_dias": 131,
+      "idade_dias": 132,
       "assunto": "Dificuldade com o Protheus",
       "escalation_time": 0,
       "escalation_response_time": 0,
