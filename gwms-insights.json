@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779114113,
-  "generated_at_iso": "2026-05-18T14:21:53Z",
+  "generated_at": 1779114153,
+  "generated_at_iso": "2026-05-18T14:22:33Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -65,6 +65,25 @@
       "impact_estimate": "médio"
     },
     {
+      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Sergio Luiz Glovatinski Jr com carga real de 7 tickets",
+      "summary": "Sergio Luiz Glovatinski Jr tem 7 tickets ativos sob sua responsabilidade: 5 em atendimento + 2 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Sergio Luiz Glovatinski Jr",
+          "carga_real": 7,
+          "em_atendimento": 5,
+          "abertos": 2,
+          "aguardando_terceiros": 2,
+          "ativos_total": 9
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
@@ -92,25 +111,6 @@
       "evidence": [
         {
           "atendente": "Marcelo David",
-          "carga_real": 6,
-          "em_atendimento": 5,
-          "abertos": 1,
-          "aguardando_terceiros": 2,
-          "ativos_total": 8
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 6 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
           "carga_real": 6,
           "em_atendimento": 5,
           "abertos": 1,
