@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779136340,
-  "generated_at_iso": "2026-05-18T20:32:20Z",
+  "generated_at": 1779136459,
+  "generated_at_iso": "2026-05-18T20:34:19Z",
   "count": 190,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000209",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Operacional",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-18T11:30:12",
+      "modificado": "2026-05-18T17:33:22",
+      "idade_dias": 0,
+      "assunto": "Criação apresentacao do Docker/Stack GWMS",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000441",
       "cli_id": "TELETEX",
@@ -794,29 +817,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051826000209",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Operacional",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-18T11:30:12",
-      "modificado": "2026-05-18T13:39:28",
-      "idade_dias": 0,
-      "assunto": "Criação apresentacao do Docker/Stack GWMS",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
