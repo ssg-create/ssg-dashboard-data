@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779116784,
-  "generated_at_iso": "2026-05-18T15:06:24Z",
-  "count": 2419,
+  "generated_at": 1779116909,
+  "generated_at_iso": "2026-05-18T15:08:29Z",
+  "count": 2420,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000291",
+      "cli_id": "TJBA",
+      "cliente": "TJBA",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-18T12:07:09",
+      "modificado": "2026-05-18T12:07:10",
+      "idade_dias": 0,
+      "assunto": "Solicitação de Log de desativação de serviço do host: KUBERNETES",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051826000227",
       "cli_id": "AUTOZONE",
@@ -13366,7 +13389,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-02-11T12:07:23",
       "modificado": "2026-02-20T05:00:45",
-      "idade_dias": 95,
+      "idade_dias": 96,
       "assunto": "Solicitação de inclusão de filtros no Alerts History",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -23486,7 +23509,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2025-09-24T12:06:44",
       "modificado": "2025-10-03T05:00:19",
-      "idade_dias": 235,
+      "idade_dias": 236,
       "assunto": "PIS e COFINS negativo -  Setembro/2025",
       "escalation_time": 0,
       "escalation_response_time": 0,
