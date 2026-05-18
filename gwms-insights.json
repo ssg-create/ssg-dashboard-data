@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779113791,
-  "generated_at_iso": "2026-05-18T14:16:31Z",
+  "generated_at": 1779113914,
+  "generated_at_iso": "2026-05-18T14:18:34Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -107,13 +107,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Sergio Luiz Glovatinski Jr com carga real de 6 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 6 tickets ativos sob sua responsabilidade: 2 em atendimento + 4 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Sergio Luiz Glovatinski Jr tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Sergio Luiz Glovatinski Jr",
           "carga_real": 6,
-          "em_atendimento": 2,
-          "abertos": 4,
+          "em_atendimento": 5,
+          "abertos": 1,
           "aguardando_terceiros": 2,
           "ativos_total": 8
         }
