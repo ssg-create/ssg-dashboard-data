@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779106352,
-  "generated_at_iso": "2026-05-18T12:12:32Z",
+  "generated_at": 1779106474,
+  "generated_at_iso": "2026-05-18T12:14:34Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -21,25 +21,6 @@
           "abertos": 9,
           "aguardando_terceiros": 0,
           "ativos_total": 12
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Luciano Katsumi Shiraishi",
-          "carga_real": 5,
-          "em_atendimento": 4,
-          "abertos": 1,
-          "aguardando_terceiros": 4,
-          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -84,19 +65,19 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Weskley_Silva",
+      "id": "sobrecarga_Luciano_Katsumi_Shiraishi",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Weskley Silva com carga real de 5 tickets",
-      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Weskley Silva",
+          "atendente": "Luciano Katsumi Shiraishi",
           "carga_real": 5,
-          "em_atendimento": 5,
-          "abertos": 0,
-          "aguardando_terceiros": 3,
-          "ativos_total": 8
+          "em_atendimento": 4,
+          "abertos": 1,
+          "aguardando_terceiros": 4,
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -114,6 +95,25 @@
           "carga_real": 5,
           "em_atendimento": 4,
           "abertos": 1,
+          "aguardando_terceiros": 3,
+          "ativos_total": 8
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Weskley_Silva",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Weskley Silva com carga real de 5 tickets",
+      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Weskley Silva",
+          "carga_real": 5,
+          "em_atendimento": 5,
+          "abertos": 0,
           "aguardando_terceiros": 3,
           "ativos_total": 8
         }
