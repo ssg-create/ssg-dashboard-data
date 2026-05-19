@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779209782,
-  "generated_at_iso": "2026-05-19T16:56:22Z",
+  "generated_at": 1779209901,
+  "generated_at_iso": "2026-05-19T16:58:21Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026010826000262",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-01-08T16:09:01",
+      "modificado": "2026-05-19T13:56:54",
+      "idade_dias": 130,
+      "assunto": "Atualização tabela Imposto de Renda - 2026",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051526000054",
       "cli_id": "FINPEC",
@@ -587,29 +610,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026010826000262",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Fiscal",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-01-08T16:09:01",
-      "modificado": "2026-05-19T10:55:16",
-      "idade_dias": 130,
-      "assunto": "Atualização tabela Imposto de Renda - 2026",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
