@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779222859,
-  "generated_at_iso": "2026-05-19T20:34:19Z",
-  "count": 186,
+  "generated_at": 1779222981,
+  "generated_at_iso": "2026-05-19T20:36:21Z",
+  "count": 187,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051926000494",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-19T17:35:07",
+      "modificado": "2026-05-19T17:35:10",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Core Services - 26051917335227",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051926000485",
       "cli_id": "ayko.ubirajara@braveo.com.br",
@@ -1636,7 +1659,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-15T17:35:23",
       "modificado": "2026-05-19T08:50:57",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Cliente Fadel - Monitoramento com problema",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -4120,7 +4143,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-04-20T17:35:23",
       "modificado": "2026-04-20T18:13:02",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "Alteração de senha AD",
       "escalation_time": 0,
       "escalation_response_time": 0,
