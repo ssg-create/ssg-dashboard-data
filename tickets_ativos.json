@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779153378,
-  "generated_at_iso": "2026-05-19T01:16:18Z",
+  "generated_at": 1779153499,
+  "generated_at_iso": "2026-05-19T01:18:19Z",
   "count": 189,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000487",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-18T17:58:48",
+      "modificado": "2026-05-18T22:18:18",
+      "idade_dias": 0,
+      "assunto": "TIPO 9 BRGAAP 2025 - INSERT, CORREÇÃO DE VALOR, EXCLUSÃO E COMBO RULES",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000512",
       "cli_id": "TOTVS",
@@ -290,29 +313,6 @@
       "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051826000487",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-18T17:58:48",
-      "modificado": "2026-05-18T18:02:11",
-      "idade_dias": 0,
-      "assunto": "TIPO 9 BRGAAP 2025 - INSERT, CORREÇÃO DE VALOR, EXCLUSÃO E COMBO RULES",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026042226000613",
