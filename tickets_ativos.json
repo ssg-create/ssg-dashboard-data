@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779221184,
-  "generated_at_iso": "2026-05-19T20:06:24Z",
+  "generated_at": 1779221300,
+  "generated_at_iso": "2026-05-19T20:08:20Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000054",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-15T08:08:47",
+      "modificado": "2026-05-19T17:06:29",
+      "idade_dias": 4,
+      "assunto": "EMPRESA 2 FINFARM",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000449",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -886,29 +909,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000054",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-15T08:08:47",
-      "modificado": "2026-05-19T13:55:57",
-      "idade_dias": 4,
-      "assunto": "EMPRESA 2 FINFARM",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
