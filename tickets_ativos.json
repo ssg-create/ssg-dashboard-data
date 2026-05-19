@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779201144,
-  "generated_at_iso": "2026-05-19T14:32:24Z",
+  "generated_at": 1779201261,
+  "generated_at_iso": "2026-05-19T14:34:21Z",
   "count": 182,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000054",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "CLASSIFICADO",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-15T08:08:47",
+      "modificado": "2026-05-19T11:32:26",
+      "idade_dias": 4,
+      "assunto": "EMPRESA 2 FINFARM",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000252",
       "cli_id": "gustavo.venturini@totvs.com.br",
@@ -2013,29 +2036,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000054",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-15T08:08:47",
-      "modificado": "2026-05-18T17:26:19",
-      "idade_dias": 4,
-      "assunto": "EMPRESA 2 FINFARM",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
