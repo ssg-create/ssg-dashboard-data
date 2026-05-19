@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779193101,
-  "generated_at_iso": "2026-05-19T12:18:21Z",
-  "count": 185,
+  "generated_at": 1779193228,
+  "generated_at_iso": "2026-05-19T12:20:28Z",
+  "count": 186,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051926000109",
+      "cli_id": "atendimento@groundwork.com.br",
+      "cliente": "atendimento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-19T09:20:21",
+      "modificado": "2026-05-19T09:20:22",
+      "idade_dias": 0,
+      "assunto": "GWMS > New Ticket",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051926000092",
       "cli_id": "GDBR",
@@ -3315,7 +3338,7 @@
       "atendente": "Gesiel Silva",
       "criado": "2026-04-16T09:20:09",
       "modificado": "2026-05-11T16:16:46",
-      "idade_dias": 32,
+      "idade_dias": 33,
       "assunto": "Parametrização financeira/contábil para aglutinação de títulos em fatura",
       "escalation_time": 0,
       "escalation_response_time": 0,
