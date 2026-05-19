@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779203304,
-  "generated_at_iso": "2026-05-19T15:08:24Z",
+  "generated_at": 1779203425,
+  "generated_at_iso": "2026-05-19T15:10:25Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051926000181",
+      "cli_id": "DIGNA",
+      "cliente": "DIGNA",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-19T10:05:07",
+      "modificado": "2026-05-19T12:08:39",
+      "idade_dias": 0,
+      "assunto": "Criação de Dashboard de BAM GWMS - Cliente DIGNA",
+      "escalation_time": 1779393907,
+      "escalation_response_time": 1779393907,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000441",
       "cli_id": "TELETEX",
@@ -81,29 +104,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051926000181",
-      "cli_id": "DIGNA",
-      "cliente": "DIGNA",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-19T10:05:07",
-      "modificado": "2026-05-19T11:59:28",
-      "idade_dias": 0,
-      "assunto": "Criação de Dashboard de BAM GWMS - Cliente DIGNA",
-      "escalation_time": 1779393907,
-      "escalation_response_time": 1779393907,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
