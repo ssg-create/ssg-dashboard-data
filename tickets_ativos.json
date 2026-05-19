@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779221064,
-  "generated_at_iso": "2026-05-19T20:04:24Z",
-  "count": 182,
+  "generated_at": 1779221184,
+  "generated_at_iso": "2026-05-19T20:06:24Z",
+  "count": 183,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051926000449",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-19T17:05:22",
+      "modificado": "2026-05-19T17:05:25",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - Alertas UNKNOWN - 26051917003467",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051226000416",
       "cli_id": "TELETEX",
@@ -1015,7 +1038,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-18T17:05:16",
       "modificado": "2026-05-19T12:06:53",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "Solicitação de acesso centreon",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -2073,7 +2096,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-14T17:05:18",
       "modificado": "2026-05-19T05:00:12",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Filtro razão contábil",
       "escalation_time": 0,
       "escalation_response_time": 0,
