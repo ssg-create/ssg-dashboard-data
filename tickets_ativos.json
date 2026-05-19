@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779193228,
-  "generated_at_iso": "2026-05-19T12:20:28Z",
+  "generated_at": 1779193346,
+  "generated_at_iso": "2026-05-19T12:22:26Z",
   "count": 186,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026041526000565",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Implantação",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-04-15T18:11:21",
+      "modificado": "2026-05-19T09:20:54",
+      "idade_dias": 33,
+      "assunto": "Descoberta de Topologia automática",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000109",
       "cli_id": "atendimento@groundwork.com.br",
@@ -936,29 +959,6 @@
       "sla_solution_min": 0
     },
     {
-      "ticket": "2026041526000565",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Implantação",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-04-15T18:11:21",
-      "modificado": "2026-05-19T05:00:12",
-      "idade_dias": 33,
-      "assunto": "Descoberta de Topologia automática",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
       "ticket": "2026051226000158",
       "cli_id": "TOTVS",
       "cliente": "TOTVS",
@@ -1360,7 +1360,7 @@
       "atendente": "Guilherme Rosa",
       "criado": "2026-05-05T09:21:25",
       "modificado": "2026-05-18T22:20:36",
-      "idade_dias": 13,
+      "idade_dias": 14,
       "assunto": "Pedido de compra não está saindo com informações corretas",
       "escalation_time": 0,
       "escalation_response_time": 0,
