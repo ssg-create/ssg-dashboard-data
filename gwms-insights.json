@@ -1,12 +1,31 @@
 {
-  "generated_at": 1779212434,
-  "generated_at_iso": "2026-05-19T17:40:34Z",
+  "generated_at": 1779212548,
+  "generated_at_iso": "2026-05-19T17:42:28Z",
   "counts": {
     "crit": 1,
     "warn": 5,
     "ok": 0
   },
   "insights": [
+    {
+      "id": "sobrecarga_Thiago_Trufelli",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Thiago Trufelli com carga real de 5 tickets",
+      "summary": "Thiago Trufelli tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 8 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Thiago Trufelli",
+          "carga_real": 5,
+          "em_atendimento": 1,
+          "abertos": 4,
+          "aguardando_terceiros": 8,
+          "ativos_total": 13
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
@@ -20,25 +39,6 @@
           "em_atendimento": 3,
           "abertos": 9,
           "aguardando_terceiros": 0,
-          "ativos_total": 12
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Thiago_Trufelli",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Thiago Trufelli com carga real de 5 tickets",
-      "summary": "Thiago Trufelli tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 7 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Thiago Trufelli",
-          "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
-          "aguardando_terceiros": 7,
           "ativos_total": 12
         }
       ],
