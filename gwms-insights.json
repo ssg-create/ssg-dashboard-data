@@ -1,12 +1,31 @@
 {
-  "generated_at": 1779194551,
-  "generated_at_iso": "2026-05-19T12:42:31Z",
+  "generated_at": 1779194671,
+  "generated_at_iso": "2026-05-19T12:44:31Z",
   "counts": {
     "crit": 2,
     "warn": 2,
     "ok": 0
   },
   "insights": [
+    {
+      "id": "sobrecarga_Marcio_Guimaraes",
+      "severity": "crit",
+      "category": "capacidade",
+      "title": "Marcio Guimaraes com carga real de 10 tickets",
+      "summary": "Marcio Guimaraes tem 10 tickets ativos sob sua responsabilidade: 0 em atendimento + 10 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Marcio Guimaraes",
+          "carga_real": 10,
+          "em_atendimento": 0,
+          "abertos": 10,
+          "aguardando_terceiros": 3,
+          "ativos_total": 13
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
@@ -20,25 +39,6 @@
           "em_atendimento": 3,
           "abertos": 9,
           "aguardando_terceiros": 0,
-          "ativos_total": 12
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Marcio_Guimaraes",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 9 tickets",
-      "summary": "Marcio Guimaraes tem 9 tickets ativos sob sua responsabilidade: 0 em atendimento + 9 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcio Guimaraes",
-          "carga_real": 9,
-          "em_atendimento": 0,
-          "abertos": 9,
-          "aguardando_terceiros": 3,
           "ativos_total": 12
         }
       ],
