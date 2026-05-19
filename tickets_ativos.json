@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779199581,
-  "generated_at_iso": "2026-05-19T14:06:21Z",
+  "generated_at": 1779199705,
+  "generated_at_iso": "2026-05-19T14:08:25Z",
   "count": 181,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000421",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Pedro Luiz",
+      "criado": "2026-05-14T16:25:13",
+      "modificado": "2026-05-19T11:06:41",
+      "idade_dias": 4,
+      "assunto": "Dashboard MPN",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026010826000262",
       "cli_id": "AUTOZONE",
@@ -3002,29 +3025,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051426000421",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Pedro Luiz",
-      "criado": "2026-05-14T16:25:13",
-      "modificado": "2026-05-14T17:25:34",
-      "idade_dias": 4,
-      "assunto": "Dashboard MPN",
-      "escalation_time": 1779207913,
-      "escalation_response_time": 1779207913,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
