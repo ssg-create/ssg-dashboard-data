@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779188058,
-  "generated_at_iso": "2026-05-19T10:54:18Z",
+  "generated_at": 1779188182,
+  "generated_at_iso": "2026-05-19T10:56:22Z",
   "count": 182,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000331",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Scripts",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-15T15:11:37",
+      "modificado": "2026-05-19T07:55:11",
+      "idade_dias": 3,
+      "assunto": "Verificação de ALB e Cloudwatch AWS",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000038",
       "cli_id": "weskley.silva@groundwork.com.br",
@@ -2199,29 +2222,6 @@
       "sla_first_response_min": null,
       "sla_update_min": null,
       "sla_solution_min": null
-    },
-    {
-      "ticket": "2026051526000331",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Scripts",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-15T15:11:37",
-      "modificado": "2026-05-18T10:21:43",
-      "idade_dias": 3,
-      "assunto": "Verificação de ALB e Cloudwatch AWS",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
     },
     {
       "ticket": "2026051526000376",
