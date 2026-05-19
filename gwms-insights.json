@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779201988,
-  "generated_at_iso": "2026-05-19T14:46:28Z",
+  "generated_at": 1779202114,
+  "generated_at_iso": "2026-05-19T14:48:34Z",
   "counts": {
     "crit": 1,
     "warn": 8,
@@ -65,19 +65,19 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Weskley_Silva",
+      "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Weskley Silva com carga real de 5 tickets",
-      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcio Guimaraes com carga real de 6 tickets",
+      "summary": "Marcio Guimaraes tem 6 tickets ativos sob sua responsabilidade: 0 em atendimento + 6 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Weskley Silva",
-          "carga_real": 5,
-          "em_atendimento": 5,
-          "abertos": 0,
+          "atendente": "Marcio Guimaraes",
+          "carga_real": 6,
+          "em_atendimento": 0,
+          "abertos": 6,
           "aguardando_terceiros": 3,
-          "ativos_total": 8
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -103,17 +103,17 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Marcio_Guimaraes",
+      "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 5 tickets",
-      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Weskley Silva com carga real de 5 tickets",
+      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
-          "atendente": "Marcio Guimaraes",
+          "atendente": "Weskley Silva",
           "carga_real": 5,
-          "em_atendimento": 0,
-          "abertos": 5,
+          "em_atendimento": 5,
+          "abertos": 0,
           "aguardando_terceiros": 3,
           "ativos_total": 8
         }
