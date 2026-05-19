@@ -1,31 +1,12 @@
 {
-  "generated_at": 1779193948,
-  "generated_at_iso": "2026-05-19T12:32:28Z",
+  "generated_at": 1779194068,
+  "generated_at_iso": "2026-05-19T12:34:28Z",
   "counts": {
-    "crit": 2,
+    "crit": 1,
     "warn": 3,
     "ok": 0
   },
   "insights": [
-    {
-      "id": "sobrecarga_Sergio_Luiz_Glovatinski_Jr",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Sergio Luiz Glovatinski Jr com carga real de 11 tickets",
-      "summary": "Sergio Luiz Glovatinski Jr tem 11 tickets ativos sob sua responsabilidade: 10 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Sergio Luiz Glovatinski Jr",
-          "carga_real": 11,
-          "em_atendimento": 10,
-          "abertos": 1,
-          "aguardando_terceiros": 2,
-          "ativos_total": 13
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
