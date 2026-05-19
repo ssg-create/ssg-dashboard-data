@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779208101,
-  "generated_at_iso": "2026-05-19T16:28:21Z",
+  "generated_at": 1779208232,
+  "generated_at_iso": "2026-05-19T16:30:32Z",
   "count": 183,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000218",
+      "cli_id": "GDBR",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-13T10:31:31",
+      "modificado": "2026-05-19T13:28:55",
+      "idade_dias": 6,
+      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000305",
       "cli_id": "AUTOZONE",
@@ -1164,29 +1187,6 @@
       "sla_first_response_min": null,
       "sla_update_min": null,
       "sla_solution_min": null
-    },
-    {
-      "ticket": "2026051326000218",
-      "cli_id": "GDBR",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-13T10:31:31",
-      "modificado": "2026-05-19T08:36:49",
-      "idade_dias": 6,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
     },
     {
       "ticket": "2026051526000331",
