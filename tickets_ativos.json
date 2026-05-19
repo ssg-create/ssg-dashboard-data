@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779190938,
-  "generated_at_iso": "2026-05-19T11:42:18Z",
+  "generated_at": 1779191062,
+  "generated_at_iso": "2026-05-19T11:44:22Z",
   "count": 186,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051926000047",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "NOC",
+      "estado": "OPEN",
+      "prioridade": "2 low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Downtimes",
+      "atendente": "Gabriel Bruno",
+      "criado": "2026-05-19T08:35:14",
+      "modificado": "2026-05-19T08:43:06",
+      "idade_dias": 0,
+      "assunto": "Downtime - ARCO - Alertas CRITICAL - 26051908270237",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051826000325",
       "cli_id": "DKT",
@@ -152,29 +175,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051926000047",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-19T08:35:14",
-      "modificado": "2026-05-19T08:35:21",
-      "idade_dias": 0,
-      "assunto": "Downtime - ARCO - Alertas CRITICAL - 26051908270237",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026010826000262",
