@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779304099,
-  "generated_at_iso": "2026-05-20T19:08:19Z",
-  "count": 190,
+  "generated_at": 1779304229,
+  "generated_at_iso": "2026-05-20T19:10:29Z",
+  "count": 191,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000375",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-20T16:10:04",
+      "modificado": "2026-05-20T16:10:06",
+      "idade_dias": 0,
+      "assunto": "AUTOZONE - SVR-MASTER-HML - AppServer:.ZR02-TOTVS-P12-Autozone_S2-22002-RELEASE - 26052016070416",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052026000357",
       "cli_id": "FADEL",
@@ -2579,7 +2602,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-08T16:09:01",
       "modificado": "2026-05-19T15:08:05",
-      "idade_dias": 131,
+      "idade_dias": 132,
       "assunto": "Atualização tabela Imposto de Renda - 2026",
       "escalation_time": 0,
       "escalation_response_time": 0,
