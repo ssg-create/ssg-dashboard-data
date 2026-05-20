@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779286107,
-  "generated_at_iso": "2026-05-20T14:08:27Z",
-  "count": 184,
+  "generated_at": 1779286235,
+  "generated_at_iso": "2026-05-20T14:10:35Z",
+  "count": 185,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000151",
+      "cli_id": "DKT",
+      "cliente": "DKT",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Infraestrutura e Cloud",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-20T11:09:45",
+      "modificado": "2026-05-20T11:09:47",
+      "idade_dias": 0,
+      "assunto": "GPO - Revisão de todas as GPOs",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052026000142",
       "cli_id": "TOTVS",
