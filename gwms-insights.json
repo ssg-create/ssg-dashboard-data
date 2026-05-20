@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779277236,
-  "generated_at_iso": "2026-05-20T11:40:36Z",
+  "generated_at": 1779277352,
+  "generated_at_iso": "2026-05-20T11:42:32Z",
   "counts": {
     "crit": 1,
-    "warn": 8,
+    "warn": 6,
     "ok": 0
   },
   "insights": [
@@ -12,34 +12,15 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Thiago Trufelli com carga real de 7 tickets",
-      "summary": "Thiago Trufelli tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 7 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Thiago Trufelli tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 8 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Thiago Trufelli",
           "carga_real": 7,
           "em_atendimento": 1,
           "abertos": 6,
-          "aguardando_terceiros": 7,
-          "ativos_total": 14
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Marcio_Guimaraes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 7 tickets",
-      "summary": "Marcio Guimaraes tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Marcio Guimaraes",
-          "carga_real": 7,
-          "em_atendimento": 1,
-          "abertos": 6,
-          "aguardando_terceiros": 6,
-          "ativos_total": 13
+          "aguardando_terceiros": 8,
+          "ativos_total": 15
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -59,25 +40,6 @@
           "abertos": 9,
           "aguardando_terceiros": 0,
           "ativos_total": 12
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Pedro_Luiz",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Pedro Luiz com carga real de 5 tickets",
-      "summary": "Pedro Luiz tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Pedro Luiz",
-          "carga_real": 5,
-          "em_atendimento": 0,
-          "abertos": 5,
-          "aguardando_terceiros": 6,
-          "ativos_total": 11
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
