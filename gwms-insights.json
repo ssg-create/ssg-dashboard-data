@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779279630,
-  "generated_at_iso": "2026-05-20T12:20:30Z",
+  "generated_at": 1779279753,
+  "generated_at_iso": "2026-05-20T12:22:33Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -107,14 +107,14 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila GWMS concentrada em GroundWork",
-      "summary": "9 de 14 tickets silenciosos na fila GWMS (64%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "9 de 15 tickets silenciosos na fila GWMS (60%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "GWMS",
           "cliente_top": "GroundWork",
           "n_top": 9,
-          "n_total": 14,
-          "pct_top": 0.64,
+          "n_total": 15,
+          "pct_top": 0.6,
           "distribuicao": {
             "GroundWork": 9,
             "TOTVS": 2,
