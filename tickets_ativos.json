@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779299544,
-  "generated_at_iso": "2026-05-20T17:52:24Z",
-  "count": 186,
+  "generated_at": 1779299660,
+  "generated_at_iso": "2026-05-20T17:54:20Z",
+  "count": 187,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000311",
+      "cli_id": "DKT",
+      "cliente": "DKT",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Infraestrutura e Cloud",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-20T14:53:01",
+      "modificado": "2026-05-20T14:53:02",
+      "idade_dias": 0,
+      "assunto": "Cluster - Balanceamento das VMs",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052026000295",
       "cli_id": "marcelo.david@groundwork.com.br",
