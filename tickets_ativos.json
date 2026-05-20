@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779249137,
-  "generated_at_iso": "2026-05-20T03:52:17Z",
+  "generated_at": 1779249259,
+  "generated_at_iso": "2026-05-20T03:54:19Z",
   "count": 194,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000135",
+      "cli_id": "PECVAL",
+      "cliente": "PECVAL",
+      "fila": "DATASUL",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Datasul",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-05T09:21:25",
+      "modificado": "2026-05-20T00:52:54",
+      "idade_dias": 14,
+      "assunto": "Pedido de compra não está saindo com informações corretas",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000026",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -2565,29 +2588,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026050526000135",
-      "cli_id": "PECVAL",
-      "cliente": "PECVAL",
-      "fila": "DATASUL",
-      "estado": "MELHORIA",
-      "prioridade": "4 high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Datasul",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-05T09:21:25",
-      "modificado": "2026-05-18T22:20:36",
-      "idade_dias": 14,
-      "assunto": "Pedido de compra não está saindo com informações corretas",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
