@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779282751,
-  "generated_at_iso": "2026-05-20T13:12:31Z",
+  "generated_at": 1779282873,
+  "generated_at_iso": "2026-05-20T13:14:33Z",
   "counts": {
     "crit": 2,
-    "warn": 5,
+    "warn": 4,
     "ok": 0
   },
   "insights": [
@@ -12,15 +12,15 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Thiago Trufelli com carga real de 7 tickets",
-      "summary": "Thiago Trufelli tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 7 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Thiago Trufelli tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Thiago Trufelli",
           "carga_real": 7,
           "em_atendimento": 1,
           "abertos": 6,
-          "aguardando_terceiros": 7,
-          "ativos_total": 14
+          "aguardando_terceiros": 6,
+          "ativos_total": 13
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -100,31 +100,6 @@
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "fila_concentrada_GWMS_GroundWork",
-      "severity": "warn",
-      "category": "distribuicao",
-      "title": "Fila GWMS concentrada em GroundWork",
-      "summary": "9 de 15 tickets silenciosos na fila GWMS (60%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
-      "evidence": [
-        {
-          "fila": "GWMS",
-          "cliente_top": "GroundWork",
-          "n_top": 9,
-          "n_total": 15,
-          "pct_top": 0.6,
-          "distribuicao": {
-            "GroundWork": 9,
-            "TOTVS": 2,
-            "AGROSUL": 1,
-            "ARCO": 1,
-            "BRAVEO": 1
-          }
-        }
-      ],
-      "recommendation": "Revisar contrato/SLA de GroundWork na fila GWMS. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     },
     {
