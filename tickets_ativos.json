@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779303044,
-  "generated_at_iso": "2026-05-20T18:50:44Z",
+  "generated_at": 1779303196,
+  "generated_at_iso": "2026-05-20T18:53:16Z",
   "count": 189,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000156",
+      "cli_id": "ECAD",
+      "cliente": "ECAD",
+      "fila": "SSG",
+      "estado": "AGUARDANDO AGENTES EXTERNOS",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-18T10:25:29",
+      "modificado": "2026-05-20T15:51:10",
+      "idade_dias": 2,
+      "assunto": "solicitação de compra com filial divergente",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026031726000287",
       "cli_id": "AUTOZONE",
@@ -2615,29 +2638,6 @@
       "sla_solution_min": 0
     },
     {
-      "ticket": "2026051826000156",
-      "cli_id": "ECAD",
-      "cliente": "ECAD",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-18T10:25:29",
-      "modificado": "2026-05-19T14:35:25",
-      "idade_dias": 2,
-      "assunto": "solicitação de compra com filial divergente",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
       "ticket": "2026051826000361",
       "cli_id": "ARCO",
       "cliente": "ARCO",
@@ -3223,7 +3223,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-15T15:53:07",
       "modificado": "2026-05-18T10:17:43",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Error en reporte SER001",
       "escalation_time": 0,
       "escalation_response_time": 0,
