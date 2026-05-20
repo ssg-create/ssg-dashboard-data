@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779275301,
-  "generated_at_iso": "2026-05-20T11:08:21Z",
+  "generated_at": 1779275428,
+  "generated_at_iso": "2026-05-20T11:10:28Z",
   "count": 191,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000017",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-20T00:30:20",
+      "modificado": "2026-05-20T08:09:37",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26052000275557",
+      "escalation_time": 1779472800,
+      "escalation_response_time": 1779472800,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000026",
       "cli_id": "GroundWork",
@@ -1097,29 +1120,6 @@
       "sla_solution_min": 0
     },
     {
-      "ticket": "2026052026000017",
-      "cli_id": "monitoramento@groundwork.com.br",
-      "cliente": "monitoramento@groundwork.com.br",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-20T00:30:20",
-      "modificado": "2026-05-20T01:58:28",
-      "idade_dias": 0,
-      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26052000275557",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
-    },
-    {
       "ticket": "2026050526000135",
       "cli_id": "PECVAL",
       "cliente": "PECVAL",
@@ -1728,7 +1728,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-05-15T08:08:47",
       "modificado": "2026-05-19T17:06:29",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "EMPRESA 2 FINFARM",
       "escalation_time": 0,
       "escalation_response_time": 0,
