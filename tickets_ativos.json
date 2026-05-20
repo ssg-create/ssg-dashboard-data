@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779305781,
-  "generated_at_iso": "2026-05-20T19:36:21Z",
+  "generated_at": 1779305899,
+  "generated_at_iso": "2026-05-20T19:38:19Z",
   "count": 189,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000348",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Servidor GWMS",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-20T15:30:02",
+      "modificado": "2026-05-20T16:38:18",
+      "idade_dias": 0,
+      "assunto": "Alarme de Load no servidor GWMS",
+      "escalation_time": 1779366602,
+      "escalation_response_time": 1779366602,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000241",
       "cli_id": "ARCO",
@@ -380,29 +403,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000348",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Servidor GWMS",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-20T15:30:02",
-      "modificado": "2026-05-20T15:31:59",
-      "idade_dias": 0,
-      "assunto": "Alarme de Load no servidor GWMS",
-      "escalation_time": 1779366602,
-      "escalation_response_time": 1779366602,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
