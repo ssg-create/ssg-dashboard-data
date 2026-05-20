@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779287549,
-  "generated_at_iso": "2026-05-20T14:32:29Z",
+  "generated_at": 1779287667,
+  "generated_at_iso": "2026-05-20T14:34:27Z",
   "count": 187,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000062",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-20T08:30:23",
+      "modificado": "2026-05-20T11:34:00",
+      "idade_dias": 0,
+      "assunto": "Problema na liberação de link devido ao IP ",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000371",
       "cli_id": "TJBA (TELETEX)",
@@ -472,29 +495,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000062",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-20T08:30:23",
-      "modificado": "2026-05-20T09:52:41",
-      "idade_dias": 0,
-      "assunto": "Problema na liberação de link devido ao IP ",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
