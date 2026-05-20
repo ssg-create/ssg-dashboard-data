@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:14:28.742187",
+  "generated_at": "2026-05-20T11:16:33.198912",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
@@ -90,11 +90,11 @@
     },
     {
       "cliente": "TOTVS",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 607 chamados (12% do total). <strong>5 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>(GWMS) Operacional</strong> concentra 52% dos chamados desta conta — possível reincidência.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 609 chamados (12% do total). <strong>5 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>(GWMS) Operacional</strong> concentra 51% dos chamados desta conta — possível reincidência.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "607 chamados (12% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "609 chamados (12% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -112,7 +112,7 @@
         },
         {
           "titulo": "Reincidência no módulo (GWMS) Operacional",
-          "desc": "52% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
+          "desc": "51% dos chamados desta conta são do mesmo módulo. Sugere problema não resolvido na raiz ou gap de treinamento.",
           "nivel": "medium",
           "confianca": 75
         }
@@ -201,7 +201,7 @@
     },
     {
       "cliente": "TOTVS",
-      "narrativa": "Conta com <strong>5 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O módulo <strong>(GWMS) Operacional</strong> representa 52% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.<br><br>O tempo médio de resposta para esta conta foi de <strong>138.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
+      "narrativa": "Conta com <strong>5 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O módulo <strong>(GWMS) Operacional</strong> representa 51% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.<br><br>O tempo médio de resposta para esta conta foi de <strong>138.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
       "proximo_contato": "em até 2 dias úteis",
       "tom_sugerido": "proativo · transparente",
       "prioridade": "alta"
