@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779294155,
-  "generated_at_iso": "2026-05-20T16:22:35Z",
+  "generated_at": 1779294269,
+  "generated_at_iso": "2026-05-20T16:24:29Z",
   "count": 192,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000241",
+      "cli_id": "ARCO",
+      "cliente": "ARCO",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-20T13:15:22",
+      "modificado": "2026-05-20T13:23:38",
+      "idade_dias": 0,
+      "assunto": "DASH RM ARCO",
+      "escalation_time": 1779711322,
+      "escalation_response_time": 1779711322,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051926000511",
       "cli_id": "AUTOZONE",
@@ -37,29 +60,6 @@
       "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000241",
-      "cli_id": "eliandro.rochel@groundwork.com.br",
-      "cliente": "eliandro.rochel@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-20T13:15:22",
-      "modificado": "2026-05-20T13:15:24",
-      "idade_dias": 0,
-      "assunto": "DASH RM ARCO",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052026000213",
@@ -1682,7 +1682,7 @@
       "atendente": "Marcelo David",
       "criado": "2026-05-15T13:23:11",
       "modificado": "2026-05-20T05:00:13",
-      "idade_dias": 4,
+      "idade_dias": 5,
       "assunto": "Error al rodar programa FT4060",
       "escalation_time": 0,
       "escalation_response_time": 0,
