@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779305899,
-  "generated_at_iso": "2026-05-20T19:38:19Z",
+  "generated_at": 1779306025,
+  "generated_at_iso": "2026-05-20T19:40:25Z",
   "count": 189,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051326000218",
+      "cli_id": "GDBR",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-13T10:31:31",
+      "modificado": "2026-05-20T16:38:34",
+      "idade_dias": 7,
+      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000348",
       "cli_id": "TJBA (TELETEX)",
@@ -1120,29 +1143,6 @@
       "sla_solution_min": null
     },
     {
-      "ticket": "2026051326000218",
-      "cli_id": "GDBR",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-13T10:31:31",
-      "modificado": "2026-05-20T10:30:21",
-      "idade_dias": 7,
-      "assunto": "Valor dos campos E5_BANCO, E5_CONTA, e, E5_AGENCIA sumindo da SE5 em processos de importação",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
       "ticket": "2026052026000115",
       "cli_id": "AUTOZONE",
       "cliente": "AUTOZONE",
@@ -1774,7 +1774,7 @@
       "atendente": "Robert Rodrigues dos Santos",
       "criado": "2026-05-13T16:40:18",
       "modificado": "2026-05-20T05:00:13",
-      "idade_dias": 6,
+      "idade_dias": 7,
       "assunto": "Novo usuário Protheus",
       "escalation_time": 0,
       "escalation_response_time": 0,
