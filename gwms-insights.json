@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779279154,
-  "generated_at_iso": "2026-05-20T12:12:34Z",
+  "generated_at": 1779279267,
+  "generated_at_iso": "2026-05-20T12:14:27Z",
   "counts": {
     "crit": 1,
     "warn": 6,
@@ -132,16 +132,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "7 de 11 tickets silenciosos na fila SSG (63%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "6 de 10 tickets silenciosos na fila SSG (60%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
-          "n_top": 7,
-          "n_total": 11,
-          "pct_top": 0.64,
+          "n_top": 6,
+          "n_total": 10,
+          "pct_top": 0.6,
           "distribuicao": {
-            "AUTOZONE": 7,
+            "AUTOZONE": 6,
             "GDBR": 2,
             "ALMEIDA JR": 1,
             "CNN": 1
