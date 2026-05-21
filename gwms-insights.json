@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779370010,
-  "generated_at_iso": "2026-05-21T13:26:50Z",
+  "generated_at": 1779370110,
+  "generated_at_iso": "2026-05-21T13:28:30Z",
   "counts": {
     "crit": 2,
     "warn": 4,
@@ -49,16 +49,16 @@
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 5 tickets",
-      "summary": "Marcio Guimaraes tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcio Guimaraes com carga real de 6 tickets",
+      "summary": "Marcio Guimaraes tem 6 tickets ativos sob sua responsabilidade: 0 em atendimento + 6 abertos (além de 6 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcio Guimaraes",
-          "carga_real": 5,
+          "carga_real": 6,
           "em_atendimento": 0,
-          "abertos": 5,
+          "abertos": 6,
           "aguardando_terceiros": 6,
-          "ativos_total": 11
+          "ativos_total": 12
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -110,16 +110,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "10 de 12 tickets silenciosos na fila SSG (83%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "9 de 11 tickets silenciosos na fila SSG (81%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "SSG",
           "cliente_top": "AUTOZONE",
-          "n_top": 10,
-          "n_total": 12,
-          "pct_top": 0.83,
+          "n_top": 9,
+          "n_total": 11,
+          "pct_top": 0.82,
           "distribuicao": {
-            "AUTOZONE": 10,
+            "AUTOZONE": 9,
             "ALMEIDA JR": 1,
             "NSX": 1
           }
