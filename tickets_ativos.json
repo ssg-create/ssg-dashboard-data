@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779381261,
-  "generated_at_iso": "2026-05-21T16:34:21Z",
+  "generated_at": 1779381383,
+  "generated_at_iso": "2026-05-21T16:36:23Z",
   "count": 188,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000268",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
+      "atendente": "Adriano Luiz",
+      "criado": "2026-05-20T14:20:11",
+      "modificado": "2026-05-21T13:34:36",
+      "idade_dias": 0,
+      "assunto": "FAvor enviar esse chamado para o Adriano",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051526000054",
       "cli_id": "FINPEC",
@@ -2289,29 +2312,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000268",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)::(GWMS) Tecnologia",
-      "atendente": "Adriano Luiz",
-      "criado": "2026-05-20T14:20:11",
-      "modificado": "2026-05-20T14:31:41",
-      "idade_dias": 0,
-      "assunto": "FAvor enviar esse chamado para o Adriano",
-      "escalation_time": 1779380411,
-      "escalation_response_time": 1779380411,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
