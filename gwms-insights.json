@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779389067,
-  "generated_at_iso": "2026-05-21T18:44:27Z",
+  "generated_at": 1779389187,
+  "generated_at_iso": "2026-05-21T18:46:27Z",
   "counts": {
-    "crit": 2,
-    "warn": 4,
+    "crit": 1,
+    "warn": 5,
     "ok": 0
   },
   "insights": [
@@ -27,25 +27,6 @@
       "impact_estimate": "médio"
     },
     {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "crit",
-      "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 8 tickets",
-      "summary": "Eduardo Candido tem 8 tickets ativos sob sua responsabilidade: 1 em atendimento + 7 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Eduardo Candido",
-          "carga_real": 8,
-          "em_atendimento": 1,
-          "abertos": 7,
-          "aguardando_terceiros": 2,
-          "ativos_total": 11
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "warn",
       "category": "capacidade",
@@ -59,6 +40,25 @@
           "abertos": 5,
           "aguardando_terceiros": 6,
           "ativos_total": 11
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Eduardo_Candido",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Eduardo Candido com carga real de 6 tickets",
+      "summary": "Eduardo Candido tem 6 tickets ativos sob sua responsabilidade: 1 em atendimento + 5 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Eduardo Candido",
+          "carga_real": 6,
+          "em_atendimento": 1,
+          "abertos": 5,
+          "aguardando_terceiros": 2,
+          "ativos_total": 9
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -88,16 +88,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila DBA concentrada em AUTOZONE",
-      "summary": "8 de 9 tickets silenciosos na fila DBA (88%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "6 de 7 tickets silenciosos na fila DBA (85%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "DBA",
           "cliente_top": "AUTOZONE",
-          "n_top": 8,
-          "n_total": 9,
-          "pct_top": 0.89,
+          "n_top": 6,
+          "n_total": 7,
+          "pct_top": 0.86,
           "distribuicao": {
-            "AUTOZONE": 8,
+            "AUTOZONE": 6,
             "ALMEIDA JR": 1
           }
         }
