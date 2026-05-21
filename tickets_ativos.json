@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779386426,
-  "generated_at_iso": "2026-05-21T18:00:26Z",
-  "count": 184,
+  "generated_at": 1779386547,
+  "generated_at_iso": "2026-05-21T18:02:27Z",
+  "count": 185,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000257",
+      "cli_id": "TJBA",
+      "cliente": "TJBA",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Relatórios",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-21T15:01:23",
+      "modificado": "2026-05-21T15:01:25",
+      "idade_dias": 0,
+      "assunto": "Logs host FORTIADC Log de Comando / Portal NOC",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052126000248",
       "cli_id": "weskley.silva@groundwork.com.br",
