@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779387029,
-  "generated_at_iso": "2026-05-21T18:10:29Z",
-  "count": 184,
+  "generated_at": 1779387139,
+  "generated_at_iso": "2026-05-21T18:12:19Z",
+  "count": 183,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,29 +15,6 @@
     "TECNOLOGIA"
   ],
   "rows": [
-    {
-      "ticket": "2026052126000248",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-21T14:55:21",
-      "modificado": "2026-05-21T15:08:44",
-      "idade_dias": 0,
-      "assunto": "Liberação de User Fadel",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
     {
       "ticket": "2026052126000266",
       "cli_id": "ARCO",
@@ -1636,7 +1613,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-15T15:11:37",
       "modificado": "2026-05-21T05:00:12",
-      "idade_dias": 5,
+      "idade_dias": 6,
       "assunto": "Verificação de ALB e Cloudwatch AWS",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -3568,7 +3545,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-05-08T15:10:40",
       "modificado": "2026-05-08T15:33:11",
-      "idade_dias": 12,
+      "idade_dias": 13,
       "assunto": "AWS- Acesso seguro a uma instancia via SSH",
       "escalation_time": 0,
       "escalation_response_time": 0,
