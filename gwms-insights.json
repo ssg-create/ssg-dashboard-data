@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779391705,
-  "generated_at_iso": "2026-05-21T19:28:25Z",
+  "generated_at": 1779391835,
+  "generated_at_iso": "2026-05-21T19:30:35Z",
   "counts": {
     "crit": 1,
-    "warn": 5,
+    "warn": 4,
     "ok": 0
   },
   "insights": [
@@ -69,15 +69,15 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Luciano Katsumi Shiraishi com carga real de 5 tickets",
-      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Luciano Katsumi Shiraishi tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Luciano Katsumi Shiraishi",
           "carga_real": 5,
           "em_atendimento": 4,
           "abertos": 1,
-          "aguardando_terceiros": 3,
-          "ativos_total": 8
+          "aguardando_terceiros": 2,
+          "ativos_total": 7
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -103,31 +103,6 @@
         }
       ],
       "recommendation": "Revisar contrato/SLA de AUTOZONE na fila DBA. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "fila_concentrada_SSG_AUTOZONE",
-      "severity": "warn",
-      "category": "distribuicao",
-      "title": "Fila SSG concentrada em AUTOZONE",
-      "summary": "10 de 16 tickets silenciosos na fila SSG (62%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
-      "evidence": [
-        {
-          "fila": "SSG",
-          "cliente_top": "AUTOZONE",
-          "n_top": 10,
-          "n_total": 16,
-          "pct_top": 0.62,
-          "distribuicao": {
-            "AUTOZONE": 10,
-            "ALMEIDA JR": 3,
-            "NSX": 1,
-            "GroundWork": 1,
-            "ECAD": 1
-          }
-        }
-      ],
-      "recommendation": "Revisar contrato/SLA de AUTOZONE na fila SSG. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
