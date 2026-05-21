@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779374784,
-  "generated_at_iso": "2026-05-21T14:46:24Z",
+  "generated_at": 1779374906,
+  "generated_at_iso": "2026-05-21T14:48:26Z",
   "count": 185,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000131",
+      "cli_id": "TELETEX",
+      "cliente": "TELETEX",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-21T10:20:06",
+      "modificado": "2026-05-21T11:48:14",
+      "idade_dias": 0,
+      "assunto": "BERNECK - INCLUSÃO DE APS - CS0017668",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051526000251",
       "cli_id": "CNN",
@@ -150,29 +173,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052126000131",
-      "cli_id": "TELETEX",
-      "cliente": "TELETEX",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-21T10:20:06",
-      "modificado": "2026-05-21T10:42:34",
-      "idade_dias": 0,
-      "assunto": "BERNECK - INCLUSÃO DE APS - CS0017668",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
