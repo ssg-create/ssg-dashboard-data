@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779375383,
-  "generated_at_iso": "2026-05-21T14:56:23Z",
-  "count": 184,
+  "generated_at": 1779375510,
+  "generated_at_iso": "2026-05-21T14:58:30Z",
+  "count": 185,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000177",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "2 low",
+      "servico": "",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-21T11:56:58",
+      "modificado": "2026-05-21T11:57:01",
+      "idade_dias": 0,
+      "assunto": "EXCLUSÃO MOVIMENTO PROTHEUS",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052026000311",
       "cli_id": "DKT",
@@ -2418,7 +2441,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-05-20T11:57:02",
       "modificado": "2026-05-20T12:01:40",
-      "idade_dias": 0,
+      "idade_dias": 1,
       "assunto": "AZ | Medição Automática - Contrato LOJA 7632",
       "escalation_time": 0,
       "escalation_response_time": 0,
