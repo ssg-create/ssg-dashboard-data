@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T19:18:34.914729",
+  "generated_at": "2026-05-21T19:20:30.208596",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
@@ -25,7 +25,7 @@
       },
       {
         "label": "Previsão 7 dias",
-        "value": "~495/semana",
+        "value": "~490/semana",
         "sub": "pico: terça-feira 9h",
         "color": "var(--purple)"
       }
@@ -39,7 +39,7 @@
       "desc": "Foco no módulo (GWMS) Operacional pode reduzir reincidências"
     },
     "previsao": {
-      "label": "~99/dia",
+      "label": "~98/dia",
       "desc": "pico: terça-feira 9h"
     }
   },
@@ -120,11 +120,11 @@
     },
     {
       "cliente": "GroundWork",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 539 chamados (10% do total). <strong>1 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 4 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 538 chamados (10% do total). <strong>1 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 3 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "539 chamados (10% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "538 chamados (10% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -135,14 +135,14 @@
           "confianca": 93
         },
         {
-          "titulo": "4 chamados próximos do limite de aging",
+          "titulo": "3 chamados próximos do limite de aging",
           "desc": "Chamados entre 15–30 dias que podem virar críticos. Priorização nos próximos 2 dias evita escalonamento.",
           "nivel": "medium",
           "confianca": 80
         },
         {
-          "titulo": "SLA de resposta fora do contrato (124.0 min)",
-          "desc": "Mediana de primeira resposta nesta conta: 124.0 min. Acima da meta contratual de 30 min.",
+          "titulo": "SLA de resposta fora do contrato (125.0 min)",
+          "desc": "Mediana de primeira resposta nesta conta: 125.0 min. Acima da meta contratual de 30 min.",
           "nivel": "high",
           "confianca": 85
         }
@@ -208,7 +208,7 @@
     },
     {
       "cliente": "GroundWork",
-      "narrativa": "Conta com <strong>1 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O tempo médio de resposta para esta conta foi de <strong>124.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
+      "narrativa": "Conta com <strong>1 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O tempo médio de resposta para esta conta foi de <strong>125.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
       "proximo_contato": "em até 2 dias úteis",
       "tom_sugerido": "proativo · transparente",
       "prioridade": "alta"
