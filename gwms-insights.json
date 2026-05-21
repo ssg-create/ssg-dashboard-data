@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779367110,
-  "generated_at_iso": "2026-05-21T12:38:30Z",
+  "generated_at": 1779367228,
+  "generated_at_iso": "2026-05-21T12:40:28Z",
   "counts": {
     "crit": 2,
     "warn": 3,
@@ -11,16 +11,16 @@
       "id": "sobrecarga_Eduardo_Candido",
       "severity": "crit",
       "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 13 tickets",
-      "summary": "Eduardo Candido tem 13 tickets ativos sob sua responsabilidade: 1 em atendimento + 12 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Eduardo Candido com carga real de 14 tickets",
+      "summary": "Eduardo Candido tem 14 tickets ativos sob sua responsabilidade: 1 em atendimento + 13 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Eduardo Candido",
-          "carga_real": 13,
+          "carga_real": 14,
           "em_atendimento": 1,
-          "abertos": 12,
+          "abertos": 13,
           "aguardando_terceiros": 2,
-          "ativos_total": 16
+          "ativos_total": 17
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
