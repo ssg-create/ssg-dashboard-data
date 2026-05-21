@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779379243,
-  "generated_at_iso": "2026-05-21T16:00:43Z",
+  "generated_at": 1779379354,
+  "generated_at_iso": "2026-05-21T16:02:34Z",
   "counts": {
     "crit": 2,
     "warn": 3,
@@ -69,16 +69,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila DBA concentrada em AUTOZONE",
-      "summary": "11 de 12 tickets silenciosos na fila DBA (91%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "12 de 13 tickets silenciosos na fila DBA (92%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "DBA",
           "cliente_top": "AUTOZONE",
-          "n_top": 11,
-          "n_total": 12,
+          "n_top": 12,
+          "n_total": 13,
           "pct_top": 0.92,
           "distribuicao": {
-            "AUTOZONE": 11,
+            "AUTOZONE": 12,
             "ALMEIDA JR": 1
           }
         }
