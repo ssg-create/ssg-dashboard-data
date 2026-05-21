@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779383786,
-  "generated_at_iso": "2026-05-21T17:16:26Z",
+  "generated_at": 1779383902,
+  "generated_at_iso": "2026-05-21T17:18:22Z",
   "count": 189,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000211",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Marcio Guimaraes",
+      "criado": "2026-05-21T13:55:14",
+      "modificado": "2026-05-21T14:16:52",
+      "idade_dias": 0,
+      "assunto": "Seja bem-vindo ao GENESYS PRIME!",
+      "escalation_time": 1779800114,
+      "escalation_response_time": 1779800114,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052126000168",
       "cli_id": "TELETEX",
@@ -129,29 +152,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052126000211",
-      "cli_id": "jira@sdinteraxa.atlassian.net",
-      "cliente": "jira@sdinteraxa.atlassian.net",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-21T13:55:14",
-      "modificado": "2026-05-21T13:55:19",
-      "idade_dias": 0,
-      "assunto": "Seja bem-vindo ao GENESYS PRIME!",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026051126000409",
