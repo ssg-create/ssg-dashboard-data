@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779460099,
-  "generated_at_iso": "2026-05-22T14:28:19Z",
+  "generated_at": 1779460227,
+  "generated_at_iso": "2026-05-22T14:30:27Z",
   "count": 153,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000124",
+      "cli_id": "LPA",
+      "cliente": "LPA",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Diogo Cunha",
+      "criado": "2026-05-20T10:24:59",
+      "modificado": "2026-05-22T11:29:30",
+      "idade_dias": 2,
+      "assunto": "Montagem de pasta no LINUX",
+      "escalation_time": 1779287099,
+      "escalation_response_time": 1779287099,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000111",
       "cli_id": "FADEL",
@@ -2132,29 +2155,6 @@
       "sla_solution_min": 0
     },
     {
-      "ticket": "2026052026000124",
-      "cli_id": "LPA",
-      "cliente": "LPA",
-      "fila": "DATASUL",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Banco de Horas::Banco de Dados",
-      "atendente": "Diogo Cunha",
-      "criado": "2026-05-20T10:24:59",
-      "modificado": "2026-05-20T14:49:10",
-      "idade_dias": 2,
-      "assunto": "Montagem de pasta no LINUX",
-      "escalation_time": 1779287099,
-      "escalation_response_time": 1779287099,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
       "ticket": "2026051926000207",
       "cli_id": "FADEL",
       "cliente": "FADEL",
@@ -2556,7 +2556,7 @@
       "atendente": "Thiago Trufelli",
       "criado": "2026-05-18T11:30:12",
       "modificado": "2026-05-18T17:33:22",
-      "idade_dias": 3,
+      "idade_dias": 4,
       "assunto": "Criação apresentacao do Docker/Stack GWMS",
       "escalation_time": 0,
       "escalation_response_time": 0,
