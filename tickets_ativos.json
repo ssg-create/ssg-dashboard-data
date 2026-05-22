@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779454345,
-  "generated_at_iso": "2026-05-22T12:52:25Z",
+  "generated_at": 1779454463,
+  "generated_at_iso": "2026-05-22T12:54:23Z",
   "count": 161,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000455",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-20T18:07:19",
+      "modificado": "2026-05-22T09:54:09",
+      "idade_dias": 1,
+      "assunto": "Select - Combo rules - W1 PD10 FY26 - pt1",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026050526000135",
       "cli_id": "PECVAL",
@@ -35,29 +58,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000455",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-20T18:07:19",
-      "modificado": "2026-05-22T09:50:09",
-      "idade_dias": 1,
-      "assunto": "Select - Combo rules - W1 PD10 FY26 - pt1",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
