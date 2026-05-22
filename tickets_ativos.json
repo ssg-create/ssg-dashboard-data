@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779472097,
-  "generated_at_iso": "2026-05-22T17:48:17Z",
+  "generated_at": 1779472221,
+  "generated_at_iso": "2026-05-22T17:50:21Z",
   "count": 153,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000284",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-21T15:50:09",
+      "modificado": "2026-05-22T14:50:13",
+      "idade_dias": 0,
+      "assunto": "Lançamentos não integrado 04/2026",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052126000328",
       "cli_id": "AUTOZONE",
@@ -106,29 +129,6 @@
       "sla_first_response_min": null,
       "sla_update_min": null,
       "sla_solution_min": null
-    },
-    {
-      "ticket": "2026052126000284",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Tiago Silva",
-      "criado": "2026-05-21T15:50:09",
-      "modificado": "2026-05-22T14:15:08",
-      "idade_dias": 0,
-      "assunto": "Lançamentos não integrado 04/2026",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
     },
     {
       "ticket": "2026041526000565",
