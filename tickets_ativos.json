@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779411497,
-  "generated_at_iso": "2026-05-22T00:58:17Z",
-  "count": 169,
+  "generated_at": 1779411625,
+  "generated_at_iso": "2026-05-22T01:00:25Z",
+  "count": 170,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052126000426",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-21T22:00:16",
+      "modificado": "2026-05-21T22:00:19",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Web-Server - API:ces_broker_x_gwms_cstg - Errors - Perfdata com falha - 26052121561127",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052126000417",
       "cli_id": "monitoramento@groundwork.com.br",
@@ -2188,7 +2211,7 @@
       "atendente": "Debora Gomes",
       "criado": "2026-04-22T21:58:19",
       "modificado": "2026-05-20T15:44:55",
-      "idade_dias": 28,
+      "idade_dias": 29,
       "assunto": "NF'S BAIXADAS SEM POSIÇÃO APARENTE",
       "escalation_time": 0,
       "escalation_response_time": 0,
