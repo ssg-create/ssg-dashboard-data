@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779478938,
-  "generated_at_iso": "2026-05-22T19:42:18Z",
-  "count": 153,
+  "generated_at": 1779479060,
+  "generated_at_iso": "2026-05-22T19:44:20Z",
+  "count": 154,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000291",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-22T16:43:11",
+      "modificado": "2026-05-22T16:43:20",
+      "idade_dias": 0,
+      "assunto": "TIPO 9 RRGAAP 2025",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052226000273",
       "cli_id": "TOTVS",
@@ -2533,7 +2556,7 @@
       "atendente": "Diego Cardoso",
       "criado": "2026-01-27T16:44:15",
       "modificado": "2026-05-19T11:43:05",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "Novos TES – Aquisição de Ativo Imobilizado (Base Teste)",
       "escalation_time": 0,
       "escalation_response_time": 0,
