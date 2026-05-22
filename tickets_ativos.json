@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779478225,
-  "generated_at_iso": "2026-05-22T19:30:25Z",
+  "generated_at": 1779478338,
+  "generated_at_iso": "2026-05-22T19:32:18Z",
   "count": 153,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000102",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Debora Gomes",
+      "criado": "2026-05-22T10:32:00",
+      "modificado": "2026-05-22T16:30:29",
+      "idade_dias": 0,
+      "assunto": "Cond. BS - Baixa de titulo não contabiliza",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026051826000085",
       "cli_id": "AUTOZONE",
@@ -81,29 +104,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000102",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-22T10:32:00",
-      "modificado": "2026-05-22T16:21:16",
-      "idade_dias": 0,
-      "assunto": "Cond. BS - Baixa de titulo não contabiliza",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
