@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779447742,
-  "generated_at_iso": "2026-05-22T11:02:22Z",
+  "generated_at": 1779447864,
+  "generated_at_iso": "2026-05-22T11:04:24Z",
   "count": 166,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051426000092",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "atendente": "Guilherme Jonck",
+      "criado": "2026-05-14T09:34:03",
+      "modificado": "2026-05-22T08:03:05",
+      "idade_dias": 7,
+      "assunto": "Adequação do Monitoramento de load dos servidores Linux",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052126000364",
       "cli_id": "TOTVS",
@@ -1461,29 +1484,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051426000092",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
-      "atendente": "Guilherme Jonck",
-      "criado": "2026-05-14T09:34:03",
-      "modificado": "2026-05-21T15:46:47",
-      "idade_dias": 7,
-      "assunto": "Adequação do Monitoramento de load dos servidores Linux",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
