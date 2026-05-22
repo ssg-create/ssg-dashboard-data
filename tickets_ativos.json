@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779484938,
-  "generated_at_iso": "2026-05-22T21:22:18Z",
+  "generated_at": 1779485057,
+  "generated_at_iso": "2026-05-22T21:24:17Z",
   "count": 155,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000139",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Downtimes",
+      "atendente": "Marcelo Pavanate Silva",
+      "criado": "2026-05-22T10:45:25",
+      "modificado": "2026-05-22T18:22:48",
+      "idade_dias": 0,
+      "assunto": "Downtime - #TOTVS-NETWORK - Alertas HOST DOWN - 26052210324362",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052226000335",
       "cli_id": "TOTVS",
@@ -911,29 +934,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000139",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Downtimes",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-05-22T10:45:25",
-      "modificado": "2026-05-22T10:53:52",
-      "idade_dias": 0,
-      "assunto": "Downtime - #TOTVS-NETWORK - Alertas HOST DOWN - 26052210324362",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052126000042",
