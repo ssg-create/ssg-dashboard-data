@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779459860,
-  "generated_at_iso": "2026-05-22T14:24:20Z",
-  "count": 152,
+  "generated_at": 1779459979,
+  "generated_at_iso": "2026-05-22T14:26:19Z",
+  "count": 153,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000111",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-22T10:35:15",
+      "modificado": "2026-05-22T11:25:23",
+      "idade_dias": 0,
+      "assunto": "Liberação de Domínio ",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000071",
       "cli_id": "GroundWork",
@@ -1958,7 +1981,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-20T11:25:07",
       "modificado": "2026-05-21T07:55:09",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Atualizações GMUD AUTOZONE - Protheus Produção - 20/05/2026",
       "escalation_time": 1779369907,
       "escalation_response_time": 1779369907,
