@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779459146,
-  "generated_at_iso": "2026-05-22T14:12:26Z",
+  "generated_at": 1779459271,
+  "generated_at_iso": "2026-05-22T14:14:31Z",
   "counts": {
     "crit": 1,
-    "warn": 3,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -21,25 +21,6 @@
           "abertos": 10,
           "aguardando_terceiros": 0,
           "ativos_total": 13
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 7 tickets",
-      "summary": "Eduardo Candido tem 7 tickets ativos sob sua responsabilidade: 1 em atendimento + 6 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Eduardo Candido",
-          "carga_real": 7,
-          "em_atendimento": 1,
-          "abertos": 6,
-          "aguardando_terceiros": 2,
-          "ativos_total": 10
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
@@ -69,16 +50,16 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila DBA concentrada em AUTOZONE",
-      "summary": "7 de 8 tickets silenciosos na fila DBA (87%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "6 de 7 tickets silenciosos na fila DBA (85%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "DBA",
           "cliente_top": "AUTOZONE",
-          "n_top": 7,
-          "n_total": 8,
-          "pct_top": 0.88,
+          "n_top": 6,
+          "n_total": 7,
+          "pct_top": 0.86,
           "distribuicao": {
-            "AUTOZONE": 7,
+            "AUTOZONE": 6,
             "ALMEIDA JR": 1
           }
         }
