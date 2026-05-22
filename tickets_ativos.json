@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779476427,
-  "generated_at_iso": "2026-05-22T19:00:27Z",
+  "generated_at": 1779476542,
+  "generated_at_iso": "2026-05-22T19:02:22Z",
   "count": 152,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000331",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Scripts",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-15T15:11:37",
+      "modificado": "2026-05-22T16:01:17",
+      "idade_dias": 7,
+      "assunto": "Verificação de ALB e Cloudwatch AWS",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052026000062",
       "cli_id": "FADEL",
@@ -1599,29 +1622,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000331",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Scripts",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-15T15:11:37",
-      "modificado": "2026-05-22T05:00:10",
-      "idade_dias": 7,
-      "assunto": "Verificação de ALB e Cloudwatch AWS",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
