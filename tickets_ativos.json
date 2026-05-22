@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779456978,
-  "generated_at_iso": "2026-05-22T13:36:18Z",
+  "generated_at": 1779457103,
+  "generated_at_iso": "2026-05-22T13:38:23Z",
   "count": 161,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000102",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "NEW",
+      "prioridade": "5 very high",
+      "servico": "",
+      "atendente": "AlmeidaJR Integração Movidesk",
+      "criado": "2026-05-22T10:32:00",
+      "modificado": "2026-05-22T10:37:46",
+      "idade_dias": 0,
+      "assunto": "Cond. BS - Baixa de titulo não contabiliza",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052226000111",
       "cli_id": "FADEL",
@@ -83,29 +106,6 @@
       "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000102",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "NEW",
-      "prioridade": "5 very high",
-      "servico": "",
-      "atendente": "AlmeidaJR Integração Movidesk",
-      "criado": "2026-05-22T10:32:00",
-      "modificado": "2026-05-22T10:32:03",
-      "idade_dias": 0,
-      "assunto": "Cond. BS - Baixa de titulo não contabiliza",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052226000095",
