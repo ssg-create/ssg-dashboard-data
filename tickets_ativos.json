@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779466459,
-  "generated_at_iso": "2026-05-22T16:14:19Z",
+  "generated_at": 1779466578,
+  "generated_at_iso": "2026-05-22T16:16:18Z",
   "count": 153,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050726000499",
+      "cli_id": "PLASTIGLAS",
+      "cliente": "PLASTIGLAS",
+      "fila": "DATASUL",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Sistema - Performance Rotinas",
+      "atendente": "Guilherme Rosa",
+      "criado": "2026-05-07T14:11:59",
+      "modificado": "2026-05-22T13:16:07",
+      "idade_dias": 14,
+      "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000201",
       "cli_id": "FADEL",
@@ -591,29 +614,6 @@
       "sla_solution_min": 0
     },
     {
-      "ticket": "2026050726000499",
-      "cli_id": "PLASTIGLAS",
-      "cliente": "PLASTIGLAS",
-      "fila": "DATASUL",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Datasul::Sistema - Performance Rotinas",
-      "atendente": "Guilherme Rosa",
-      "criado": "2026-05-07T14:11:59",
-      "modificado": "2026-05-22T10:19:20",
-      "idade_dias": 14,
-      "assunto": "Errores en nueva versión de Datasul / Ambiente de Pruebsa",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
       "ticket": "2026052126000391",
       "cli_id": "TOTVS",
       "cliente": "TOTVS",
@@ -1176,7 +1176,7 @@
       "atendente": "Marcio Guimaraes",
       "criado": "2026-05-20T13:15:22",
       "modificado": "2026-05-22T05:00:11",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "DASH RM ARCO",
       "escalation_time": 0,
       "escalation_response_time": 0,
