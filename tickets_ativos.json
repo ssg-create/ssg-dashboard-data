@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779453742,
-  "generated_at_iso": "2026-05-22T12:42:22Z",
+  "generated_at": 1779453864,
+  "generated_at_iso": "2026-05-22T12:44:24Z",
   "count": 161,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000086",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-22T09:35:39",
+      "modificado": "2026-05-22T09:42:32",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO",
+      "escalation_time": 1779708939,
+      "escalation_response_time": 1779708939,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000077",
       "cli_id": "ADELCO",
@@ -106,29 +129,6 @@
       "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000086",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-22T09:35:39",
-      "modificado": "2026-05-22T09:35:42",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052226000041",
