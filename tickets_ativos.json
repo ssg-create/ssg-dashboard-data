@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779496095,
-  "generated_at_iso": "2026-05-23T00:28:15Z",
-  "count": 156,
+  "generated_at": 1779496224,
+  "generated_at_iso": "2026-05-23T00:30:24Z",
+  "count": 157,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000381",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-22T21:30:08",
+      "modificado": "2026-05-22T21:30:10",
+      "idade_dias": 0,
+      "assunto": "ARCO - Alertas HOST DOWN - 26052221242491",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052226000371",
       "cli_id": "monitoramento@groundwork.com.br",
