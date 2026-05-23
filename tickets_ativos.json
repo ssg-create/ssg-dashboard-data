@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779571937,
-  "generated_at_iso": "2026-05-23T21:32:17Z",
+  "generated_at": 1779572060,
+  "generated_at_iso": "2026-05-23T21:34:20Z",
   "count": 156,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000282",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)::NOC",
+      "atendente": "Jeferson Fretta",
+      "criado": "2026-05-22T16:10:22",
+      "modificado": "2026-05-23T18:34:20",
+      "idade_dias": 1,
+      "assunto": "Downtime",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051826000487",
       "cli_id": "AUTOZONE",
@@ -1348,29 +1371,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000282",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)::NOC",
-      "atendente": "Marcelo Pavanate Silva",
-      "criado": "2026-05-22T16:10:22",
-      "modificado": "2026-05-22T17:01:47",
-      "idade_dias": 1,
-      "assunto": "Downtime",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026051826000085",
