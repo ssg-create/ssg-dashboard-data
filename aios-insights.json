@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T14:28:25.794128",
+  "generated_at": "2026-05-23T14:30:30.007630",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
@@ -31,7 +31,7 @@
       }
     ],
     "risco_principal": {
-      "label": "40 chamados +30 dias",
+      "label": "41 chamados +30 dias",
       "desc": "Chamados críticos sem resolução"
     },
     "oportunidade": {
@@ -57,7 +57,7 @@
       "confianca": 92
     },
     {
-      "titulo": "40 chamados abertos há mais de 30 dias",
+      "titulo": "41 chamados abertos há mais de 30 dias",
       "desc": "Chamados com aging superior a 30 dias representam risco de escalonamento pelo cliente e impacto direto no health score da conta.",
       "nivel": "high",
       "confianca": 95
@@ -120,7 +120,7 @@
     },
     {
       "cliente": "GroundWork",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 535 chamados (10% do total). <strong>2 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. 3 chamados entre 15 e 30 dias sem resolução — intervenção preventiva recomendada.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 535 chamados (10% do total). <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
@@ -129,16 +129,10 @@
           "confianca": 78
         },
         {
-          "titulo": "2 chamado(s) com aging crítico (+30 dias)",
+          "titulo": "3 chamado(s) com aging crítico (+30 dias)",
           "desc": "Chamados acumulados sem resolução representam risco direto de insatisfação e possível escalonamento para a gestão do cliente.",
           "nivel": "high",
           "confianca": 93
-        },
-        {
-          "titulo": "3 chamados próximos do limite de aging",
-          "desc": "Chamados entre 15–30 dias que podem virar críticos. Priorização nos próximos 2 dias evita escalonamento.",
-          "nivel": "medium",
-          "confianca": 80
         },
         {
           "titulo": "SLA de resposta fora do contrato (124.0 min)",
@@ -208,7 +202,7 @@
     },
     {
       "cliente": "GroundWork",
-      "narrativa": "Conta com <strong>2 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O tempo médio de resposta para esta conta foi de <strong>124.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
+      "narrativa": "Conta com <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O tempo médio de resposta para esta conta foi de <strong>124.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
       "proximo_contato": "em até 2 dias úteis",
       "tom_sugerido": "proativo · transparente",
       "prioridade": "alta"
