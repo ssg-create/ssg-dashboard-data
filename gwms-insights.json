@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779578063,
-  "generated_at_iso": "2026-05-23T23:14:23Z",
+  "generated_at": 1779578188,
+  "generated_at_iso": "2026-05-23T23:16:28Z",
   "counts": {
     "crit": 1,
-    "warn": 1,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -43,6 +43,28 @@
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "fila_concentrada_INFRAESTUTURA_FADEL",
+      "severity": "warn",
+      "category": "distribuicao",
+      "title": "Fila INFRAESTUTURA concentrada em FADEL",
+      "summary": "3 de 5 tickets silenciosos na fila INFRAESTUTURA (60%) são do cliente FADEL. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "evidence": [
+        {
+          "fila": "INFRAESTUTURA",
+          "cliente_top": "FADEL",
+          "n_top": 3,
+          "n_total": 5,
+          "pct_top": 0.6,
+          "distribuicao": {
+            "FADEL": 3,
+            "DKT": 2
+          }
+        }
+      ],
+      "recommendation": "Revisar contrato/SLA de FADEL na fila INFRAESTUTURA. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
