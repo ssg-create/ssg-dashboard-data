@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779626059,
-  "generated_at_iso": "2026-05-24T12:34:19Z",
-  "count": 164,
+  "generated_at": 1779626177,
+  "generated_at_iso": "2026-05-24T12:36:17Z",
+  "count": 165,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052426000046",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-24T09:35:05",
+      "modificado": "2026-05-24T09:35:08",
+      "idade_dias": 0,
+      "assunto": "WILLY - Alertas CRITICAL - 26052409342899",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026051826000487",
       "cli_id": "AUTOZONE",
@@ -3315,7 +3338,7 @@
       "atendente": "Jean Pierre Rocha",
       "criado": "2026-05-06T09:34:42",
       "modificado": "2026-05-06T09:38:27",
-      "idade_dias": 17,
+      "idade_dias": 18,
       "assunto": "Solicitações de Trade Marketing - Verificar se a alteração de Status dispara e-mails avisando os envolvidos",
       "escalation_time": 0,
       "escalation_response_time": 0,
