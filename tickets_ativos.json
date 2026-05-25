@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779728056,
-  "generated_at_iso": "2026-05-25T16:54:16Z",
-  "count": 162,
+  "generated_at": 1779728180,
+  "generated_at_iso": "2026-05-25T16:56:20Z",
+  "count": 163,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052526000259",
+      "cli_id": "servicedesk@teletex.com",
+      "cliente": "servicedesk@teletex.com",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-25T13:55:08",
+      "modificado": "2026-05-25T13:55:10",
+      "idade_dias": 0,
+      "assunto": "ZURICH - OTIMIZAÇÃO SQL - CS0017887",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052526000241",
       "cli_id": "LPA",
@@ -2464,7 +2487,7 @@
       "atendente": "Diego Carvalho",
       "criado": "2026-05-15T13:55:13",
       "modificado": "2026-05-21T17:45:27",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Demandas Power Automate",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -3269,7 +3292,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2026-01-30T13:55:07",
       "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 114,
+      "idade_dias": 115,
       "assunto": "ENC: AZ - Chamado 2025111226000344",
       "escalation_time": 0,
       "escalation_response_time": 0,
