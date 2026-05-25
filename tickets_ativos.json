@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779726859,
-  "generated_at_iso": "2026-05-25T16:34:19Z",
+  "generated_at": 1779726941,
+  "generated_at_iso": "2026-05-25T16:35:41Z",
   "count": 163,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052526000151",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-25T10:40:23",
+      "modificado": "2026-05-25T13:34:27",
+      "idade_dias": 0,
+      "assunto": "Remoção de máquina 10.4.1.10",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052526000188",
       "cli_id": "AUTOZONE",
@@ -288,29 +311,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052526000151",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "INFRAESTUTURA",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-25T10:40:23",
-      "modificado": "2026-05-25T11:43:41",
-      "idade_dias": 0,
-      "assunto": "Remoção de máquina 10.4.1.10",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
