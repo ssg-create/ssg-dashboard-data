@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779716659,
-  "generated_at_iso": "2026-05-25T13:44:19Z",
+  "generated_at": 1779716780,
+  "generated_at_iso": "2026-05-25T13:46:20Z",
   "count": 157,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052526000099",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Bruno Fagundes",
+      "criado": "2026-05-25T09:05:12",
+      "modificado": "2026-05-25T10:44:30",
+      "idade_dias": 0,
+      "assunto": "RES: #TOTVS-SERVERS - URLS_HLCLOUD - TOTVS12 - HLCloud Pendente - 26052422454019",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052526000133",
       "cli_id": "TJBA (TELETEX)",
@@ -495,29 +518,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052526000099",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Bruno Fagundes",
-      "criado": "2026-05-25T09:05:12",
-      "modificado": "2026-05-25T10:05:35",
-      "idade_dias": 0,
-      "assunto": "RES: #TOTVS-SERVERS - URLS_HLCLOUD - TOTVS12 - HLCloud Pendente - 26052422454019",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
