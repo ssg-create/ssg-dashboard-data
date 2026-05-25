@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779713307,
-  "generated_at_iso": "2026-05-25T12:48:27Z",
+  "generated_at": 1779713429,
+  "generated_at_iso": "2026-05-25T12:50:29Z",
   "counts": {
     "crit": 2,
     "warn": 2,
@@ -12,13 +12,13 @@
       "severity": "crit",
       "category": "capacidade",
       "title": "Thiago Trufelli com carga real de 13 tickets",
-      "summary": "Thiago Trufelli tem 13 tickets ativos sob sua responsabilidade: 0 em atendimento + 13 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Thiago Trufelli tem 13 tickets ativos sob sua responsabilidade: 1 em atendimento + 12 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Thiago Trufelli",
           "carga_real": 13,
-          "em_atendimento": 0,
-          "abertos": 13,
+          "em_atendimento": 1,
+          "abertos": 12,
           "aguardando_terceiros": 5,
           "ativos_total": 18
         }
