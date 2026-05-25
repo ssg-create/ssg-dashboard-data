@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779729389,
-  "generated_at_iso": "2026-05-25T17:16:29Z",
+  "generated_at": 1779729507,
+  "generated_at_iso": "2026-05-25T17:18:27Z",
   "counts": {
     "crit": 2,
     "warn": 1,
@@ -12,15 +12,15 @@
       "severity": "crit",
       "category": "capacidade",
       "title": "Thiago Trufelli com carga real de 13 tickets",
-      "summary": "Thiago Trufelli tem 13 tickets ativos sob sua responsabilidade: 9 em atendimento + 4 abertos (além de 5 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Thiago Trufelli tem 13 tickets ativos sob sua responsabilidade: 9 em atendimento + 4 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Thiago Trufelli",
           "carga_real": 13,
           "em_atendimento": 9,
           "abertos": 4,
-          "aguardando_terceiros": 5,
-          "ativos_total": 18
+          "aguardando_terceiros": 4,
+          "ativos_total": 17
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
