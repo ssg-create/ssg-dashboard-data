@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779733456,
-  "generated_at_iso": "2026-05-25T18:24:16Z",
+  "generated_at": 1779733576,
+  "generated_at_iso": "2026-05-25T18:26:16Z",
   "count": 154,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052026000151",
+      "cli_id": "DKT",
+      "cliente": "DKT",
+      "fila": "INFRAESTUTURA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Infraestrutura e Cloud",
+      "atendente": "Fabiano Souza",
+      "criado": "2026-05-20T11:09:45",
+      "modificado": "2026-05-25T15:25:21",
+      "idade_dias": 5,
+      "assunto": "GPO - Revisão de todas as GPOs",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000219",
       "cli_id": "FADEL",
@@ -58,29 +81,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052026000151",
-      "cli_id": "DKT",
-      "cliente": "DKT",
-      "fila": "INFRAESTUTURA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::Infraestrutura e Cloud",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-20T11:09:45",
-      "modificado": "2026-05-25T15:19:31",
-      "idade_dias": 5,
-      "assunto": "GPO - Revisão de todas as GPOs",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
