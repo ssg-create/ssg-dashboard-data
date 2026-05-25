@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779734659,
-  "generated_at_iso": "2026-05-25T18:44:19Z",
+  "generated_at": 1779734781,
+  "generated_at_iso": "2026-05-25T18:46:21Z",
   "count": 154,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051526000054",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-15T08:08:47",
+      "modificado": "2026-05-25T15:46:12",
+      "idade_dias": 10,
+      "assunto": "EMPRESA 2 FINFARM",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000219",
       "cli_id": "FADEL",
@@ -2404,29 +2427,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051526000054",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "EM ATENDIMENTO",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-15T08:08:47",
-      "modificado": "2026-05-21T14:12:10",
-      "idade_dias": 10,
-      "assunto": "EMPRESA 2 FINFARM",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
