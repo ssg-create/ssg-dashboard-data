@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779714858,
-  "generated_at_iso": "2026-05-25T13:14:18Z",
+  "generated_at": 1779714978,
+  "generated_at_iso": "2026-05-25T13:16:18Z",
   "count": 156,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052526000133",
+      "cli_id": "TJBA",
+      "cliente": "TJBA",
+      "fila": "NOC",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Relatórios",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-25T10:08:20",
+      "modificado": "2026-05-25T10:15:03",
+      "idade_dias": 0,
+      "assunto": "Solicitação de Relatório de Alertas Warning",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052526000124",
       "cli_id": "FADEL",
@@ -152,29 +175,6 @@
       "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052526000133",
-      "cli_id": "TJBA",
-      "cliente": "TJBA",
-      "fila": "NOC",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Relatórios",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-25T10:08:20",
-      "modificado": "2026-05-25T10:09:47",
-      "idade_dias": 0,
-      "assunto": "Solicitação de Relatório de Alertas Warning",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052326000119",
