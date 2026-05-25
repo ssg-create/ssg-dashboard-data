@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779708865,
-  "generated_at_iso": "2026-05-25T11:34:25Z",
+  "generated_at": 1779708984,
+  "generated_at_iso": "2026-05-25T11:36:24Z",
   "counts": {
-    "crit": 2,
-    "warn": 3,
+    "crit": 3,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -47,18 +47,18 @@
     },
     {
       "id": "sobrecarga_Pedro_Luiz",
-      "severity": "warn",
+      "severity": "crit",
       "category": "capacidade",
-      "title": "Pedro Luiz com carga real de 7 tickets",
-      "summary": "Pedro Luiz tem 7 tickets ativos sob sua responsabilidade: 0 em atendimento + 7 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Pedro Luiz com carga real de 8 tickets",
+      "summary": "Pedro Luiz tem 8 tickets ativos sob sua responsabilidade: 0 em atendimento + 8 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Pedro Luiz",
-          "carga_real": 7,
+          "carga_real": 8,
           "em_atendimento": 0,
-          "abertos": 7,
+          "abertos": 8,
           "aguardando_terceiros": 2,
-          "ativos_total": 9
+          "ativos_total": 10
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
