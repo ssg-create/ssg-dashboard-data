@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779709940,
-  "generated_at_iso": "2026-05-25T11:52:20Z",
+  "generated_at": 1779710057,
+  "generated_at_iso": "2026-05-25T11:54:17Z",
   "count": 164,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052326000048",
+      "cli_id": "TJBA (TELETEX)",
+      "cliente": "TJBA (TELETEX)",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-23T08:22:05",
+      "modificado": "2026-05-25T08:53:44",
+      "idade_dias": 2,
+      "assunto": "Ajuste Monitoramento Servidores Windows",
+      "escalation_time": 1779739200,
+      "escalation_response_time": 1779739200,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052326000039",
       "cli_id": "GroundWork",
@@ -81,29 +104,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052326000048",
-      "cli_id": "TJBA (TELETEX)",
-      "cliente": "TJBA (TELETEX)",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Serviços",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-23T08:22:05",
-      "modificado": "2026-05-25T08:46:00",
-      "idade_dias": 2,
-      "assunto": "Ajuste Monitoramento Servidores Windows",
-      "escalation_time": 1779739200,
-      "escalation_response_time": 1779739200,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
