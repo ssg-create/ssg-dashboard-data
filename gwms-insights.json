@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779821030,
-  "generated_at_iso": "2026-05-26T18:43:50Z",
+  "generated_at": 1779821438,
+  "generated_at_iso": "2026-05-26T18:50:38Z",
   "counts": {
     "crit": 1,
-    "warn": 2,
+    "warn": 1,
     "ok": 0
   },
   "insights": [
@@ -43,31 +43,6 @@
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "fila_concentrada_GWMS_GroundWork",
-      "severity": "warn",
-      "category": "distribuicao",
-      "title": "Fila GWMS concentrada em GroundWork",
-      "summary": "6 de 10 tickets silenciosos na fila GWMS (60%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
-      "evidence": [
-        {
-          "fila": "GWMS",
-          "cliente_top": "GroundWork",
-          "n_top": 6,
-          "n_total": 10,
-          "pct_top": 0.6,
-          "distribuicao": {
-            "GroundWork": 6,
-            "FADEL": 1,
-            "IMCD": 1,
-            "AGROSUL": 1,
-            "TOTVS": 1
-          }
-        }
-      ],
-      "recommendation": "Revisar contrato/SLA de GroundWork na fila GWMS. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
