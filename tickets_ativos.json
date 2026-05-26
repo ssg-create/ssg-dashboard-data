@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779836900,
-  "generated_at_iso": "2026-05-26T23:08:20Z",
+  "generated_at": 1779837026,
+  "generated_at_iso": "2026-05-26T23:10:26Z",
   "count": 140,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052626000293",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "2 low",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-26T17:20:42",
+      "modificado": "2026-05-26T20:08:54",
+      "idade_dias": 0,
+      "assunto": "Baixa de títulos que não contabilizam",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052226000157",
       "cli_id": "ALMEIDA JR",
@@ -150,29 +173,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052626000293",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "2 low",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-26T17:20:42",
-      "modificado": "2026-05-26T17:41:58",
-      "idade_dias": 0,
-      "assunto": "Baixa de títulos que não contabilizam",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
