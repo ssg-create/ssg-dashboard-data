@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779826340,
-  "generated_at_iso": "2026-05-26T20:12:20Z",
+  "generated_at": 1779826458,
+  "generated_at_iso": "2026-05-26T20:14:18Z",
   "count": 143,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052626000275",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-26T16:55:07",
+      "modificado": "2026-05-26T17:12:45",
+      "idade_dias": 0,
+      "assunto": "RE: Copia de tabelas - Produção ",
+      "escalation_time": 1779908107,
+      "escalation_response_time": 1779908107,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052626000079",
       "cli_id": "BRAVEO",
@@ -60,29 +83,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052626000275",
-      "cli_id": "eduardo.candido@groundwork.com.br",
-      "cliente": "eduardo.candido@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-26T16:55:07",
-      "modificado": "2026-05-26T16:55:12",
-      "idade_dias": 0,
-      "assunto": "RE: Copia de tabelas - Produção ",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052126000141",
