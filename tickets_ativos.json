@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779838100,
-  "generated_at_iso": "2026-05-26T23:28:20Z",
-  "count": 140,
+  "generated_at": 1779838224,
+  "generated_at_iso": "2026-05-26T23:30:24Z",
+  "count": 141,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052626000319",
+      "cli_id": "rodrigo.cuani@groundwork.com.br",
+      "cliente": "rodrigo.cuani@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-26T20:30:14",
+      "modificado": "2026-05-26T20:30:17",
+      "idade_dias": 0,
+      "assunto": "Re: Problemas gwmsconsulta GWMS Autozone - Lock em banco",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052626000177",
       "cli_id": "FINPEC",
@@ -1912,7 +1935,7 @@
       "atendente": "Eduardo Candido",
       "criado": "2026-05-23T20:30:06",
       "modificado": "2026-05-25T08:27:31",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "AUTOZONE - SRV-SQL-PRD - SQL:Jobs - 26052320281553",
       "escalation_time": 0,
       "escalation_response_time": 0,
