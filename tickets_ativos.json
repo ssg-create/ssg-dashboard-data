@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779822501,
-  "generated_at_iso": "2026-05-26T19:08:21Z",
+  "generated_at": 1779822627,
+  "generated_at_iso": "2026-05-26T19:10:27Z",
   "count": 145,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052626000248",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Vinicius Vedove",
+      "criado": "2026-05-26T15:55:37",
+      "modificado": "2026-05-26T16:08:58",
+      "idade_dias": 0,
+      "assunto": "TROCA DE USUÁRIO",
+      "escalation_time": 1779904537,
+      "escalation_response_time": 1779904537,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052626000239",
       "cli_id": "GroundWork",
@@ -152,29 +175,6 @@
       "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052626000248",
-      "cli_id": "FADEL",
-      "cliente": "FADEL",
-      "fila": "INFRAESTUTURA",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-26T15:55:37",
-      "modificado": "2026-05-26T15:55:43",
-      "idade_dias": 0,
-      "assunto": "TROCA DE USUÁRIO",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052626000177",
@@ -1291,7 +1291,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-01-08T16:09:01",
       "modificado": "2026-05-26T05:00:03",
-      "idade_dias": 137,
+      "idade_dias": 138,
       "assunto": "Atualização tabela Imposto de Renda - 2026",
       "escalation_time": 0,
       "escalation_response_time": 0,
