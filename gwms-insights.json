@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779825266,
-  "generated_at_iso": "2026-05-26T19:54:26Z",
+  "generated_at": 1779825393,
+  "generated_at_iso": "2026-05-26T19:56:33Z",
   "counts": {
     "crit": 1,
-    "warn": 1,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -43,6 +43,28 @@
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "fila_concentrada_DBA_AUTOZONE",
+      "severity": "warn",
+      "category": "distribuicao",
+      "title": "Fila DBA concentrada em AUTOZONE",
+      "summary": "3 de 5 tickets silenciosos na fila DBA (60%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "evidence": [
+        {
+          "fila": "DBA",
+          "cliente_top": "AUTOZONE",
+          "n_top": 3,
+          "n_total": 5,
+          "pct_top": 0.6,
+          "distribuicao": {
+            "AUTOZONE": 3,
+            "TELETEX": 2
+          }
+        }
+      ],
+      "recommendation": "Revisar contrato/SLA de AUTOZONE na fila DBA. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
