@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779828626,
-  "generated_at_iso": "2026-05-26T20:50:26Z",
+  "generated_at": 1779828741,
+  "generated_at_iso": "2026-05-26T20:52:21Z",
   "count": 144,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052226000157",
+      "cli_id": "ALMEIDA JR",
+      "cliente": "ALMEIDA JR",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "4 high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-05-22T11:57:29",
+      "modificado": "2026-05-26T17:50:42",
+      "idade_dias": 4,
+      "assunto": "Erro sistêmico nos saldos de adiantamento de contrato",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 10,
+      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
+      "sla_first_response_min": 240,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052626000301",
       "cli_id": "ALMEIDA JR",
@@ -426,29 +449,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052226000157",
-      "cli_id": "ALMEIDA JR",
-      "cliente": "ALMEIDA JR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "4 high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-05-22T11:57:29",
-      "modificado": "2026-05-26T14:39:28",
-      "idade_dias": 4,
-      "assunto": "Erro sistêmico nos saldos de adiantamento de contrato",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 10,
-      "sla_name": "SLA - CRITICIDADE ALTO - 4H",
-      "sla_first_response_min": 240,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
