@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779792029,
-  "generated_at_iso": "2026-05-26T10:40:29Z",
+  "generated_at": 1779801941,
+  "generated_at_iso": "2026-05-26T13:25:41Z",
   "counts": {
     "crit": 1,
-    "warn": 2,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -50,23 +50,46 @@
       "severity": "warn",
       "category": "distribuicao",
       "title": "Fila GWMS concentrada em GroundWork",
-      "summary": "6 de 9 tickets silenciosos na fila GWMS (66%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "summary": "6 de 10 tickets silenciosos na fila GWMS (60%) são do cliente GroundWork. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
       "evidence": [
         {
           "fila": "GWMS",
           "cliente_top": "GroundWork",
           "n_top": 6,
-          "n_total": 9,
-          "pct_top": 0.67,
+          "n_total": 10,
+          "pct_top": 0.6,
           "distribuicao": {
             "GroundWork": 6,
             "FADEL": 1,
             "IMCD": 1,
-            "AGROSUL": 1
+            "AGROSUL": 1,
+            "TOTVS": 1
           }
         }
       ],
       "recommendation": "Revisar contrato/SLA de GroundWork na fila GWMS. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "fila_concentrada_DBA_AUTOZONE",
+      "severity": "warn",
+      "category": "distribuicao",
+      "title": "Fila DBA concentrada em AUTOZONE",
+      "summary": "5 de 7 tickets silenciosos na fila DBA (71%) são do cliente AUTOZONE. Concentração alta pode indicar SLA subdimensionado ou problema recorrente.",
+      "evidence": [
+        {
+          "fila": "DBA",
+          "cliente_top": "AUTOZONE",
+          "n_top": 5,
+          "n_total": 7,
+          "pct_top": 0.71,
+          "distribuicao": {
+            "AUTOZONE": 5,
+            "TELETEX": 2
+          }
+        }
+      ],
+      "recommendation": "Revisar contrato/SLA de AUTOZONE na fila DBA. Avaliar alocação de recurso específico ou negociar volume diferenciado.",
       "impact_estimate": "médio"
     }
   ]
