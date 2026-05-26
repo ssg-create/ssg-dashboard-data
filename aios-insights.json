@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T10:40:30.113346",
+  "generated_at": "2026-05-26T13:25:43.349391",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>79 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (55.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 100.7h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
+    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>76 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (55.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 100.6h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
     "kpis": [
       {
         "label": "Score Operacional",
@@ -52,7 +52,7 @@
     },
     {
       "titulo": "Volume crítico de chamados bloqueados",
-      "desc": "79 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
+      "desc": "76 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
       "nivel": "high",
       "confianca": 92
     },
@@ -72,11 +72,11 @@
   "riscos_clientes": [
     {
       "cliente": "AUTOZONE",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 1234 chamados (24% do total). <strong>8 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 1236 chamados (24% do total). <strong>8 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "1234 chamados (24% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "1236 chamados (24% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -90,11 +90,11 @@
     },
     {
       "cliente": "TOTVS",
-      "narrativa": "Conta com <strong>volume acima da média</strong> — 622 chamados (12% do total). <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>(GWMS) Operacional</strong> concentra 50% dos chamados desta conta — possível reincidência.",
+      "narrativa": "Conta com <strong>volume acima da média</strong> — 624 chamados (12% do total). <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong> — risco imediato de escalonamento. O módulo <strong>(GWMS) Operacional</strong> concentra 50% dos chamados desta conta — possível reincidência.",
       "riscos": [
         {
           "titulo": "Volume acima da média do período",
-          "desc": "622 chamados (12% do total). Verificar se há problema sistêmico ou sazonalidade.",
+          "desc": "624 chamados (12% do total). Verificar se há problema sistêmico ou sazonalidade.",
           "nivel": "medium",
           "confianca": 78
         },
@@ -105,8 +105,8 @@
           "confianca": 93
         },
         {
-          "titulo": "SLA de resposta fora do contrato (137.0 min)",
-          "desc": "Mediana de primeira resposta nesta conta: 137.0 min. Acima da meta contratual de 30 min.",
+          "titulo": "SLA de resposta fora do contrato (136.0 min)",
+          "desc": "Mediana de primeira resposta nesta conta: 136.0 min. Acima da meta contratual de 30 min.",
           "nivel": "high",
           "confianca": 85
         },
@@ -195,7 +195,7 @@
     },
     {
       "cliente": "TOTVS",
-      "narrativa": "Conta com <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O módulo <strong>(GWMS) Operacional</strong> representa 50% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.<br><br>O tempo médio de resposta para esta conta foi de <strong>137.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
+      "narrativa": "Conta com <strong>3 chamado(s) aberto(s) há mais de 30 dias</strong>. Contato proativo urgente necessário antes que o cliente acione a gestão.<br><br>O módulo <strong>(GWMS) Operacional</strong> representa 50% dos chamados desta conta. Sugerir uma <strong>sessão de alinhamento técnico</strong> pode quebrar o ciclo de reincidência e reduzir volume.<br><br>O tempo médio de resposta para esta conta foi de <strong>136.0 min</strong>, acima do SLA contratado. Reconhecer proativamente e apresentar plano de melhoria.",
       "proximo_contato": "em até 2 dias úteis",
       "tom_sugerido": "proativo · transparente",
       "prioridade": "alta"
