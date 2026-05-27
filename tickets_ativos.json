@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779893903,
-  "generated_at_iso": "2026-05-27T14:58:23Z",
+  "generated_at": 1779894034,
+  "generated_at_iso": "2026-05-27T15:00:34Z",
   "count": 134,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052726000111",
+      "cli_id": "monitoramento-noc@groundwork.com.br",
+      "cliente": "monitoramento-noc@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-27T12:00:18",
+      "modificado": "2026-05-27T12:00:21",
+      "idade_dias": 0,
+      "assunto": "Downtime Storage Data Domain sposvtot-dd02.sp01.local",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026042326000013",
       "cli_id": "AUTOZONE",
@@ -472,29 +495,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052526000231",
-      "cli_id": "CNN",
-      "cliente": "CNN",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO AGENTES EXTERNOS",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Vinicius Vedove",
-      "criado": "2026-05-25T13:20:24",
-      "modificado": "2026-05-27T09:12:30",
-      "idade_dias": 1,
-      "assunto": "Licenças Office365 - CNN",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
