@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779920071,
-  "generated_at_iso": "2026-05-27T22:14:31Z",
+  "generated_at": 1779920184,
+  "generated_at_iso": "2026-05-27T22:16:24Z",
   "counts": {
     "crit": 1,
     "warn": 2,
@@ -49,15 +49,15 @@
       "id": "sobrecarga_Eduardo_Candido",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 6 tickets",
-      "summary": "Eduardo Candido tem 6 tickets ativos sob sua responsabilidade: 0 em atendimento + 6 abertos (além de 2 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Eduardo Candido com carga real de 5 tickets",
+      "summary": "Eduardo Candido tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Eduardo Candido",
-          "carga_real": 6,
+          "carga_real": 5,
           "em_atendimento": 0,
-          "abertos": 6,
-          "aguardando_terceiros": 2,
+          "abertos": 5,
+          "aguardando_terceiros": 3,
           "ativos_total": 8
         }
       ],
