@@ -1,12 +1,31 @@
 {
-  "generated_at": 1779894043,
-  "generated_at_iso": "2026-05-27T15:00:43Z",
+  "generated_at": 1779894157,
+  "generated_at_iso": "2026-05-27T15:02:37Z",
   "counts": {
     "crit": 1,
-    "warn": 1,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
+    {
+      "id": "sobrecarga_Dyalef_Abreu_Santos",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Dyalef Abreu Santos com carga real de 5 tickets",
+      "summary": "Dyalef Abreu Santos tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 10 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Dyalef Abreu Santos",
+          "carga_real": 5,
+          "em_atendimento": 0,
+          "abertos": 5,
+          "aguardando_terceiros": 10,
+          "ativos_total": 15
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
     {
       "id": "sobrecarga_Jean_Pierre_Rocha",
       "severity": "crit",
