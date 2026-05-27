@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779896190,
-  "generated_at_iso": "2026-05-27T15:36:30Z",
+  "generated_at": 1779896300,
+  "generated_at_iso": "2026-05-27T15:38:20Z",
   "count": 137,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052726000111",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "NOC",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Downtimes",
+      "atendente": "Gabriel Bruno",
+      "criado": "2026-05-27T12:00:18",
+      "modificado": "2026-05-27T12:37:29",
+      "idade_dias": 0,
+      "assunto": "Downtime Storage Data Domain sposvtot-dd02.sp01.local",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052726000148",
       "cli_id": "BRAVEO",
@@ -129,29 +152,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052726000111",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "NOC",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Downtimes",
-      "atendente": "Gabriel Bruno",
-      "criado": "2026-05-27T12:00:18",
-      "modificado": "2026-05-27T12:09:55",
-      "idade_dias": 0,
-      "assunto": "Downtime Storage Data Domain sposvtot-dd02.sp01.local",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026042326000013",
