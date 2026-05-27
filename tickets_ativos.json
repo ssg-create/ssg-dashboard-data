@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779906507,
-  "generated_at_iso": "2026-05-27T18:28:27Z",
-  "count": 142,
+  "generated_at": 1779906634,
+  "generated_at_iso": "2026-05-27T18:30:34Z",
+  "count": 143,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052726000308",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-27T15:30:06",
+      "modificado": "2026-05-27T15:30:07",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_VM-GWMSTLX-INF01 - Influxdb Check Writes - 26052715265333",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052726000291",
       "cli_id": "FADEL",
@@ -1682,7 +1705,7 @@
       "atendente": "Cristiano Scaranci",
       "criado": "2026-05-25T15:30:21",
       "modificado": "2026-05-26T16:04:17",
-      "idade_dias": 1,
+      "idade_dias": 2,
       "assunto": "Lançamentos 04/02 e 24/02",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -2602,7 +2625,7 @@
       "atendente": "Eduardo Souza",
       "criado": "2026-04-08T15:30:31",
       "modificado": "2026-05-20T09:11:30",
-      "idade_dias": 48,
+      "idade_dias": 49,
       "assunto": "Relatorio de Ativo Customizado",
       "escalation_time": 0,
       "escalation_response_time": 0,
