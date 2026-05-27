@@ -1,7 +1,7 @@
 {
-  "generated_at": 1779905299,
-  "generated_at_iso": "2026-05-27T18:08:19Z",
-  "count": 137,
+  "generated_at": 1779905424,
+  "generated_at_iso": "2026-05-27T18:10:24Z",
+  "count": 138,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052726000255",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-27T15:10:23",
+      "modificado": "2026-05-27T15:10:23",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_SP-MON-NET-CENT01 - Log:ces_broker_x_gwms_cstg_gwms-stream-connector - ERROR - 26052715071584",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052726000201",
       "cli_id": "TELETEX",
@@ -1130,7 +1153,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-18T15:10:22",
       "modificado": "2026-05-27T05:00:04",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Ajuste de monitoramento de impressoras ARCO – horário de acionamento de alertas",
       "escalation_time": 0,
       "escalation_response_time": 0,
