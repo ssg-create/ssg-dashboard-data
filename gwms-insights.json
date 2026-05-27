@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779908190,
-  "generated_at_iso": "2026-05-27T18:56:30Z",
+  "generated_at": 1779908325,
+  "generated_at_iso": "2026-05-27T18:58:45Z",
   "counts": {
     "crit": 1,
-    "warn": 2,
+    "warn": 3,
     "ok": 0
   },
   "insights": [
@@ -58,6 +58,25 @@
           "em_atendimento": 0,
           "abertos": 6,
           "aguardando_terceiros": 0,
+          "ativos_total": 6
+        }
+      ],
+      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
+      "impact_estimate": "médio"
+    },
+    {
+      "id": "sobrecarga_Vinicius_Vedove",
+      "severity": "warn",
+      "category": "capacidade",
+      "title": "Vinicius Vedove com carga real de 5 tickets",
+      "summary": "Vinicius Vedove tem 5 tickets ativos sob sua responsabilidade: 4 em atendimento + 1 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "evidence": [
+        {
+          "atendente": "Vinicius Vedove",
+          "carga_real": 5,
+          "em_atendimento": 4,
+          "abertos": 1,
+          "aguardando_terceiros": 1,
           "ativos_total": 6
         }
       ],
