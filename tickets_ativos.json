@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779893543,
-  "generated_at_iso": "2026-05-27T14:52:23Z",
+  "generated_at": 1779893665,
+  "generated_at_iso": "2026-05-27T14:54:25Z",
   "count": 134,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026051826000218",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Diego Cardoso",
+      "criado": "2026-05-18T11:35:13",
+      "modificado": "2026-05-27T11:52:30",
+      "idade_dias": 9,
+      "assunto": "RES: RES: RES: RES: [EXTERNAL] Re: RES: AZ | Inclusão das TESs no LP - Documento de Entrada",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026012726000468",
       "cli_id": "AUTOZONE",
@@ -2381,29 +2404,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026051826000218",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Diego Cardoso",
-      "criado": "2026-05-18T11:35:13",
-      "modificado": "2026-05-19T11:45:05",
-      "idade_dias": 9,
-      "assunto": "RES: RES: RES: RES: [EXTERNAL] Re: RES: AZ | Inclusão das TESs no LP - Documento de Entrada",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
