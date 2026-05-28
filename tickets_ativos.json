@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780003701,
-  "generated_at_iso": "2026-05-28T21:28:21Z",
-  "count": 145,
+  "generated_at": 1780003830,
+  "generated_at_iso": "2026-05-28T21:30:30Z",
+  "count": 146,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000075",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-28T10:00:14",
+      "modificado": "2026-05-28T18:30:24",
+      "idade_dias": 0,
+      "assunto": "Your message could not be delivered",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000101",
       "cli_id": "FINPEC",
