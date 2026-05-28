@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780005259,
-  "generated_at_iso": "2026-05-28T21:54:19Z",
+  "generated_at": 1780005378,
+  "generated_at_iso": "2026-05-28T21:56:18Z",
   "count": 146,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000119",
+      "cli_id": "SERVENG",
+      "cliente": "SERVENG",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-28T11:25:06",
+      "modificado": "2026-05-28T18:55:07",
+      "idade_dias": 0,
+      "assunto": "Pacote manutenção - UNO",
+      "escalation_time": 1780061106,
+      "escalation_response_time": 1780061106,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000333",
       "cli_id": "CONTINENTAL",
@@ -1001,29 +1024,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000119",
-      "cli_id": "SERVENG",
-      "cliente": "SERVENG",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::Banco de Dados",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-28T11:25:06",
-      "modificado": "2026-05-28T11:32:26",
-      "idade_dias": 0,
-      "assunto": "Pacote manutenção - UNO",
-      "escalation_time": 1780061106,
-      "escalation_response_time": 1780061106,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
