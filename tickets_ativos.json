@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779966861,
-  "generated_at_iso": "2026-05-28T11:14:21Z",
+  "generated_at": 1779966983,
+  "generated_at_iso": "2026-05-28T11:16:23Z",
   "count": 137,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000011",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Sergio Luiz Glovatinski Jr",
+      "criado": "2026-05-28T02:15:13",
+      "modificado": "2026-05-28T08:15:54",
+      "idade_dias": 0,
+      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory",
+      "escalation_time": 1779998400,
+      "escalation_response_time": 1779998400,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052726000513",
       "cli_id": "AUTOZONE",
@@ -635,29 +658,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000011",
-      "cli_id": "cloud-admin@ess.cloud.elastic.co",
-      "cliente": "cloud-admin@ess.cloud.elastic.co",
-      "fila": "GWMS",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-28T02:15:13",
-      "modificado": "2026-05-28T03:07:13",
-      "idade_dias": 0,
-      "assunto": "[Elasticsearch Service] We restarted a node in your cluster after it ran out of memory",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052826000021",
@@ -2717,7 +2717,7 @@
       "atendente": "Carlos Fernandes",
       "criado": "2025-11-11T08:15:07",
       "modificado": "2026-05-07T12:19:56",
-      "idade_dias": 197,
+      "idade_dias": 198,
       "assunto": "Re: DEVOLUÇÕES",
       "escalation_time": 0,
       "escalation_response_time": 0,
