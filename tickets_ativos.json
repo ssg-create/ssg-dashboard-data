@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780008737,
-  "generated_at_iso": "2026-05-28T22:52:17Z",
+  "generated_at": 1780008853,
+  "generated_at_iso": "2026-05-28T22:54:13Z",
   "count": 146,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000361",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-28T17:30:27",
+      "modificado": "2026-05-28T19:52:34",
+      "idade_dias": 0,
+      "assunto": "Contabilização Offiline",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000128",
       "cli_id": "SERVENG",
@@ -265,29 +288,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000361",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Contabilidade",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-28T17:30:27",
-      "modificado": "2026-05-28T17:36:08",
-      "idade_dias": 0,
-      "assunto": "Contabilização Offiline",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
