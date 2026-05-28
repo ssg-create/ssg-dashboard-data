@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779969739,
-  "generated_at_iso": "2026-05-28T12:02:19Z",
+  "generated_at": 1779969853,
+  "generated_at_iso": "2026-05-28T12:04:13Z",
   "count": 136,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052726000415",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "INFRAESTUTURA",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
+      "atendente": "Wiglas Reis",
+      "criado": "2026-05-27T16:55:18",
+      "modificado": "2026-05-28T09:02:25",
+      "idade_dias": 0,
+      "assunto": "Remover TAG desligamento do ambiente de homologação da AUTOZONE",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000057",
       "cli_id": "GroundWork",
@@ -840,29 +863,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052726000415",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "INFRAESTUTURA",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud",
-      "atendente": "Fabiano Souza",
-      "criado": "2026-05-27T16:55:18",
-      "modificado": "2026-05-27T21:05:40",
-      "idade_dias": 0,
-      "assunto": "Remover TAG desligamento do ambiente de homologação da AUTOZONE",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
