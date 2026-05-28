@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779984874,
-  "generated_at_iso": "2026-05-28T16:14:34Z",
+  "generated_at": 1779984996,
+  "generated_at_iso": "2026-05-28T16:16:36Z",
   "counts": {
     "crit": 1,
     "warn": 3,
@@ -50,13 +50,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Guilherme Jonck com carga real de 5 tickets",
-      "summary": "Guilherme Jonck tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Guilherme Jonck tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 0 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Guilherme Jonck",
           "carga_real": 5,
-          "em_atendimento": 0,
-          "abertos": 5,
+          "em_atendimento": 1,
+          "abertos": 4,
           "aguardando_terceiros": 0,
           "ativos_total": 5
         }
