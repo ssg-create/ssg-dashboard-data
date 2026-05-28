@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780007055,
-  "generated_at_iso": "2026-05-28T22:24:15Z",
+  "generated_at": 1780007181,
+  "generated_at_iso": "2026-05-28T22:26:21Z",
   "count": 146,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000128",
+      "cli_id": "SERVENG",
+      "cliente": "SERVENG",
+      "fila": "DBA",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Eduardo Candido",
+      "criado": "2026-05-28T11:55:09",
+      "modificado": "2026-05-28T19:25:11",
+      "idade_dias": 0,
+      "assunto": "ENC: Atualização QIVE - UNO",
+      "escalation_time": 1780062909,
+      "escalation_response_time": 1780062909,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000119",
       "cli_id": "SERVENG",
@@ -957,29 +980,6 @@
       "sla_first_response_min": null,
       "sla_update_min": null,
       "sla_solution_min": null
-    },
-    {
-      "ticket": "2026052826000128",
-      "cli_id": "SERVENG",
-      "cliente": "SERVENG",
-      "fila": "DBA",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::Banco de Dados",
-      "atendente": "Eduardo Candido",
-      "criado": "2026-05-28T11:55:09",
-      "modificado": "2026-05-28T11:58:55",
-      "idade_dias": 0,
-      "assunto": "ENC: Atualização QIVE - UNO",
-      "escalation_time": 1780062909,
-      "escalation_response_time": 1780062909,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
     },
     {
       "ticket": "2026032526000459",
