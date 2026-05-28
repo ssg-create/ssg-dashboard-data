@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779978637,
-  "generated_at_iso": "2026-05-28T14:30:37Z",
+  "generated_at": 1779978754,
+  "generated_at_iso": "2026-05-28T14:32:34Z",
   "counts": {
     "crit": 1,
-    "warn": 3,
+    "warn": 2,
     "ok": 0
   },
   "insights": [
@@ -30,35 +30,16 @@
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Weskley Silva com carga real de 5 tickets",
-      "summary": "Weskley Silva tem 5 tickets ativos sob sua responsabilidade: 5 em atendimento + 0 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Weskley Silva com carga real de 6 tickets",
+      "summary": "Weskley Silva tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Weskley Silva",
-          "carga_real": 5,
+          "carga_real": 6,
           "em_atendimento": 5,
-          "abertos": 0,
+          "abertos": 1,
           "aguardando_terceiros": 4,
-          "ativos_total": 9
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Eduardo_Candido",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Eduardo Candido com carga real de 5 tickets",
-      "summary": "Eduardo Candido tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 4 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Eduardo Candido",
-          "carga_real": 5,
-          "em_atendimento": 0,
-          "abertos": 5,
-          "aguardando_terceiros": 4,
-          "ativos_total": 9
+          "ativos_total": 10
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
