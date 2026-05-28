@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779982470,
-  "generated_at_iso": "2026-05-28T15:34:30Z",
+  "generated_at": 1779982581,
+  "generated_at_iso": "2026-05-28T15:36:21Z",
   "count": 133,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000101",
+      "cli_id": "FINPEC",
+      "cliente": "FINPEC",
+      "fila": "SSG",
+      "estado": "RETORNO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-05-28T10:45:20",
+      "modificado": "2026-05-28T12:35:16",
+      "idade_dias": 0,
+      "assunto": "Notas fiscais faltantes de saída 04/2026.",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000137",
       "cli_id": "PLASTIGLAS",
@@ -127,29 +150,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000101",
-      "cli_id": "FINPEC",
-      "cliente": "FINPEC",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-05-28T10:45:20",
-      "modificado": "2026-05-28T11:54:15",
-      "idade_dias": 0,
-      "assunto": "Notas fiscais faltantes de saída 04/2026.",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
