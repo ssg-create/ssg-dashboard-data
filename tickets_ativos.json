@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779994830,
-  "generated_at_iso": "2026-05-28T19:00:30Z",
+  "generated_at": 1779994945,
+  "generated_at_iso": "2026-05-28T19:02:25Z",
   "count": 145,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000342",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-28T16:00:23",
+      "modificado": "2026-05-28T16:01:59",
+      "idade_dias": 0,
+      "assunto": "RE: AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26052619401283",
+      "escalation_time": 1780077623,
+      "escalation_response_time": 1780077623,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000101",
       "cli_id": "FINPEC",
@@ -37,29 +60,6 @@
       "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000342",
-      "cli_id": "monitoramento-noc@groundwork.com.br",
-      "cliente": "monitoramento-noc@groundwork.com.br",
-      "fila": "NOC",
-      "estado": "NEW",
-      "prioridade": "3 normal",
-      "servico": "",
-      "atendente": "Admin OTRS",
-      "criado": "2026-05-28T16:00:23",
-      "modificado": "2026-05-28T16:00:28",
-      "idade_dias": 0,
-      "assunto": "RE: AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26052619401283",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": null,
-      "sla_name": null,
-      "sla_first_response_min": null,
-      "sla_update_min": null,
-      "sla_solution_min": null
     },
     {
       "ticket": "2026052826000333",
