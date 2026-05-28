@@ -1,6 +1,6 @@
 {
-  "generated_at": 1779996142,
-  "generated_at_iso": "2026-05-28T19:22:22Z",
+  "generated_at": 1779996258,
+  "generated_at_iso": "2026-05-28T19:24:18Z",
   "count": 144,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050526000171",
+      "cli_id": "COIFE ODONTO",
+      "cliente": "COIFE ODONTO",
+      "fila": "GWMS",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-05T10:05:11",
+      "modificado": "2026-05-28T16:22:40",
+      "idade_dias": 23,
+      "assunto": "RE: Coiban/Coife",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000101",
       "cli_id": "FINPEC",
@@ -1969,29 +1992,6 @@
       "sla_first_response_min": null,
       "sla_update_min": null,
       "sla_solution_min": null
-    },
-    {
-      "ticket": "2026050526000171",
-      "cli_id": "COIFE ODONTO",
-      "cliente": "COIFE ODONTO",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
-      "atendente": "Thiago Trufelli",
-      "criado": "2026-05-05T10:05:11",
-      "modificado": "2026-05-27T10:18:15",
-      "idade_dias": 23,
-      "assunto": "RE: Coiban/Coife",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
     },
     {
       "ticket": "2026052626000097",
