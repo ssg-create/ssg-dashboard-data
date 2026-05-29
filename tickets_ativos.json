@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780088659,
-  "generated_at_iso": "2026-05-29T21:04:19Z",
+  "generated_at": 1780088780,
+  "generated_at_iso": "2026-05-29T21:06:20Z",
   "count": 150,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052926000028",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::ERP Protheus",
+      "atendente": "Dyalef Abreu Santos",
+      "criado": "2026-05-29T09:00:11",
+      "modificado": "2026-05-29T18:05:00",
+      "idade_dias": 0,
+      "assunto": "Your message could not be delivered",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052526000115",
       "cli_id": "PECVAL",
@@ -1070,29 +1093,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052926000028",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "SSG",
-      "estado": "OPEN",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::ERP Protheus",
-      "atendente": "Dyalef Abreu Santos",
-      "criado": "2026-05-29T09:00:11",
-      "modificado": "2026-05-29T09:36:48",
-      "idade_dias": 0,
-      "assunto": "Your message could not be delivered",
-      "escalation_time": 1780311611,
-      "escalation_response_time": 1780311611,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
