@@ -1,9 +1,9 @@
 {
-  "generated_at": 1780059154,
-  "generated_at_iso": "2026-05-29T12:52:34Z",
+  "generated_at": 1780059271,
+  "generated_at_iso": "2026-05-29T12:54:31Z",
   "counts": {
     "crit": 1,
-    "warn": 2,
+    "warn": 1,
     "ok": 0
   },
   "insights": [
@@ -40,25 +40,6 @@
           "abertos": 1,
           "aguardando_terceiros": 4,
           "ativos_total": 10
-        }
-      ],
-      "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
-      "impact_estimate": "médio"
-    },
-    {
-      "id": "sobrecarga_Bruno_Fagundes",
-      "severity": "warn",
-      "category": "capacidade",
-      "title": "Bruno Fagundes com carga real de 5 tickets",
-      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 2 em atendimento + 3 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
-      "evidence": [
-        {
-          "atendente": "Bruno Fagundes",
-          "carga_real": 5,
-          "em_atendimento": 2,
-          "abertos": 3,
-          "aguardando_terceiros": 3,
-          "ativos_total": 8
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
