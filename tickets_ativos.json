@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780063460,
-  "generated_at_iso": "2026-05-29T14:04:20Z",
-  "count": 149,
+  "generated_at": 1780063584,
+  "generated_at_iso": "2026-05-29T14:06:24Z",
+  "count": 150,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052926000144",
+      "cli_id": "FADEL",
+      "cliente": "FADEL",
+      "fila": "INFRAESTUTURA",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::Infraestrutura e Cloud::VDI",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-29T11:05:57",
+      "modificado": "2026-05-29T11:05:59",
+      "idade_dias": 0,
+      "assunto": "ATIBUIÇÃO DE USUÁRIO",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052926000135",
       "cli_id": "TJBA",
@@ -1705,7 +1728,7 @@
       "atendente": "Bruno Fagundes",
       "criado": "2026-05-26T11:05:17",
       "modificado": "2026-05-28T17:23:28",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Inclusão Monitoramento - Servidor monitoramento",
       "escalation_time": 0,
       "escalation_response_time": 0,
