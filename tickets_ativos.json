@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780080023,
-  "generated_at_iso": "2026-05-29T18:40:23Z",
+  "generated_at": 1780080140,
+  "generated_at_iso": "2026-05-29T18:42:20Z",
   "count": 148,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000262",
+      "cli_id": "GDBR",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Robert Rodrigues dos Santos",
+      "criado": "2026-05-28T15:15:47",
+      "modificado": "2026-05-29T15:42:15",
+      "idade_dias": 1,
+      "assunto": "SIGAGPE :: ERRO NO EVENTO S1210",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052926000224",
       "cli_id": "AUTOZONE",
@@ -58,29 +81,6 @@
       "sla_id": 14,
       "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
       "sla_first_response_min": 480,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000262",
-      "cli_id": "GDBR",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Robert Rodrigues dos Santos",
-      "criado": "2026-05-28T15:15:47",
-      "modificado": "2026-05-29T15:30:05",
-      "idade_dias": 1,
-      "assunto": "SIGAGPE :: ERRO NO EVENTO S1210",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
