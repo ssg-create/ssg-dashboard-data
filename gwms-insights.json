@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780079194,
-  "generated_at_iso": "2026-05-29T18:26:34Z",
+  "generated_at": 1780079316,
+  "generated_at_iso": "2026-05-29T18:28:36Z",
   "counts": {
     "crit": 1,
     "warn": 1,
@@ -30,16 +30,16 @@
       "id": "sobrecarga_Weskley_Silva",
       "severity": "warn",
       "category": "capacidade",
-      "title": "Weskley Silva com carga real de 6 tickets",
-      "summary": "Weskley Silva tem 6 tickets ativos sob sua responsabilidade: 5 em atendimento + 1 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Weskley Silva com carga real de 7 tickets",
+      "summary": "Weskley Silva tem 7 tickets ativos sob sua responsabilidade: 5 em atendimento + 2 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Weskley Silva",
-          "carga_real": 6,
+          "carga_real": 7,
           "em_atendimento": 5,
-          "abertos": 1,
+          "abertos": 2,
           "aguardando_terceiros": 3,
-          "ativos_total": 9
+          "ativos_total": 10
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
