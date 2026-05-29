@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T13:34:34.747928",
+  "generated_at": "2026-05-29T13:38:38.211886",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>79 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 96.5h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
+    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>81 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 96.5h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
     "kpis": [
       {
         "label": "Score Operacional",
@@ -52,7 +52,7 @@
     },
     {
       "titulo": "Volume crítico de chamados bloqueados",
-      "desc": "79 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
+      "desc": "81 chamados parados aguardando resposta ou ação interna. Representa gargalo operacional que impede o fechamento do backlog.",
       "nivel": "high",
       "confianca": 92
     },
