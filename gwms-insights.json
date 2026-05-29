@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780093713,
-  "generated_at_iso": "2026-05-29T22:28:33Z",
+  "generated_at": 1780093835,
+  "generated_at_iso": "2026-05-29T22:30:35Z",
   "counts": {
     "crit": 1,
     "warn": 2,
@@ -12,13 +12,13 @@
       "severity": "crit",
       "category": "capacidade",
       "title": "Jean Pierre Rocha com carga real de 12 tickets",
-      "summary": "Jean Pierre Rocha tem 12 tickets ativos sob sua responsabilidade: 5 em atendimento + 7 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Jean Pierre Rocha tem 12 tickets ativos sob sua responsabilidade: 6 em atendimento + 6 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Jean Pierre Rocha",
           "carga_real": 12,
-          "em_atendimento": 5,
-          "abertos": 7,
+          "em_atendimento": 6,
+          "abertos": 6,
           "aguardando_terceiros": 1,
           "ativos_total": 13
         }
