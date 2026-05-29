@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780056394,
-  "generated_at_iso": "2026-05-29T12:06:34Z",
+  "generated_at": 1780056512,
+  "generated_at_iso": "2026-05-29T12:08:32Z",
   "counts": {
     "crit": 1,
     "warn": 3,
@@ -50,13 +50,13 @@
       "severity": "warn",
       "category": "capacidade",
       "title": "Bruno Fagundes com carga real de 5 tickets",
-      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 1 em atendimento + 4 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "summary": "Bruno Fagundes tem 5 tickets ativos sob sua responsabilidade: 0 em atendimento + 5 abertos (além de 3 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Bruno Fagundes",
           "carga_real": 5,
-          "em_atendimento": 1,
-          "abertos": 4,
+          "em_atendimento": 0,
+          "abertos": 5,
           "aguardando_terceiros": 3,
           "ativos_total": 8
         }
