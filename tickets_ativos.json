@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780060828,
-  "generated_at_iso": "2026-05-29T13:20:28Z",
+  "generated_at": 1780060939,
+  "generated_at_iso": "2026-05-29T13:22:19Z",
   "count": 147,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000208",
+      "cli_id": "NSX",
+      "cliente": "NSX",
+      "fila": "PROTHEUS",
+      "estado": "OPEN",
+      "prioridade": "5 very high",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Compras",
+      "atendente": "Tiago Silva",
+      "criado": "2026-05-28T14:39:52",
+      "modificado": "2026-05-29T10:22:13",
+      "idade_dias": 0,
+      "assunto": "Treinamento de cotação de compras",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 12,
+      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
+      "sla_first_response_min": 60,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052926000108",
       "cli_id": "william.izidre@arcoeducacao.com.br",
@@ -1760,29 +1783,6 @@
       "sla_id": 13,
       "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
       "sla_first_response_min": 1440,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000208",
-      "cli_id": "NSX",
-      "cliente": "NSX",
-      "fila": "PROTHEUS",
-      "estado": "OPEN",
-      "prioridade": "5 very high",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus::Compras",
-      "atendente": "Geyson Albano",
-      "criado": "2026-05-28T14:39:52",
-      "modificado": "2026-05-28T14:59:01",
-      "idade_dias": 0,
-      "assunto": "Treinamento de cotação de compras",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 12,
-      "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
-      "sla_first_response_min": 60,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
