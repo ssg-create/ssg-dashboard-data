@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780020139,
-  "generated_at_iso": "2026-05-29T02:02:19Z",
+  "generated_at": 1780020260,
+  "generated_at_iso": "2026-05-29T02:04:20Z",
   "count": 147,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000342",
+      "cli_id": "AUTOZONE",
+      "cliente": "AUTOZONE",
+      "fila": "DBA",
+      "estado": "OPEN",
+      "prioridade": "3 normal",
+      "servico": "Banco de Horas::Banco de Dados",
+      "atendente": "Bruno Montenegro",
+      "criado": "2026-05-28T16:00:23",
+      "modificado": "2026-05-28T23:03:52",
+      "idade_dias": 0,
+      "assunto": "RE: AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26052619401283",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000253",
       "cli_id": "GDBR",
@@ -403,29 +426,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000342",
-      "cli_id": "AUTOZONE",
-      "cliente": "AUTOZONE",
-      "fila": "DBA",
-      "estado": "RETORNO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Banco de Horas::Banco de Dados",
-      "atendente": "Bruno Montenegro",
-      "criado": "2026-05-28T16:00:23",
-      "modificado": "2026-05-28T17:15:14",
-      "idade_dias": 0,
-      "assunto": "RE: AUTOZONE - SRV-SQL-PRD - SQL:Blocked Sessions - 26052619401283",
-      "escalation_time": 1780077623,
-      "escalation_response_time": 1780077623,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
