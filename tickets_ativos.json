@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780054827,
-  "generated_at_iso": "2026-05-29T11:40:27Z",
+  "generated_at": 1780054937,
+  "generated_at_iso": "2026-05-29T11:42:17Z",
   "count": 144,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000299",
+      "cli_id": "TOTVS",
+      "cliente": "TOTVS",
+      "fila": "GWMS",
+      "estado": "OPEN",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)",
+      "atendente": "Thiago Trufelli",
+      "criado": "2026-05-28T15:40:19",
+      "modificado": "2026-05-29T08:41:04",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - Mudança no LISTENER monitorado",
+      "escalation_time": 1780411219,
+      "escalation_response_time": 1780411219,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052826000226",
       "cli_id": "TJBA (TELETEX)",
@@ -1438,29 +1461,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000299",
-      "cli_id": "TOTVS",
-      "cliente": "TOTVS",
-      "fila": "GWMS",
-      "estado": "OPEN",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)",
-      "atendente": "Marcio Guimaraes",
-      "criado": "2026-05-28T15:40:19",
-      "modificado": "2026-05-28T15:44:52",
-      "idade_dias": 0,
-      "assunto": "#TOTVS-SERVERS - Mudança no LISTENER monitorado",
-      "escalation_time": 1780411219,
-      "escalation_response_time": 1780411219,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
