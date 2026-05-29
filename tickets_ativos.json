@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780060699,
-  "generated_at_iso": "2026-05-29T13:18:19Z",
-  "count": 146,
+  "generated_at": 1780060828,
+  "generated_at_iso": "2026-05-29T13:20:28Z",
+  "count": 147,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052926000108",
+      "cli_id": "william.izidre@arcoeducacao.com.br",
+      "cliente": "william.izidre@arcoeducacao.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-29T10:20:21",
+      "modificado": "2026-05-29T10:20:24",
+      "idade_dias": 0,
+      "assunto": "Ajuste Servidor - Monitoramento Arco",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052926000082",
       "cli_id": "servicedesk@teletex.com",
@@ -2740,7 +2763,7 @@
       "atendente": "Sergio Luiz Glovatinski Jr",
       "criado": "2026-05-19T10:20:11",
       "modificado": "2026-05-20T14:32:46",
-      "idade_dias": 9,
+      "idade_dias": 10,
       "assunto": "Cliente Fadel -  Efetuar a instalação do ELK",
       "escalation_time": 0,
       "escalation_response_time": 0,
