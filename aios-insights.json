@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T22:30:36.387385",
+  "generated_at": "2026-05-29T22:32:29.490986",
   "periodo": "2026-05",
   "version": "1.0",
   "resumo_gestao": {
-    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>78 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 96.4h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
+    "narrativa": "A taxa de conclusão está em <strong>55%</strong>, abaixo do esperado — requer atenção imediata.<br><br>O volume de <strong>78 chamados bloqueados</strong> está crítico e exige triagem imediata.<br><br>A <strong>primeira resposta (54.0 min)</strong> está acima da meta de 30 min, mas controlável.<br><br>O tempo médio de <strong>solução de 96.5h</strong> é elevado — revisar os chamados mais antigos deve ser prioridade.<br><br>O pico de volume ocorre na <strong>terça-feira às 9h</strong> — dimensionar equipe para esse intervalo pode reduzir o SLA médio.",
     "kpis": [
       {
         "label": "Score Operacional",
@@ -31,7 +31,7 @@
       }
     ],
     "risco_principal": {
-      "label": "37 chamados +30 dias",
+      "label": "36 chamados +30 dias",
       "desc": "Chamados críticos sem resolução"
     },
     "oportunidade": {
@@ -57,7 +57,7 @@
       "confianca": 92
     },
     {
-      "titulo": "37 chamados abertos há mais de 30 dias",
+      "titulo": "36 chamados abertos há mais de 30 dias",
       "desc": "Chamados com aging superior a 30 dias representam risco de escalonamento pelo cliente e impacto direto no health score da conta.",
       "nivel": "high",
       "confianca": 95
