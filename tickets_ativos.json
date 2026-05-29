@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780083860,
-  "generated_at_iso": "2026-05-29T19:44:20Z",
-  "count": 151,
+  "generated_at": 1780083980,
+  "generated_at_iso": "2026-05-29T19:46:20Z",
+  "count": 152,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052926000288",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-29T16:45:14",
+      "modificado": "2026-05-29T16:45:16",
+      "idade_dias": 0,
+      "assunto": "GROUNDWORK - GROUNDWORK_Centreon-Server - Check Services Perfdata Size - 26052916415654",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052726000415",
       "cli_id": "AUTOZONE",
@@ -417,7 +440,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-05-20T16:45:09",
       "modificado": "2026-05-29T15:07:34",
-      "idade_dias": 8,
+      "idade_dias": 9,
       "assunto": "Criação de Dashboard de BAM GWMS - Cliente DIGNA",
       "escalation_time": 0,
       "escalation_response_time": 0,
