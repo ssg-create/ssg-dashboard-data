@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780065986,
-  "generated_at_iso": "2026-05-29T14:46:26Z",
+  "generated_at": 1780066103,
+  "generated_at_iso": "2026-05-29T14:48:23Z",
   "count": 150,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026052826000379",
+      "cli_id": "GDBR",
+      "cliente": "GDBR",
+      "fila": "SSG",
+      "estado": "AGUARDANDO CLIENTE",
+      "prioridade": "3 normal",
+      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
+      "atendente": "Cristiano Scaranci",
+      "criado": "2026-05-28T17:45:01",
+      "modificado": "2026-05-29T11:48:19",
+      "idade_dias": 0,
+      "assunto": "SIGACTB :: MOD com valores negativos",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 14,
+      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
+      "sla_first_response_min": 480,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052626000202",
       "cli_id": "AUTOZONE",
@@ -35,29 +58,6 @@
       "sla_id": 12,
       "sla_name": "SLA - CRITICIDADE MUITO ALTO - 1H",
       "sla_first_response_min": 60,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026052826000379",
-      "cli_id": "GDBR",
-      "cliente": "GDBR",
-      "fila": "SSG",
-      "estado": "AGUARDANDO CLIENTE",
-      "prioridade": "3 normal",
-      "servico": "Serviço de Sustentação Groundwork::ERP Protheus",
-      "atendente": "Cristiano Scaranci",
-      "criado": "2026-05-28T17:45:01",
-      "modificado": "2026-05-29T11:38:57",
-      "idade_dias": 0,
-      "assunto": "SIGACTB :: MOD com valores negativos",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 14,
-      "sla_name": "SLA - CRITICIDADE NORMAL - 8H",
-      "sla_first_response_min": 480,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
