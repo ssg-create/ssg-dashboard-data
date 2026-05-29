@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780065144,
-  "generated_at_iso": "2026-05-29T14:32:24Z",
+  "generated_at": 1780065265,
+  "generated_at_iso": "2026-05-29T14:34:25Z",
   "count": 149,
   "filas": [
     "DATASUL",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026050626000142",
+      "cli_id": "GroundWork",
+      "cliente": "GroundWork",
+      "fila": "GWMS",
+      "estado": "EM ATENDIMENTO",
+      "prioridade": "1 very low",
+      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
+      "atendente": "Luciano Katsumi Shiraishi",
+      "criado": "2026-05-06T09:40:18",
+      "modificado": "2026-05-29T11:33:04",
+      "idade_dias": 23,
+      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": 13,
+      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
+      "sla_first_response_min": 1440,
+      "sla_update_min": 0,
+      "sla_solution_min": 0
+    },
     {
       "ticket": "2026052926000144",
       "cli_id": "FADEL",
@@ -2956,29 +2979,6 @@
       "sla_id": 10,
       "sla_name": "SLA - CRITICIDADE ALTO - 4H",
       "sla_first_response_min": 240,
-      "sla_update_min": 0,
-      "sla_solution_min": 0
-    },
-    {
-      "ticket": "2026050626000142",
-      "cli_id": "GroundWork",
-      "cliente": "GroundWork",
-      "fila": "GWMS",
-      "estado": "AGUARDANDO ATENDENTE (INTERNO)",
-      "prioridade": "1 very low",
-      "servico": "Monitoramento & Observabilidade (GWMS)::Melhorias",
-      "atendente": "Luciano Katsumi Shiraishi",
-      "criado": "2026-05-06T09:40:18",
-      "modificado": "2026-05-15T10:39:20",
-      "idade_dias": 23,
-      "assunto": "Implantação GWMS Cliente - OZ Minerals (POC)",
-      "escalation_time": 0,
-      "escalation_response_time": 0,
-      "escalation_update_time": 0,
-      "escalation_solution_time": 0,
-      "sla_id": 13,
-      "sla_name": "SLA - CRITICIDADE MUITO BAIXO - 24H",
-      "sla_first_response_min": 1440,
       "sla_update_min": 0,
       "sla_solution_min": 0
     },
