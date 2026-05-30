@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780120095,
-  "generated_at_iso": "2026-05-30T05:48:15Z",
-  "count": 145,
+  "generated_at": 1780120224,
+  "generated_at_iso": "2026-05-30T05:50:24Z",
+  "count": 146,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026053026000025",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-30T02:50:14",
+      "modificado": "2026-05-30T02:50:17",
+      "idade_dias": 0,
+      "assunto": "#TOTVS-SERVERS - SP_MON-CENT01 - Check Core Services - 26053002452417",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026053026000016",
       "cli_id": "monitoramento@groundwork.com.br",
