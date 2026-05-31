@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780232295,
-  "generated_at_iso": "2026-05-31T12:58:15Z",
-  "count": 151,
+  "generated_at": 1780232425,
+  "generated_at_iso": "2026-05-31T13:00:25Z",
+  "count": 152,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026053126000078",
+      "cli_id": "monitoramento@groundwork.com.br",
+      "cliente": "monitoramento@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-05-31T10:00:17",
+      "modificado": "2026-05-31T10:00:19",
+      "idade_dias": 0,
+      "assunto": "ARCO - URLS_ARCO - COC - 26053109524193",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026052726000415",
       "cli_id": "AUTOZONE",
@@ -1084,7 +1107,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-05-28T10:00:14",
       "modificado": "2026-05-31T05:00:09",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Your message could not be delivered",
       "escalation_time": 0,
       "escalation_response_time": 0,
@@ -2579,7 +2602,7 @@
       "atendente": "Guilherme Jonck",
       "criado": "2026-04-22T10:00:21",
       "modificado": "2026-05-25T15:49:25",
-      "idade_dias": 38,
+      "idade_dias": 39,
       "assunto": "Desenvolvimento do gw/v2",
       "escalation_time": 0,
       "escalation_response_time": 0,
