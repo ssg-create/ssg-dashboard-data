@@ -1,7 +1,7 @@
 {
-  "generated_at": 1780315100,
-  "generated_at_iso": "2026-06-01T11:58:20Z",
-  "count": 134,
+  "generated_at": 1780315228,
+  "generated_at_iso": "2026-06-01T12:00:28Z",
+  "count": 135,
   "filas": [
     "DATASUL",
     "DBA",
@@ -15,6 +15,29 @@
     "TECNOLOGIA"
   ],
   "rows": [
+    {
+      "ticket": "2026060126000033",
+      "cli_id": "vinicius.vedove@groundwork.com.br",
+      "cliente": "vinicius.vedove@groundwork.com.br",
+      "fila": "NOC",
+      "estado": "NEW",
+      "prioridade": "3 normal",
+      "servico": "",
+      "atendente": "Admin OTRS",
+      "criado": "2026-06-01T09:00:18",
+      "modificado": "2026-06-01T09:00:20",
+      "idade_dias": 0,
+      "assunto": "Cliente Fadel -  Remover do Monitoramento",
+      "escalation_time": 0,
+      "escalation_response_time": 0,
+      "escalation_update_time": 0,
+      "escalation_solution_time": 0,
+      "sla_id": null,
+      "sla_name": null,
+      "sla_first_response_min": null,
+      "sla_update_min": null,
+      "sla_solution_min": null
+    },
     {
       "ticket": "2026053126000078",
       "cli_id": "ARCO",
@@ -302,7 +325,7 @@
       "atendente": "Dyalef Abreu Santos",
       "criado": "2026-05-29T09:00:11",
       "modificado": "2026-06-01T05:00:11",
-      "idade_dias": 2,
+      "idade_dias": 3,
       "assunto": "Your message could not be delivered",
       "escalation_time": 0,
       "escalation_response_time": 0,
