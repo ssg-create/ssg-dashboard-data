@@ -1,6 +1,6 @@
 {
-  "generated_at": 1780312594,
-  "generated_at_iso": "2026-06-01T11:16:34Z",
+  "generated_at": 1780312708,
+  "generated_at_iso": "2026-06-01T11:18:28Z",
   "counts": {
     "crit": 2,
     "warn": 3,
@@ -11,16 +11,16 @@
       "id": "sobrecarga_Marcio_Guimaraes",
       "severity": "crit",
       "category": "capacidade",
-      "title": "Marcio Guimaraes com carga real de 17 tickets",
-      "summary": "Marcio Guimaraes tem 17 tickets ativos sob sua responsabilidade: 0 em atendimento + 17 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
+      "title": "Marcio Guimaraes com carga real de 18 tickets",
+      "summary": "Marcio Guimaraes tem 18 tickets ativos sob sua responsabilidade: 0 em atendimento + 18 abertos (além de 1 aguardando terceiros, que não consomem capacidade). Avaliar se há gargalo ou se é volume esperado para o atendente.",
       "evidence": [
         {
           "atendente": "Marcio Guimaraes",
-          "carga_real": 17,
+          "carga_real": 18,
           "em_atendimento": 0,
-          "abertos": 17,
+          "abertos": 18,
           "aguardando_terceiros": 1,
-          "ativos_total": 18
+          "ativos_total": 19
         }
       ],
       "recommendation": "Revisar prioridades com o atendente. Se mantido o volume, considerar redistribuição — mas atribuição depende de skill/fila (não sugiro automaticamente para evitar erro de matching).",
